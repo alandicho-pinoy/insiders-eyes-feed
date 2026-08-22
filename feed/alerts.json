@@ -1,0 +1,138 @@
+{
+ "generatedAt": "2026-08-22T18:35:59.385710+00:00",
+ "count": 8,
+ "alerts": [
+  {
+   "key": "INV:buy",
+   "headline": "INV: 4 insiders bought $807,794 \u2014 0.61% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "0.26% of the whole company",
+    "4 insiders buying",
+    "0.25% of the whole company"
+   ],
+   "insiders": [
+    "Brown Bruce",
+    "Donnally James O",
+    "Haskell Gregory W",
+    "Otworth Michael"
+   ],
+   "totalValue": 807794.1,
+   "ticker": "INV",
+   "side": "buy"
+  },
+  {
+   "key": "LIEN:buy",
+   "headline": "LIEN: 4 insiders bought $1.0M \u2014 0.45% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "0.25% of the whole company",
+    "4 insiders buying",
+    "0.18% of the whole company"
+   ],
+   "insiders": [
+    "Fazio Gianni James Lezziere",
+    "Gordon Scott",
+    "Mahajan Umesh",
+    "Mazarakis John"
+   ],
+   "totalValue": 1027517.36,
+   "ticker": "LIEN",
+   "side": "buy"
+  },
+  {
+   "key": "REFI:buy",
+   "headline": "REFI: 3 insiders bought $776,770 \u2014 0.28% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "0.17% of the whole company"
+   ],
+   "insiders": [
+    "Cappell Anthony",
+    "Mazarakis John",
+    "Sack Peter"
+   ],
+   "totalValue": 776770.0,
+   "ticker": "REFI",
+   "side": "buy"
+  },
+  {
+   "key": "GWRS:buy",
+   "headline": "GWRS: 2 insiders bought $7.0M \u2014 2.74% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "2.26% of the whole company",
+    "now owns 44.4% of the company",
+    "0.48% of the whole company"
+   ],
+   "insiders": [
+    "Cohn Andrew M.",
+    "Levine Jonathan L"
+   ],
+   "totalValue": 7000004.85,
+   "ticker": "GWRS",
+   "side": "buy"
+  },
+  {
+   "key": "AIAI:buy",
+   "headline": "AIAI: 3 insiders bought $40,196 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Affeldt Eric",
+    "Furniss Todd Anthony",
+    "Remy Donald Michael"
+   ],
+   "totalValue": 40196.0,
+   "ticker": "AIAI",
+   "side": "buy"
+  },
+  {
+   "key": "COE:buy",
+   "headline": "COE: Huang Jack Jiajia (Chief Executive Officer) bought $3.9M \u2014 3.82% of the company",
+   "reasons": [
+    "3.10% of the whole company",
+    "$3.2M from the Chief Executive Officer",
+    "0.72% of the whole company"
+   ],
+   "insiders": [
+    "Huang Jack Jiajia"
+   ],
+   "totalValue": 3932015.4,
+   "ticker": "COE",
+   "side": "buy"
+  },
+  {
+   "key": "ZNTL:buy",
+   "headline": "ZNTL: Walters Group (10% owner) bought $15.2M \u2014 4.19% of the whole company (institution)",
+   "reasons": [
+    "4.19% of the whole company (institution)"
+   ],
+   "insiders": [
+    "WALTERS GROUP"
+   ],
+   "totalValue": 15172500.0,
+   "ticker": "ZNTL",
+   "side": "buy"
+  },
+  {
+   "key": "IAUX:buy",
+   "headline": "IAUX: 2 insiders bought $1.6M \u2014 0.10% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.10% of the whole company",
+    "$1.6M from the President and CEO"
+   ],
+   "insiders": [
+    "Savarie David Roger",
+    "Young Richard Scott"
+   ],
+   "totalValue": 1627274.25,
+   "ticker": "IAUX",
+   "side": "buy"
+  }
+ ]
+}
