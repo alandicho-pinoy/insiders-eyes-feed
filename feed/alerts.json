@@ -1,113 +1,137 @@
 {
- "generatedAt": "2026-08-22T23:13:47.333648+00:00",
+ "generatedAt": "2026-08-22T23:16:09.997053+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "KEEL:buy",
-   "headline": "KEEL: 2 insiders bought $229,496 \u2014 0.01% of the company",
+   "key": "INV:buy",
+   "headline": "INV: 4 insiders bought $807,794 \u2014 0.61% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "0.26% of the whole company",
+    "4 insiders buying",
+    "0.25% of the whole company"
+   ],
+   "insiders": [
+    "Brown Bruce",
+    "Donnally James O",
+    "Haskell Gregory W",
+    "Otworth Michael"
+   ],
+   "totalValue": 807794.1,
+   "ticker": "INV",
+   "side": "buy"
+  },
+  {
+   "key": "LIEN:buy",
+   "headline": "LIEN: 4 insiders bought $1.0M \u2014 0.45% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "0.25% of the whole company",
+    "4 insiders buying",
+    "0.18% of the whole company"
+   ],
+   "insiders": [
+    "Fazio Gianni James Lezziere",
+    "Gordon Scott",
+    "Mahajan Umesh",
+    "Mazarakis John"
+   ],
+   "totalValue": 1027517.36,
+   "ticker": "LIEN",
+   "side": "buy"
+  },
+  {
+   "key": "REFI:buy",
+   "headline": "REFI: 3 insiders bought $776,770 \u2014 0.28% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "0.17% of the whole company"
+   ],
+   "insiders": [
+    "Cappell Anthony",
+    "Mazarakis John",
+    "Sack Peter"
+   ],
+   "totalValue": 776770.0,
+   "ticker": "REFI",
+   "side": "buy"
+  },
+  {
+   "key": "GWRS:buy",
+   "headline": "GWRS: 2 insiders bought $7.0M \u2014 2.74% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 44%"
+    "2.26% of the whole company",
+    "now owns 44.4% of the company",
+    "0.48% of the whole company"
    ],
    "insiders": [
-    "Gagnon Benjamin",
-    "WILSON LIAM DANIEL"
+    "Cohn Andrew M.",
+    "Levine Jonathan L"
    ],
-   "totalValue": 229496.29,
-   "ticker": "KEEL",
+   "totalValue": 7000004.85,
+   "ticker": "GWRS",
    "side": "buy"
   },
   {
-   "key": "JEF:buy",
-   "headline": "JEF: Sumitomo Mitsui Financial Group, Inc. (director) bought $324.0M \u2014 2.69% of the whole company (institution)",
+   "key": "AIAI:buy",
+   "headline": "AIAI: 3 insiders bought $40,196 \u2014 0.01% of the company",
    "reasons": [
-    "2.69% of the whole company (institution)"
+    "3 insiders bought within days",
+    "3 insiders buying"
    ],
    "insiders": [
-    "SUMITOMO MITSUI FINANCIAL GROUP, INC."
+    "Affeldt Eric",
+    "Furniss Todd Anthony",
+    "Remy Donald Michael"
    ],
-   "totalValue": 324032894.12,
-   "ticker": "JEF",
+   "totalValue": 40196.0,
+   "ticker": "AIAI",
    "side": "buy"
   },
   {
-   "key": "FGBI:buy",
-   "headline": "FGBI: Walker Robert W (director) bought $68,850 \u2014 grew their own stake 225%",
+   "key": "COE:buy",
+   "headline": "COE: Huang Jack Jiajia (Chief Executive Officer) bought $3.9M \u2014 3.82% of the company",
    "reasons": [
-    "grew their own stake 225%"
+    "3.10% of the whole company",
+    "$3.2M from the Chief Executive Officer",
+    "0.72% of the whole company"
    ],
    "insiders": [
-    "WALKER ROBERT W"
+    "Huang Jack Jiajia"
    ],
-   "totalValue": 68849.76,
-   "ticker": "FGBI",
+   "totalValue": 3932015.4,
+   "ticker": "COE",
    "side": "buy"
   },
   {
-   "key": "TBLD:buy",
-   "headline": "TBLD: Kritzmire Anne W. (insider) bought $76,368 \u2014 grew their own stake 246%",
+   "key": "ZNTL:buy",
+   "headline": "ZNTL: Walters Group (10% owner) bought $15.2M \u2014 4.19% of the whole company (institution)",
    "reasons": [
-    "grew their own stake 246%"
+    "4.19% of the whole company (institution)"
    ],
    "insiders": [
-    "Kritzmire Anne W."
+    "WALTERS GROUP"
    ],
-   "totalValue": 76368.0,
-   "ticker": "TBLD",
+   "totalValue": 15172500.0,
+   "ticker": "ZNTL",
    "side": "buy"
   },
   {
-   "key": "SUJA:buy",
-   "headline": "SUJA: Paine Schwartz Food Chain Fund V Gp, Ltd. (10% owner) bought $4.1M \u2014 2.22% of the whole company (institution)",
+   "key": "IAUX:buy",
+   "headline": "IAUX: 2 insiders bought $1.6M \u2014 0.10% of the company",
    "reasons": [
-    "2.22% of the whole company (institution)"
+    "2 insiders bought within days",
+    "0.10% of the whole company",
+    "$1.6M from the President and CEO"
    ],
    "insiders": [
-    "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD."
+    "Savarie David Roger",
+    "Young Richard Scott"
    ],
-   "totalValue": 4064271.0,
-   "ticker": "SUJA",
-   "side": "buy"
-  },
-  {
-   "key": "CLPR:buy",
-   "headline": "CLPR: Levinson Sam (director) bought $310,591 \u2014 0.59% of the whole company",
-   "reasons": [
-    "0.59% of the whole company",
-    "grew their own stake 64%"
-   ],
-   "insiders": [
-    "Levinson Sam"
-   ],
-   "totalValue": 310591.3755,
-   "ticker": "CLPR",
-   "side": "buy"
-  },
-  {
-   "key": "BKKT:buy",
-   "headline": "BKKT: Alfred Michael (director) bought $2.1M \u2014 0.55% of the whole company",
-   "reasons": [
-    "0.55% of the whole company",
-    "grew their own stake 33%"
-   ],
-   "insiders": [
-    "ALFRED MICHAEL"
-   ],
-   "totalValue": 2111557.04,
-   "ticker": "BKKT",
-   "side": "buy"
-  },
-  {
-   "key": "DFDV:buy",
-   "headline": "DFDV: Kang Daniel (Chief Strategy Officer) bought $42,680 \u2014 grew their own stake 153%",
-   "reasons": [
-    "grew their own stake 153%"
-   ],
-   "insiders": [
-    "Kang Daniel"
-   ],
-   "totalValue": 42680.0,
-   "ticker": "DFDV",
+   "totalValue": 1627274.25,
+   "ticker": "IAUX",
    "side": "buy"
   }
  ]
