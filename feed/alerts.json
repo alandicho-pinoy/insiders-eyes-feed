@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22T23:16:09.997053+00:00",
+ "generatedAt": "2026-08-24T06:03:24.481611+00:00",
  "count": 8,
  "alerts": [
   {
@@ -22,42 +22,6 @@
    "side": "buy"
   },
   {
-   "key": "LIEN:buy",
-   "headline": "LIEN: 4 insiders bought $1.0M \u2014 0.45% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "0.25% of the whole company",
-    "4 insiders buying",
-    "0.18% of the whole company"
-   ],
-   "insiders": [
-    "Fazio Gianni James Lezziere",
-    "Gordon Scott",
-    "Mahajan Umesh",
-    "Mazarakis John"
-   ],
-   "totalValue": 1027517.36,
-   "ticker": "LIEN",
-   "side": "buy"
-  },
-  {
-   "key": "REFI:buy",
-   "headline": "REFI: 3 insiders bought $776,770 \u2014 0.28% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "0.17% of the whole company"
-   ],
-   "insiders": [
-    "Cappell Anthony",
-    "Mazarakis John",
-    "Sack Peter"
-   ],
-   "totalValue": 776770.0,
-   "ticker": "REFI",
-   "side": "buy"
-  },
-  {
    "key": "GWRS:buy",
    "headline": "GWRS: 2 insiders bought $7.0M \u2014 2.74% of the company",
    "reasons": [
@@ -72,22 +36,6 @@
    ],
    "totalValue": 7000004.85,
    "ticker": "GWRS",
-   "side": "buy"
-  },
-  {
-   "key": "AIAI:buy",
-   "headline": "AIAI: 3 insiders bought $40,196 \u2014 0.01% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Affeldt Eric",
-    "Furniss Todd Anthony",
-    "Remy Donald Michael"
-   ],
-   "totalValue": 40196.0,
-   "ticker": "AIAI",
    "side": "buy"
   },
   {
@@ -106,19 +54,6 @@
    "side": "buy"
   },
   {
-   "key": "ZNTL:buy",
-   "headline": "ZNTL: Walters Group (10% owner) bought $15.2M \u2014 4.19% of the whole company (institution)",
-   "reasons": [
-    "4.19% of the whole company (institution)"
-   ],
-   "insiders": [
-    "WALTERS GROUP"
-   ],
-   "totalValue": 15172500.0,
-   "ticker": "ZNTL",
-   "side": "buy"
-  },
-  {
    "key": "IAUX:buy",
    "headline": "IAUX: 2 insiders bought $1.6M \u2014 0.10% of the company",
    "reasons": [
@@ -132,6 +67,60 @@
    ],
    "totalValue": 1627274.25,
    "ticker": "IAUX",
+   "side": "buy"
+  },
+  {
+   "key": "KEEL:buy",
+   "headline": "KEEL: 2 insiders bought $229,496 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 44%"
+   ],
+   "insiders": [
+    "Gagnon Benjamin",
+    "WILSON LIAM DANIEL"
+   ],
+   "totalValue": 229496.29,
+   "ticker": "KEEL",
+   "side": "buy"
+  },
+  {
+   "key": "JEF:buy",
+   "headline": "JEF: Sumitomo Mitsui Financial Group, Inc. (director) bought $324.0M \u2014 2.69% of the whole company (institution)",
+   "reasons": [
+    "2.69% of the whole company (institution)"
+   ],
+   "insiders": [
+    "SUMITOMO MITSUI FINANCIAL GROUP, INC."
+   ],
+   "totalValue": 324032894.12,
+   "ticker": "JEF",
+   "side": "buy"
+  },
+  {
+   "key": "FGBI:buy",
+   "headline": "FGBI: Walker Robert W (director) bought $68,850 \u2014 grew their own stake 225%",
+   "reasons": [
+    "grew their own stake 225%"
+   ],
+   "insiders": [
+    "WALKER ROBERT W"
+   ],
+   "totalValue": 68849.76,
+   "ticker": "FGBI",
+   "side": "buy"
+  },
+  {
+   "key": "SUJA:buy",
+   "headline": "SUJA: Paine Schwartz Food Chain Fund V Gp, Ltd. (10% owner) bought $4.1M \u2014 2.22% of the whole company (institution)",
+   "reasons": [
+    "2.22% of the whole company (institution)"
+   ],
+   "insiders": [
+    "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD."
+   ],
+   "totalValue": 4064271.0,
+   "ticker": "SUJA",
    "side": "buy"
   }
  ]

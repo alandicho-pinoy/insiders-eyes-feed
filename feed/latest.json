@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-08-22T23:16:09.997053+00:00",
+ "generatedAt": "2026-08-24T06:03:24.481611+00:00",
  "count": 400,
- "totalEvents": 818,
+ "totalEvents": 534,
  "events": [
   {
    "ticker": "JEF",
@@ -23,6 +23,7 @@
    "deltaOwn": 222.064059,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -44,7 +45,8 @@
    "stakeOwned": 0.449339,
    "deltaOwn": -41.194945,
    "newPosition": false,
-   "clusterSize": 5,
+   "clusterSize": 3,
+   "clusterValue": 165432750.75,
    "clusterFamily": false
   },
   {
@@ -67,6 +69,7 @@
    "deltaOwn": -24.719737,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 145754238.25,
    "clusterFamily": false
   },
   {
@@ -89,6 +92,7 @@
    "deltaOwn": -20.226881,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -111,6 +115,7 @@
    "deltaOwn": -15.101225,
    "newPosition": false,
    "clusterSize": 8,
+   "clusterValue": 34311504.1936,
    "clusterFamily": false
   },
   {
@@ -132,29 +137,8 @@
    "stakeOwned": 0.028244,
    "deltaOwn": -49.60843,
    "newPosition": false,
-   "clusterSize": 4,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "CRWV",
-   "issuer": "CoreWeave, Inc.",
-   "insider": "McBee Brannin",
-   "role": "Chief Development Officer",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 26852486.8862,
-   "shares": 253610.0,
-   "avgPrice": 105.881026,
-   "filings": 64,
-   "institution": false,
-   "marketCap": 48452489644,
-   "pctOfCompany": 0.05542,
-   "stakeOwned": 0.084245,
-   "deltaOwn": -35.309334,
-   "newPosition": false,
-   "clusterSize": 8,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -177,28 +161,7 @@
    "deltaOwn": -6.778557,
    "newPosition": false,
    "clusterSize": 3,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "UTHR",
-   "issuer": "UNITED THERAPEUTICS Corp",
-   "insider": "ROTHBLATT MARTINE A",
-   "role": "Chairperson & CEO",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 14854041.4942,
-   "shares": 28500.0,
-   "avgPrice": 521.194438,
-   "filings": 30,
-   "institution": false,
-   "marketCap": 22008071669,
-   "pctOfCompany": 0.067494,
-   "stakeOwned": 0.778034,
-   "deltaOwn": -7.868494,
-   "newPosition": false,
-   "clusterSize": 2,
+   "clusterValue": 33739130.14,
    "clusterFamily": false
   },
   {
@@ -221,6 +184,7 @@
    "deltaOwn": -2.194452,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 22271783.91,
    "clusterFamily": false
   },
   {
@@ -243,6 +207,7 @@
    "deltaOwn": -1.767244,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -265,6 +230,7 @@
    "deltaOwn": -12.68248,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -287,28 +253,30 @@
    "deltaOwn": -6.689394,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
-   "ticker": "SE",
-   "issuer": "Sea Ltd",
-   "insider": "Ye Gang",
-   "role": "COO",
+   "ticker": "UTHR",
+   "issuer": "UNITED THERAPEUTICS Corp",
+   "insider": "ROTHBLATT MARTINE A",
+   "role": "Chairperson & CEO",
    "side": "sell",
    "tradedOn": "2026-08-20",
    "filedOn": "2026-08-21",
    "lagDays": 1,
-   "value": 10780883.64,
-   "shares": 91208.0,
-   "avgPrice": 118.201075,
-   "filings": 16,
+   "value": 9955820.4896,
+   "shares": 19000.0,
+   "avgPrice": 523.990552,
+   "filings": 20,
    "institution": false,
-   "marketCap": 72159865454,
-   "pctOfCompany": 0.01494,
-   "stakeOwned": 0.079462,
-   "deltaOwn": -15.782634,
+   "marketCap": 22008071669,
+   "pctOfCompany": 0.045237,
+   "stakeOwned": 0.778031,
+   "deltaOwn": -5.386969,
    "newPosition": false,
-   "clusterSize": 6,
+   "clusterSize": 2,
+   "clusterValue": 14297899.5188,
    "clusterFamily": false
   },
   {
@@ -331,6 +299,7 @@
    "deltaOwn": -87.708369,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -353,28 +322,7 @@
    "deltaOwn": -9.148889,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "MRCY",
-   "issuer": "MERCURY SYSTEMS INC",
-   "insider": "Ballhaus William L",
-   "role": "Chairman, President & CEO",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 7915599.6372,
-   "shares": 76492.0,
-   "avgPrice": 103.482712,
-   "filings": 4,
-   "institution": false,
-   "marketCap": 5485554371,
-   "pctOfCompany": 0.144299,
-   "stakeOwned": 0.50156,
-   "deltaOwn": -20.254984,
-   "newPosition": false,
-   "clusterSize": 5,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -397,6 +345,7 @@
    "deltaOwn": -34.664885,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 10520485.7705,
    "clusterFamily": false
   },
   {
@@ -419,6 +368,7 @@
    "deltaOwn": -20.228638,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 7963802.079,
    "clusterFamily": false
   },
   {
@@ -441,50 +391,7 @@
    "deltaOwn": -55.68711,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "MORN",
-   "issuer": "Morningstar, Inc.",
-   "insider": "Mansueto Joseph D",
-   "role": "Executive Chairman",
-   "side": "sell",
-   "tradedOn": "2026-08-21",
-   "filedOn": "2026-08-21",
-   "lagDays": 0,
-   "value": 7013067.4437,
-   "shares": 33095.0,
-   "avgPrice": 211.90716,
-   "filings": 22,
-   "institution": false,
-   "marketCap": 8101805974,
-   "pctOfCompany": 0.086562,
-   "stakeOwned": 21.248836,
-   "deltaOwn": -0.413466,
-   "newPosition": false,
-   "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "FRPT",
-   "issuer": "Freshpet, Inc.",
-   "insider": "Cyr William B.",
-   "role": "Chief Executive Officer",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 6502664.77,
-   "shares": 88145.0,
-   "avgPrice": 73.772361,
-   "filings": 8,
-   "institution": false,
-   "marketCap": 3554615267,
-   "pctOfCompany": 0.182936,
-   "stakeOwned": 0.600301,
-   "deltaOwn": -23.403109,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -507,6 +414,7 @@
    "deltaOwn": -100.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -529,6 +437,7 @@
    "deltaOwn": -0.376182,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -551,6 +460,7 @@
    "deltaOwn": 5.373597,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 7000004.85,
    "clusterFamily": false
   },
   {
@@ -573,6 +483,7 @@
    "deltaOwn": -13.594603,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 6086496.64,
    "clusterFamily": false
   },
   {
@@ -595,28 +506,53 @@
    "deltaOwn": -22.37439,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 28693254.68,
    "clusterFamily": false
   },
   {
-   "ticker": "AFL",
-   "issuer": "AFLAC INC",
-   "insider": "Japan Post Holdings Co., Ltd.",
-   "role": "10% owner",
+   "ticker": "SE",
+   "issuer": "Sea Ltd",
+   "insider": "Ye Gang",
+   "role": "COO",
    "side": "sell",
-   "tradedOn": "2026-08-19",
+   "tradedOn": "2026-08-20",
    "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 4904648.97,
-   "shares": 40800.0,
-   "avgPrice": 120.211985,
+   "lagDays": 1,
+   "value": 4845865.55,
+   "shares": 41208.0,
+   "avgPrice": 117.595262,
    "filings": 9,
-   "institution": true,
-   "marketCap": 58376414843,
-   "pctOfCompany": 0.008402,
-   "stakeOwned": 10.141933,
-   "deltaOwn": -0.080178,
+   "institution": false,
+   "marketCap": 72159865454,
+   "pctOfCompany": 0.006715,
+   "stakeOwned": 0.079462,
+   "deltaOwn": -7.806009,
    "newPosition": false,
-   "clusterSize": 1,
+   "clusterSize": 5,
+   "clusterValue": 7302966.469,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "MRCY",
+   "issuer": "MERCURY SYSTEMS INC",
+   "insider": "Ballhaus William L",
+   "role": "Chairman, President & CEO",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 4838192.946,
+   "shares": 48812.0,
+   "avgPrice": 99.118925,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 5485554371,
+   "pctOfCompany": 0.088199,
+   "stakeOwned": 0.416712,
+   "deltaOwn": -16.324029,
+   "newPosition": false,
+   "clusterSize": 5,
+   "clusterValue": 6818401.3638,
    "clusterFamily": false
   },
   {
@@ -639,6 +575,7 @@
    "deltaOwn": -18.292906,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -661,6 +598,7 @@
    "deltaOwn": -65.725115,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 33739130.14,
    "clusterFamily": false
   },
   {
@@ -683,6 +621,7 @@
    "deltaOwn": -14.048272,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 14297899.5188,
    "clusterFamily": false
   },
   {
@@ -705,6 +644,7 @@
    "deltaOwn": -56.514083,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 4670640.76,
    "clusterFamily": false
   },
   {
@@ -727,6 +667,7 @@
    "deltaOwn": -50.687041,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -748,7 +689,8 @@
    "stakeOwned": 0.050194,
    "deltaOwn": -55.282061,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -771,6 +713,7 @@
    "deltaOwn": -6.793329,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 7019103.45,
    "clusterFamily": false
   },
   {
@@ -793,6 +736,53 @@
    "deltaOwn": -11.76468,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 9523711.05,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "FRPT",
+   "issuer": "Freshpet, Inc.",
+   "insider": "Cyr William B.",
+   "role": "Chief Executive Officer",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 3293313.4,
+   "shares": 44078.0,
+   "avgPrice": 74.715581,
+   "filings": 4,
+   "institution": false,
+   "marketCap": 3554615267,
+   "pctOfCompany": 0.092649,
+   "stakeOwned": 0.600301,
+   "deltaOwn": -13.253711,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "AFL",
+   "issuer": "AFLAC INC",
+   "insider": "Japan Post Holdings Co., Ltd.",
+   "role": "10% owner",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 3218106.47,
+   "shares": 26900.0,
+   "avgPrice": 119.632211,
+   "filings": 7,
+   "institution": true,
+   "marketCap": 58376414843,
+   "pctOfCompany": 0.005513,
+   "stakeOwned": 10.138977,
+   "deltaOwn": -0.052892,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -815,6 +805,7 @@
    "deltaOwn": 0.427965,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -837,6 +828,7 @@
    "deltaOwn": -34.143094,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -859,6 +851,7 @@
    "deltaOwn": -12.67202,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 9523711.05,
    "clusterFamily": false
   },
   {
@@ -881,6 +874,7 @@
    "deltaOwn": -15.232292,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 33739130.14,
    "clusterFamily": false
   },
   {
@@ -902,29 +896,8 @@
    "stakeOwned": 0.123353,
    "deltaOwn": -15.629884,
    "newPosition": false,
-   "clusterSize": 3,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "ABNB",
-   "issuer": "Airbnb, Inc.",
-   "insider": "Blecharczyk Nathan",
-   "role": "Chief Strategy Officer",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 2994548.9027,
-   "shares": 16353.0,
-   "avgPrice": 183.119238,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 110429400037,
-   "pctOfCompany": 0.002712,
-   "stakeOwned": 0.012688,
-   "deltaOwn": -17.938505,
-   "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -947,6 +920,7 @@
    "deltaOwn": -25.107586,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -969,6 +943,7 @@
    "deltaOwn": -29.479609,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -991,6 +966,7 @@
    "deltaOwn": -20.123038,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 10520485.7705,
    "clusterFamily": false
   },
   {
@@ -1012,29 +988,8 @@
    "stakeOwned": 0.623589,
    "deltaOwn": -2.60911,
    "newPosition": false,
-   "clusterSize": 2,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "RSKD",
-   "issuer": "RISKIFIED LTD.",
-   "insider": "Shachar Erez",
-   "role": "director",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 2796716.3123,
-   "shares": 459111.0,
-   "avgPrice": 6.091591,
-   "filings": 4,
-   "institution": false,
-   "marketCap": 779022643,
-   "pctOfCompany": 0.359003,
-   "stakeOwned": 0.885122,
-   "deltaOwn": -28.204282,
-   "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1057,28 +1012,7 @@
    "deltaOwn": -5.071489,
    "newPosition": false,
    "clusterSize": 3,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "AAT",
-   "issuer": "American Assets Trust, Inc.",
-   "insider": "RADY ERNEST S",
-   "role": "Executive Chairman",
-   "side": "buy",
-   "tradedOn": "2026-08-21",
-   "filedOn": "2026-08-21",
-   "lagDays": 0,
-   "value": 2574066.34,
-   "shares": 113586.0,
-   "avgPrice": 22.661828,
-   "filings": 4,
-   "institution": false,
-   "marketCap": 1401555064,
-   "pctOfCompany": 0.183658,
-   "stakeOwned": 14.523507,
-   "deltaOwn": 1.290379,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": 7019103.45,
    "clusterFamily": false
   },
   {
@@ -1101,28 +1035,30 @@
    "deltaOwn": -11.364478,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
-   "ticker": "MRCY",
-   "issuer": "MERCURY SYSTEMS INC",
-   "insider": "Farnsworth David E.",
-   "role": "EVP, CFO",
+   "ticker": "MORN",
+   "issuer": "Morningstar, Inc.",
+   "insider": "Mansueto Joseph D",
+   "role": "Executive Chairman",
    "side": "sell",
-   "tradedOn": "2026-08-20",
+   "tradedOn": "2026-08-21",
    "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 2429840.9332,
-   "shares": 23459.0,
-   "avgPrice": 103.578197,
-   "filings": 4,
+   "lagDays": 0,
+   "value": 2440237.6532,
+   "shares": 11345.0,
+   "avgPrice": 215.093667,
+   "filings": 7,
    "institution": false,
-   "marketCap": 5485554371,
-   "pctOfCompany": 0.044295,
-   "stakeOwned": 0.2333,
-   "deltaOwn": -14.344503,
+   "marketCap": 8101805974,
+   "pctOfCompany": 0.03012,
+   "stakeOwned": 21.197766,
+   "deltaOwn": -0.142465,
    "newPosition": false,
-   "clusterSize": 5,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1145,6 +1081,7 @@
    "deltaOwn": -0.338112,
    "newPosition": false,
    "clusterSize": 5,
+   "clusterValue": 3966253.49,
    "clusterFamily": false
   },
   {
@@ -1167,6 +1104,7 @@
    "deltaOwn": -4.042636,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1189,6 +1127,7 @@
    "deltaOwn": -1.548765,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1211,6 +1150,7 @@
    "deltaOwn": -11.07177,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1233,6 +1173,7 @@
    "deltaOwn": -2.218529,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 5322451.34,
    "clusterFamily": false
   },
   {
@@ -1255,6 +1196,7 @@
    "deltaOwn": -82.968458,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1277,6 +1219,7 @@
    "deltaOwn": -59.326056,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1299,6 +1242,7 @@
    "deltaOwn": -38.660932,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1321,6 +1265,7 @@
    "deltaOwn": -15.806868,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 11060705.334,
    "clusterFamily": false
   },
   {
@@ -1342,7 +1287,31 @@
    "stakeOwned": 1.654979,
    "deltaOwn": -1.777766,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "RSKD",
+   "issuer": "RISKIFIED LTD.",
+   "insider": "Shachar Erez",
+   "role": "director",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 1789454.1168,
+   "shares": 297084.0,
+   "avgPrice": 6.023394,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 779022643,
+   "pctOfCompany": 0.229705,
+   "stakeOwned": 0.656543,
+   "deltaOwn": -25.523382,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1365,6 +1334,7 @@
    "deltaOwn": -14.562273,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 2456132.0,
    "clusterFamily": false
   },
   {
@@ -1387,6 +1357,7 @@
    "deltaOwn": -1.952477,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 5322451.34,
    "clusterFamily": false
   },
   {
@@ -1409,6 +1380,7 @@
    "deltaOwn": -25.759219,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1431,6 +1403,7 @@
    "deltaOwn": -21.738938,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 9523711.05,
    "clusterFamily": false
   },
   {
@@ -1453,6 +1426,7 @@
    "deltaOwn": -27.581273,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1475,6 +1449,7 @@
    "deltaOwn": -4.327273,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 5322451.34,
    "clusterFamily": false
   },
   {
@@ -1497,6 +1472,7 @@
    "deltaOwn": -13.970163,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1519,28 +1495,30 @@
    "deltaOwn": -8.922428,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
-   "ticker": "CRWV",
-   "issuer": "CoreWeave, Inc.",
-   "insider": "Goldberg Chen",
-   "role": "EVP, Product & Engineering",
+   "ticker": "MRCY",
+   "issuer": "MERCURY SYSTEMS INC",
+   "insider": "Farnsworth David E.",
+   "role": "EVP, CFO",
    "side": "sell",
    "tradedOn": "2026-08-20",
    "filedOn": "2026-08-21",
    "lagDays": 1,
-   "value": 1471531.5382,
-   "shares": 15025.0,
-   "avgPrice": 97.938871,
-   "filings": 9,
+   "value": 1463811.9508,
+   "shares": 14767.0,
+   "avgPrice": 99.12724,
+   "filings": 2,
    "institution": false,
-   "marketCap": 48452489644,
-   "pctOfCompany": 0.003037,
-   "stakeOwned": 0.013231,
-   "deltaOwn": -17.074058,
+   "marketCap": 5485554371,
+   "pctOfCompany": 0.026685,
+   "stakeOwned": 0.207482,
+   "deltaOwn": -10.597362,
    "newPosition": false,
-   "clusterSize": 8,
+   "clusterSize": 5,
+   "clusterValue": 6818401.3638,
    "clusterFamily": false
   },
   {
@@ -1563,6 +1541,7 @@
    "deltaOwn": -14.858771,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1585,6 +1564,7 @@
    "deltaOwn": -28.456907,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1662478.0834,
    "clusterFamily": false
   },
   {
@@ -1607,6 +1587,7 @@
    "deltaOwn": 5.438821,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 7000004.85,
    "clusterFamily": false
   },
   {
@@ -1629,6 +1610,30 @@
    "deltaOwn": -12.016227,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "AAT",
+   "issuer": "American Assets Trust, Inc.",
+   "insider": "RADY ERNEST S",
+   "role": "Executive Chairman",
+   "side": "buy",
+   "tradedOn": "2026-08-21",
+   "filedOn": "2026-08-21",
+   "lagDays": 0,
+   "value": 1137500.0,
+   "shares": 50000.0,
+   "avgPrice": 22.75,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 1401555064,
+   "pctOfCompany": 0.08116,
+   "stakeOwned": 14.523507,
+   "deltaOwn": 0.563945,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1651,6 +1656,7 @@
    "deltaOwn": -7.501558,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1673,28 +1679,7 @@
    "deltaOwn": -14.795343,
    "newPosition": false,
    "clusterSize": 2,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "SE",
-   "issuer": "Sea Ltd",
-   "insider": "Feng Zhimin",
-   "role": "President",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 1048950.58,
-   "shares": 8721.0,
-   "avgPrice": 120.278704,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 72159865454,
-   "pctOfCompany": 0.001454,
-   "stakeOwned": 0.037902,
-   "deltaOwn": -3.6207,
-   "newPosition": false,
-   "clusterSize": 6,
+   "clusterValue": 1425339.51,
    "clusterFamily": false
   },
   {
@@ -1717,6 +1702,7 @@
    "deltaOwn": 10.795312,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1739,6 +1725,7 @@
    "deltaOwn": -23.695447,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1999500.0,
    "clusterFamily": false
   },
   {
@@ -1761,6 +1748,7 @@
    "deltaOwn": -13.346787,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1999500.0,
    "clusterFamily": false
   },
   {
@@ -1783,6 +1771,7 @@
    "deltaOwn": -9.093042,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1805,6 +1794,7 @@
    "deltaOwn": -7.942715,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1827,6 +1817,7 @@
    "deltaOwn": 26.909389,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1849,6 +1840,7 @@
    "deltaOwn": -6.790986,
    "newPosition": false,
    "clusterSize": 8,
+   "clusterValue": 34311504.1936,
    "clusterFamily": false
   },
   {
@@ -1871,6 +1863,7 @@
    "deltaOwn": -9.999927,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 9523711.05,
    "clusterFamily": false
   },
   {
@@ -1893,28 +1886,7 @@
    "deltaOwn": -48.412084,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "QVCG",
-   "issuer": "QVC Group, Inc.",
-   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
-   "role": "10% owner",
-   "side": "buy",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 899400.472,
-   "shares": 59222.0,
-   "avgPrice": 15.186932,
-   "filings": 5,
-   "institution": true,
-   "marketCap": null,
-   "pctOfCompany": null,
-   "stakeOwned": null,
-   "deltaOwn": 0.689929,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1936,7 +1908,8 @@
    "stakeOwned": 4.111341,
    "deltaOwn": -6.921879,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1959,6 +1932,7 @@
    "deltaOwn": 12.310574,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -1981,6 +1955,7 @@
    "deltaOwn": -75.655057,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2003,6 +1978,7 @@
    "deltaOwn": -0.704265,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2025,6 +2001,30 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "CRWV",
+   "issuer": "CoreWeave, Inc.",
+   "insider": "Goldberg Chen",
+   "role": "EVP, Product & Engineering",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 792740.64,
+   "shares": 8628.0,
+   "avgPrice": 91.88,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 48452489644,
+   "pctOfCompany": 0.001636,
+   "stakeOwned": 0.013231,
+   "deltaOwn": -10.57327,
+   "newPosition": false,
+   "clusterSize": 8,
+   "clusterValue": 34311504.1936,
    "clusterFamily": false
   },
   {
@@ -2047,6 +2047,7 @@
    "deltaOwn": -25.856719,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 24770482.0021,
    "clusterFamily": false
   },
   {
@@ -2069,6 +2070,7 @@
    "deltaOwn": -73.358337,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 2456132.0,
    "clusterFamily": false
   },
   {
@@ -2091,28 +2093,7 @@
    "deltaOwn": 0.099495,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "DGICA",
-   "issuer": "DONEGAL GROUP INC",
-   "insider": "DONEGAL MUTUAL INSURANCE CO",
-   "role": "10% owner",
-   "side": "buy",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 734849.0275,
-   "shares": 39515.0,
-   "avgPrice": 18.596711,
-   "filings": 4,
-   "institution": true,
-   "marketCap": 691903393,
-   "pctOfCompany": 0.106207,
-   "stakeOwned": 38.239441,
-   "deltaOwn": 0.279165,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2135,6 +2116,7 @@
    "deltaOwn": -33.187309,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2157,28 +2139,7 @@
    "deltaOwn": -28.571429,
    "newPosition": false,
    "clusterSize": 3,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "RVI",
-   "issuer": "Robinhood Ventures Fund I",
-   "insider": "Robinhood Markets, Inc.",
-   "role": "10% owner",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 713759.47,
-   "shares": 25945.0,
-   "avgPrice": 27.510483,
-   "filings": 5,
-   "institution": true,
-   "marketCap": 736492240,
-   "pctOfCompany": 0.096913,
-   "stakeOwned": 47.862176,
-   "deltaOwn": -0.198553,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": 1262111.5198,
    "clusterFamily": false
   },
   {
@@ -2201,72 +2162,7 @@
    "deltaOwn": -100.0,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "SE",
-   "issuer": "Sea Ltd",
-   "insider": "Wang Yanjun",
-   "role": "CCO and GC",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 707408.36,
-   "shares": 6000.0,
-   "avgPrice": 117.901393,
-   "filings": 16,
-   "institution": false,
-   "marketCap": 72159865454,
-   "pctOfCompany": 0.00098,
-   "stakeOwned": 0.005282,
-   "deltaOwn": -15.644556,
-   "newPosition": false,
-   "clusterSize": 6,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "NMRA",
-   "issuer": "Neumora Therapeutics, Inc.",
-   "insider": "Aurora Daljit Singh",
-   "role": "See Remarks",
-   "side": "sell",
-   "tradedOn": "2026-08-21",
-   "filedOn": "2026-08-21",
-   "lagDays": 0,
-   "value": 701641.0802,
-   "shares": 453833.0,
-   "avgPrice": 1.546034,
-   "filings": 11,
-   "institution": false,
-   "marketCap": 306270335,
-   "pctOfCompany": 0.229092,
-   "stakeOwned": 0.044051,
-   "deltaOwn": -84.575189,
-   "newPosition": false,
-   "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "MRCY",
-   "issuer": "MERCURY SYSTEMS INC",
-   "insider": "Ratner Steven",
-   "role": "EVP, CHRO",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 658254.9327,
-   "shares": 6268.0,
-   "avgPrice": 105.018336,
-   "filings": 4,
-   "institution": false,
-   "marketCap": 5485554371,
-   "pctOfCompany": 0.012,
-   "stakeOwned": 0.047397,
-   "deltaOwn": -18.049356,
-   "newPosition": false,
-   "clusterSize": 5,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2289,28 +2185,7 @@
    "deltaOwn": -54.05084,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "UPST",
-   "issuer": "Upstart Holdings, Inc.",
-   "insider": "Datta Sanjay",
-   "role": "President, Capital& Enterprise",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 625614.1308,
-   "shares": 20978.0,
-   "avgPrice": 29.822392,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 2900060467,
-   "pctOfCompany": 0.021572,
-   "stakeOwned": 0.325481,
-   "deltaOwn": -6.309154,
-   "newPosition": false,
-   "clusterSize": 4,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2333,6 +2208,7 @@
    "deltaOwn": -85.682301,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 640206.8992,
    "clusterFamily": false
   },
   {
@@ -2355,6 +2231,7 @@
    "deltaOwn": -3.878725,
    "newPosition": false,
    "clusterSize": 8,
+   "clusterValue": 34311504.1936,
    "clusterFamily": false
   },
   {
@@ -2377,6 +2254,30 @@
    "deltaOwn": -3.811314,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 668121.0292,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "UPST",
+   "issuer": "Upstart Holdings, Inc.",
+   "insider": "Datta Sanjay",
+   "role": "President, Capital& Enterprise",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 565931.1465,
+   "shares": 18945.0,
+   "avgPrice": 29.872322,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 2900060467,
+   "pctOfCompany": 0.019514,
+   "stakeOwned": 0.315033,
+   "deltaOwn": -5.911667,
+   "newPosition": false,
+   "clusterSize": 3,
+   "clusterValue": 798607.8695,
    "clusterFamily": false
   },
   {
@@ -2399,28 +2300,7 @@
    "deltaOwn": -5.892682,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "ATNI",
-   "issuer": "ATN International, Inc.",
-   "insider": "PRIOR CORNELIUS B JR",
-   "role": "10% owner",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 548643.3595,
-   "shares": 17245.0,
-   "avgPrice": 31.814634,
-   "filings": 4,
-   "institution": false,
-   "marketCap": 478120215,
-   "pctOfCompany": 0.11475,
-   "stakeOwned": 0.380859,
-   "deltaOwn": -22.717692,
-   "newPosition": false,
-   "clusterSize": 2,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2443,6 +2323,7 @@
    "deltaOwn": -2.385651,
    "newPosition": false,
    "clusterSize": 8,
+   "clusterValue": 34311504.1936,
    "clusterFamily": false
   },
   {
@@ -2465,6 +2346,30 @@
    "deltaOwn": -16.523226,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "ABNB",
+   "issuer": "Airbnb, Inc.",
+   "insider": "Blecharczyk Nathan",
+   "role": "Chief Strategy Officer",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 504941.96,
+   "shares": 2738.0,
+   "avgPrice": 184.42,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 110429400037,
+   "pctOfCompany": 0.000457,
+   "stakeOwned": 0.012688,
+   "deltaOwn": -3.530787,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2487,6 +2392,7 @@
    "deltaOwn": -16.604885,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2509,6 +2415,7 @@
    "deltaOwn": -13.674045,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 6086496.64,
    "clusterFamily": false
   },
   {
@@ -2531,6 +2438,7 @@
    "deltaOwn": -4.948527,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2553,6 +2461,7 @@
    "deltaOwn": -50.10441,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2575,6 +2484,7 @@
    "deltaOwn": -1.575748,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2597,6 +2507,7 @@
    "deltaOwn": -9.98271,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2619,6 +2530,7 @@
    "deltaOwn": -2.408877,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2640,7 +2552,8 @@
    "stakeOwned": 0.218406,
    "deltaOwn": -13.631634,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 2,
+   "clusterValue": 564777.4984,
    "clusterFamily": false
   },
   {
@@ -2663,6 +2576,7 @@
    "deltaOwn": -17.844556,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2685,6 +2599,30 @@
    "deltaOwn": -4.494022,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 747198.37,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "RVI",
+   "issuer": "Robinhood Ventures Fund I",
+   "insider": "Robinhood Markets, Inc.",
+   "role": "10% owner",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 442236.95,
+   "shares": 16361.0,
+   "avgPrice": 27.029946,
+   "filings": 2,
+   "institution": true,
+   "marketCap": 736492240,
+   "pctOfCompany": 0.060046,
+   "stakeOwned": 47.821108,
+   "deltaOwn": -0.125407,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2707,6 +2645,7 @@
    "deltaOwn": 6.666667,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2729,28 +2668,7 @@
    "deltaOwn": -22.12781,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "BFST",
-   "issuer": "Business First Bancshares, Inc.",
-   "insider": "Cummings George W. III",
-   "role": "director",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 420673.0,
-   "shares": 13235.0,
-   "avgPrice": 31.784889,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 1013928843,
-   "pctOfCompany": 0.041489,
-   "stakeOwned": 0.618067,
-   "deltaOwn": -6.172609,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2773,6 +2691,7 @@
    "deltaOwn": -4.01147,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2795,28 +2714,7 @@
    "deltaOwn": -13.875143,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "MRCY",
-   "issuer": "MERCURY SYSTEMS INC",
-   "insider": "KUPINSKY STUART",
-   "role": "EVP, CLO & Corp Sec",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 393770.9441,
-   "shares": 3681.0,
-   "avgPrice": 106.973905,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 5485554371,
-   "pctOfCompany": 0.007178,
-   "stakeOwned": 0.099658,
-   "deltaOwn": -5.795116,
-   "newPosition": false,
-   "clusterSize": 5,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2839,28 +2737,7 @@
    "deltaOwn": -9.889237,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "UUU",
-   "issuer": "UNIVERSAL SAFETY PRODUCTS, INC.",
-   "insider": "AULT MILTON C III",
-   "role": "director",
-   "side": "buy",
-   "tradedOn": "2026-08-21",
-   "filedOn": "2026-08-21",
-   "lagDays": 0,
-   "value": 384736.7608,
-   "shares": 68481.0,
-   "avgPrice": 5.618153,
-   "filings": 12,
-   "institution": false,
-   "marketCap": 19382163,
-   "pctOfCompany": 1.985004,
-   "stakeOwned": 35.877374,
-   "deltaOwn": 6.72667,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2883,6 +2760,7 @@
    "deltaOwn": -24.276332,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2905,6 +2783,7 @@
    "deltaOwn": -8.078386,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2927,6 +2806,7 @@
    "deltaOwn": -0.822945,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 7963802.079,
    "clusterFamily": false
   },
   {
@@ -2949,6 +2829,30 @@
    "deltaOwn": -3.075901,
    "newPosition": false,
    "clusterSize": 8,
+   "clusterValue": 34311504.1936,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "DGICA",
+   "issuer": "DONEGAL GROUP INC",
+   "insider": "DONEGAL MUTUAL INSURANCE CO",
+   "role": "10% owner",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 363655.0275,
+   "shares": 19515.0,
+   "avgPrice": 18.634641,
+   "filings": 2,
+   "institution": true,
+   "marketCap": 691903393,
+   "pctOfCompany": 0.052559,
+   "stakeOwned": 38.239441,
+   "deltaOwn": 0.137675,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -2970,7 +2874,31 @@
    "stakeOwned": 0.008193,
    "deltaOwn": -6.985606,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "SE",
+   "issuer": "Sea Ltd",
+   "insider": "Wang Yanjun",
+   "role": "CCO and GC",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 352626.69,
+   "shares": 3000.0,
+   "avgPrice": 117.54223,
+   "filings": 9,
+   "institution": false,
+   "marketCap": 72159865454,
+   "pctOfCompany": 0.000489,
+   "stakeOwned": 0.004955,
+   "deltaOwn": -8.996312,
+   "newPosition": false,
+   "clusterSize": 5,
+   "clusterValue": 7302966.469,
    "clusterFamily": false
   },
   {
@@ -2993,6 +2921,7 @@
    "deltaOwn": 6.506883,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 807794.1,
    "clusterFamily": false
   },
   {
@@ -3015,6 +2944,7 @@
    "deltaOwn": 806.856487,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 807794.1,
    "clusterFamily": false
   },
   {
@@ -3037,6 +2967,7 @@
    "deltaOwn": -6.451355,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1425339.51,
    "clusterFamily": false
   },
   {
@@ -3059,6 +2990,7 @@
    "deltaOwn": -13.277463,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 6086496.64,
    "clusterFamily": false
   },
   {
@@ -3081,6 +3013,76 @@
    "deltaOwn": 8.348039,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "ATNI",
+   "issuer": "ATN International, Inc.",
+   "insider": "PRIOR CORNELIUS B JR",
+   "role": "10% owner",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 334242.0,
+   "shares": 10500.0,
+   "avgPrice": 31.832571,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 478120215,
+   "pctOfCompany": 0.069908,
+   "stakeOwned": 0.309446,
+   "deltaOwn": -18.052093,
+   "newPosition": false,
+   "clusterSize": 2,
+   "clusterValue": 365382.0,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "CRWV",
+   "issuer": "CoreWeave, Inc.",
+   "insider": "McBee Brannin",
+   "role": "Chief Development Officer",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 331686.8,
+   "shares": 3610.0,
+   "avgPrice": 91.88,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 48452489644,
+   "pctOfCompany": 0.000685,
+   "stakeOwned": 0.059414,
+   "deltaOwn": -1.089644,
+   "newPosition": false,
+   "clusterSize": 8,
+   "clusterValue": 34311504.1936,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "MRCY",
+   "issuer": "MERCURY SYSTEMS INC",
+   "insider": "Ratner Steven",
+   "role": "EVP, CHRO",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 319582.1304,
+   "shares": 3213.0,
+   "avgPrice": 99.465338,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 5485554371,
+   "pctOfCompany": 0.005826,
+   "stakeOwned": 0.040472,
+   "deltaOwn": -11.677691,
+   "newPosition": false,
+   "clusterSize": 5,
+   "clusterValue": 6818401.3638,
    "clusterFamily": false
   },
   {
@@ -3103,6 +3105,7 @@
    "deltaOwn": -12.805604,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 471663.5438,
    "clusterFamily": false
   },
   {
@@ -3125,6 +3128,7 @@
    "deltaOwn": -2.357834,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3147,6 +3151,7 @@
    "deltaOwn": -0.506946,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3169,6 +3174,7 @@
    "deltaOwn": -13.241623,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1662478.0834,
    "clusterFamily": false
   },
   {
@@ -3191,28 +3197,7 @@
    "deltaOwn": -3.236353,
    "newPosition": false,
    "clusterSize": 3,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "SE",
-   "issuer": "Sea Ltd",
-   "insider": "Zhao Feng",
-   "role": "President of Garena",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 290728.4,
-   "shares": 2420.0,
-   "avgPrice": 120.135702,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 72159865454,
-   "pctOfCompany": 0.000403,
-   "stakeOwned": 0.022858,
-   "deltaOwn": -1.6992,
-   "newPosition": false,
-   "clusterSize": 6,
+   "clusterValue": 1262111.5198,
    "clusterFamily": false
   },
   {
@@ -3235,6 +3220,7 @@
    "deltaOwn": -8.674366,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 7019103.45,
    "clusterFamily": false
   },
   {
@@ -3257,6 +3243,7 @@
    "deltaOwn": -1.007993,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3279,6 +3266,7 @@
    "deltaOwn": -0.776806,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 747198.37,
    "clusterFamily": false
   },
   {
@@ -3301,6 +3289,30 @@
    "deltaOwn": -29.959854,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "NMRA",
+   "issuer": "Neumora Therapeutics, Inc.",
+   "insider": "Aurora Daljit Singh",
+   "role": "See Remarks",
+   "side": "sell",
+   "tradedOn": "2026-08-21",
+   "filedOn": "2026-08-21",
+   "lagDays": 0,
+   "value": 269966.9731,
+   "shares": 176060.0,
+   "avgPrice": 1.533381,
+   "filings": 4,
+   "institution": false,
+   "marketCap": 306270335,
+   "pctOfCompany": 0.088147,
+   "stakeOwned": 0.025945,
+   "deltaOwn": -78.315022,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3323,6 +3335,7 @@
    "deltaOwn": -5.354537,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3345,6 +3358,7 @@
    "deltaOwn": -3.900709,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 1262111.5198,
    "clusterFamily": false
   },
   {
@@ -3367,6 +3381,7 @@
    "deltaOwn": -37.506962,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3389,28 +3404,7 @@
    "deltaOwn": 21.495327,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "UPST",
-   "issuer": "Upstart Holdings, Inc.",
-   "insider": "Darling Scott",
-   "role": "Chief Legal Officer",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 240114.1048,
-   "shares": 8510.0,
-   "avgPrice": 28.215523,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 2900060467,
-   "pctOfCompany": 0.00828,
-   "stakeOwned": 0.091092,
-   "deltaOwn": -8.892744,
-   "newPosition": false,
-   "clusterSize": 4,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3433,6 +3427,53 @@
    "deltaOwn": 1.333098,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "QVCG",
+   "issuer": "QVC Group, Inc.",
+   "insider": "GOLDENTREE ASSET MANAGEMENT LP",
+   "role": "10% owner",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 217173.054,
+   "shares": 14280.0,
+   "avgPrice": 15.208197,
+   "filings": 2,
+   "institution": true,
+   "marketCap": null,
+   "pctOfCompany": null,
+   "stakeOwned": null,
+   "deltaOwn": 0.165494,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "UPST",
+   "issuer": "Upstart Holdings, Inc.",
+   "insider": "Darling Scott",
+   "role": "Chief Legal Officer",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 216216.0416,
+   "shares": 7696.0,
+   "avgPrice": 28.0946,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 2900060467,
+   "pctOfCompany": 0.007456,
+   "stakeOwned": 0.076591,
+   "deltaOwn": -9.501,
+   "newPosition": false,
+   "clusterSize": 3,
+   "clusterValue": 798607.8695,
    "clusterFamily": false
   },
   {
@@ -3455,6 +3496,7 @@
    "deltaOwn": -15.7318,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3477,6 +3519,7 @@
    "deltaOwn": -60.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3499,6 +3542,7 @@
    "deltaOwn": 41.134258,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3521,6 +3565,30 @@
    "deltaOwn": -15.572467,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "UUU",
+   "issuer": "UNIVERSAL SAFETY PRODUCTS, INC.",
+   "insider": "AULT MILTON C III",
+   "role": "director",
+   "side": "buy",
+   "tradedOn": "2026-08-21",
+   "filedOn": "2026-08-21",
+   "lagDays": 0,
+   "value": 183344.1804,
+   "shares": 29178.0,
+   "avgPrice": 6.283645,
+   "filings": 4,
+   "institution": false,
+   "marketCap": 19382163,
+   "pctOfCompany": 0.945943,
+   "stakeOwned": 35.877374,
+   "deltaOwn": 2.759527,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3543,6 +3611,7 @@
    "deltaOwn": -15.83008,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3565,6 +3634,7 @@
    "deltaOwn": -9.011906,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3587,28 +3657,7 @@
    "deltaOwn": -3.617601,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "MRCY",
-   "issuer": "MERCURY SYSTEMS INC",
-   "insider": "Munro Douglas",
-   "role": "SVP, CAO",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 165044.956,
-   "shares": 1555.0,
-   "avgPrice": 106.138235,
-   "filings": 4,
-   "institution": false,
-   "marketCap": 5485554371,
-   "pctOfCompany": 0.003009,
-   "stakeOwned": 0.023538,
-   "deltaOwn": -9.912035,
-   "newPosition": false,
-   "clusterSize": 5,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3631,6 +3680,7 @@
    "deltaOwn": -3.350718,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 242921.2864,
    "clusterFamily": false
   },
   {
@@ -3653,6 +3703,7 @@
    "deltaOwn": -1.415287,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 252044.1636,
    "clusterFamily": false
   },
   {
@@ -3675,28 +3726,7 @@
    "deltaOwn": -9.046546,
    "newPosition": false,
    "clusterSize": 2,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "ISRG",
-   "issuer": "INTUITIVE SURGICAL INC",
-   "insider": "Brosius Mark",
-   "role": "EVP & Chief Mfg and Supply Cha",
-   "side": "sell",
-   "tradedOn": "2026-08-21",
-   "filedOn": "2026-08-21",
-   "lagDays": 0,
-   "value": 150216.99,
-   "shares": 385.0,
-   "avgPrice": 390.174,
-   "filings": 5,
-   "institution": false,
-   "marketCap": 135719302700,
-   "pctOfCompany": 0.000111,
-   "stakeOwned": 0.000332,
-   "deltaOwn": -24.459975,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": 471663.5438,
    "clusterFamily": false
   },
   {
@@ -3719,6 +3749,7 @@
    "deltaOwn": -1.374366,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3741,6 +3772,7 @@
    "deltaOwn": -3.693146,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3763,6 +3795,30 @@
    "deltaOwn": 52.235687,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "MRCY",
+   "issuer": "MERCURY SYSTEMS INC",
+   "insider": "KUPINSKY STUART",
+   "role": "EVP, CLO & Corp Sec",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 131200.248,
+   "shares": 1308.0,
+   "avgPrice": 100.306,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 5485554371,
+   "pctOfCompany": 0.002392,
+   "stakeOwned": 0.095518,
+   "deltaOwn": -2.229799,
+   "newPosition": false,
+   "clusterSize": 5,
+   "clusterValue": 6818401.3638,
    "clusterFamily": false
   },
   {
@@ -3785,6 +3841,7 @@
    "deltaOwn": 2.885432,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 229496.29,
    "clusterFamily": false
   },
   {
@@ -3807,73 +3864,8 @@
    "deltaOwn": -0.969897,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
-  },
-  {
-   "ticker": "TG",
-   "issuer": "TREDEGAR CORP",
-   "insider": "Gottwald James T.",
-   "role": "10% owner",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 124722.388,
-   "shares": 15509.0,
-   "avgPrice": 8.041936,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 275470664,
-   "pctOfCompany": 0.045276,
-   "stakeOwned": 1.061603,
-   "deltaOwn": -4.026022,
-   "newPosition": false,
-   "clusterSize": 3,
-   "clusterFamily": true
-  },
-  {
-   "ticker": "TG",
-   "issuer": "TREDEGAR CORP",
-   "insider": "GOTTWALD JOHN D",
-   "role": "10% owner",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 124714.372,
-   "shares": 15508.0,
-   "avgPrice": 8.041938,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 275470664,
-   "pctOfCompany": 0.045273,
-   "stakeOwned": 1.061606,
-   "deltaOwn": -4.025762,
-   "newPosition": false,
-   "clusterSize": 3,
-   "clusterFamily": true
-  },
-  {
-   "ticker": "TG",
-   "issuer": "TREDEGAR CORP",
-   "insider": "GOTTWALD WILLIAM M",
-   "role": "10% owner",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 124714.372,
-   "shares": 15508.0,
-   "avgPrice": 8.041938,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 275470664,
-   "pctOfCompany": 0.045273,
-   "stakeOwned": 1.061603,
-   "deltaOwn": -4.025772,
-   "newPosition": false,
-   "clusterSize": 3,
-   "clusterFamily": true
   },
   {
    "ticker": "WCN",
@@ -3895,6 +3887,7 @@
    "deltaOwn": -17.721519,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 535425.0,
    "clusterFamily": false
   },
   {
@@ -3916,7 +3909,8 @@
    "stakeOwned": 0.085556,
    "deltaOwn": -12.094823,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -3939,28 +3933,7 @@
    "deltaOwn": -13.09288,
    "newPosition": false,
    "clusterSize": 8,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "AFCG",
-   "issuer": "Advanced Flower Capital Inc.",
-   "insider": "TANNENBAUM LEONARD M",
-   "role": "director",
-   "side": "buy",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 110486.68,
-   "shares": 32841.0,
-   "avgPrice": 3.364291,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 74137174,
-   "pctOfCompany": 0.14903,
-   "stakeOwned": 29.090811,
-   "deltaOwn": 0.500426,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": 34311504.1936,
    "clusterFamily": false
   },
   {
@@ -3983,6 +3956,7 @@
    "deltaOwn": -100.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4005,6 +3979,7 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4027,6 +4002,7 @@
    "deltaOwn": -1.711716,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 167719.1648,
    "clusterFamily": false
   },
   {
@@ -4049,6 +4025,7 @@
    "deltaOwn": -3.799031,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4071,6 +4048,30 @@
    "deltaOwn": -7.930128,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "BFST",
+   "issuer": "Business First Bancshares, Inc.",
+   "insider": "Cummings George W. III",
+   "role": "director",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 102873.0,
+   "shares": 3235.0,
+   "avgPrice": 31.8,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 1013928843,
+   "pctOfCompany": 0.010146,
+   "stakeOwned": 0.608128,
+   "deltaOwn": -1.608013,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4093,6 +4094,7 @@
    "deltaOwn": -75.030012,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4114,7 +4116,8 @@
    "stakeOwned": 0.232664,
    "deltaOwn": -0.923325,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4137,28 +4140,7 @@
    "deltaOwn": 5.683516,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "VTOL",
-   "issuer": "Bristow Group Inc.",
-   "insider": "Brass Lorin L.",
-   "role": "director",
-   "side": "sell",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 97357.333,
-   "shares": 2090.0,
-   "avgPrice": 46.582456,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 1346339585,
-   "pctOfCompany": 0.007231,
-   "stakeOwned": 0.070046,
-   "deltaOwn": -9.145408,
-   "newPosition": false,
-   "clusterSize": 3,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4181,6 +4163,30 @@
    "deltaOwn": -1.292061,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "VTOL",
+   "issuer": "Bristow Group Inc.",
+   "insider": "Brass Lorin L.",
+   "role": "director",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 92702.833,
+   "shares": 1990.0,
+   "avgPrice": 46.584338,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 1346339585,
+   "pctOfCompany": 0.006886,
+   "stakeOwned": 0.06367,
+   "deltaOwn": -9.538417,
+   "newPosition": false,
+   "clusterSize": 2,
+   "clusterValue": 564777.4984,
    "clusterFamily": false
   },
   {
@@ -4203,6 +4209,7 @@
    "deltaOwn": -4.095004,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 252044.1636,
    "clusterFamily": false
   },
   {
@@ -4225,6 +4232,7 @@
    "deltaOwn": 12.466691,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4247,6 +4255,7 @@
    "deltaOwn": -4.536176,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 242921.2864,
    "clusterFamily": false
   },
   {
@@ -4269,6 +4278,7 @@
    "deltaOwn": -5.733309,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4291,28 +4301,7 @@
    "deltaOwn": 5.377483,
    "newPosition": false,
    "clusterSize": 4,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "OPFI",
-   "issuer": "OppFi Inc.",
-   "insider": "Schwartz Todd G.",
-   "role": "Chief Executive Officer",
-   "side": "buy",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 74640.695,
-   "shares": 10500.0,
-   "avgPrice": 7.108638,
-   "filings": 3,
-   "institution": false,
-   "marketCap": 594753565,
-   "pctOfCompany": 0.01255,
-   "stakeOwned": 0.689761,
-   "deltaOwn": 1.819023,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": 807794.1,
    "clusterFamily": false
   },
   {
@@ -4335,6 +4324,7 @@
    "deltaOwn": -1.60423,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4357,6 +4347,7 @@
    "deltaOwn": -5.544313,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4378,7 +4369,54 @@
    "stakeOwned": 0.029092,
    "deltaOwn": -1.811594,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "AFCG",
+   "issuer": "Advanced Flower Capital Inc.",
+   "insider": "TANNENBAUM LEONARD M",
+   "role": "director",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 65800.0,
+   "shares": 20000.0,
+   "avgPrice": 3.29,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 74137174,
+   "pctOfCompany": 0.088754,
+   "stakeOwned": 29.090811,
+   "deltaOwn": 0.304162,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "MRCY",
+   "issuer": "MERCURY SYSTEMS INC",
+   "insider": "Munro Douglas",
+   "role": "SVP, CAO",
+   "side": "sell",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 65614.0886,
+   "shares": 657.0,
+   "avgPrice": 99.869237,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 5485554371,
+   "pctOfCompany": 0.001196,
+   "stakeOwned": 0.021803,
+   "deltaOwn": -4.778877,
+   "newPosition": false,
+   "clusterSize": 5,
+   "clusterValue": 6818401.3638,
    "clusterFamily": false
   },
   {
@@ -4401,6 +4439,7 @@
    "deltaOwn": -4.053073,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4423,6 +4462,7 @@
    "deltaOwn": 8.356897,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4445,6 +4485,30 @@
    "deltaOwn": -33.408587,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "ISRG",
+   "issuer": "INTUITIVE SURGICAL INC",
+   "insider": "Brosius Mark",
+   "role": "EVP & Chief Mfg and Supply Cha",
+   "side": "sell",
+   "tradedOn": "2026-08-21",
+   "filedOn": "2026-08-21",
+   "lagDays": 0,
+   "value": 59439.38,
+   "shares": 154.0,
+   "avgPrice": 385.97,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 135719302700,
+   "pctOfCompany": 4.4e-05,
+   "stakeOwned": 0.000267,
+   "deltaOwn": -13.848921,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4466,7 +4530,8 @@
    "stakeOwned": 0.027564,
    "deltaOwn": -6.807749,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4489,6 +4554,7 @@
    "deltaOwn": -13.503242,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4510,7 +4576,31 @@
    "stakeOwned": 0.481462,
    "deltaOwn": 4.224543,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "SE",
+   "issuer": "Sea Ltd",
+   "insider": "Zhao Feng",
+   "role": "President of Garena",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 50408.4,
+   "shares": 420.0,
+   "avgPrice": 120.02,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 72159865454,
+   "pctOfCompany": 7e-05,
+   "stakeOwned": 0.022789,
+   "deltaOwn": -0.3,
+   "newPosition": false,
+   "clusterSize": 5,
+   "clusterValue": 7302966.469,
    "clusterFamily": false
   },
   {
@@ -4533,6 +4623,7 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4555,6 +4646,30 @@
    "deltaOwn": 117.924528,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "OPFI",
+   "issuer": "OppFi Inc.",
+   "insider": "Schwartz Todd G.",
+   "role": "Chief Executive Officer",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 49650.47,
+   "shares": 6950.0,
+   "avgPrice": 7.143953,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 594753565,
+   "pctOfCompany": 0.008348,
+   "stakeOwned": 0.689761,
+   "deltaOwn": 1.19666,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4577,6 +4692,7 @@
    "deltaOwn": 13.029561,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 55680.19,
    "clusterFamily": false
   },
   {
@@ -4599,6 +4715,7 @@
    "deltaOwn": 14.054275,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4620,7 +4737,8 @@
    "stakeOwned": 0.093556,
    "deltaOwn": -1.422596,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4642,7 +4760,8 @@
    "stakeOwned": 0.52544,
    "deltaOwn": 9.057151,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4665,6 +4784,7 @@
    "deltaOwn": 39.009167,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 807794.1,
    "clusterFamily": false
   },
   {
@@ -4687,6 +4807,7 @@
    "deltaOwn": 0.529395,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 47860.0,
    "clusterFamily": false
   },
   {
@@ -4709,6 +4830,7 @@
    "deltaOwn": 153.182008,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4731,6 +4853,7 @@
    "deltaOwn": 0.451192,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4753,6 +4876,7 @@
    "deltaOwn": -3.637979,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4775,6 +4899,7 @@
    "deltaOwn": 16.746045,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4797,6 +4922,7 @@
    "deltaOwn": 16.889262,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 63691.6,
    "clusterFamily": false
   },
   {
@@ -4819,6 +4945,99 @@
    "deltaOwn": 0.730487,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 110600.0,
+   "clusterFamily": true
+  },
+  {
+   "ticker": "SE",
+   "issuer": "Sea Ltd",
+   "insider": "Feng Zhimin",
+   "role": "President",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 35760.0,
+   "shares": 298.0,
+   "avgPrice": 120.0,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 72159865454,
+   "pctOfCompany": 5e-05,
+   "stakeOwned": 0.037761,
+   "deltaOwn": -0.128683,
+   "newPosition": false,
+   "clusterSize": 5,
+   "clusterValue": 7302966.469,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "TG",
+   "issuer": "TREDEGAR CORP",
+   "insider": "GOTTWALD WILLIAM M",
+   "role": "10% owner",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 35053.524,
+   "shares": 4318.0,
+   "avgPrice": 8.118,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 275470664,
+   "pctOfCompany": 0.012725,
+   "stakeOwned": 1.039235,
+   "deltaOwn": -1.179015,
+   "newPosition": false,
+   "clusterSize": 3,
+   "clusterValue": 105160.572,
+   "clusterFamily": true
+  },
+  {
+   "ticker": "TG",
+   "issuer": "TREDEGAR CORP",
+   "insider": "GOTTWALD JOHN D",
+   "role": "10% owner",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 35053.524,
+   "shares": 4318.0,
+   "avgPrice": 8.118,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 275470664,
+   "pctOfCompany": 0.012725,
+   "stakeOwned": 1.039238,
+   "deltaOwn": -1.179012,
+   "newPosition": false,
+   "clusterSize": 3,
+   "clusterValue": 105160.572,
+   "clusterFamily": true
+  },
+  {
+   "ticker": "TG",
+   "issuer": "TREDEGAR CORP",
+   "insider": "Gottwald James T.",
+   "role": "10% owner",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 35053.524,
+   "shares": 4318.0,
+   "avgPrice": 8.118,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 275470664,
+   "pctOfCompany": 0.012725,
+   "stakeOwned": 1.039235,
+   "deltaOwn": -1.179015,
+   "newPosition": false,
+   "clusterSize": 3,
+   "clusterValue": 105160.572,
    "clusterFamily": true
   },
   {
@@ -4841,6 +5060,7 @@
    "deltaOwn": -59.238577,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4863,6 +5083,7 @@
    "deltaOwn": 4.801383,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4885,6 +5106,7 @@
    "deltaOwn": -1.543503,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 167719.1648,
    "clusterFamily": false
   },
   {
@@ -4907,6 +5129,7 @@
    "deltaOwn": -14.541813,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4929,6 +5152,7 @@
    "deltaOwn": 2.38786,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4951,6 +5175,7 @@
    "deltaOwn": -4.452756,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 365382.0,
    "clusterFamily": false
   },
   {
@@ -4973,6 +5198,7 @@
    "deltaOwn": 1.103412,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -4995,28 +5221,7 @@
    "deltaOwn": -13.997874,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "FGL",
-   "issuer": "Founder Group Ltd",
-   "insider": "HRT FINANCIAL LP",
-   "role": "10% owner",
-   "side": "buy",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 29331.755,
-   "shares": 76946.0,
-   "avgPrice": 0.381199,
-   "filings": 2,
-   "institution": true,
-   "marketCap": 256254,
-   "pctOfCompany": 11.44636,
-   "stakeOwned": 19.045565,
-   "deltaOwn": 69.240875,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5039,6 +5244,7 @@
    "deltaOwn": -1.429814,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 167719.1648,
    "clusterFamily": false
   },
   {
@@ -5061,6 +5267,7 @@
    "deltaOwn": 11.67297,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 49045.0,
    "clusterFamily": false
   },
   {
@@ -5083,28 +5290,7 @@
    "deltaOwn": -1.801633,
    "newPosition": false,
    "clusterSize": 2,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "HUMA",
-   "issuer": "Humacyte, Inc.",
-   "insider": "Jones Keith Anthony",
-   "role": "director",
-   "side": "buy",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 24750.0,
-   "shares": 40000.0,
-   "avgPrice": 0.61875,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 178401941,
-   "pctOfCompany": 0.013873,
-   "stakeOwned": 0.014399,
-   "deltaOwn": null,
-   "newPosition": true,
-   "clusterSize": 1,
+   "clusterValue": 640206.8992,
    "clusterFamily": false
   },
   {
@@ -5127,6 +5313,7 @@
    "deltaOwn": 14.248465,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 63691.6,
    "clusterFamily": false
   },
   {
@@ -5149,6 +5336,7 @@
    "deltaOwn": -0.595436,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5170,7 +5358,8 @@
    "stakeOwned": 0.054151,
    "deltaOwn": -3.222157,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5193,6 +5382,7 @@
    "deltaOwn": -2.235678,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5214,7 +5404,8 @@
    "stakeOwned": 0.038436,
    "deltaOwn": -1.567935,
    "newPosition": false,
-   "clusterSize": 4,
+   "clusterSize": 3,
+   "clusterValue": 798607.8695,
    "clusterFamily": false
   },
   {
@@ -5237,6 +5428,7 @@
    "deltaOwn": -1.57298,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5259,6 +5451,7 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5281,6 +5474,7 @@
    "deltaOwn": 11.016949,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5303,6 +5497,7 @@
    "deltaOwn": -0.672083,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5325,28 +5520,7 @@
    "deltaOwn": -100.0,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "GAIA",
-   "issuer": "GAIA, INC",
-   "insider": "Sutherland Paul Howard",
-   "role": "director",
-   "side": "buy",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 7345.828,
-   "shares": 5000.0,
-   "avgPrice": 1.469166,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 36104624,
-   "pctOfCompany": 0.020346,
-   "stakeOwned": 1.744579,
-   "deltaOwn": 1.140061,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5369,6 +5543,30 @@
    "deltaOwn": -0.724335,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "HUMA",
+   "issuer": "Humacyte, Inc.",
+   "insider": "Jones Keith Anthony",
+   "role": "director",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 6930.0,
+   "shares": 10000.0,
+   "avgPrice": 0.693,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 178401941,
+   "pctOfCompany": 0.003884,
+   "stakeOwned": 0.014399,
+   "deltaOwn": 33.333333,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5391,28 +5589,30 @@
    "deltaOwn": 0.308758,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
-   "ticker": "RCG",
-   "issuer": "RENN Fund, Inc.",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "ticker": "FGL",
+   "issuer": "Founder Group Ltd",
+   "insider": "HRT FINANCIAL LP",
    "role": "10% owner",
    "side": "buy",
-   "tradedOn": "2026-08-20",
+   "tradedOn": "2026-08-19",
    "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 6524.28,
-   "shares": 2268.0,
-   "avgPrice": 2.876667,
-   "filings": 3,
+   "lagDays": 2,
+   "value": 5855.678,
+   "shares": 15329.0,
+   "avgPrice": 0.382,
+   "filings": 1,
    "institution": true,
-   "marketCap": 20135305,
-   "pctOfCompany": 0.032402,
-   "stakeOwned": 13.617063,
-   "deltaOwn": 0.237966,
+   "marketCap": 256254,
+   "pctOfCompany": 2.285107,
+   "stakeOwned": 19.045565,
+   "deltaOwn": 8.873773,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5435,6 +5635,7 @@
    "deltaOwn": 1.104428,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5457,6 +5658,7 @@
    "deltaOwn": 2.075954,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 55680.19,
    "clusterFamily": false
   },
   {
@@ -5479,6 +5681,7 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5500,7 +5703,31 @@
    "stakeOwned": 0.088395,
    "deltaOwn": 1.470182,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 2,
+   "clusterValue": 34606.0,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "RCG",
+   "issuer": "RENN Fund, Inc.",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 4407.48,
+   "shares": 1512.0,
+   "avgPrice": 2.915,
+   "filings": 2,
+   "institution": true,
+   "marketCap": 20135305,
+   "pctOfCompany": 0.021889,
+   "stakeOwned": 13.617063,
+   "deltaOwn": 0.158518,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5523,28 +5750,7 @@
    "deltaOwn": 0.181273,
    "newPosition": false,
    "clusterSize": 2,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "VENU",
-   "issuer": "Venu Holding Corp",
-   "insider": "ROTH JAY W",
-   "role": "CEO & Chairman",
-   "side": "buy",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-21",
-   "lagDays": 2,
-   "value": 3725.1,
-   "shares": 2000.0,
-   "avgPrice": 1.86255,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 106237942,
-   "pctOfCompany": 0.003506,
-   "stakeOwned": 16.491324,
-   "deltaOwn": 0.02158,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": 47860.0,
    "clusterFamily": false
   },
   {
@@ -5567,6 +5773,30 @@
    "deltaOwn": 2.33209,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "GAIA",
+   "issuer": "GAIA, INC",
+   "insider": "Sutherland Paul Howard",
+   "role": "director",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 2306.8,
+   "shares": 1580.0,
+   "avgPrice": 1.46,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 36104624,
+   "pctOfCompany": 0.006389,
+   "stakeOwned": 1.744579,
+   "deltaOwn": 0.357472,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5589,6 +5819,30 @@
    "deltaOwn": 11.276978,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 55680.19,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "VENU",
+   "issuer": "Venu Holding Corp",
+   "insider": "ROTH JAY W",
+   "role": "CEO & Chairman",
+   "side": "buy",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-21",
+   "lagDays": 2,
+   "value": 1885.2,
+   "shares": 1000.0,
+   "avgPrice": 1.8852,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 106237942,
+   "pctOfCompany": 0.001775,
+   "stakeOwned": 16.491324,
+   "deltaOwn": 0.010789,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5611,28 +5865,7 @@
    "deltaOwn": -0.167113,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "TPL",
-   "issuer": "Texas Pacific Land Corp",
-   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
-   "role": "10% owner",
-   "side": "buy",
-   "tradedOn": "2026-08-20",
-   "filedOn": "2026-08-21",
-   "lagDays": 1,
-   "value": 1111.11,
-   "shares": 3.0,
-   "avgPrice": 370.37,
-   "filings": 3,
-   "institution": true,
-   "marketCap": 26438685572,
-   "pctOfCompany": 4e-06,
-   "stakeOwned": 4.703195,
-   "deltaOwn": 9.2e-05,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5655,6 +5888,30 @@
    "deltaOwn": 6.641417,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "TPL",
+   "issuer": "Texas Pacific Land Corp",
+   "insider": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+   "role": "10% owner",
+   "side": "buy",
+   "tradedOn": "2026-08-20",
+   "filedOn": "2026-08-21",
+   "lagDays": 1,
+   "value": 749.95,
+   "shares": 2.0,
+   "avgPrice": 374.975,
+   "filings": 2,
+   "institution": true,
+   "marketCap": 26438685572,
+   "pctOfCompany": 3e-06,
+   "stakeOwned": 4.703195,
+   "deltaOwn": 6.2e-05,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5677,6 +5934,7 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5699,6 +5957,7 @@
    "deltaOwn": -30.522678,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5721,6 +5980,7 @@
    "deltaOwn": -11.867883,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5743,6 +6003,7 @@
    "deltaOwn": -52.770541,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5765,6 +6026,7 @@
    "deltaOwn": -18.15621,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5787,6 +6049,7 @@
    "deltaOwn": 0.338291,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5809,6 +6072,7 @@
    "deltaOwn": -29.773535,
    "newPosition": false,
    "clusterSize": 7,
+   "clusterValue": 59552441.82,
    "clusterFamily": false
   },
   {
@@ -5831,6 +6095,7 @@
    "deltaOwn": -37.385196,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 24770482.0021,
    "clusterFamily": false
   },
   {
@@ -5853,6 +6118,7 @@
    "deltaOwn": -62.393458,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 28693254.68,
    "clusterFamily": false
   },
   {
@@ -5875,6 +6141,7 @@
    "deltaOwn": 0.680726,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5897,6 +6164,7 @@
    "deltaOwn": -7.280811,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5919,6 +6187,7 @@
    "deltaOwn": -7.756293,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -5940,7 +6209,8 @@
    "stakeOwned": 0.215433,
    "deltaOwn": -17.370447,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 2,
+   "clusterValue": 21056346.6803,
    "clusterFamily": false
   },
   {
@@ -5962,7 +6232,8 @@
    "stakeOwned": 0.18168,
    "deltaOwn": -19.95359,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 2,
+   "clusterValue": 21056346.6803,
    "clusterFamily": false
   },
   {
@@ -5985,6 +6256,7 @@
    "deltaOwn": -41.42829,
    "newPosition": false,
    "clusterSize": 7,
+   "clusterValue": 59552441.82,
    "clusterFamily": false
   },
   {
@@ -6007,6 +6279,7 @@
    "deltaOwn": -23.179621,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 11060705.334,
    "clusterFamily": false
   },
   {
@@ -6028,7 +6301,8 @@
    "stakeOwned": 0.066882,
    "deltaOwn": -19.663154,
    "newPosition": false,
-   "clusterSize": 5,
+   "clusterSize": 3,
+   "clusterValue": 165432750.75,
    "clusterFamily": false
   },
   {
@@ -6051,6 +6325,7 @@
    "deltaOwn": -41.195372,
    "newPosition": false,
    "clusterSize": 7,
+   "clusterValue": 59552441.82,
    "clusterFamily": false
   },
   {
@@ -6072,7 +6347,8 @@
    "stakeOwned": 0.118536,
    "deltaOwn": -34.287494,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6095,6 +6371,7 @@
    "deltaOwn": -0.47901,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 22271783.91,
    "clusterFamily": false
   },
   {
@@ -6117,6 +6394,7 @@
    "deltaOwn": -43.623915,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6139,6 +6417,7 @@
    "deltaOwn": -33.431764,
    "newPosition": false,
    "clusterSize": 7,
+   "clusterValue": 59552441.82,
    "clusterFamily": false
   },
   {
@@ -6161,6 +6440,7 @@
    "deltaOwn": -5.943863,
    "newPosition": false,
    "clusterSize": 6,
+   "clusterValue": 14092012.68,
    "clusterFamily": false
   },
   {
@@ -6182,7 +6462,8 @@
    "stakeOwned": 1.434306,
    "deltaOwn": -9.516998,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6205,6 +6486,7 @@
    "deltaOwn": -8.678928,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6227,6 +6509,7 @@
    "deltaOwn": -30.928598,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 10312495.3039,
    "clusterFamily": false
   },
   {
@@ -6249,6 +6532,7 @@
    "deltaOwn": -19.673081,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6271,6 +6555,7 @@
    "deltaOwn": -14.896598,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6293,6 +6578,7 @@
    "deltaOwn": -90.456432,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 10312495.3039,
    "clusterFamily": false
   },
   {
@@ -6315,6 +6601,7 @@
    "deltaOwn": 6.481584,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6337,6 +6624,7 @@
    "deltaOwn": -11.943426,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 7636101.93,
    "clusterFamily": false
   },
   {
@@ -6359,6 +6647,7 @@
    "deltaOwn": 6.159732,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6380,7 +6669,8 @@
    "stakeOwned": null,
    "deltaOwn": -100.0,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6403,28 +6693,7 @@
    "deltaOwn": -8.140204,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "ECAT",
-   "issuer": "BlackRock ESG Capital Allocation Term Trust",
-   "insider": "Saba Capital Management, L.P.",
-   "role": "10% owner",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-20",
-   "lagDays": 1,
-   "value": 3708134.33,
-   "shares": 242329.0,
-   "avgPrice": 15.302066,
-   "filings": 3,
-   "institution": true,
-   "marketCap": 1523854432,
-   "pctOfCompany": 0.243339,
-   "stakeOwned": 14.448661,
-   "deltaOwn": -1.658179,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6447,6 +6716,7 @@
    "deltaOwn": -6.821613,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6469,6 +6739,7 @@
    "deltaOwn": -3.917559,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6491,6 +6762,7 @@
    "deltaOwn": -4.136658,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6513,6 +6785,7 @@
    "deltaOwn": -22.929674,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 3210034.58,
    "clusterFamily": false
   },
   {
@@ -6535,6 +6808,7 @@
    "deltaOwn": -20.71128,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6557,6 +6831,7 @@
    "deltaOwn": 5.023119,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6579,6 +6854,7 @@
    "deltaOwn": -1.990014,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6601,6 +6877,7 @@
    "deltaOwn": 1.522234,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6623,6 +6900,7 @@
    "deltaOwn": -37.423707,
    "newPosition": false,
    "clusterSize": 7,
+   "clusterValue": 59552441.82,
    "clusterFamily": false
   },
   {
@@ -6645,6 +6923,7 @@
    "deltaOwn": -26.95787,
    "newPosition": false,
    "clusterSize": 6,
+   "clusterValue": 14092012.68,
    "clusterFamily": false
   },
   {
@@ -6667,28 +6946,7 @@
    "deltaOwn": -10.982725,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "HAL",
-   "issuer": "HALLIBURTON CO",
-   "insider": "Slocum Jeffrey Shannon",
-   "role": "Director, EVP and COO",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-20",
-   "lagDays": 1,
-   "value": 2410324.523,
-   "shares": 68693.0,
-   "avgPrice": 35.088357,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 29442827296,
-   "pctOfCompany": 0.008186,
-   "stakeOwned": 0.020561,
-   "deltaOwn": -28.622685,
-   "newPosition": false,
-   "clusterSize": 2,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6711,6 +6969,7 @@
    "deltaOwn": -42.352191,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6733,6 +6992,7 @@
    "deltaOwn": -50.005001,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6755,6 +7015,7 @@
    "deltaOwn": -6.808791,
    "newPosition": false,
    "clusterSize": 6,
+   "clusterValue": 14092012.68,
    "clusterFamily": false
   },
   {
@@ -6777,6 +7038,7 @@
    "deltaOwn": -7.389618,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6798,7 +7060,8 @@
    "stakeOwned": 0.017229,
    "deltaOwn": -14.15125,
    "newPosition": false,
-   "clusterSize": 6,
+   "clusterSize": 5,
+   "clusterValue": 7302966.469,
    "clusterFamily": false
   },
   {
@@ -6821,6 +7084,7 @@
    "deltaOwn": -0.897146,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6843,6 +7107,30 @@
    "deltaOwn": -10.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "HAL",
+   "issuer": "HALLIBURTON CO",
+   "insider": "Slocum Jeffrey Shannon",
+   "role": "Director, EVP and COO",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-20",
+   "lagDays": 1,
+   "value": 1844751.48,
+   "shares": 52572.0,
+   "avgPrice": 35.09,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 29442827296,
+   "pctOfCompany": 0.006266,
+   "stakeOwned": 0.014251,
+   "deltaOwn": -30.689668,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6865,6 +7153,7 @@
    "deltaOwn": -8.556735,
    "newPosition": false,
    "clusterSize": 7,
+   "clusterValue": 59552441.82,
    "clusterFamily": false
   },
   {
@@ -6887,6 +7176,7 @@
    "deltaOwn": -3.096462,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 7636101.93,
    "clusterFamily": false
   },
   {
@@ -6909,6 +7199,7 @@
    "deltaOwn": 20.116677,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1627274.25,
    "clusterFamily": false
   },
   {
@@ -6931,6 +7222,7 @@
    "deltaOwn": -3.046239,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 2077455.9995,
    "clusterFamily": false
   },
   {
@@ -6953,6 +7245,7 @@
    "deltaOwn": -17.074292,
    "newPosition": false,
    "clusterSize": 6,
+   "clusterValue": 14092012.68,
    "clusterFamily": false
   },
   {
@@ -6975,6 +7268,7 @@
    "deltaOwn": -10.746547,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -6996,7 +7290,8 @@
    "stakeOwned": 0.446265,
    "deltaOwn": -7.766686,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7019,6 +7314,7 @@
    "deltaOwn": -10.106024,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 22271783.91,
    "clusterFamily": false
   },
   {
@@ -7041,6 +7337,7 @@
    "deltaOwn": -5.567497,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7063,6 +7360,7 @@
    "deltaOwn": -4.39148,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 7636101.93,
    "clusterFamily": false
   },
   {
@@ -7085,6 +7383,7 @@
    "deltaOwn": -28.341013,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7107,6 +7406,7 @@
    "deltaOwn": -97.341465,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7129,6 +7429,7 @@
    "deltaOwn": -19.603231,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1232690.0,
    "clusterFamily": false
   },
   {
@@ -7151,6 +7452,7 @@
    "deltaOwn": -28.54753,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7173,6 +7475,7 @@
    "deltaOwn": -5.622051,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7195,6 +7498,30 @@
    "deltaOwn": -62.93646,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "ECAT",
+   "issuer": "BlackRock ESG Capital Allocation Term Trust",
+   "insider": "Saba Capital Management, L.P.",
+   "role": "10% owner",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-20",
+   "lagDays": 1,
+   "value": 1062460.03,
+   "shares": 69761.0,
+   "avgPrice": 15.23,
+   "filings": 1,
+   "institution": true,
+   "marketCap": 1523854432,
+   "pctOfCompany": 0.069722,
+   "stakeOwned": 14.27366,
+   "deltaOwn": -0.488949,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7217,6 +7544,7 @@
    "deltaOwn": -0.469697,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7238,7 +7566,8 @@
    "stakeOwned": 0.008849,
    "deltaOwn": -17.86998,
    "newPosition": false,
-   "clusterSize": 5,
+   "clusterSize": 3,
+   "clusterValue": 165432750.75,
    "clusterFamily": false
   },
   {
@@ -7261,6 +7590,7 @@
    "deltaOwn": -9.426373,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1186600.0,
    "clusterFamily": false
   },
   {
@@ -7283,6 +7613,7 @@
    "deltaOwn": -11.223679,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7305,6 +7636,7 @@
    "deltaOwn": -4.446091,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7327,6 +7659,7 @@
    "deltaOwn": -15.041134,
    "newPosition": false,
    "clusterSize": 6,
+   "clusterValue": 14092012.68,
    "clusterFamily": false
   },
   {
@@ -7349,6 +7682,7 @@
    "deltaOwn": -18.965983,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7371,6 +7705,7 @@
    "deltaOwn": -13.606284,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7393,6 +7728,7 @@
    "deltaOwn": -1.564545,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7415,6 +7751,7 @@
    "deltaOwn": -44.340159,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 10312495.3039,
    "clusterFamily": false
   },
   {
@@ -7437,6 +7774,7 @@
    "deltaOwn": -18.892472,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1704847.81,
    "clusterFamily": false
   },
   {
@@ -7459,6 +7797,7 @@
    "deltaOwn": -3.941475,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1704847.81,
    "clusterFamily": false
   },
   {
@@ -7481,6 +7820,7 @@
    "deltaOwn": -24.999893,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1424911.3842,
    "clusterFamily": false
   },
   {
@@ -7503,6 +7843,7 @@
    "deltaOwn": -9.374234,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7524,7 +7865,8 @@
    "stakeOwned": 0.039066,
    "deltaOwn": -32.968144,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7547,6 +7889,7 @@
    "deltaOwn": -5.558885,
    "newPosition": false,
    "clusterSize": 5,
+   "clusterValue": 3966253.49,
    "clusterFamily": false
   },
   {
@@ -7569,6 +7912,7 @@
    "deltaOwn": -7.405736,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 1307047.4596,
    "clusterFamily": false
   },
   {
@@ -7591,6 +7935,7 @@
    "deltaOwn": -21.53548,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7613,6 +7958,7 @@
    "deltaOwn": -48.372366,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7635,6 +7981,7 @@
    "deltaOwn": -60.557432,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7657,6 +8004,7 @@
    "deltaOwn": -7.244548,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 734482.73,
    "clusterFamily": false
   },
   {
@@ -7679,6 +8027,7 @@
    "deltaOwn": -4.231632,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7701,6 +8050,7 @@
    "deltaOwn": -5.351131,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7723,6 +8073,7 @@
    "deltaOwn": -7.481729,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 28693254.68,
    "clusterFamily": false
   },
   {
@@ -7744,7 +8095,8 @@
    "stakeOwned": 0.034729,
    "deltaOwn": -13.311502,
    "newPosition": false,
-   "clusterSize": 3,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7767,6 +8119,7 @@
    "deltaOwn": -8.189602,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 826201.4593,
    "clusterFamily": false
   },
   {
@@ -7789,6 +8142,7 @@
    "deltaOwn": -43.495621,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 1424911.3842,
    "clusterFamily": false
   },
   {
@@ -7811,6 +8165,7 @@
    "deltaOwn": -29.783815,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 763153.2,
    "clusterFamily": false
   },
   {
@@ -7833,6 +8188,7 @@
    "deltaOwn": -25.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7855,6 +8211,7 @@
    "deltaOwn": -68.268551,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7877,28 +8234,7 @@
    "deltaOwn": -31.469583,
    "newPosition": false,
    "clusterSize": 7,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "HIVE",
-   "issuer": "HIVE Digital Technologies Ltd.",
-   "insider": "Perrill Dave",
-   "role": "director",
-   "side": "sell",
-   "tradedOn": "2026-08-19",
-   "filedOn": "2026-08-20",
-   "lagDays": 1,
-   "value": 543820.0,
-   "shares": 200000.0,
-   "avgPrice": 2.7191,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 831060326,
-   "pctOfCompany": 0.065437,
-   "stakeOwned": 0.004557,
-   "deltaOwn": -94.117647,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": 59552441.82,
    "clusterFamily": false
   },
   {
@@ -7921,6 +8257,7 @@
    "deltaOwn": -8.854792,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 844470.0,
    "clusterFamily": false
   },
   {
@@ -7943,6 +8280,7 @@
    "deltaOwn": -19.898612,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7964,7 +8302,8 @@
    "stakeOwned": 0.00055,
    "deltaOwn": -18.621834,
    "newPosition": false,
-   "clusterSize": 2,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7987,6 +8326,7 @@
    "deltaOwn": -2.656702,
    "newPosition": false,
    "clusterSize": 5,
+   "clusterValue": 3966253.49,
    "clusterFamily": false
   },
   {
@@ -8009,6 +8349,7 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8031,6 +8372,7 @@
    "deltaOwn": -6.264722,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8053,6 +8395,7 @@
    "deltaOwn": -0.859423,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 504465.0763,
    "clusterFamily": false
   },
   {
@@ -8075,6 +8418,7 @@
    "deltaOwn": -25.516475,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 1307047.4596,
    "clusterFamily": false
   },
   {
@@ -8097,6 +8441,7 @@
    "deltaOwn": -0.834256,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8119,6 +8464,7 @@
    "deltaOwn": -3.587902,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8141,6 +8487,7 @@
    "deltaOwn": -1.072389,
    "newPosition": false,
    "clusterSize": 4,
+   "clusterValue": 7636101.93,
    "clusterFamily": false
   },
   {
@@ -8163,6 +8510,7 @@
    "deltaOwn": -4.146873,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8185,6 +8533,7 @@
    "deltaOwn": -77.303649,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 535425.0,
    "clusterFamily": false
   },
   {
@@ -8207,6 +8556,7 @@
    "deltaOwn": -9.472209,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8229,6 +8579,7 @@
    "deltaOwn": -56.818182,
    "newPosition": false,
    "clusterSize": 2,
+   "clusterValue": 4670640.76,
    "clusterFamily": false
   },
   {
@@ -8251,6 +8602,7 @@
    "deltaOwn": -100.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8273,6 +8625,7 @@
    "deltaOwn": -5.174093,
    "newPosition": false,
    "clusterSize": 5,
+   "clusterValue": 3966253.49,
    "clusterFamily": false
   },
   {
@@ -8295,6 +8648,7 @@
    "deltaOwn": -2.187577,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8317,6 +8671,7 @@
    "deltaOwn": -1.972442,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8339,6 +8694,7 @@
    "deltaOwn": -2.23924,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8361,6 +8717,7 @@
    "deltaOwn": 38.154687,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8383,6 +8740,7 @@
    "deltaOwn": -100.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8405,6 +8763,7 @@
    "deltaOwn": -100.0,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8427,6 +8786,7 @@
    "deltaOwn": -5.470423,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8449,6 +8809,7 @@
    "deltaOwn": -1.112331,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8471,6 +8832,7 @@
    "deltaOwn": -0.834325,
    "newPosition": false,
    "clusterSize": 3,
+   "clusterValue": 2077455.9995,
    "clusterFamily": false
   },
   {
@@ -8493,6 +8855,7 @@
    "deltaOwn": 63.732522,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8515,6 +8878,7 @@
    "deltaOwn": -8.339974,
    "newPosition": false,
    "clusterSize": 6,
+   "clusterValue": 14092012.68,
    "clusterFamily": false
   },
   {
@@ -8537,28 +8901,7 @@
    "deltaOwn": -33.434433,
    "newPosition": false,
    "clusterSize": 1,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "SGRY",
-   "issuer": "Surgery Partners, Inc.",
-   "insider": "DeLuca Teresa",
-   "role": "director",
-   "side": "buy",
-   "tradedOn": "2026-08-18",
-   "filedOn": "2026-08-20",
-   "lagDays": 2,
-   "value": 304712.5,
-   "shares": 21250.0,
-   "avgPrice": 14.339412,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 1900933195,
-   "pctOfCompany": 0.01603,
-   "stakeOwned": 0.052012,
-   "deltaOwn": 45.364302,
-   "newPosition": false,
-   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8581,6 +8924,7 @@
    "deltaOwn": -27.468754,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8603,6 +8947,30 @@
    "deltaOwn": -6.024407,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "HIVE",
+   "issuer": "HIVE Digital Technologies Ltd.",
+   "insider": "Perrill Dave",
+   "role": "director",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-20",
+   "lagDays": 1,
+   "value": 271910.0,
+   "shares": 100000.0,
+   "avgPrice": 2.7191,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 831060326,
+   "pctOfCompany": 0.032718,
+   "stakeOwned": 0.004557,
+   "deltaOwn": -88.888889,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8625,6 +8993,7 @@
    "deltaOwn": -9.908254,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8647,6 +9016,7 @@
    "deltaOwn": -85.118671,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8669,6 +9039,7 @@
    "deltaOwn": -14.284924,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8691,6 +9062,7 @@
    "deltaOwn": -15.773463,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8713,6 +9085,7 @@
    "deltaOwn": -1.480173,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8735,6 +9108,7 @@
    "deltaOwn": 1.137099,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8757,6 +9131,7 @@
    "deltaOwn": null,
    "newPosition": true,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8779,6 +9154,7 @@
    "deltaOwn": -24.055308,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -8801,6 +9177,30 @@
    "deltaOwn": -2.463365,
    "newPosition": false,
    "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "G",
+   "issuer": "Genpact LTD",
+   "insider": "Nanduru Anil",
+   "role": "Senior Vice President",
+   "side": "sell",
+   "tradedOn": "2026-08-19",
+   "filedOn": "2026-08-20",
+   "lagDays": 1,
+   "value": 229252.73,
+   "shares": 6191.0,
+   "avgPrice": 37.03,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 6240797773,
+   "pctOfCompany": 0.003673,
+   "stakeOwned": 0.041809,
+   "deltaOwn": -8.098739,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   }
  ]
