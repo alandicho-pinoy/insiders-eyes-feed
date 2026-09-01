@@ -1,118 +1,140 @@
 {
- "generatedAt": "2026-09-01T18:40:42.420740+00:00",
+ "generatedAt": "2026-09-01T18:47:41.309910+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "PRTS:buy",
-   "headline": "PRTS: 2 insiders bought $171,591 \u2014 0.33% of the company",
+   "key": "DKS:buy",
+   "headline": "DKS: 4 insiders bought $3.7M \u2014 0.03% of the company",
    "reasons": [
-    "2 insiders bought within days",
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 189%"
+   ],
+   "insiders": [
+    "Barrenechea Mark J",
+    "COLOMBO WILLIAM J",
+    "Eddy Robert W.",
+    "MATHRANI SANDEEP"
+   ],
+   "totalValue": 3722302.6,
+   "ticker": "DKS",
+   "side": "buy"
+  },
+  {
+   "key": "AMRC:buy",
+   "headline": "AMRC: 4 insiders bought $1.2M \u2014 0.10% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 32%"
+   ],
+   "insiders": [
+    "Cox Brian C",
+    "Miller Jennifer L",
+    "Sakellaris George P",
+    "Sutton Joseph W."
+   ],
+   "totalValue": 1197066.32,
+   "ticker": "AMRC",
+   "side": "buy"
+  },
+  {
+   "key": "HKHC:buy",
+   "headline": "HKHC: 3 insiders bought $88,414 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 82%"
+   ],
+   "insiders": [
+    "Brennan Alice C",
+    "Roller Daniel J",
+    "Rosenthal Brent D"
+   ],
+   "totalValue": 88414.0,
+   "ticker": "HKHC",
+   "side": "buy"
+  },
+  {
+   "key": "PRTS:buy",
+   "headline": "PRTS: 3 insiders bought $236,358 \u2014 0.46% of the company",
+   "reasons": [
+    "3 insiders bought within days",
     "0.17% of the whole company",
-    "grew their own stake 25%"
+    "3 insiders buying"
    ],
    "insiders": [
     "Huffaker Michael",
-    "Meniane David"
+    "Meniane David",
+    "PHELPS BARRY"
    ],
-   "totalValue": 171590.88,
+   "totalValue": 236357.88,
    "ticker": "PRTS",
    "side": "buy"
   },
   {
-   "key": "CIA:buy",
-   "headline": "CIA: Harwood Michael Philip (director) bought $38,000 \u2014 grew their own stake 913%",
+   "key": "AMRZ:buy",
+   "headline": "AMRZ: 3 insiders bought $375,274 \u2014 0.00% of the company",
    "reasons": [
-    "grew their own stake 913%"
+    "3 insiders bought within days",
+    "3 insiders buying"
    ],
    "insiders": [
-    "HARWOOD MICHAEL PHILIP"
+    "Forrest Nollaig",
+    "Gibson Dwight Audley Konrad",
+    "Singleton Denise R"
    ],
-   "totalValue": 38000.0,
-   "ticker": "CIA",
+   "totalValue": 375273.8526,
+   "ticker": "AMRZ",
    "side": "buy"
   },
   {
-   "key": "CVBF:buy",
-   "headline": "CVBF: Maddox Mike (director) bought $220,300 \u2014 grew their own stake 319%",
-   "reasons": [
-    "grew their own stake 319%"
-   ],
-   "insiders": [
-    "Maddox Mike"
-   ],
-   "totalValue": 220300.0,
-   "ticker": "CVBF",
-   "side": "buy"
-  },
-  {
-   "key": "SHMD:buy",
-   "headline": "SHMD: 2 insiders bought $267,295 \u2014 0.13% of the company",
+   "key": "MAIR:buy",
+   "headline": "MAIR: 2 insiders bought $219.6M \u2014 1.53% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.11% of the whole company",
-    "now owns 20.8% of the company",
-    "grew their own stake 106%"
+    "1.53% of the whole company",
+    "now owns 9.2% of the company",
+    "grew their own stake 120%"
    ],
    "insiders": [
-    "Schmid Anette",
-    "Schuetz Arthur Josef Hermann"
+    "BERTARELLI ERNESTO",
+    "La Force Andrew Hudson III"
    ],
-   "totalValue": 267294.7,
-   "ticker": "SHMD",
+   "totalValue": 219556784.28,
+   "ticker": "MAIR",
    "side": "buy"
   },
   {
-   "key": "SRTS:buy",
-   "headline": "SRTS: Sachetta Eric (director) bought $225,616 \u2014 0.42% of the whole company",
+   "key": "NGL:buy",
+   "headline": "NGL: 2 insiders bought $5.8M \u2014 0.27% of the company",
    "reasons": [
-    "0.42% of the whole company",
-    "grew their own stake 28%"
+    "2 insiders bought within days",
+    "0.26% of the whole company",
+    "grew their own stake 653%"
    ],
    "insiders": [
-    "Sachetta Eric"
+    "COLLINGSWORTH JAMES M",
+    "RAYMOND JOHN T"
    ],
-   "totalValue": 225616.221,
-   "ticker": "SRTS",
+   "totalValue": 5750140.642,
+   "ticker": "NGL",
    "side": "buy"
   },
   {
-   "key": "SLGL:buy",
-   "headline": "SLGL: Opaleye Management Inc. (10% owner) bought $2.8M \u2014 1.20% of the whole company (institution)",
+   "key": "JUSH:buy",
+   "headline": "JUSH: 2 insiders bought $849,154 \u2014 0.90% of the company",
    "reasons": [
-    "1.20% of the whole company (institution)"
+    "2 insiders bought within days",
+    "0.88% of the whole company",
+    "grew their own stake 63%"
    ],
    "insiders": [
-    "Opaleye Management Inc."
+    "Barack Louis Jon",
+    "Cacioppo James"
    ],
-   "totalValue": 2790326.1939,
-   "ticker": "SLGL",
-   "side": "buy"
-  },
-  {
-   "key": "GPUS:buy",
-   "headline": "GPUS: Ault Milton C Iii (Executive Chairman) bought $86,545 \u2014 0.10% of the whole company",
-   "reasons": [
-    "0.10% of the whole company",
-    "grew their own stake 74%"
-   ],
-   "insiders": [
-    "AULT MILTON C III"
-   ],
-   "totalValue": 86545.487,
-   "ticker": "GPUS",
-   "side": "buy"
-  },
-  {
-   "key": "GO:buy",
-   "headline": "GO: Jaros Carey F. (director) bought $175,500 \u2014 grew their own stake 33%",
-   "reasons": [
-    "grew their own stake 33%"
-   ],
-   "insiders": [
-    "Jaros Carey F."
-   ],
-   "totalValue": 175500.0,
-   "ticker": "GO",
+   "totalValue": 849153.76,
+   "ticker": "JUSH",
    "side": "buy"
   }
  ]
