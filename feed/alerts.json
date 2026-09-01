@@ -1,135 +1,118 @@
 {
- "generatedAt": "2026-08-27T01:01:38.381721+00:00",
+ "generatedAt": "2026-09-01T18:40:42.420740+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "ODYS:buy",
-   "headline": "ODYS: 3 insiders bought $3.9M \u2014 6.51% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "6.09% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 38%"
-   ],
-   "insiders": [
-    "Arkin Moshe",
-    "Goldwasser Benad",
-    "Vurembrand Zeev"
-   ],
-   "totalValue": 3850000.0,
-   "ticker": "ODYS",
-   "side": "buy"
-  },
-  {
-   "key": "AMRC:buy",
-   "headline": "AMRC: 4 insiders bought $558,741 \u2014 0.05% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Cox Brian C",
-    "Miller Jennifer L",
-    "Sakellaris George P",
-    "Sutton Joseph W."
-   ],
-   "totalValue": 558740.66,
-   "ticker": "AMRC",
-   "side": "buy"
-  },
-  {
-   "key": "SCTH:buy",
-   "headline": "SCTH: Sitra J Scott (President & CEO) bought $100.0M \u2014 27.80% of the whole company",
-   "reasons": [
-    "27.80% of the whole company",
-    "$100.0M from the President & CEO"
-   ],
-   "insiders": [
-    "SITRA J SCOTT"
-   ],
-   "totalValue": 100000000.0,
-   "ticker": "SCTH",
-   "side": "buy"
-  },
-  {
-   "key": "AMRZ:buy",
-   "headline": "AMRZ: 3 insiders bought $407,460 \u2014 0.00% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 74%"
-   ],
-   "insiders": [
-    "Forrest Nollaig",
-    "Sanche Jacques Wolf",
-    "Singleton Denise R"
-   ],
-   "totalValue": 407460.5,
-   "ticker": "AMRZ",
-   "side": "buy"
-  },
-  {
-   "key": "NGL:buy",
-   "headline": "NGL: 2 insiders bought $5.7M \u2014 0.27% of the company",
+   "key": "PRTS:buy",
+   "headline": "PRTS: 2 insiders bought $171,591 \u2014 0.33% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.26% of the whole company",
-    "grew their own stake 653%"
+    "0.17% of the whole company",
+    "grew their own stake 25%"
    ],
    "insiders": [
-    "COLLINGSWORTH JAMES M",
-    "RAYMOND JOHN T"
+    "Huffaker Michael",
+    "Meniane David"
    ],
-   "totalValue": 5711227.642,
-   "ticker": "NGL",
+   "totalValue": 171590.88,
+   "ticker": "PRTS",
    "side": "buy"
   },
   {
-   "key": "BABA:buy",
-   "headline": "BABA: 2 insiders bought $25.7M \u2014 0.01% of the company",
+   "key": "CIA:buy",
+   "headline": "CIA: Harwood Michael Philip (director) bought $38,000 \u2014 grew their own stake 913%",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 35%",
-    "$5.0M from the Chief Executive Officer"
+    "grew their own stake 913%"
    ],
    "insiders": [
-    "Tsai Joseph C",
-    "Wu Yongming"
+    "HARWOOD MICHAEL PHILIP"
    ],
-   "totalValue": 25691200.0,
-   "ticker": "BABA",
+   "totalValue": 38000.0,
+   "ticker": "CIA",
+   "side": "buy"
+  },
+  {
+   "key": "CVBF:buy",
+   "headline": "CVBF: Maddox Mike (director) bought $220,300 \u2014 grew their own stake 319%",
+   "reasons": [
+    "grew their own stake 319%"
+   ],
+   "insiders": [
+    "Maddox Mike"
+   ],
+   "totalValue": 220300.0,
+   "ticker": "CVBF",
+   "side": "buy"
+  },
+  {
+   "key": "SHMD:buy",
+   "headline": "SHMD: 2 insiders bought $267,295 \u2014 0.13% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.11% of the whole company",
+    "now owns 20.8% of the company",
+    "grew their own stake 106%"
+   ],
+   "insiders": [
+    "Schmid Anette",
+    "Schuetz Arthur Josef Hermann"
+   ],
+   "totalValue": 267294.7,
+   "ticker": "SHMD",
    "side": "buy"
   },
   {
    "key": "SRTS:buy",
-   "headline": "SRTS: 2 insiders bought $271,240 \u2014 0.50% of the company",
+   "headline": "SRTS: Sachetta Eric (director) bought $225,616 \u2014 0.42% of the whole company",
    "reasons": [
-    "2 insiders bought within days",
-    "0.39% of the whole company",
-    "grew their own stake 46%",
-    "0.11% of the whole company"
+    "0.42% of the whole company",
+    "grew their own stake 28%"
    ],
    "insiders": [
-    "Sachetta Eric",
-    "Sardano Joseph C"
+    "Sachetta Eric"
    ],
-   "totalValue": 271240.038,
+   "totalValue": 225616.221,
    "ticker": "SRTS",
    "side": "buy"
   },
   {
-   "key": "HKHC:buy",
-   "headline": "HKHC: 2 insiders bought $64,724 \u2014 0.01% of the company",
+   "key": "SLGL:buy",
+   "headline": "SLGL: Opaleye Management Inc. (10% owner) bought $2.8M \u2014 1.20% of the whole company (institution)",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 82%"
+    "1.20% of the whole company (institution)"
    ],
    "insiders": [
-    "Brennan Alice C",
-    "Rosenthal Brent D"
+    "Opaleye Management Inc."
    ],
-   "totalValue": 64724.0,
-   "ticker": "HKHC",
+   "totalValue": 2790326.1939,
+   "ticker": "SLGL",
+   "side": "buy"
+  },
+  {
+   "key": "GPUS:buy",
+   "headline": "GPUS: Ault Milton C Iii (Executive Chairman) bought $86,545 \u2014 0.10% of the whole company",
+   "reasons": [
+    "0.10% of the whole company",
+    "grew their own stake 74%"
+   ],
+   "insiders": [
+    "AULT MILTON C III"
+   ],
+   "totalValue": 86545.487,
+   "ticker": "GPUS",
+   "side": "buy"
+  },
+  {
+   "key": "GO:buy",
+   "headline": "GO: Jaros Carey F. (director) bought $175,500 \u2014 grew their own stake 33%",
+   "reasons": [
+    "grew their own stake 33%"
+   ],
+   "insiders": [
+    "Jaros Carey F."
+   ],
+   "totalValue": 175500.0,
+   "ticker": "GO",
    "side": "buy"
   }
  ]
