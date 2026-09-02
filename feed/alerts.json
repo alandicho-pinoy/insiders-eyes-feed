@@ -1,21 +1,70 @@
 {
- "generatedAt": "2026-09-02T14:16:03.160673+00:00",
+ "generatedAt": "2026-09-02T21:17:47.896058+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "PRTS:buy",
-   "headline": "PRTS: 2 insiders bought $171,591 \u2014 0.28% of the company",
+   "key": "WIX:buy",
+   "headline": "WIX: 6 insiders bought $371,438 \u2014 0.01% of the company",
    "reasons": [
-    "2 insiders bought within days",
-    "0.14% of the whole company",
-    "grew their own stake 25%"
+    "6 insiders bought within days",
+    "6 insiders buying"
    ],
    "insiders": [
-    "Huffaker Michael",
-    "Meniane David"
+    "Abrahami Avishai",
+    "Even-Haim Yaniv",
+    "Meyer Shelly B",
+    "Shai Omer",
+    "Shemesh Lior",
+    "Zohar Nir"
    ],
-   "totalValue": 171590.88,
-   "ticker": "PRTS",
+   "totalValue": 371437.78,
+   "ticker": "WIX",
+   "side": "buy"
+  },
+  {
+   "key": "RGCO:buy",
+   "headline": "RGCO: 3 insiders bought $64,800 \u2014 0.03% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Miles Christen Brooke",
+    "Oliver Lawrence T.",
+    "WILLIAMSON JOHN B III"
+   ],
+   "totalValue": 64799.98668,
+   "ticker": "RGCO",
+   "side": "buy"
+  },
+  {
+   "key": "GPUS:buy",
+   "headline": "GPUS: 2 insiders bought $56,527 \u2014 0.07% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 51%"
+   ],
+   "insiders": [
+    "AULT MILTON C III",
+    "Horne William B."
+   ],
+   "totalValue": 56527.353,
+   "ticker": "GPUS",
+   "side": "buy"
+  },
+  {
+   "key": "JUSH:buy",
+   "headline": "JUSH: 2 insiders bought $173,072 \u2014 0.15% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.14% of the whole company"
+   ],
+   "insiders": [
+    "Barack Louis Jon",
+    "Cacioppo James"
+   ],
+   "totalValue": 173071.86,
+   "ticker": "JUSH",
    "side": "buy"
   },
   {
@@ -46,19 +95,6 @@
    "side": "buy"
   },
   {
-   "key": "CVBF:buy",
-   "headline": "CVBF: Maddox Mike (director) bought $220,300 \u2014 grew their own stake 319%",
-   "reasons": [
-    "grew their own stake 319%"
-   ],
-   "insiders": [
-    "Maddox Mike"
-   ],
-   "totalValue": 220300.0,
-   "ticker": "CVBF",
-   "side": "buy"
-  },
-  {
    "key": "DY:buy",
    "headline": "DY: Fallon David Joseph (director) bought $200,844 \u2014 grew their own stake 204%",
    "reasons": [
@@ -82,37 +118,6 @@
    ],
    "totalValue": 1793100.0,
    "ticker": "EMPD",
-   "side": "buy"
-  },
-  {
-   "key": "SHMD:buy",
-   "headline": "SHMD: 2 insiders bought $267,295 \u2014 0.13% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.11% of the whole company",
-    "now owns 20.8% of the company",
-    "grew their own stake 106%"
-   ],
-   "insiders": [
-    "Schmid Anette",
-    "Schuetz Arthur Josef Hermann"
-   ],
-   "totalValue": 267294.7,
-   "ticker": "SHMD",
-   "side": "buy"
-  },
-  {
-   "key": "AFCG:buy",
-   "headline": "AFCG: Tannenbaum Leonard M (director) bought $423,887 \u2014 0.54% of the whole company",
-   "reasons": [
-    "0.54% of the whole company",
-    "now owns 30.3% of the company"
-   ],
-   "insiders": [
-    "TANNENBAUM LEONARD M"
-   ],
-   "totalValue": 423887.36,
-   "ticker": "AFCG",
    "side": "buy"
   }
  ]
