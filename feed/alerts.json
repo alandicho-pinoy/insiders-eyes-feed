@@ -1,13 +1,13 @@
 {
- "generatedAt": "2026-09-02T01:46:38.563546+00:00",
+ "generatedAt": "2026-09-02T14:16:03.160673+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "PRTS:buy",
-   "headline": "PRTS: 2 insiders bought $171,591 \u2014 0.33% of the company",
+   "headline": "PRTS: 2 insiders bought $171,591 \u2014 0.28% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.17% of the whole company",
+    "0.14% of the whole company",
     "grew their own stake 25%"
    ],
    "insiders": [
@@ -30,19 +30,6 @@
    ],
    "totalValue": 21792751.2368,
    "ticker": "AUGO",
-   "side": "buy"
-  },
-  {
-   "key": "EQPT:buy",
-   "headline": "EQPT: Schlacks Jabbok (Founder & CEO) bought $880,790 \u2014 grew their own stake 200%",
-   "reasons": [
-    "grew their own stake 200%"
-   ],
-   "insiders": [
-    "Schlacks Jabbok"
-   ],
-   "totalValue": 880790.0,
-   "ticker": "EQPT",
    "side": "buy"
   },
   {
@@ -72,6 +59,32 @@
    "side": "buy"
   },
   {
+   "key": "DY:buy",
+   "headline": "DY: Fallon David Joseph (director) bought $200,844 \u2014 grew their own stake 204%",
+   "reasons": [
+    "grew their own stake 204%"
+   ],
+   "insiders": [
+    "Fallon David Joseph"
+   ],
+   "totalValue": 200844.0,
+   "ticker": "DY",
+   "side": "buy"
+  },
+  {
+   "key": "EMPD:buy",
+   "headline": "EMPD: Empery Asset Management, LP (10% owner) bought $1.8M \u2014 1.81% of the whole company (institution)",
+   "reasons": [
+    "1.81% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Empery Asset Management, LP"
+   ],
+   "totalValue": 1793100.0,
+   "ticker": "EMPD",
+   "side": "buy"
+  },
+  {
    "key": "SHMD:buy",
    "headline": "SHMD: 2 insiders bought $267,295 \u2014 0.13% of the company",
    "reasons": [
@@ -86,20 +99,6 @@
    ],
    "totalValue": 267294.7,
    "ticker": "SHMD",
-   "side": "buy"
-  },
-  {
-   "key": "SRTS:buy",
-   "headline": "SRTS: Sachetta Eric (director) bought $225,616 \u2014 0.42% of the whole company",
-   "reasons": [
-    "0.42% of the whole company",
-    "grew their own stake 28%"
-   ],
-   "insiders": [
-    "Sachetta Eric"
-   ],
-   "totalValue": 225616.221,
-   "ticker": "SRTS",
    "side": "buy"
   },
   {
