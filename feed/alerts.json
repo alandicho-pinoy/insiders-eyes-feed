@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-01T21:16:14.869691+00:00",
+ "generatedAt": "2026-09-02T01:46:38.563546+00:00",
  "count": 8,
  "alerts": [
   {
@@ -19,17 +19,30 @@
    "side": "buy"
   },
   {
-   "key": "GPUS:buy",
-   "headline": "GPUS: Ault Milton C Iii (Executive Chairman) bought $173,091 \u2014 0.21% of the whole company",
+   "key": "AUGO:buy",
+   "headline": "AUGO: Sousa Mauad Bruno (director) bought $21.8M \u2014 0.33% of the whole company",
    "reasons": [
-    "0.21% of the whole company",
-    "grew their own stake 556%"
+    "0.33% of the whole company",
+    "grew their own stake 152%"
    ],
    "insiders": [
-    "AULT MILTON C III"
+    "Sousa Mauad Bruno"
    ],
-   "totalValue": 173090.974,
-   "ticker": "GPUS",
+   "totalValue": 21792751.2368,
+   "ticker": "AUGO",
+   "side": "buy"
+  },
+  {
+   "key": "EQPT:buy",
+   "headline": "EQPT: Schlacks Jabbok (Founder & CEO) bought $880,790 \u2014 grew their own stake 200%",
+   "reasons": [
+    "grew their own stake 200%"
+   ],
+   "insiders": [
+    "Schlacks Jabbok"
+   ],
+   "totalValue": 880790.0,
+   "ticker": "EQPT",
    "side": "buy"
   },
   {
@@ -56,19 +69,6 @@
    ],
    "totalValue": 220300.0,
    "ticker": "CVBF",
-   "side": "buy"
-  },
-  {
-   "key": "DY:buy",
-   "headline": "DY: Fallon David Joseph (director) bought $200,844 \u2014 grew their own stake 204%",
-   "reasons": [
-    "grew their own stake 204%"
-   ],
-   "insiders": [
-    "Fallon David Joseph"
-   ],
-   "totalValue": 200844.0,
-   "ticker": "DY",
    "side": "buy"
   },
   {
