@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T14:15:41.384614+00:00",
+ "generatedAt": "2026-09-03T21:17:57.967499+00:00",
  "count": 8,
  "alerts": [
   {
@@ -114,16 +114,18 @@
    "side": "buy"
   },
   {
-   "key": "CIA:buy",
-   "headline": "CIA: Harwood Michael Philip (director) bought $38,000 \u2014 grew their own stake 913%",
+   "key": "AMRZ:buy",
+   "headline": "AMRZ: 2 insiders bought $1.3M \u2014 0.01% of the company",
    "reasons": [
-    "grew their own stake 913%"
+    "2 insiders bought within days",
+    "$1.3M from the Chairman & CEO"
    ],
    "insiders": [
-    "HARWOOD MICHAEL PHILIP"
+    "Gibson Dwight Audley Konrad",
+    "Jenisch Jan Philipp"
    ],
-   "totalValue": 38000.0,
-   "ticker": "CIA",
+   "totalValue": 1274323.8526,
+   "ticker": "AMRZ",
    "side": "buy"
   }
  ]
