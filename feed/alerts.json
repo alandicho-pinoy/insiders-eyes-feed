@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T01:46:11.321153+00:00",
+ "generatedAt": "2026-09-04T14:16:34.420031+00:00",
  "count": 8,
  "alerts": [
   {
@@ -22,68 +22,18 @@
    "side": "buy"
   },
   {
-   "key": "UAMY:buy",
-   "headline": "UAMY: 3 insiders bought $200,285 \u2014 0.03% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Aguirre Blaise A.",
-    "Bardswich Lloyd",
-    "Carrabba Joseph A"
-   ],
-   "totalValue": 200285.0,
-   "ticker": "UAMY",
-   "side": "buy"
-  },
-  {
-   "key": "RGCO:buy",
-   "headline": "RGCO: 3 insiders bought $43,200 \u2014 0.02% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Miles Christen Brooke",
-    "Oliver Lawrence T.",
-    "WILLIAMSON JOHN B III"
-   ],
-   "totalValue": 43199.99112,
-   "ticker": "RGCO",
-   "side": "buy"
-  },
-  {
    "key": "GPUS:buy",
-   "headline": "GPUS: 2 insiders bought $199,600 \u2014 0.24% of the company",
+   "headline": "GPUS: 2 insiders bought $56,527 \u2014 0.07% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.19% of the whole company",
-    "grew their own stake 577%",
-    "new position from senior management"
+    "grew their own stake 51%"
    ],
    "insiders": [
     "AULT MILTON C III",
     "Horne William B."
    ],
-   "totalValue": 199600.193,
+   "totalValue": 56527.353,
    "ticker": "GPUS",
-   "side": "buy"
-  },
-  {
-   "key": "PRTS:buy",
-   "headline": "PRTS: 2 insiders bought $171,591 \u2014 0.28% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.14% of the whole company",
-    "grew their own stake 25%"
-   ],
-   "insiders": [
-    "Huffaker Michael",
-    "Meniane David"
-   ],
-   "totalValue": 171590.88,
-   "ticker": "PRTS",
    "side": "buy"
   },
   {
@@ -126,8 +76,49 @@
    "insiders": [
     "Sousa Mauad Bruno"
    ],
-   "totalValue": 21793550.1368,
+   "totalValue": 21793631.2368,
    "ticker": "AUGO",
+   "side": "buy"
+  },
+  {
+   "key": "PBLSX:buy",
+   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $164.4M",
+   "reasons": [
+    "grew their own stake 101% (institution)",
+    "grew their own stake 75% (institution)",
+    "grew their own stake 98% (institution)"
+   ],
+   "insiders": [
+    "BlueArc Capital Management, LLC"
+   ],
+   "totalValue": 164379126.99287,
+   "ticker": "PBLSX",
+   "side": "buy"
+  },
+  {
+   "key": "DFIN:buy",
+   "headline": "DFIN: Binz Joseph Leo (director) bought $999,990 \u2014 grew their own stake 530%",
+   "reasons": [
+    "grew their own stake 530%"
+   ],
+   "insiders": [
+    "BINZ JOSEPH LEO"
+   ],
+   "totalValue": 999990.0,
+   "ticker": "DFIN",
+   "side": "buy"
+  },
+  {
+   "key": "CIA:buy",
+   "headline": "CIA: Harwood Michael Philip (director) bought $38,000 \u2014 grew their own stake 913%",
+   "reasons": [
+    "grew their own stake 913%"
+   ],
+   "insiders": [
+    "HARWOOD MICHAEL PHILIP"
+   ],
+   "totalValue": 38000.0,
+   "ticker": "CIA",
    "side": "buy"
   }
  ]
