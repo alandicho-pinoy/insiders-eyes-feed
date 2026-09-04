@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T21:17:57.967499+00:00",
+ "generatedAt": "2026-09-04T01:46:11.321153+00:00",
  "count": 8,
  "alerts": [
   {
@@ -38,18 +38,35 @@
    "side": "buy"
   },
   {
+   "key": "RGCO:buy",
+   "headline": "RGCO: 3 insiders bought $43,200 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Miles Christen Brooke",
+    "Oliver Lawrence T.",
+    "WILLIAMSON JOHN B III"
+   ],
+   "totalValue": 43199.99112,
+   "ticker": "RGCO",
+   "side": "buy"
+  },
+  {
    "key": "GPUS:buy",
-   "headline": "GPUS: 2 insiders bought $143,073 \u2014 0.17% of the company",
+   "headline": "GPUS: 2 insiders bought $199,600 \u2014 0.24% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.15% of the whole company",
-    "grew their own stake 176%"
+    "0.19% of the whole company",
+    "grew their own stake 577%",
+    "new position from senior management"
    ],
    "insiders": [
     "AULT MILTON C III",
     "Horne William B."
    ],
-   "totalValue": 143072.84,
+   "totalValue": 199600.193,
    "ticker": "GPUS",
    "side": "buy"
   },
@@ -111,21 +128,6 @@
    ],
    "totalValue": 21793550.1368,
    "ticker": "AUGO",
-   "side": "buy"
-  },
-  {
-   "key": "AMRZ:buy",
-   "headline": "AMRZ: 2 insiders bought $1.3M \u2014 0.01% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "$1.3M from the Chairman & CEO"
-   ],
-   "insiders": [
-    "Gibson Dwight Audley Konrad",
-    "Jenisch Jan Philipp"
-   ],
-   "totalValue": 1274323.8526,
-   "ticker": "AMRZ",
    "side": "buy"
   }
  ]
