@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-04T14:16:34.420031+00:00",
+ "generatedAt": "2026-09-04T21:16:06.437546+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "WIX:buy",
-   "headline": "WIX: 6 insiders bought $185,719 \u2014 0.00% of the company",
+   "headline": "WIX: 6 insiders bought $371,438 \u2014 0.01% of the company",
    "reasons": [
     "6 insiders bought within days",
     "6 insiders buying"
@@ -17,7 +17,7 @@
     "Shemesh Lior",
     "Zohar Nir"
    ],
-   "totalValue": 185718.89,
+   "totalValue": 371437.78,
    "ticker": "WIX",
    "side": "buy"
   },
@@ -38,60 +38,60 @@
   },
   {
    "key": "OPAL:buy",
-   "headline": "OPAL: 2 insiders bought $135,400 \u2014 0.22% of the company",
+   "headline": "OPAL: 2 insiders bought $270,800 \u2014 0.45% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.16% of the whole company"
+    "0.32% of the whole company",
+    "grew their own stake 26%",
+    "0.13% of the whole company"
    ],
    "insiders": [
     "Comora Adam",
     "Nisar Nadeem"
    ],
-   "totalValue": 135400.0,
+   "totalValue": 270800.0,
    "ticker": "OPAL",
    "side": "buy"
   },
   {
    "key": "JUSH:buy",
-   "headline": "JUSH: 2 insiders bought $173,072 \u2014 0.15% of the company",
+   "headline": "JUSH: 2 insiders bought $346,144 \u2014 0.30% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.14% of the whole company"
+    "0.29% of the whole company"
    ],
    "insiders": [
     "Barack Louis Jon",
     "Cacioppo James"
    ],
-   "totalValue": 173071.86,
+   "totalValue": 346143.72,
    "ticker": "JUSH",
    "side": "buy"
   },
   {
-   "key": "AUGO:buy",
-   "headline": "AUGO: Sousa Mauad Bruno (director) bought $21.8M \u2014 0.33% of the whole company",
+   "key": "SUJA:buy",
+   "headline": "SUJA: Paine Schwartz Food Chain Fund V Gp, Ltd. (10% owner) bought $10.8M \u2014 2.70% of the whole company (institution)",
    "reasons": [
-    "0.33% of the whole company",
-    "grew their own stake 152%"
+    "2.70% of the whole company (institution)"
    ],
    "insiders": [
-    "Sousa Mauad Bruno"
+    "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD."
    ],
-   "totalValue": 21793631.2368,
-   "ticker": "AUGO",
+   "totalValue": 10780000.0,
+   "ticker": "SUJA",
    "side": "buy"
   },
   {
    "key": "PBLSX:buy",
-   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $164.4M",
+   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $229.4M",
    "reasons": [
     "grew their own stake 101% (institution)",
-    "grew their own stake 75% (institution)",
-    "grew their own stake 98% (institution)"
+    "grew their own stake 587% (institution)"
    ],
    "insiders": [
     "BlueArc Capital Management, LLC"
    ],
-   "totalValue": 164379126.99287,
+   "totalValue": 229379126.98288,
    "ticker": "PBLSX",
    "side": "buy"
   },
@@ -109,16 +109,17 @@
    "side": "buy"
   },
   {
-   "key": "CIA:buy",
-   "headline": "CIA: Harwood Michael Philip (director) bought $38,000 \u2014 grew their own stake 913%",
+   "key": "EQPT:buy",
+   "headline": "EQPT: Schlacks Jabbok (Founder & CEO) bought $1.3M \u2014 grew their own stake 300%",
    "reasons": [
-    "grew their own stake 913%"
+    "grew their own stake 300%",
+    "$1.3M from the Founder & CEO"
    ],
    "insiders": [
-    "HARWOOD MICHAEL PHILIP"
+    "Schlacks Jabbok"
    ],
-   "totalValue": 38000.0,
-   "ticker": "CIA",
+   "totalValue": 1305095.0,
+   "ticker": "EQPT",
    "side": "buy"
   }
  ]
