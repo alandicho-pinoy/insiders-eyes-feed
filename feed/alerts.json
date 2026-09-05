@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-04T21:16:06.437546+00:00",
+ "generatedAt": "2026-09-05T01:46:52.970662+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "WIX:buy",
-   "headline": "WIX: 6 insiders bought $371,438 \u2014 0.01% of the company",
+   "headline": "WIX: 6 insiders bought $185,719 \u2014 0.00% of the company",
    "reasons": [
     "6 insiders bought within days",
     "6 insiders buying"
@@ -17,8 +17,24 @@
     "Shemesh Lior",
     "Zohar Nir"
    ],
-   "totalValue": 371437.78,
+   "totalValue": 185718.89,
    "ticker": "WIX",
+   "side": "buy"
+  },
+  {
+   "key": "LILA:buy",
+   "headline": "LILA: 2 insiders bought $11.0M \u2014 0.66% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.60% of the whole company",
+    "grew their own stake 65%"
+   ],
+   "insiders": [
+    "DE ANGOITIA ALFONSO",
+    "MALONE JOHN C"
+   ],
+   "totalValue": 11008194.2652,
+   "ticker": "LILA",
    "side": "buy"
   },
   {
@@ -37,89 +53,76 @@
    "side": "buy"
   },
   {
+   "key": "ATRA:buy",
+   "headline": "ATRA: Cherry Brian N (director) bought $999,994 \u2014 1.02% of the whole company",
+   "reasons": [
+    "1.02% of the whole company",
+    "grew their own stake 167%"
+   ],
+   "insiders": [
+    "Cherry Brian N"
+   ],
+   "totalValue": 999993.6,
+   "ticker": "ATRA",
+   "side": "buy"
+  },
+  {
    "key": "OPAL:buy",
-   "headline": "OPAL: 2 insiders bought $270,800 \u2014 0.45% of the company",
+   "headline": "OPAL: 2 insiders bought $135,400 \u2014 0.22% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.32% of the whole company",
-    "grew their own stake 26%",
-    "0.13% of the whole company"
+    "0.16% of the whole company"
    ],
    "insiders": [
     "Comora Adam",
     "Nisar Nadeem"
    ],
-   "totalValue": 270800.0,
+   "totalValue": 135400.0,
    "ticker": "OPAL",
    "side": "buy"
   },
   {
    "key": "JUSH:buy",
-   "headline": "JUSH: 2 insiders bought $346,144 \u2014 0.30% of the company",
+   "headline": "JUSH: 2 insiders bought $173,072 \u2014 0.15% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.29% of the whole company"
+    "0.14% of the whole company"
    ],
    "insiders": [
     "Barack Louis Jon",
     "Cacioppo James"
    ],
-   "totalValue": 346143.72,
+   "totalValue": 173071.86,
    "ticker": "JUSH",
    "side": "buy"
   },
   {
-   "key": "SUJA:buy",
-   "headline": "SUJA: Paine Schwartz Food Chain Fund V Gp, Ltd. (10% owner) bought $10.8M \u2014 2.70% of the whole company (institution)",
+   "key": "AUGO:buy",
+   "headline": "AUGO: Sousa Mauad Bruno (director) bought $21.8M \u2014 0.33% of the whole company",
    "reasons": [
-    "2.70% of the whole company (institution)"
+    "0.33% of the whole company",
+    "grew their own stake 152%"
    ],
    "insiders": [
-    "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD."
+    "Sousa Mauad Bruno"
    ],
-   "totalValue": 10780000.0,
-   "ticker": "SUJA",
+   "totalValue": 21793631.2368,
+   "ticker": "AUGO",
    "side": "buy"
   },
   {
    "key": "PBLSX:buy",
-   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $229.4M",
+   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $164.4M",
    "reasons": [
     "grew their own stake 101% (institution)",
-    "grew their own stake 587% (institution)"
+    "grew their own stake 75% (institution)",
+    "grew their own stake 98% (institution)"
    ],
    "insiders": [
     "BlueArc Capital Management, LLC"
    ],
-   "totalValue": 229379126.98288,
+   "totalValue": 164379126.99287,
    "ticker": "PBLSX",
-   "side": "buy"
-  },
-  {
-   "key": "DFIN:buy",
-   "headline": "DFIN: Binz Joseph Leo (director) bought $999,990 \u2014 grew their own stake 530%",
-   "reasons": [
-    "grew their own stake 530%"
-   ],
-   "insiders": [
-    "BINZ JOSEPH LEO"
-   ],
-   "totalValue": 999990.0,
-   "ticker": "DFIN",
-   "side": "buy"
-  },
-  {
-   "key": "EQPT:buy",
-   "headline": "EQPT: Schlacks Jabbok (Founder & CEO) bought $1.3M \u2014 grew their own stake 300%",
-   "reasons": [
-    "grew their own stake 300%",
-    "$1.3M from the Founder & CEO"
-   ],
-   "insiders": [
-    "Schlacks Jabbok"
-   ],
-   "totalValue": 1305095.0,
-   "ticker": "EQPT",
    "side": "buy"
   }
  ]
