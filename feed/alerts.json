@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05T01:46:52.970662+00:00",
+ "generatedAt": "2026-09-05T14:15:31.761875+00:00",
  "count": 8,
  "alerts": [
   {
@@ -19,22 +19,6 @@
    ],
    "totalValue": 185718.89,
    "ticker": "WIX",
-   "side": "buy"
-  },
-  {
-   "key": "LILA:buy",
-   "headline": "LILA: 2 insiders bought $11.0M \u2014 0.66% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.60% of the whole company",
-    "grew their own stake 65%"
-   ],
-   "insiders": [
-    "DE ANGOITIA ALFONSO",
-    "MALONE JOHN C"
-   ],
-   "totalValue": 11008194.2652,
-   "ticker": "LILA",
    "side": "buy"
   },
   {
@@ -97,20 +81,6 @@
    "side": "buy"
   },
   {
-   "key": "AUGO:buy",
-   "headline": "AUGO: Sousa Mauad Bruno (director) bought $21.8M \u2014 0.33% of the whole company",
-   "reasons": [
-    "0.33% of the whole company",
-    "grew their own stake 152%"
-   ],
-   "insiders": [
-    "Sousa Mauad Bruno"
-   ],
-   "totalValue": 21793631.2368,
-   "ticker": "AUGO",
-   "side": "buy"
-  },
-  {
    "key": "PBLSX:buy",
    "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $164.4M",
    "reasons": [
@@ -123,6 +93,32 @@
    ],
    "totalValue": 164379126.99287,
    "ticker": "PBLSX",
+   "side": "buy"
+  },
+  {
+   "key": "DFIN:buy",
+   "headline": "DFIN: Binz Joseph Leo (director) bought $999,990 \u2014 grew their own stake 530%",
+   "reasons": [
+    "grew their own stake 530%"
+   ],
+   "insiders": [
+    "BINZ JOSEPH LEO"
+   ],
+   "totalValue": 999990.0,
+   "ticker": "DFIN",
+   "side": "buy"
+  },
+  {
+   "key": "LILA:buy",
+   "headline": "LILA: De Angoitia Alfonso (director) bought $10.0M \u2014 0.60% of the whole company",
+   "reasons": [
+    "0.60% of the whole company"
+   ],
+   "insiders": [
+    "DE ANGOITIA ALFONSO"
+   ],
+   "totalValue": 9978488.4694,
+   "ticker": "LILA",
    "side": "buy"
   }
  ]
