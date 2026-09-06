@@ -1,41 +1,7 @@
 {
- "generatedAt": "2026-09-06T01:45:15.255205+00:00",
+ "generatedAt": "2026-09-06T14:15:10.294075+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "WIX:buy",
-   "headline": "WIX: 6 insiders bought $185,719 \u2014 0.00% of the company",
-   "reasons": [
-    "6 insiders bought within days",
-    "6 insiders buying"
-   ],
-   "insiders": [
-    "Abrahami Avishai",
-    "Even-Haim Yaniv",
-    "Meyer Shelly B",
-    "Shai Omer",
-    "Shemesh Lior",
-    "Zohar Nir"
-   ],
-   "totalValue": 185718.89,
-   "ticker": "WIX",
-   "side": "buy"
-  },
-  {
-   "key": "GPUS:buy",
-   "headline": "GPUS: 2 insiders bought $56,527 \u2014 0.07% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 51%"
-   ],
-   "insiders": [
-    "AULT MILTON C III",
-    "Horne William B."
-   ],
-   "totalValue": 56527.353,
-   "ticker": "GPUS",
-   "side": "buy"
-  },
   {
    "key": "ATRA:buy",
    "headline": "ATRA: Cherry Brian N (director) bought $999,994 \u2014 1.02% of the whole company",
@@ -48,51 +14,6 @@
    ],
    "totalValue": 999993.6,
    "ticker": "ATRA",
-   "side": "buy"
-  },
-  {
-   "key": "OPAL:buy",
-   "headline": "OPAL: 2 insiders bought $135,400 \u2014 0.22% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.16% of the whole company"
-   ],
-   "insiders": [
-    "Comora Adam",
-    "Nisar Nadeem"
-   ],
-   "totalValue": 135400.0,
-   "ticker": "OPAL",
-   "side": "buy"
-  },
-  {
-   "key": "JUSH:buy",
-   "headline": "JUSH: 2 insiders bought $173,072 \u2014 0.15% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.14% of the whole company"
-   ],
-   "insiders": [
-    "Barack Louis Jon",
-    "Cacioppo James"
-   ],
-   "totalValue": 173071.86,
-   "ticker": "JUSH",
-   "side": "buy"
-  },
-  {
-   "key": "PBLSX:buy",
-   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $164.4M",
-   "reasons": [
-    "grew their own stake 101% (institution)",
-    "grew their own stake 75% (institution)",
-    "grew their own stake 98% (institution)"
-   ],
-   "insiders": [
-    "BlueArc Capital Management, LLC"
-   ],
-   "totalValue": 164379126.99287,
-   "ticker": "PBLSX",
    "side": "buy"
   },
   {
@@ -119,6 +40,73 @@
    ],
    "totalValue": 9978488.4694,
    "ticker": "LILA",
+   "side": "buy"
+  },
+  {
+   "key": "TRST:buy",
+   "headline": "TRST: McCormick Lauren Ann (VP,Treasurer, Asst. Corp. Sec.) bought $25,000 \u2014 grew their own stake 423%",
+   "reasons": [
+    "grew their own stake 423%"
+   ],
+   "insiders": [
+    "McCormick Lauren Ann"
+   ],
+   "totalValue": 25000.24,
+   "ticker": "TRST",
+   "side": "buy"
+  },
+  {
+   "key": "PBLSX:buy",
+   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $99.4M \u2014 grew their own stake 101% (institution)",
+   "reasons": [
+    "grew their own stake 101% (institution)"
+   ],
+   "insiders": [
+    "BlueArc Capital Management, LLC"
+   ],
+   "totalValue": 99379127.00286,
+   "ticker": "PBLSX",
+   "side": "buy"
+  },
+  {
+   "key": "FUSB:buy",
+   "headline": "FUSB: FIELD Robert C (director) bought $67,426 \u2014 grew their own stake 51%",
+   "reasons": [
+    "grew their own stake 51%"
+   ],
+   "insiders": [
+    "FIELD Robert C"
+   ],
+   "totalValue": 67425.85,
+   "ticker": "FUSB",
+   "side": "buy"
+  },
+  {
+   "key": "MSCI:buy",
+   "headline": "MSCI: Taneja Rajat (director) bought $1.0M \u2014 grew their own stake 49%",
+   "reasons": [
+    "grew their own stake 49%"
+   ],
+   "insiders": [
+    "Taneja Rajat"
+   ],
+   "totalValue": 1000160.0,
+   "ticker": "MSCI",
+   "side": "buy"
+  },
+  {
+   "key": "EQPT:buy",
+   "headline": "EQPT: 2 family members bought $610,250 \u2014 0.01% of the company",
+   "reasons": [
+    "2 family members bought within days",
+    "grew their own stake 33%"
+   ],
+   "insiders": [
+    "Schlacks Jabbok",
+    "Schlacks William J."
+   ],
+   "totalValue": 610250.0,
+   "ticker": "EQPT",
    "side": "buy"
   }
  ]
