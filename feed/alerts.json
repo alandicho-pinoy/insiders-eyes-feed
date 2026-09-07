@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T21:15:18.289124+00:00",
+ "generatedAt": "2026-09-07T14:15:07.483581+00:00",
  "count": 8,
  "alerts": [
   {
@@ -17,19 +17,6 @@
    "side": "buy"
   },
   {
-   "key": "DFIN:buy",
-   "headline": "DFIN: Binz Joseph Leo (director) bought $999,990 \u2014 grew their own stake 530%",
-   "reasons": [
-    "grew their own stake 530%"
-   ],
-   "insiders": [
-    "BINZ JOSEPH LEO"
-   ],
-   "totalValue": 999990.0,
-   "ticker": "DFIN",
-   "side": "buy"
-  },
-  {
    "key": "LILA:buy",
    "headline": "LILA: De Angoitia Alfonso (director) bought $10.0M \u2014 0.60% of the whole company",
    "reasons": [
@@ -40,45 +27,6 @@
    ],
    "totalValue": 9978488.4694,
    "ticker": "LILA",
-   "side": "buy"
-  },
-  {
-   "key": "TRST:buy",
-   "headline": "TRST: McCormick Lauren Ann (VP,Treasurer, Asst. Corp. Sec.) bought $25,000 \u2014 grew their own stake 423%",
-   "reasons": [
-    "grew their own stake 423%"
-   ],
-   "insiders": [
-    "McCormick Lauren Ann"
-   ],
-   "totalValue": 25000.24,
-   "ticker": "TRST",
-   "side": "buy"
-  },
-  {
-   "key": "PBLSX:buy",
-   "headline": "PBLSX: BlueArc Capital Management, LLC (10% owner) bought $99.4M \u2014 grew their own stake 101% (institution)",
-   "reasons": [
-    "grew their own stake 101% (institution)"
-   ],
-   "insiders": [
-    "BlueArc Capital Management, LLC"
-   ],
-   "totalValue": 99379127.00286,
-   "ticker": "PBLSX",
-   "side": "buy"
-  },
-  {
-   "key": "FUSB:buy",
-   "headline": "FUSB: FIELD Robert C (director) bought $67,426 \u2014 grew their own stake 51%",
-   "reasons": [
-    "grew their own stake 51%"
-   ],
-   "insiders": [
-    "FIELD Robert C"
-   ],
-   "totalValue": 67425.85,
-   "ticker": "FUSB",
    "side": "buy"
   },
   {
@@ -95,18 +43,68 @@
    "side": "buy"
   },
   {
-   "key": "EQPT:buy",
-   "headline": "EQPT: 2 family members bought $610,250 \u2014 0.01% of the company",
+   "key": "TSM:buy",
+   "headline": "TSM: Fang Shu-Hua (SVP and GC) bought $154,180 \u2014 grew their own stake 32%",
    "reasons": [
-    "2 family members bought within days",
-    "grew their own stake 33%"
+    "grew their own stake 32%"
    ],
    "insiders": [
-    "Schlacks Jabbok",
-    "Schlacks William J."
+    "Fang Shu-Hua"
    ],
-   "totalValue": 610250.0,
-   "ticker": "EQPT",
+   "totalValue": 154180.0,
+   "ticker": "TSM",
+   "side": "buy"
+  },
+  {
+   "key": "AFCG:buy",
+   "headline": "AFCG: Tannenbaum Leonard M (director) bought $54,651 \u2014 now owns 30.4% of the company",
+   "reasons": [
+    "now owns 30.4% of the company"
+   ],
+   "insiders": [
+    "TANNENBAUM LEONARD M"
+   ],
+   "totalValue": 54650.57,
+   "ticker": "AFCG",
+   "side": "buy"
+  },
+  {
+   "key": "DGICA:buy",
+   "headline": "DGICA: Donegal Mutual Insurance Co (10% owner) bought $381,768 \u2014 now owns 38.5% of the company (institution)",
+   "reasons": [
+    "now owns 38.5% of the company (institution)"
+   ],
+   "insiders": [
+    "DONEGAL MUTUAL INSURANCE CO"
+   ],
+   "totalValue": 381768.487,
+   "ticker": "DGICA",
+   "side": "buy"
+  },
+  {
+   "key": "ENHA:buy",
+   "headline": "ENHA: Apeiron Investment Group Ltd. (director) bought $209,779 \u2014 now owns 9.6% of the company (institution)",
+   "reasons": [
+    "now owns 9.6% of the company (institution)"
+   ],
+   "insiders": [
+    "Apeiron Investment Group Ltd."
+   ],
+   "totalValue": 209778.8229,
+   "ticker": "ENHA",
+   "side": "buy"
+  },
+  {
+   "key": "HDSN:buy",
+   "headline": "HDSN: Hartree Partners, LP (10% owner) bought $27,117 \u2014 now owns 12.4% of the company (institution)",
+   "reasons": [
+    "now owns 12.4% of the company (institution)"
+   ],
+   "insiders": [
+    "Hartree Partners, LP"
+   ],
+   "totalValue": 27116.7,
+   "ticker": "HDSN",
    "side": "buy"
   }
  ]
