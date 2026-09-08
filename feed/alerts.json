@@ -1,7 +1,37 @@
 {
- "generatedAt": "2026-09-08T14:15:14.930697+00:00",
- "count": 2,
+ "generatedAt": "2026-09-08T21:16:12.995797+00:00",
+ "count": 7,
  "alerts": [
+  {
+   "key": "INBX:buy",
+   "headline": "INBX: 2 insiders bought $2.9M \u2014 0.17% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.16% of the whole company",
+    "$2.6M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "FORSYTH DOUGLAS",
+    "Lappe Mark"
+   ],
+   "totalValue": 2932016.5634,
+   "ticker": "INBX",
+   "side": "buy"
+  },
+  {
+   "key": "TISI:buy",
+   "headline": "TISI: Roeder Clinton William (Chief Financial Officer) bought $220,720 \u2014 0.18% of the whole company",
+   "reasons": [
+    "0.18% of the whole company",
+    "grew their own stake 89%"
+   ],
+   "insiders": [
+    "Roeder Clinton William"
+   ],
+   "totalValue": 220720.0,
+   "ticker": "TISI",
+   "side": "buy"
+  },
   {
    "key": "SHMD:buy",
    "headline": "SHMD: Speth Ralf (director) bought $214,330 \u2014 0.10% of the whole company",
@@ -14,6 +44,45 @@
    ],
    "totalValue": 214330.0,
    "ticker": "SHMD",
+   "side": "buy"
+  },
+  {
+   "key": "SCOR:buy",
+   "headline": "SCOR: McLaughlin Matthew F. (Chief Executive Officer) bought $101,638 \u2014 0.13% of the whole company",
+   "reasons": [
+    "0.13% of the whole company"
+   ],
+   "insiders": [
+    "McLaughlin Matthew F."
+   ],
+   "totalValue": 101637.71,
+   "ticker": "SCOR",
+   "side": "buy"
+  },
+  {
+   "key": "TSN:buy",
+   "headline": "TSN: Schomburger Jeffrey K (President & CEO Elect) bought $1.0M \u2014 $1.0M from the President & CEO Elect",
+   "reasons": [
+    "$1.0M from the President & CEO Elect"
+   ],
+   "insiders": [
+    "Schomburger Jeffrey K"
+   ],
+   "totalValue": 1001616.65,
+   "ticker": "TSN",
+   "side": "buy"
+  },
+  {
+   "key": "ECF:buy",
+   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $145,298 \u2014 now owns 11.9% of the company (institution)",
+   "reasons": [
+    "now owns 11.9% of the company (institution)"
+   ],
+   "insiders": [
+    "Saba Capital Management, L.P."
+   ],
+   "totalValue": 145298.0,
+   "ticker": "ECF",
    "side": "buy"
   },
   {
