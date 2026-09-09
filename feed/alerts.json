@@ -1,21 +1,79 @@
 {
- "generatedAt": "2026-09-08T21:16:12.995797+00:00",
- "count": 7,
+ "generatedAt": "2026-09-09T01:46:49.345630+00:00",
+ "count": 8,
  "alerts": [
   {
-   "key": "INBX:buy",
-   "headline": "INBX: 2 insiders bought $2.9M \u2014 0.17% of the company",
+   "key": "PAMT:buy",
+   "headline": "PAMT: Moroun Matthew T (director) bought $31.2M \u2014 12.50% of the whole company",
    "reasons": [
-    "2 insiders bought within days",
+    "12.50% of the whole company",
+    "grew their own stake 26%",
+    "now owns 74.9% of the company"
+   ],
+   "insiders": [
+    "MOROUN MATTHEW T"
+   ],
+   "totalValue": 31225740.0,
+   "ticker": "PAMT",
+   "side": "buy"
+  },
+  {
+   "key": "INBX:buy",
+   "headline": "INBX: 3 insiders bought $3.5M \u2014 0.21% of the company",
+   "reasons": [
+    "3 insiders bought within days",
     "0.16% of the whole company",
+    "3 insiders buying",
     "$2.6M from the Chief Executive Officer"
    ],
    "insiders": [
     "FORSYTH DOUGLAS",
+    "Kayyem Jon Faiz",
     "Lappe Mark"
    ],
-   "totalValue": 2932016.5634,
+   "totalValue": 3499596.5634,
    "ticker": "INBX",
+   "side": "buy"
+  },
+  {
+   "key": "DXYZ:buy",
+   "headline": "DXYZ: Prasad Sohail (President and CEO) bought $1.8M \u2014 0.17% of the whole company",
+   "reasons": [
+    "0.17% of the whole company",
+    "grew their own stake 700%",
+    "$1.8M from the President and CEO"
+   ],
+   "insiders": [
+    "Prasad Sohail"
+   ],
+   "totalValue": 1767343.6,
+   "ticker": "DXYZ",
+   "side": "buy"
+  },
+  {
+   "key": "TENX:buy",
+   "headline": "TENX: ADAR1 Capital Management, LLC (10% owner) bought $1.6M \u2014 2.32% of the whole company (institution)",
+   "reasons": [
+    "2.32% of the whole company (institution)"
+   ],
+   "insiders": [
+    "ADAR1 Capital Management, LLC"
+   ],
+   "totalValue": 1604160.0,
+   "ticker": "TENX",
+   "side": "buy"
+  },
+  {
+   "key": "GPI:buy",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $40.6M \u2014 1.20% of the whole company (institution)",
+   "reasons": [
+    "1.20% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Conifer Management, L.L.C."
+   ],
+   "totalValue": 40649369.5492,
+   "ticker": "GPI",
    "side": "buy"
   },
   {
@@ -33,69 +91,29 @@
    "side": "buy"
   },
   {
-   "key": "SHMD:buy",
-   "headline": "SHMD: Speth Ralf (director) bought $214,330 \u2014 0.10% of the whole company",
+   "key": "SUJA:buy",
+   "headline": "SUJA: Paine Schwartz Food Chain Fund V Gp, Ltd. (10% owner) bought $3.1M \u2014 0.82% of the whole company (institution)",
    "reasons": [
-    "0.10% of the whole company",
-    "grew their own stake 34%"
+    "0.82% of the whole company (institution)"
    ],
    "insiders": [
-    "Speth Ralf"
+    "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD."
    ],
-   "totalValue": 214330.0,
-   "ticker": "SHMD",
+   "totalValue": 3126250.0,
+   "ticker": "SUJA",
    "side": "buy"
   },
   {
-   "key": "SCOR:buy",
-   "headline": "SCOR: McLaughlin Matthew F. (Chief Executive Officer) bought $101,638 \u2014 0.13% of the whole company",
+   "key": "GME:buy",
+   "headline": "GME: Cheng Lawrence (director) bought $1.0M \u2014 grew their own stake 62%",
    "reasons": [
-    "0.13% of the whole company"
+    "grew their own stake 62%"
    ],
    "insiders": [
-    "McLaughlin Matthew F."
+    "Cheng Lawrence"
    ],
-   "totalValue": 101637.71,
-   "ticker": "SCOR",
-   "side": "buy"
-  },
-  {
-   "key": "TSN:buy",
-   "headline": "TSN: Schomburger Jeffrey K (President & CEO Elect) bought $1.0M \u2014 $1.0M from the President & CEO Elect",
-   "reasons": [
-    "$1.0M from the President & CEO Elect"
-   ],
-   "insiders": [
-    "Schomburger Jeffrey K"
-   ],
-   "totalValue": 1001616.65,
-   "ticker": "TSN",
-   "side": "buy"
-  },
-  {
-   "key": "ECF:buy",
-   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $145,298 \u2014 now owns 11.9% of the company (institution)",
-   "reasons": [
-    "now owns 11.9% of the company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 145298.0,
-   "ticker": "ECF",
-   "side": "buy"
-  },
-  {
-   "key": "GF:buy",
-   "headline": "GF: Saba Capital Management, L.P. (10% owner) bought $43,015 \u2014 now owns 22.6% of the company (institution)",
-   "reasons": [
-    "now owns 22.6% of the company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 43014.76,
-   "ticker": "GF",
+   "totalValue": 1033956.0,
+   "ticker": "GME",
    "side": "buy"
   }
  ]
