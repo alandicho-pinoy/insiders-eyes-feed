@@ -1,36 +1,19 @@
 {
- "generatedAt": "2026-09-09T14:15:38.052450+00:00",
+ "generatedAt": "2026-09-09T21:15:55.500812+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "BWFG:buy",
-   "headline": "BWFG: 4 insiders bought $82,814 \u2014 0.02% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Dale Eric J",
-    "Drexler Blake S",
-    "Dunne Jeffrey R",
-    "Porto Carl M"
-   ],
-   "totalValue": 82813.74,
-   "ticker": "BWFG",
-   "side": "buy"
-  },
-  {
    "key": "PAMT:buy",
-   "headline": "PAMT: Moroun Matthew T (director) bought $62.5M \u2014 25.00% of the whole company",
+   "headline": "PAMT: Moroun Matthew T (director) bought $31.2M \u2014 12.50% of the whole company",
    "reasons": [
-    "25.00% of the whole company",
-    "grew their own stake 71%",
+    "12.50% of the whole company",
+    "grew their own stake 26%",
     "now owns 74.9% of the company"
    ],
    "insiders": [
     "MOROUN MATTHEW T"
    ],
-   "totalValue": 62451480.0,
+   "totalValue": 31225740.0,
    "ticker": "PAMT",
    "side": "buy"
   },
@@ -53,21 +36,6 @@
    "side": "buy"
   },
   {
-   "key": "DXYZ:buy",
-   "headline": "DXYZ: Prasad Sohail (President and CEO) bought $1.8M \u2014 0.17% of the whole company",
-   "reasons": [
-    "0.17% of the whole company",
-    "grew their own stake 700%",
-    "$1.8M from the President and CEO"
-   ],
-   "insiders": [
-    "Prasad Sohail"
-   ],
-   "totalValue": 1767343.6,
-   "ticker": "DXYZ",
-   "side": "buy"
-  },
-  {
    "key": "TENX:buy",
    "headline": "TENX: ADAR1 Capital Management, LLC (10% owner) bought $1.6M \u2014 1.97% of the whole company (institution)",
    "reasons": [
@@ -81,43 +49,71 @@
    "side": "buy"
   },
   {
-   "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $40.6M \u2014 1.20% of the whole company (institution)",
+   "key": "TSN:buy",
+   "headline": "TSN: Schomburger Jeffrey K (President & CEO Elect) bought $2.0M \u2014 grew their own stake 64%",
    "reasons": [
-    "1.20% of the whole company (institution)"
+    "grew their own stake 64%",
+    "$2.0M from the President & CEO Elect"
    ],
    "insiders": [
-    "Conifer Management, L.L.C."
+    "Schomburger Jeffrey K"
    ],
-   "totalValue": 40649369.5492,
-   "ticker": "GPI",
+   "totalValue": 2003233.3,
+   "ticker": "TSN",
    "side": "buy"
   },
   {
-   "key": "TISI:buy",
-   "headline": "TISI: Roeder Clinton William (Chief Financial Officer) bought $220,720 \u2014 0.18% of the whole company",
+   "key": "SCOR:buy",
+   "headline": "SCOR: McLaughlin Matthew F. (Chief Executive Officer) bought $203,275 \u2014 0.26% of the whole company",
    "reasons": [
-    "0.18% of the whole company",
-    "grew their own stake 89%"
+    "0.26% of the whole company",
+    "grew their own stake 27%"
    ],
    "insiders": [
-    "Roeder Clinton William"
+    "McLaughlin Matthew F."
    ],
-   "totalValue": 220720.0,
-   "ticker": "TISI",
+   "totalValue": 203275.42,
+   "ticker": "SCOR",
    "side": "buy"
   },
   {
-   "key": "SUJA:buy",
-   "headline": "SUJA: Paine Schwartz Food Chain Fund V Gp, Ltd. (10% owner) bought $3.1M \u2014 0.82% of the whole company (institution)",
+   "key": "AMR:buy",
+   "headline": "AMR: Courtis Kenneth S. (director) bought $4.5M \u2014 0.16% of the whole company",
    "reasons": [
-    "0.82% of the whole company (institution)"
+    "0.16% of the whole company",
+    "now owns 8.2% of the company"
    ],
    "insiders": [
-    "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD."
+    "Courtis Kenneth S."
    ],
-   "totalValue": 3126250.0,
-   "ticker": "SUJA",
+   "totalValue": 4516577.88,
+   "ticker": "AMR",
+   "side": "buy"
+  },
+  {
+   "key": "GME:buy",
+   "headline": "GME: Cheng Lawrence (director) bought $1.0M \u2014 grew their own stake 62%",
+   "reasons": [
+    "grew their own stake 62%"
+   ],
+   "insiders": [
+    "Cheng Lawrence"
+   ],
+   "totalValue": 1033956.0,
+   "ticker": "GME",
+   "side": "buy"
+  },
+  {
+   "key": "EVLV:buy",
+   "headline": "EVLV: Shapiro Richard A (director) bought $161,739 \u2014 grew their own stake 54%",
+   "reasons": [
+    "grew their own stake 54%"
+   ],
+   "insiders": [
+    "Shapiro Richard A"
+   ],
+   "totalValue": 161739.0,
+   "ticker": "EVLV",
    "side": "buy"
   }
  ]
