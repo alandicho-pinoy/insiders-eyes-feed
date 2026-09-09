@@ -1,19 +1,36 @@
 {
- "generatedAt": "2026-09-09T01:46:49.345630+00:00",
+ "generatedAt": "2026-09-09T14:15:38.052450+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "PAMT:buy",
-   "headline": "PAMT: Moroun Matthew T (director) bought $31.2M \u2014 12.50% of the whole company",
+   "key": "BWFG:buy",
+   "headline": "BWFG: 4 insiders bought $82,814 \u2014 0.02% of the company",
    "reasons": [
-    "12.50% of the whole company",
-    "grew their own stake 26%",
+    "4 insiders bought within days",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "Dale Eric J",
+    "Drexler Blake S",
+    "Dunne Jeffrey R",
+    "Porto Carl M"
+   ],
+   "totalValue": 82813.74,
+   "ticker": "BWFG",
+   "side": "buy"
+  },
+  {
+   "key": "PAMT:buy",
+   "headline": "PAMT: Moroun Matthew T (director) bought $62.5M \u2014 25.00% of the whole company",
+   "reasons": [
+    "25.00% of the whole company",
+    "grew their own stake 71%",
     "now owns 74.9% of the company"
    ],
    "insiders": [
     "MOROUN MATTHEW T"
    ],
-   "totalValue": 31225740.0,
+   "totalValue": 62451480.0,
    "ticker": "PAMT",
    "side": "buy"
   },
@@ -52,9 +69,9 @@
   },
   {
    "key": "TENX:buy",
-   "headline": "TENX: ADAR1 Capital Management, LLC (10% owner) bought $1.6M \u2014 2.32% of the whole company (institution)",
+   "headline": "TENX: ADAR1 Capital Management, LLC (10% owner) bought $1.6M \u2014 1.97% of the whole company (institution)",
    "reasons": [
-    "2.32% of the whole company (institution)"
+    "1.97% of the whole company (institution)"
    ],
    "insiders": [
     "ADAR1 Capital Management, LLC"
@@ -101,19 +118,6 @@
    ],
    "totalValue": 3126250.0,
    "ticker": "SUJA",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: Cheng Lawrence (director) bought $1.0M \u2014 grew their own stake 62%",
-   "reasons": [
-    "grew their own stake 62%"
-   ],
-   "insiders": [
-    "Cheng Lawrence"
-   ],
-   "totalValue": 1033956.0,
-   "ticker": "GME",
    "side": "buy"
   }
  ]
