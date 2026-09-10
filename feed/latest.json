@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-09-10T01:46:43.134036+00:00",
+ "generatedAt": "2026-09-10T03:02:56.489308+00:00",
  "count": 400,
- "totalEvents": 434,
+ "totalEvents": 433,
  "events": [
   {
    "ticker": "DELL",
@@ -6168,6 +6168,29 @@
    "clusterFamily": false
   },
   {
+   "ticker": "EFX",
+   "issuer": "EQUIFAX INC",
+   "insider": "GAMBLE JOHN W JR",
+   "role": "EVP, CFO & COO",
+   "side": "sell",
+   "tradedOn": "2026-09-03",
+   "filedOn": "2026-09-08",
+   "lagDays": 5,
+   "value": 1691640.0,
+   "shares": 9000.0,
+   "avgPrice": 187.96,
+   "filings": 2,
+   "institution": false,
+   "marketCap": 20162757277,
+   "pctOfCompany": 0.00839,
+   "stakeOwned": 0.058778,
+   "deltaOwn": -11.530331,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
+   "clusterFamily": false
+  },
+  {
    "ticker": "TENX",
    "issuer": "TENAX THERAPEUTICS, INC.",
    "insider": "ADAR1 Capital Management, LLC",
@@ -6487,29 +6510,6 @@
    "newPosition": false,
    "clusterSize": 2,
    "clusterValue": 1252161.95,
-   "clusterFamily": false
-  },
-  {
-   "ticker": "EFX",
-   "issuer": "EQUIFAX INC",
-   "insider": "GAMBLE JOHN W JR",
-   "role": "EVP, CFO & COO",
-   "side": "sell",
-   "tradedOn": "2026-09-03",
-   "filedOn": "2026-09-08",
-   "lagDays": 5,
-   "value": 845820.0,
-   "shares": 4500.0,
-   "avgPrice": 187.96,
-   "filings": 1,
-   "institution": false,
-   "marketCap": 20162757277,
-   "pctOfCompany": 0.004195,
-   "stakeOwned": 0.058778,
-   "deltaOwn": -6.117871,
-   "newPosition": false,
-   "clusterSize": 1,
-   "clusterValue": null,
    "clusterFamily": false
   },
   {
@@ -7801,29 +7801,6 @@
    "clusterFamily": false
   },
   {
-   "ticker": "LMND",
-   "issuer": "Lemonade, Inc.",
-   "insider": "Peters John Sheldon",
-   "role": "Chief Insurance Officer",
-   "side": "sell",
-   "tradedOn": "2026-09-04",
-   "filedOn": "2026-09-08",
-   "lagDays": 4,
-   "value": 169385.22,
-   "shares": 3108.0,
-   "avgPrice": 54.499749,
-   "filings": 2,
-   "institution": false,
-   "marketCap": 3912398829,
-   "pctOfCompany": 0.004329,
-   "stakeOwned": 0.098303,
-   "deltaOwn": -3.924688,
-   "newPosition": false,
-   "clusterSize": 3,
-   "clusterValue": 329615.01,
-   "clusterFamily": false
-  },
-  {
    "ticker": "HMN",
    "issuer": "HORACE MANN EDUCATORS CORP /DE/",
    "insider": "Hines Perry G.",
@@ -8164,8 +8141,8 @@
    "stakeOwned": 0.22271,
    "deltaOwn": -1.086289,
    "newPosition": false,
-   "clusterSize": 3,
-   "clusterValue": 329615.01,
+   "clusterSize": 2,
+   "clusterValue": 160229.79,
    "clusterFamily": false
   },
   {
@@ -8440,8 +8417,8 @@
    "stakeOwned": 0.241009,
    "deltaOwn": -0.554451,
    "newPosition": false,
-   "clusterSize": 3,
-   "clusterValue": 329615.01,
+   "clusterSize": 2,
+   "clusterValue": 160229.79,
    "clusterFamily": false
   },
   {
@@ -9201,6 +9178,29 @@
    "newPosition": true,
    "clusterSize": 4,
    "clusterValue": 909678.1398,
+   "clusterFamily": false
+  },
+  {
+   "ticker": "DSS",
+   "issuer": "DSS, INC.",
+   "insider": "Chan Heng Fai Ambrose",
+   "role": "director",
+   "side": "sell",
+   "tradedOn": "2026-09-03",
+   "filedOn": "2026-09-08",
+   "lagDays": 5,
+   "value": 17918.64,
+   "shares": 21852.0,
+   "avgPrice": 0.82,
+   "filings": 1,
+   "institution": false,
+   "marketCap": 8254950,
+   "pctOfCompany": 0.217065,
+   "stakeOwned": 10.27575,
+   "deltaOwn": -2.073646,
+   "newPosition": false,
+   "clusterSize": 1,
+   "clusterValue": null,
    "clusterFamily": false
   }
  ]
