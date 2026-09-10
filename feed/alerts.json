@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T03:02:56.489308+00:00",
+ "generatedAt": "2026-09-10T21:16:46.124203+00:00",
  "count": 8,
  "alerts": [
   {
@@ -72,6 +72,39 @@
    "side": "buy"
   },
   {
+   "key": "DXYZ:buy",
+   "headline": "DXYZ: 2 insiders bought $1.8M \u2014 0.17% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.17% of the whole company",
+    "grew their own stake 700%",
+    "$1.8M from the President and CEO"
+   ],
+   "insiders": [
+    "Prasad Sohail",
+    "Silver Ethan"
+   ],
+   "totalValue": 1817343.6712,
+   "ticker": "DXYZ",
+   "side": "buy"
+  },
+  {
+   "key": "UBER:buy",
+   "headline": "UBER: 2 insiders bought $25.3M \u2014 0.02% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 26%",
+    "$20.0M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "KHOSROWSHAHI DARA",
+    "Macdonald Andrew"
+   ],
+   "totalValue": 25319968.0825,
+   "ticker": "UBER",
+   "side": "buy"
+  },
+  {
    "key": "GME:buy",
    "headline": "GME: 2 insiders bought $1.2M \u2014 0.01% of the company",
    "reasons": [
@@ -89,47 +122,19 @@
   },
   {
    "key": "CYBN:buy",
-   "headline": "CYBN: 2 insiders bought $2.2M",
+   "headline": "CYBN: 2 insiders bought $6.9M",
    "reasons": [
     "2 insiders bought within days",
-    "now owns 8.5% of the company",
-    "$1.1M from the Executive Chair",
-    "now owns 8.2% of the company"
+    "now owns 8.7% of the company",
+    "$3.5M from the Executive Chair",
+    "now owns 8.4% of the company"
    ],
    "insiders": [
     "Glavine Paul",
     "So Eric H. L."
    ],
-   "totalValue": 2164152.0,
+   "totalValue": 6938512.0,
    "ticker": "CYBN",
-   "side": "buy"
-  },
-  {
-   "key": "ALMS:buy",
-   "headline": "ALMS: Akkaraju Srinivas (director) bought $10.7M \u2014 0.85% of the whole company",
-   "reasons": [
-    "0.85% of the whole company"
-   ],
-   "insiders": [
-    "AKKARAJU SRINIVAS"
-   ],
-   "totalValue": 10726255.1651,
-   "ticker": "ALMS",
-   "side": "buy"
-  },
-  {
-   "key": "DXYZ:buy",
-   "headline": "DXYZ: Prasad Sohail (President and CEO) bought $1.8M \u2014 0.17% of the whole company",
-   "reasons": [
-    "0.17% of the whole company",
-    "grew their own stake 700%",
-    "$1.8M from the President and CEO"
-   ],
-   "insiders": [
-    "Prasad Sohail"
-   ],
-   "totalValue": 1767343.6,
-   "ticker": "DXYZ",
    "side": "buy"
   }
  ]
