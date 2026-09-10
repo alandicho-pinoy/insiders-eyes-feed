@@ -1,7 +1,43 @@
 {
- "generatedAt": "2026-09-09T21:15:55.500812+00:00",
+ "generatedAt": "2026-09-10T01:46:43.134036+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "BWFG:buy",
+   "headline": "BWFG: 5 insiders bought $435,321 \u2014 0.08% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying"
+   ],
+   "insiders": [
+    "Dale Eric J",
+    "Drexler Blake S",
+    "Dunne Jeffrey R",
+    "Porto Carl M",
+    "SEIDMAN LAWRENCE B"
+   ],
+   "totalValue": 435320.54,
+   "ticker": "BWFG",
+   "side": "buy"
+  },
+  {
+   "key": "PRTS:buy",
+   "headline": "PRTS: 3 insiders bought $1.6M \u2014 1.93% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.93% of the whole company",
+    "3 insiders buying",
+    "grew their own stake 36%"
+   ],
+   "insiders": [
+    "Huffaker Michael",
+    "Meniane David",
+    "PHELPS BARRY"
+   ],
+   "totalValue": 1562468.26,
+   "ticker": "PRTS",
+   "side": "buy"
+  },
   {
    "key": "PAMT:buy",
    "headline": "PAMT: Moroun Matthew T (director) bought $31.2M \u2014 12.50% of the whole company",
@@ -36,84 +72,64 @@
    "side": "buy"
   },
   {
-   "key": "TENX:buy",
-   "headline": "TENX: ADAR1 Capital Management, LLC (10% owner) bought $1.6M \u2014 1.97% of the whole company (institution)",
-   "reasons": [
-    "1.97% of the whole company (institution)"
-   ],
-   "insiders": [
-    "ADAR1 Capital Management, LLC"
-   ],
-   "totalValue": 1604160.0,
-   "ticker": "TENX",
-   "side": "buy"
-  },
-  {
-   "key": "TSN:buy",
-   "headline": "TSN: Schomburger Jeffrey K (President & CEO Elect) bought $2.0M \u2014 grew their own stake 64%",
-   "reasons": [
-    "grew their own stake 64%",
-    "$2.0M from the President & CEO Elect"
-   ],
-   "insiders": [
-    "Schomburger Jeffrey K"
-   ],
-   "totalValue": 2003233.3,
-   "ticker": "TSN",
-   "side": "buy"
-  },
-  {
-   "key": "SCOR:buy",
-   "headline": "SCOR: McLaughlin Matthew F. (Chief Executive Officer) bought $203,275 \u2014 0.26% of the whole company",
-   "reasons": [
-    "0.26% of the whole company",
-    "grew their own stake 27%"
-   ],
-   "insiders": [
-    "McLaughlin Matthew F."
-   ],
-   "totalValue": 203275.42,
-   "ticker": "SCOR",
-   "side": "buy"
-  },
-  {
-   "key": "AMR:buy",
-   "headline": "AMR: Courtis Kenneth S. (director) bought $4.5M \u2014 0.16% of the whole company",
-   "reasons": [
-    "0.16% of the whole company",
-    "now owns 8.2% of the company"
-   ],
-   "insiders": [
-    "Courtis Kenneth S."
-   ],
-   "totalValue": 4516577.88,
-   "ticker": "AMR",
-   "side": "buy"
-  },
-  {
    "key": "GME:buy",
-   "headline": "GME: Cheng Lawrence (director) bought $1.0M \u2014 grew their own stake 62%",
+   "headline": "GME: 2 insiders bought $1.2M \u2014 0.01% of the company",
    "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 35%",
     "grew their own stake 62%"
    ],
    "insiders": [
-    "Cheng Lawrence"
+    "Cheng Lawrence",
+    "Grube James"
    ],
-   "totalValue": 1033956.0,
+   "totalValue": 1230031.6,
    "ticker": "GME",
    "side": "buy"
   },
   {
-   "key": "EVLV:buy",
-   "headline": "EVLV: Shapiro Richard A (director) bought $161,739 \u2014 grew their own stake 54%",
+   "key": "CYBN:buy",
+   "headline": "CYBN: 2 insiders bought $2.2M",
    "reasons": [
-    "grew their own stake 54%"
+    "2 insiders bought within days",
+    "now owns 8.5% of the company",
+    "$1.1M from the Executive Chair",
+    "now owns 8.2% of the company"
    ],
    "insiders": [
-    "Shapiro Richard A"
+    "Glavine Paul",
+    "So Eric H. L."
    ],
-   "totalValue": 161739.0,
-   "ticker": "EVLV",
+   "totalValue": 2164152.0,
+   "ticker": "CYBN",
+   "side": "buy"
+  },
+  {
+   "key": "ALMS:buy",
+   "headline": "ALMS: Akkaraju Srinivas (director) bought $10.7M \u2014 0.85% of the whole company",
+   "reasons": [
+    "0.85% of the whole company"
+   ],
+   "insiders": [
+    "AKKARAJU SRINIVAS"
+   ],
+   "totalValue": 10726255.1651,
+   "ticker": "ALMS",
+   "side": "buy"
+  },
+  {
+   "key": "DXYZ:buy",
+   "headline": "DXYZ: Prasad Sohail (President and CEO) bought $1.8M \u2014 0.17% of the whole company",
+   "reasons": [
+    "0.17% of the whole company",
+    "grew their own stake 700%",
+    "$1.8M from the President and CEO"
+   ],
+   "insiders": [
+    "Prasad Sohail"
+   ],
+   "totalValue": 1767343.6,
+   "ticker": "DXYZ",
    "side": "buy"
   }
  ]
