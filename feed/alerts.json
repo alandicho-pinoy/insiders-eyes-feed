@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-11T21:16:06.298369+00:00",
+ "generatedAt": "2026-09-12T01:47:00.583723+00:00",
  "count": 8,
  "alerts": [
   {
@@ -22,10 +22,10 @@
   },
   {
    "key": "GME:buy",
-   "headline": "GME: 4 insiders bought $42.2M \u2014 0.50% of the company",
+   "headline": "GME: 4 insiders bought $21.7M \u2014 0.26% of the company",
    "reasons": [
     "4 insiders bought within days",
-    "0.48% of the whole company",
+    "0.24% of the whole company",
     "4 insiders buying",
     "now owns 8.8% of the company"
    ],
@@ -35,25 +35,25 @@
     "Cohen Ryan",
     "Grube James"
    ],
-   "totalValue": 42181831.6,
+   "totalValue": 21705931.6,
    "ticker": "GME",
    "side": "buy"
   },
   {
    "key": "PRTS:buy",
-   "headline": "PRTS: 3 insiders bought $2.1M \u2014 2.59% of the company",
+   "headline": "PRTS: 3 insiders bought $1.8M \u2014 2.26% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "1.25% of the whole company",
+    "1.09% of the whole company",
     "3 insiders buying",
-    "grew their own stake 51%"
+    "grew their own stake 42%"
    ],
    "insiders": [
     "Huffaker Michael",
     "Meniane David",
     "PHELPS BARRY"
    ],
-   "totalValue": 2095648.26,
+   "totalValue": 1829058.26,
    "ticker": "PRTS",
    "side": "buy"
   },
@@ -70,20 +70,6 @@
    ],
    "totalValue": 31225740.0,
    "ticker": "PAMT",
-   "side": "buy"
-  },
-  {
-   "key": "GREE:buy",
-   "headline": "GREE: Rogers George Ted III (director) bought $5.0M \u2014 9.71% of the whole company",
-   "reasons": [
-    "9.71% of the whole company",
-    "now owns 16.8% of the company"
-   ],
-   "insiders": [
-    "Rogers George Ted III"
-   ],
-   "totalValue": 4999998.96,
-   "ticker": "GREE",
    "side": "buy"
   },
   {
@@ -105,6 +91,22 @@
    "side": "buy"
   },
   {
+   "key": "RGCO:buy",
+   "headline": "RGCO: 3 insiders bought $46,463 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "JOHNSTON ROBERT B",
+    "Nester Paul W",
+    "WILLIAMSON JOHN B III"
+   ],
+   "totalValue": 46463.28,
+   "ticker": "RGCO",
+   "side": "buy"
+  },
+  {
    "key": "DXYZ:buy",
    "headline": "DXYZ: 2 insiders bought $1.8M \u2014 0.17% of the company",
    "reasons": [
@@ -117,23 +119,25 @@
     "Prasad Sohail",
     "Silver Ethan"
    ],
-   "totalValue": 1817343.6712,
+   "totalValue": 1792343.6356,
    "ticker": "DXYZ",
    "side": "buy"
   },
   {
-   "key": "UBER:buy",
-   "headline": "UBER: 2 insiders bought $15.3M \u2014 0.01% of the company",
+   "key": "CYBN:buy",
+   "headline": "CYBN: 2 insiders bought $8.3M",
    "reasons": [
     "2 insiders bought within days",
-    "$10.0M from the Chief Executive Officer"
+    "now owns 8.9% of the company",
+    "$3.6M from the Executive Chair",
+    "now owns 8.6% of the company"
    ],
    "insiders": [
-    "KHOSROWSHAHI DARA",
-    "Macdonald Andrew"
+    "Glavine Paul",
+    "So Eric H. L."
    ],
-   "totalValue": 15314015.8825,
-   "ticker": "UBER",
+   "totalValue": 8284382.0,
+   "ticker": "CYBN",
    "side": "buy"
   }
  ]
