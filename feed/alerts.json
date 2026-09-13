@@ -1,93 +1,19 @@
 {
- "generatedAt": "2026-09-12T01:47:00.583723+00:00",
+ "generatedAt": "2026-09-13T21:15:13.519887+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "BWFG:buy",
-   "headline": "BWFG: 5 insiders bought $435,321 \u2014 0.08% of the company",
+   "key": "GREE:buy",
+   "headline": "GREE: Rogers George Ted III (director) bought $5.0M \u2014 9.71% of the whole company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying"
+    "9.71% of the whole company",
+    "now owns 16.8% of the company"
    ],
    "insiders": [
-    "Dale Eric J",
-    "Drexler Blake S",
-    "Dunne Jeffrey R",
-    "Porto Carl M",
-    "SEIDMAN LAWRENCE B"
+    "Rogers George Ted III"
    ],
-   "totalValue": 435320.54,
-   "ticker": "BWFG",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: 4 insiders bought $21.7M \u2014 0.26% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "0.24% of the whole company",
-    "4 insiders buying",
-    "now owns 8.8% of the company"
-   ],
-   "insiders": [
-    "Attal Alain",
-    "Cheng Lawrence",
-    "Cohen Ryan",
-    "Grube James"
-   ],
-   "totalValue": 21705931.6,
-   "ticker": "GME",
-   "side": "buy"
-  },
-  {
-   "key": "PRTS:buy",
-   "headline": "PRTS: 3 insiders bought $1.8M \u2014 2.26% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "1.09% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 42%"
-   ],
-   "insiders": [
-    "Huffaker Michael",
-    "Meniane David",
-    "PHELPS BARRY"
-   ],
-   "totalValue": 1829058.26,
-   "ticker": "PRTS",
-   "side": "buy"
-  },
-  {
-   "key": "PAMT:buy",
-   "headline": "PAMT: Moroun Matthew T (director) bought $31.2M \u2014 12.50% of the whole company",
-   "reasons": [
-    "12.50% of the whole company",
-    "grew their own stake 26%",
-    "now owns 74.9% of the company"
-   ],
-   "insiders": [
-    "MOROUN MATTHEW T"
-   ],
-   "totalValue": 31225740.0,
-   "ticker": "PAMT",
-   "side": "buy"
-  },
-  {
-   "key": "INBX:buy",
-   "headline": "INBX: 3 insiders bought $3.5M \u2014 0.21% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.16% of the whole company",
-    "3 insiders buying",
-    "$2.6M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "FORSYTH DOUGLAS",
-    "Kayyem Jon Faiz",
-    "Lappe Mark"
-   ],
-   "totalValue": 3499596.5634,
-   "ticker": "INBX",
+   "totalValue": 4999998.96,
+   "ticker": "GREE",
    "side": "buy"
   },
   {
@@ -107,37 +33,97 @@
    "side": "buy"
   },
   {
-   "key": "DXYZ:buy",
-   "headline": "DXYZ: 2 insiders bought $1.8M \u2014 0.17% of the company",
+   "key": "GME:buy",
+   "headline": "GME: 2 insiders bought $20.5M \u2014 0.24% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.17% of the whole company",
-    "grew their own stake 700%",
-    "$1.8M from the President and CEO"
+    "0.24% of the whole company",
+    "now owns 8.8% of the company",
+    "$20.4M from the President, CEO and Chairman"
    ],
    "insiders": [
-    "Prasad Sohail",
-    "Silver Ethan"
+    "Attal Alain",
+    "Cohen Ryan"
    ],
-   "totalValue": 1792343.6356,
-   "ticker": "DXYZ",
+   "totalValue": 20475900.0,
+   "ticker": "GME",
+   "side": "buy"
+  },
+  {
+   "key": "RLMD:buy",
+   "headline": "RLMD: 2 insiders bought $1.7M \u2014 0.35% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.18% of the whole company",
+    "grew their own stake 25%",
+    "0.17% of the whole company"
+   ],
+   "insiders": [
+    "Shenouda Maged",
+    "TRAVERSA SERGIO"
+   ],
+   "totalValue": 1671990.0,
+   "ticker": "RLMD",
+   "side": "buy"
+  },
+  {
+   "key": "PRTS:buy",
+   "headline": "PRTS: 2 insiders bought $266,590 \u2014 0.33% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.16% of the whole company"
+   ],
+   "insiders": [
+    "Huffaker Michael",
+    "Meniane David"
+   ],
+   "totalValue": 266590.0,
+   "ticker": "PRTS",
    "side": "buy"
   },
   {
    "key": "CYBN:buy",
-   "headline": "CYBN: 2 insiders bought $8.3M",
+   "headline": "CYBN: 2 insiders bought $6.1M",
    "reasons": [
     "2 insiders bought within days",
+    "now owns 8.6% of the company",
     "now owns 8.9% of the company",
-    "$3.6M from the Executive Chair",
-    "now owns 8.6% of the company"
+    "$2.4M from the Executive Chair"
    ],
    "insiders": [
     "Glavine Paul",
     "So Eric H. L."
    ],
-   "totalValue": 8284382.0,
+   "totalValue": 6120230.0,
    "ticker": "CYBN",
+   "side": "buy"
+  },
+  {
+   "key": "CLPR:buy",
+   "headline": "CLPR: Levinson Sam (director) bought $388,131 \u2014 0.71% of the whole company",
+   "reasons": [
+    "0.71% of the whole company",
+    "grew their own stake 45%"
+   ],
+   "insiders": [
+    "Levinson Sam"
+   ],
+   "totalValue": 388130.8084,
+   "ticker": "CLPR",
+   "side": "buy"
+  },
+  {
+   "key": "ANGX:buy",
+   "headline": "ANGX: Sarowitz Steven I (director) bought $2.5M \u2014 0.25% of the whole company",
+   "reasons": [
+    "0.25% of the whole company",
+    "grew their own stake 65%"
+   ],
+   "insiders": [
+    "Sarowitz Steven I"
+   ],
+   "totalValue": 2536402.8561,
+   "ticker": "ANGX",
    "side": "buy"
   }
  ]
