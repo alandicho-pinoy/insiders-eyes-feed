@@ -1,19 +1,39 @@
 {
- "generatedAt": "2026-09-14T14:15:16.929329+00:00",
+ "generatedAt": "2026-09-14T21:16:25.439248+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "GREE:buy",
-   "headline": "GREE: Rogers George Ted III (director) bought $5.0M \u2014 9.71% of the whole company",
+   "headline": "GREE: 4 insiders bought $5.3M \u2014 10.29% of the company",
    "reasons": [
-    "9.71% of the whole company",
-    "now owns 16.8% of the company"
+    "4 insiders bought within days",
+    "0.19% of the whole company",
+    "4 insiders buying"
    ],
    "insiders": [
+    "Irwin Dale",
+    "Kovler Jordan",
+    "Mulvihill Christian",
     "Rogers George Ted III"
    ],
-   "totalValue": 4999998.96,
+   "totalValue": 5299996.23,
    "ticker": "GREE",
+   "side": "buy"
+  },
+  {
+   "key": "RGCO:buy",
+   "headline": "RGCO: 3 insiders bought $46,463 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "JOHNSTON ROBERT B",
+    "Nester Paul W",
+    "WILLIAMSON JOHN B III"
+   ],
+   "totalValue": 46463.28,
+   "ticker": "RGCO",
    "side": "buy"
   },
   {
@@ -50,6 +70,21 @@
    "side": "buy"
   },
   {
+   "key": "OFLX:buy",
+   "headline": "OFLX: 2 insiders bought $45,510 \u2014 0.02% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Moran Edwin B.",
+    "Unger Matthew Francis"
+   ],
+   "totalValue": 45509.7,
+   "ticker": "OFLX",
+   "side": "buy"
+  },
+  {
    "key": "CYBN:buy",
    "headline": "CYBN: 2 insiders bought $3.7M",
    "reasons": [
@@ -67,58 +102,30 @@
    "side": "buy"
   },
   {
-   "key": "ANGX:buy",
-   "headline": "ANGX: Sarowitz Steven I (director) bought $2.5M \u2014 0.25% of the whole company",
+   "key": "ECVT:buy",
+   "headline": "ECVT: Humble Patti A. (director) bought $249,994 \u2014 grew their own stake 273%",
    "reasons": [
-    "0.25% of the whole company",
-    "grew their own stake 65%"
+    "grew their own stake 273%"
+   ],
+   "insiders": [
+    "Humble Patti A."
+   ],
+   "totalValue": 249993.75,
+   "ticker": "ECVT",
+   "side": "buy"
+  },
+  {
+   "key": "ANGX:buy",
+   "headline": "ANGX: Sarowitz Steven I (director) bought $3.0M \u2014 0.30% of the whole company",
+   "reasons": [
+    "0.30% of the whole company",
+    "grew their own stake 77%"
    ],
    "insiders": [
     "Sarowitz Steven I"
    ],
-   "totalValue": 2536402.8561,
+   "totalValue": 3009006.6072,
    "ticker": "ANGX",
-   "side": "buy"
-  },
-  {
-   "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $23.7M \u2014 0.70% of the whole company (institution)",
-   "reasons": [
-    "0.70% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Conifer Management, L.L.C."
-   ],
-   "totalValue": 23669114.2666,
-   "ticker": "GPI",
-   "side": "buy"
-  },
-  {
-   "key": "AFCG:buy",
-   "headline": "AFCG: Tannenbaum Leonard M (director) bought $121,100 \u2014 0.15% of the whole company",
-   "reasons": [
-    "0.15% of the whole company",
-    "now owns 30.5% of the company"
-   ],
-   "insiders": [
-    "TANNENBAUM LEONARD M"
-   ],
-   "totalValue": 121100.0,
-   "ticker": "AFCG",
-   "side": "buy"
-  },
-  {
-   "key": "NTHI:buy",
-   "headline": "NTHI: Heshmatpour Amir F (CEO, President) bought $135,620 \u2014 0.12% of the whole company",
-   "reasons": [
-    "0.12% of the whole company",
-    "now owns 10.9% of the company"
-   ],
-   "insiders": [
-    "Heshmatpour Amir F"
-   ],
-   "totalValue": 135619.8,
-   "ticker": "NTHI",
    "side": "buy"
   }
  ]
