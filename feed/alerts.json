@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T01:45:07.709670+00:00",
+ "generatedAt": "2026-09-14T14:15:16.929329+00:00",
  "count": 8,
  "alerts": [
   {
@@ -17,36 +17,19 @@
    "side": "buy"
   },
   {
-   "key": "RGCO:buy",
-   "headline": "RGCO: 3 insiders bought $46,463 \u2014 0.02% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "JOHNSTON ROBERT B",
-    "Nester Paul W",
-    "WILLIAMSON JOHN B III"
-   ],
-   "totalValue": 46463.28,
-   "ticker": "RGCO",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: 2 insiders bought $20.5M \u2014 0.24% of the company",
+   "key": "DOMH:buy",
+   "headline": "DOMH: 2 insiders bought $418,380 \u2014 0.79% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.24% of the whole company",
-    "now owns 8.8% of the company",
-    "$20.4M from the President, CEO and Chairman"
+    "0.39% of the whole company",
+    "now owns 19.0% of the company"
    ],
    "insiders": [
-    "Attal Alain",
-    "Cohen Ryan"
+    "Hayes Anthony",
+    "Wool Kyle Michael"
    ],
-   "totalValue": 20475900.0,
-   "ticker": "GME",
+   "totalValue": 418380.0,
+   "ticker": "DOMH",
    "side": "buy"
   },
   {
@@ -67,49 +50,20 @@
    "side": "buy"
   },
   {
-   "key": "PRTS:buy",
-   "headline": "PRTS: 2 insiders bought $266,590 \u2014 0.33% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.16% of the whole company"
-   ],
-   "insiders": [
-    "Huffaker Michael",
-    "Meniane David"
-   ],
-   "totalValue": 266590.0,
-   "ticker": "PRTS",
-   "side": "buy"
-  },
-  {
    "key": "CYBN:buy",
-   "headline": "CYBN: 2 insiders bought $6.1M",
+   "headline": "CYBN: 2 insiders bought $3.7M",
    "reasons": [
     "2 insiders bought within days",
     "now owns 8.6% of the company",
     "now owns 8.9% of the company",
-    "$2.4M from the Executive Chair"
+    "$1.2M from the Executive Chair"
    ],
    "insiders": [
     "Glavine Paul",
     "So Eric H. L."
    ],
-   "totalValue": 6120230.0,
+   "totalValue": 3733050.0,
    "ticker": "CYBN",
-   "side": "buy"
-  },
-  {
-   "key": "CLPR:buy",
-   "headline": "CLPR: Levinson Sam (director) bought $388,131 \u2014 0.71% of the whole company",
-   "reasons": [
-    "0.71% of the whole company",
-    "grew their own stake 45%"
-   ],
-   "insiders": [
-    "Levinson Sam"
-   ],
-   "totalValue": 388130.8084,
-   "ticker": "CLPR",
    "side": "buy"
   },
   {
@@ -124,6 +78,47 @@
    ],
    "totalValue": 2536402.8561,
    "ticker": "ANGX",
+   "side": "buy"
+  },
+  {
+   "key": "GPI:buy",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $23.7M \u2014 0.70% of the whole company (institution)",
+   "reasons": [
+    "0.70% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Conifer Management, L.L.C."
+   ],
+   "totalValue": 23669114.2666,
+   "ticker": "GPI",
+   "side": "buy"
+  },
+  {
+   "key": "AFCG:buy",
+   "headline": "AFCG: Tannenbaum Leonard M (director) bought $121,100 \u2014 0.15% of the whole company",
+   "reasons": [
+    "0.15% of the whole company",
+    "now owns 30.5% of the company"
+   ],
+   "insiders": [
+    "TANNENBAUM LEONARD M"
+   ],
+   "totalValue": 121100.0,
+   "ticker": "AFCG",
+   "side": "buy"
+  },
+  {
+   "key": "NTHI:buy",
+   "headline": "NTHI: Heshmatpour Amir F (CEO, President) bought $135,620 \u2014 0.12% of the whole company",
+   "reasons": [
+    "0.12% of the whole company",
+    "now owns 10.9% of the company"
+   ],
+   "insiders": [
+    "Heshmatpour Amir F"
+   ],
+   "totalValue": 135619.8,
+   "ticker": "NTHI",
    "side": "buy"
   }
  ]
