@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T21:16:25.439248+00:00",
+ "generatedAt": "2026-09-15T01:47:10.711355+00:00",
  "count": 8,
  "alerts": [
   {
@@ -18,6 +18,26 @@
    ],
    "totalValue": 5299996.23,
    "ticker": "GREE",
+   "side": "buy"
+  },
+  {
+   "key": "PMTS:buy",
+   "headline": "PMTS: 5 insiders bought $12.0M \u2014 4.25% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "4.01% of the whole company (institution)",
+    "0.11% of the whole company",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "Mallela Ravi",
+    "Peters Nicholas",
+    "Riley H Sanford",
+    "SHEINBAUM MARC",
+    "Tricor PMT25 Holdings Inc."
+   ],
+   "totalValue": 11958988.0,
+   "ticker": "PMTS",
    "side": "buy"
   },
   {
@@ -112,20 +132,6 @@
    ],
    "totalValue": 249993.75,
    "ticker": "ECVT",
-   "side": "buy"
-  },
-  {
-   "key": "ANGX:buy",
-   "headline": "ANGX: Sarowitz Steven I (director) bought $3.0M \u2014 0.30% of the whole company",
-   "reasons": [
-    "0.30% of the whole company",
-    "grew their own stake 77%"
-   ],
-   "insiders": [
-    "Sarowitz Steven I"
-   ],
-   "totalValue": 3009006.6072,
-   "ticker": "ANGX",
    "side": "buy"
   }
  ]
