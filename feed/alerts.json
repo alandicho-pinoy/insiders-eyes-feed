@@ -1,25 +1,7 @@
 {
- "generatedAt": "2026-09-15T01:47:10.711355+00:00",
+ "generatedAt": "2026-09-15T14:15:19.633492+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "GREE:buy",
-   "headline": "GREE: 4 insiders bought $5.3M \u2014 10.29% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "0.19% of the whole company",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Irwin Dale",
-    "Kovler Jordan",
-    "Mulvihill Christian",
-    "Rogers George Ted III"
-   ],
-   "totalValue": 5299996.23,
-   "ticker": "GREE",
-   "side": "buy"
-  },
   {
    "key": "PMTS:buy",
    "headline": "PMTS: 5 insiders bought $12.0M \u2014 4.25% of the company",
@@ -41,19 +23,20 @@
    "side": "buy"
   },
   {
-   "key": "RGCO:buy",
-   "headline": "RGCO: 3 insiders bought $46,463 \u2014 0.02% of the company",
+   "key": "GREE:buy",
+   "headline": "GREE: 3 insiders bought $299,997 \u2014 0.58% of the company",
    "reasons": [
     "3 insiders bought within days",
+    "0.19% of the whole company",
     "3 insiders buying"
    ],
    "insiders": [
-    "JOHNSTON ROBERT B",
-    "Nester Paul W",
-    "WILLIAMSON JOHN B III"
+    "Irwin Dale",
+    "Kovler Jordan",
+    "Mulvihill Christian"
    ],
-   "totalValue": 46463.28,
-   "ticker": "RGCO",
+   "totalValue": 299997.27,
+   "ticker": "GREE",
    "side": "buy"
   },
   {
@@ -73,23 +56,6 @@
    "side": "buy"
   },
   {
-   "key": "RLMD:buy",
-   "headline": "RLMD: 2 insiders bought $1.7M \u2014 0.35% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.18% of the whole company",
-    "grew their own stake 25%",
-    "0.17% of the whole company"
-   ],
-   "insiders": [
-    "Shenouda Maged",
-    "TRAVERSA SERGIO"
-   ],
-   "totalValue": 1671990.0,
-   "ticker": "RLMD",
-   "side": "buy"
-  },
-  {
    "key": "OFLX:buy",
    "headline": "OFLX: 2 insiders bought $45,510 \u2014 0.02% of the company",
    "reasons": [
@@ -105,20 +71,18 @@
    "side": "buy"
   },
   {
-   "key": "CYBN:buy",
-   "headline": "CYBN: 2 insiders bought $3.7M",
+   "key": "MAIA:buy",
+   "headline": "MAIA: 2 insiders bought $149,526 \u2014 0.18% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "now owns 8.6% of the company",
-    "now owns 8.9% of the company",
-    "$1.2M from the Executive Chair"
+    "0.12% of the whole company"
    ],
    "insiders": [
-    "Glavine Paul",
-    "So Eric H. L."
+    "Guerrero Ramiro",
+    "Vitoc Vlad"
    ],
-   "totalValue": 3733050.0,
-   "ticker": "CYBN",
+   "totalValue": 149526.3745,
+   "ticker": "MAIA",
    "side": "buy"
   },
   {
@@ -132,6 +96,33 @@
    ],
    "totalValue": 249993.75,
    "ticker": "ECVT",
+   "side": "buy"
+  },
+  {
+   "key": "ECL:buy",
+   "headline": "ECL: Green Eric Mark (director) bought $1.0M \u2014 grew their own stake 87%",
+   "reasons": [
+    "grew their own stake 87%"
+   ],
+   "insiders": [
+    "Green Eric Mark"
+   ],
+   "totalValue": 1020797.61,
+   "ticker": "ECL",
+   "side": "buy"
+  },
+  {
+   "key": "SDHC:buy",
+   "headline": "SDHC: Bradbury Thomas L (director) bought $199,522 \u2014 0.22% of the whole company",
+   "reasons": [
+    "0.22% of the whole company",
+    "grew their own stake 33%"
+   ],
+   "insiders": [
+    "Bradbury Thomas L"
+   ],
+   "totalValue": 199522.224,
+   "ticker": "SDHC",
    "side": "buy"
   }
  ]
