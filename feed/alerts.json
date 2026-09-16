@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T01:46:29.759775+00:00",
+ "generatedAt": "2026-09-16T14:15:43.930037+00:00",
  "count": 8,
  "alerts": [
   {
@@ -24,7 +24,7 @@
   },
   {
    "key": "COO:buy",
-   "headline": "COO: 3 insiders bought $1.3M \u2014 0.01% of the company",
+   "headline": "COO: 3 insiders bought $1.6M \u2014 0.02% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
@@ -35,7 +35,7 @@
     "Kurzius Lawrence Erik",
     "Rosebrough Walter M Jr"
    ],
-   "totalValue": 1330789.9777,
+   "totalValue": 1580789.9554,
    "ticker": "COO",
    "side": "buy"
   },
@@ -75,23 +75,6 @@
    "side": "buy"
   },
   {
-   "key": "RWT:buy",
-   "headline": "RWT: 3 insiders bought $676,698 \u2014 0.14% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 65%"
-   ],
-   "insiders": [
-    "Abate Christopher J",
-    "Carillo Brooke",
-    "KUBICEK GREG H"
-   ],
-   "totalValue": 676698.1705,
-   "ticker": "RWT",
-   "side": "buy"
-  },
-  {
    "key": "FTK:buy",
    "headline": "FTK: Wilks Matthew (director) bought $34.3M \u2014 3.51% of the whole company",
    "reasons": [
@@ -106,35 +89,50 @@
    "side": "buy"
   },
   {
-   "key": "VENU:buy",
-   "headline": "VENU: 2 insiders bought $700,000 \u2014 0.69% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.35% of the whole company",
-    "grew their own stake 320%"
-   ],
-   "insiders": [
-    "Finke Thomas M",
-    "ROTH JAY W"
-   ],
-   "totalValue": 700000.0,
-   "ticker": "VENU",
-   "side": "buy"
-  },
-  {
    "key": "DOMH:buy",
-   "headline": "DOMH: 2 insiders bought $418,380 \u2014 0.79% of the company",
+   "headline": "DOMH: 2 insiders bought $836,760 \u2014 1.58% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.39% of the whole company",
+    "0.79% of the whole company",
     "now owns 19.0% of the company"
    ],
    "insiders": [
     "Hayes Anthony",
     "Wool Kyle Michael"
    ],
-   "totalValue": 418380.0,
+   "totalValue": 836760.0,
    "ticker": "DOMH",
+   "side": "buy"
+  },
+  {
+   "key": "VENU:buy",
+   "headline": "VENU: 2 insiders bought $1.4M \u2014 1.45% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.72% of the whole company",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Finke Thomas M",
+    "ROTH JAY W"
+   ],
+   "totalValue": 1400000.0,
+   "ticker": "VENU",
+   "side": "buy"
+  },
+  {
+   "key": "NNOX:buy",
+   "headline": "NNOX: 2 insiders bought $67,800 \u2014 0.11% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 120%"
+   ],
+   "insiders": [
+    "Meltzer Erez",
+    "Suesskind Dan S"
+   ],
+   "totalValue": 67800.0,
+   "ticker": "NNOX",
    "side": "buy"
   }
  ]
