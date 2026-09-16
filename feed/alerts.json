@@ -1,7 +1,27 @@
 {
- "generatedAt": "2026-09-15T21:16:23.616605+00:00",
+ "generatedAt": "2026-09-16T01:46:29.759775+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "PMTS:buy",
+   "headline": "PMTS: 5 insiders bought $12.0M \u2014 4.25% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "4.01% of the whole company (institution)",
+    "0.11% of the whole company",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "Mallela Ravi",
+    "Peters Nicholas",
+    "Riley H Sanford",
+    "SHEINBAUM MARC",
+    "Tricor PMT25 Holdings Inc."
+   ],
+   "totalValue": 11958988.0,
+   "ticker": "PMTS",
+   "side": "buy"
+  },
   {
    "key": "COO:buy",
    "headline": "COO: 3 insiders bought $1.3M \u2014 0.01% of the company",
@@ -17,6 +37,72 @@
    ],
    "totalValue": 1330789.9777,
    "ticker": "COO",
+   "side": "buy"
+  },
+  {
+   "key": "GREE:buy",
+   "headline": "GREE: 3 insiders bought $299,997 \u2014 0.58% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.19% of the whole company",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Irwin Dale",
+    "Kovler Jordan",
+    "Mulvihill Christian"
+   ],
+   "totalValue": 299997.27,
+   "ticker": "GREE",
+   "side": "buy"
+  },
+  {
+   "key": "NTHI:buy",
+   "headline": "NTHI: 3 insiders bought $351,416 \u2014 0.32% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.28% of the whole company",
+    "3 insiders buying",
+    "now owns 11.1% of the company"
+   ],
+   "insiders": [
+    "CHEN THOMAS C",
+    "GARNETT KEITHLY",
+    "Heshmatpour Amir F"
+   ],
+   "totalValue": 351415.5936,
+   "ticker": "NTHI",
+   "side": "buy"
+  },
+  {
+   "key": "RWT:buy",
+   "headline": "RWT: 3 insiders bought $676,698 \u2014 0.14% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 65%"
+   ],
+   "insiders": [
+    "Abate Christopher J",
+    "Carillo Brooke",
+    "KUBICEK GREG H"
+   ],
+   "totalValue": 676698.1705,
+   "ticker": "RWT",
+   "side": "buy"
+  },
+  {
+   "key": "FTK:buy",
+   "headline": "FTK: Wilks Matthew (director) bought $34.3M \u2014 3.51% of the whole company",
+   "reasons": [
+    "3.51% of the whole company",
+    "grew their own stake 836%"
+   ],
+   "insiders": [
+    "Wilks Matthew"
+   ],
+   "totalValue": 34320012.93,
+   "ticker": "FTK",
    "side": "buy"
   },
   {
@@ -36,24 +122,6 @@
    "side": "buy"
   },
   {
-   "key": "PMTS:buy",
-   "headline": "PMTS: 3 insiders bought $11.8M \u2014 4.19% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "4.01% of the whole company (institution)",
-    "0.11% of the whole company",
-    "grew their own stake 54%"
-   ],
-   "insiders": [
-    "Riley H Sanford",
-    "SHEINBAUM MARC",
-    "Tricor PMT25 Holdings Inc."
-   ],
-   "totalValue": 11787482.5,
-   "ticker": "PMTS",
-   "side": "buy"
-  },
-  {
    "key": "DOMH:buy",
    "headline": "DOMH: 2 insiders bought $418,380 \u2014 0.79% of the company",
    "reasons": [
@@ -67,64 +135,6 @@
    ],
    "totalValue": 418380.0,
    "ticker": "DOMH",
-   "side": "buy"
-  },
-  {
-   "key": "NNOX:buy",
-   "headline": "NNOX: 2 insiders bought $53,100 \u2014 0.09% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 120%"
-   ],
-   "insiders": [
-    "Meltzer Erez",
-    "Suesskind Dan S"
-   ],
-   "totalValue": 53100.0,
-   "ticker": "NNOX",
-   "side": "buy"
-  },
-  {
-   "key": "RWT:buy",
-   "headline": "RWT: 2 insiders bought $292,798 \u2014 0.06% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 65%"
-   ],
-   "insiders": [
-    "Carillo Brooke",
-    "KUBICEK GREG H"
-   ],
-   "totalValue": 292798.1705,
-   "ticker": "RWT",
-   "side": "buy"
-  },
-  {
-   "key": "OFLX:buy",
-   "headline": "OFLX: 2 insiders bought $45,510 \u2014 0.02% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Moran Edwin B.",
-    "Unger Matthew Francis"
-   ],
-   "totalValue": 45509.7,
-   "ticker": "OFLX",
-   "side": "buy"
-  },
-  {
-   "key": "ECL:buy",
-   "headline": "ECL: Green Eric Mark (director) bought $1.0M \u2014 grew their own stake 87%",
-   "reasons": [
-    "grew their own stake 87%"
-   ],
-   "insiders": [
-    "Green Eric Mark"
-   ],
-   "totalValue": 1020797.61,
-   "ticker": "ECL",
    "side": "buy"
   }
  ]
