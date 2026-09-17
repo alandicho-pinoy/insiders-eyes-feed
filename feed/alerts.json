@@ -1,14 +1,32 @@
 {
- "generatedAt": "2026-09-17T01:47:24.791643+00:00",
+ "generatedAt": "2026-09-17T14:15:56.226658+00:00",
  "count": 8,
  "alerts": [
   {
+   "key": "SBLK:buy",
+   "headline": "SBLK: 5 insiders bought $3.0M \u2014 0.08% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying"
+   ],
+   "insiders": [
+    "Erhardt Koert",
+    "Karellis Nikolaos",
+    "Pappas Alexandros",
+    "Reskos Nikolaos",
+    "Spyrou Symeon"
+   ],
+   "totalValue": 3036198.0,
+   "ticker": "SBLK",
+   "side": "buy"
+  },
+  {
    "key": "PMTS:buy",
-   "headline": "PMTS: 5 insiders bought $12.0M \u2014 4.25% of the company",
+   "headline": "PMTS: 5 insiders bought $12.3M \u2014 4.36% of the company",
    "reasons": [
     "5 insiders bought within days",
     "4.01% of the whole company (institution)",
-    "0.11% of the whole company",
+    "0.21% of the whole company",
     "4 insiders buying"
    ],
    "insiders": [
@@ -18,7 +36,7 @@
     "SHEINBAUM MARC",
     "Tricor PMT25 Holdings Inc."
    ],
-   "totalValue": 11958988.0,
+   "totalValue": 12258977.5,
    "ticker": "PMTS",
    "side": "buy"
   },
@@ -89,23 +107,6 @@
    ],
    "totalValue": 351415.5936,
    "ticker": "NTHI",
-   "side": "buy"
-  },
-  {
-   "key": "SBLK:buy",
-   "headline": "SBLK: 3 insiders bought $650,210 \u2014 0.02% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 60%"
-   ],
-   "insiders": [
-    "Erhardt Koert",
-    "Karellis Nikolaos",
-    "Spyrou Symeon"
-   ],
-   "totalValue": 650210.0,
-   "ticker": "SBLK",
    "side": "buy"
   },
   {
