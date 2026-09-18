@@ -1,15 +1,16 @@
 {
- "generatedAt": "2026-09-17T21:17:19.689512+00:00",
+ "generatedAt": "2026-09-18T01:46:03.018928+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "SBLK:buy",
-   "headline": "SBLK: 7 insiders bought $6.8M \u2014 0.19% of the company",
+   "headline": "SBLK: 8 insiders bought $7.4M \u2014 0.21% of the company",
    "reasons": [
-    "7 insiders bought within days",
-    "7 insiders buying"
+    "8 insiders bought within days",
+    "8 insiders buying"
    ],
    "insiders": [
+    "Erhardt Koert",
     "Karellis Nikolaos",
     "Pappa Milena Maria",
     "Pappas Alexandros",
@@ -18,7 +19,7 @@
     "Spyrou Symeon",
     "Zagari Raffaele"
    ],
-   "totalValue": 6750876.0,
+   "totalValue": 7401086.0,
    "ticker": "SBLK",
    "side": "buy"
   },
@@ -44,11 +45,10 @@
   },
   {
    "key": "RWT:buy",
-   "headline": "RWT: 4 insiders bought $1.1M \u2014 0.23% of the company",
+   "headline": "RWT: 4 insiders bought $928,278 \u2014 0.19% of the company",
    "reasons": [
     "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 368%"
+    "4 insiders buying"
    ],
    "insiders": [
     "Abate Christopher J",
@@ -56,44 +56,25 @@
     "KUBICEK GREG H",
     "Robinson Dashiell I"
    ],
-   "totalValue": 1120838.4679,
+   "totalValue": 928278.4679,
    "ticker": "RWT",
    "side": "buy"
   },
   {
-   "key": "EML:buy",
-   "headline": "EML: 4 insiders bought $117,993 \u2014 0.08% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 29%"
-   ],
-   "insiders": [
-    "EVERETS JOHN",
-    "Galbato Chan",
-    "MITAROTONDA JAMES A",
-    "Scott Peggy"
-   ],
-   "totalValue": 117993.25,
-   "ticker": "EML",
-   "side": "buy"
-  },
-  {
-   "key": "NTHI:buy",
-   "headline": "NTHI: 3 insiders bought $567,211 \u2014 0.52% of the company",
+   "key": "COO:buy",
+   "headline": "COO: 3 insiders bought $1.9M \u2014 0.02% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "0.44% of the whole company",
     "3 insiders buying",
-    "now owns 11.1% of the company"
+    "grew their own stake 180%"
    ],
    "insiders": [
-    "CHEN THOMAS C",
-    "GARNETT KEITHLY",
-    "Heshmatpour Amir F"
+    "Keel Paul A",
+    "Kurzius Lawrence Erik",
+    "Rosebrough Walter M Jr"
    ],
-   "totalValue": 567211.3872,
-   "ticker": "NTHI",
+   "totalValue": 1880109.9777,
+   "ticker": "COO",
    "side": "buy"
   },
   {
@@ -132,17 +113,38 @@
    "side": "buy"
   },
   {
-   "key": "FTK:buy",
-   "headline": "FTK: Wilks Matthew (director) bought $34.3M \u2014 3.51% of the whole company",
+   "key": "TENX:buy",
+   "headline": "TENX: 3 insiders bought $132,828 \u2014 0.19% of the company",
    "reasons": [
-    "3.51% of the whole company",
-    "grew their own stake 836%"
+    "3 insiders bought within days",
+    "0.14% of the whole company",
+    "3 insiders buying"
    ],
    "insiders": [
-    "Wilks Matthew"
+    "Doogan Declan",
+    "Giordano Christopher Thomas",
+    "STAAB THOMAS R II"
    ],
-   "totalValue": 34320012.93,
-   "ticker": "FTK",
+   "totalValue": 132828.31,
+   "ticker": "TENX",
+   "side": "buy"
+  },
+  {
+   "key": "NTHI:buy",
+   "headline": "NTHI: 3 insiders bought $351,416 \u2014 0.32% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.28% of the whole company",
+    "3 insiders buying",
+    "now owns 11.1% of the company"
+   ],
+   "insiders": [
+    "CHEN THOMAS C",
+    "GARNETT KEITHLY",
+    "Heshmatpour Amir F"
+   ],
+   "totalValue": 351415.5936,
+   "ticker": "NTHI",
    "side": "buy"
   }
  ]
