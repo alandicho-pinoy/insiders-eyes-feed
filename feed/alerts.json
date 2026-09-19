@@ -1,13 +1,36 @@
 {
- "generatedAt": "2026-09-18T21:16:37.740981+00:00",
+ "generatedAt": "2026-09-19T01:46:22.040301+00:00",
  "count": 8,
  "alerts": [
   {
+   "key": "SBLK:buy",
+   "headline": "SBLK: 8 insiders bought $6.9M \u2014 0.19% of the company",
+   "reasons": [
+    "8 insiders bought within days",
+    "8 insiders buying"
+   ],
+   "insiders": [
+    "Erhardt Koert",
+    "Karellis Nikolaos",
+    "Pappa Milena Maria",
+    "Pappas Alexandros",
+    "Plakantonaki Charis",
+    "Reskos Nikolaos",
+    "Spyrou Symeon",
+    "Zagari Raffaele"
+   ],
+   "totalValue": 6920496.0,
+   "ticker": "SBLK",
+   "side": "buy"
+  },
+  {
    "key": "RWT:buy",
-   "headline": "RWT: 4 insiders bought $928,278 \u2014 0.19% of the company",
+   "headline": "RWT: 4 insiders bought $1.3M \u2014 0.27% of the company",
    "reasons": [
     "4 insiders bought within days",
-    "4 insiders buying"
+    "0.16% of the whole company",
+    "4 insiders buying",
+    "grew their own stake 42%"
    ],
    "insiders": [
     "Abate Christopher J",
@@ -15,7 +38,7 @@
     "KUBICEK GREG H",
     "Robinson Dashiell I"
    ],
-   "totalValue": 928278.4679,
+   "totalValue": 1312178.4679,
    "ticker": "RWT",
    "side": "buy"
   },
@@ -38,60 +61,8 @@
    "side": "buy"
   },
   {
-   "key": "CBKM:buy",
-   "headline": "CBKM: 4 insiders bought $51,800 \u2014 0.05% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Chuckalovchak Kimberly K",
-    "Hudak Hillary A",
-    "Lober Ralph J II",
-    "PADEN FRANK L"
-   ],
-   "totalValue": 51800.004046,
-   "ticker": "CBKM",
-   "side": "buy"
-  },
-  {
-   "key": "BWMX:buy",
-   "headline": "BWMX: 3 insiders bought $2.3M \u2014 0.36% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.21% of the whole company",
-    "3 insiders buying",
-    "now owns 51.6% of the company"
-   ],
-   "insiders": [
-    "CHEVALLIER ANDRES CAMPOS",
-    "CHEVALLIER SANTIAGO CAMPOS",
-    "Campos Luis"
-   ],
-   "totalValue": 2293811.0,
-   "ticker": "BWMX",
-   "side": "buy"
-  },
-  {
-   "key": "TENX:buy",
-   "headline": "TENX: 3 insiders bought $132,828 \u2014 0.19% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.14% of the whole company",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Doogan Declan",
-    "Giordano Christopher Thomas",
-    "STAAB THOMAS R II"
-   ],
-   "totalValue": 132828.31,
-   "ticker": "TENX",
-   "side": "buy"
-  },
-  {
    "key": "COO:buy",
-   "headline": "COO: 3 insiders bought $2.4M \u2014 0.02% of the company",
+   "headline": "COO: 3 insiders bought $1.3M \u2014 0.01% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
@@ -102,7 +73,7 @@
     "Kurzius Lawrence Erik",
     "Rosebrough Walter M Jr"
    ],
-   "totalValue": 2429429.9777,
+   "totalValue": 1330789.9777,
    "ticker": "COO",
    "side": "buy"
   },
@@ -136,6 +107,39 @@
    ],
    "totalValue": 34320012.93,
    "ticker": "FTK",
+   "side": "buy"
+  },
+  {
+   "key": "LMB:buy",
+   "headline": "LMB: 3 insiders bought $515,920 \u2014 0.09% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 37%"
+   ],
+   "insiders": [
+    "Gaboury David Richard",
+    "Horowitz Joshua",
+    "Krzeminski Laurel J"
+   ],
+   "totalValue": 515919.8274,
+   "ticker": "LMB",
+   "side": "buy"
+  },
+  {
+   "key": "GAM:buy",
+   "headline": "GAM: 3 insiders bought $284,880 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Jin Samantha X.",
+    "Priest Jeffrey W",
+    "Stark Eugene S"
+   ],
+   "totalValue": 284880.0,
+   "ticker": "GAM",
    "side": "buy"
   }
  ]
