@@ -1,7 +1,25 @@
 {
- "generatedAt": "2026-09-21T14:24:40.140265+00:00",
+ "generatedAt": "2026-09-21T21:16:12.570395+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "BBD:buy",
+   "headline": "BBD: 4 insiders bought $8.4M \u2014 0.02% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 127%"
+   ],
+   "insiders": [
+    "Panico Alexandre",
+    "Pedras Carlos Henrique Villela",
+    "de Oliveira Andre Luis Duarte",
+    "de Souza Cintia Scovine Barcelos"
+   ],
+   "totalValue": 8426758.52,
+   "ticker": "BBD",
+   "side": "buy"
+  },
   {
    "key": "KRMN:buy",
    "headline": "KRMN: 3 insiders bought $1.0M \u2014 0.02% of the company",
@@ -19,6 +37,22 @@
    "side": "buy"
   },
   {
+   "key": "RWT:buy",
+   "headline": "RWT: 3 insiders bought $424,461 \u2014 0.09% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Abate Christopher J",
+    "Macomber Sasha G.",
+    "Stone Andrew P"
+   ],
+   "totalValue": 424461.184,
+   "ticker": "RWT",
+   "side": "buy"
+  },
+  {
    "key": "CV:buy",
    "headline": "CV: Shen Ching Hang (10% owner) bought $5.0M \u2014 1.40% of the whole company",
    "reasons": [
@@ -31,6 +65,20 @@
    ],
    "totalValue": 4999996.46,
    "ticker": "CV",
+   "side": "buy"
+  },
+  {
+   "key": "GSAT:buy",
+   "headline": "GSAT: Monroe James III (director) bought $29.8M \u2014 0.28% of the whole company",
+   "reasons": [
+    "0.28% of the whole company",
+    "grew their own stake 775%"
+   ],
+   "insiders": [
+    "Monroe James III"
+   ],
+   "totalValue": 29839232.0,
+   "ticker": "GSAT",
    "side": "buy"
   },
   {
@@ -62,58 +110,17 @@
    "side": "buy"
   },
   {
-   "key": "TELA:buy",
-   "headline": "TELA: Capper Joseph H (director) bought $88,795 \u2014 0.17% of the whole company",
+   "key": "CYBN:buy",
+   "headline": "CYBN: Halstead Michael (Chief Executive Officer) bought $1.3M \u2014 grew their own stake 146%",
    "reasons": [
-    "0.17% of the whole company",
-    "grew their own stake 72%"
+    "grew their own stake 146%",
+    "$1.3M from the Chief Executive Officer"
    ],
    "insiders": [
-    "Capper Joseph H"
+    "Halstead Michael"
    ],
-   "totalValue": 88795.0,
-   "ticker": "TELA",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $11.2M \u2014 now owns 27.7% of the company (institution)",
-   "reasons": [
-    "now owns 27.7% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 11232960.4235,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "AFCG:buy",
-   "headline": "AFCG: Tannenbaum Leonard M (director) bought $87,500 \u2014 0.11% of the whole company",
-   "reasons": [
-    "0.11% of the whole company",
-    "now owns 30.9% of the company"
-   ],
-   "insiders": [
-    "TANNENBAUM LEONARD M"
-   ],
-   "totalValue": 87500.0,
-   "ticker": "AFCG",
-   "side": "buy"
-  },
-  {
-   "key": "TFC:buy",
-   "headline": "TFC: Lyons Michael P. (President & CEO) bought $1.0M \u2014 new position from senior management",
-   "reasons": [
-    "new position from senior management",
-    "$1.0M from the President & CEO"
-   ],
-   "insiders": [
-    "Lyons Michael P."
-   ],
-   "totalValue": 1015576.8,
-   "ticker": "TFC",
+   "totalValue": 1347050.0,
+   "ticker": "CYBN",
    "side": "buy"
   }
  ]
