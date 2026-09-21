@@ -1,145 +1,119 @@
 {
- "generatedAt": "2026-09-19T01:46:22.040301+00:00",
+ "generatedAt": "2026-09-21T14:15:23.280789+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "SBLK:buy",
-   "headline": "SBLK: 8 insiders bought $6.9M \u2014 0.19% of the company",
-   "reasons": [
-    "8 insiders bought within days",
-    "8 insiders buying"
-   ],
-   "insiders": [
-    "Erhardt Koert",
-    "Karellis Nikolaos",
-    "Pappa Milena Maria",
-    "Pappas Alexandros",
-    "Plakantonaki Charis",
-    "Reskos Nikolaos",
-    "Spyrou Symeon",
-    "Zagari Raffaele"
-   ],
-   "totalValue": 6920496.0,
-   "ticker": "SBLK",
-   "side": "buy"
-  },
-  {
-   "key": "RWT:buy",
-   "headline": "RWT: 4 insiders bought $1.3M \u2014 0.27% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "0.16% of the whole company",
-    "4 insiders buying",
-    "grew their own stake 42%"
-   ],
-   "insiders": [
-    "Abate Christopher J",
-    "Carillo Brooke",
-    "KUBICEK GREG H",
-    "Robinson Dashiell I"
-   ],
-   "totalValue": 1312178.4679,
-   "ticker": "RWT",
-   "side": "buy"
-  },
-  {
-   "key": "EML:buy",
-   "headline": "EML: 4 insiders bought $117,993 \u2014 0.08% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 29%"
-   ],
-   "insiders": [
-    "EVERETS JOHN",
-    "Galbato Chan",
-    "MITAROTONDA JAMES A",
-    "Scott Peggy"
-   ],
-   "totalValue": 117993.25,
-   "ticker": "EML",
-   "side": "buy"
-  },
-  {
-   "key": "COO:buy",
-   "headline": "COO: 3 insiders bought $1.3M \u2014 0.01% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 100%"
-   ],
-   "insiders": [
-    "Keel Paul A",
-    "Kurzius Lawrence Erik",
-    "Rosebrough Walter M Jr"
-   ],
-   "totalValue": 1330789.9777,
-   "ticker": "COO",
-   "side": "buy"
-  },
-  {
-   "key": "NTHI:buy",
-   "headline": "NTHI: 3 insiders bought $215,796 \u2014 0.20% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.16% of the whole company",
-    "3 insiders buying",
-    "now owns 11.1% of the company"
-   ],
-   "insiders": [
-    "CHEN THOMAS C",
-    "GARNETT KEITHLY",
-    "Heshmatpour Amir F"
-   ],
-   "totalValue": 215795.7936,
-   "ticker": "NTHI",
-   "side": "buy"
-  },
-  {
-   "key": "FTK:buy",
-   "headline": "FTK: Wilks Matthew (director) bought $34.3M \u2014 3.51% of the whole company",
-   "reasons": [
-    "3.51% of the whole company",
-    "grew their own stake 836%"
-   ],
-   "insiders": [
-    "Wilks Matthew"
-   ],
-   "totalValue": 34320012.93,
-   "ticker": "FTK",
-   "side": "buy"
-  },
-  {
-   "key": "LMB:buy",
-   "headline": "LMB: 3 insiders bought $515,920 \u2014 0.09% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 37%"
-   ],
-   "insiders": [
-    "Gaboury David Richard",
-    "Horowitz Joshua",
-    "Krzeminski Laurel J"
-   ],
-   "totalValue": 515919.8274,
-   "ticker": "LMB",
-   "side": "buy"
-  },
-  {
-   "key": "GAM:buy",
-   "headline": "GAM: 3 insiders bought $284,880 \u2014 0.02% of the company",
+   "key": "KRMN:buy",
+   "headline": "KRMN: 3 insiders bought $1.0M \u2014 0.02% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying"
    ],
    "insiders": [
-    "Jin Samantha X.",
-    "Priest Jeffrey W",
-    "Stark Eugene S"
+    "Petryszyn Mary D",
+    "Stinnett David",
+    "Twitty Stephen"
    ],
-   "totalValue": 284880.0,
-   "ticker": "GAM",
+   "totalValue": 1036485.3,
+   "ticker": "KRMN",
+   "side": "buy"
+  },
+  {
+   "key": "CV:buy",
+   "headline": "CV: Shen Ching Hang (10% owner) bought $5.0M \u2014 1.40% of the whole company",
+   "reasons": [
+    "1.40% of the whole company",
+    "grew their own stake 43%",
+    "now owns 5.5% of the company"
+   ],
+   "insiders": [
+    "Shen Ching Hang"
+   ],
+   "totalValue": 4999996.46,
+   "ticker": "CV",
+   "side": "buy"
+  },
+  {
+   "key": "BORR:buy",
+   "headline": "BORR: 2 insiders bought $857,125 \u2014 0.06% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "now owns 9.9% of the company"
+   ],
+   "insiders": [
+    "Morand De Oliveira Bruno",
+    "Troim Tor Olav"
+   ],
+   "totalValue": 857125.0,
+   "ticker": "BORR",
+   "side": "buy"
+  },
+  {
+   "key": "BPRE:buy",
+   "headline": "BPRE: MacDonald Ryan S (insider) bought $248,048 \u2014 grew their own stake 468%",
+   "reasons": [
+    "grew their own stake 468%"
+   ],
+   "insiders": [
+    "MacDonald Ryan S"
+   ],
+   "totalValue": 248048.35,
+   "ticker": "BPRE",
+   "side": "buy"
+  },
+  {
+   "key": "TELA:buy",
+   "headline": "TELA: Capper Joseph H (director) bought $88,795 \u2014 0.17% of the whole company",
+   "reasons": [
+    "0.17% of the whole company",
+    "grew their own stake 72%"
+   ],
+   "insiders": [
+    "Capper Joseph H"
+   ],
+   "totalValue": 88795.0,
+   "ticker": "TELA",
+   "side": "buy"
+  },
+  {
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $11.2M \u2014 now owns 27.7% of the company (institution)",
+   "reasons": [
+    "now owns 27.7% of the company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 11232960.4235,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
+  {
+   "key": "AFCG:buy",
+   "headline": "AFCG: Tannenbaum Leonard M (director) bought $87,500 \u2014 0.11% of the whole company",
+   "reasons": [
+    "0.11% of the whole company",
+    "now owns 30.9% of the company"
+   ],
+   "insiders": [
+    "TANNENBAUM LEONARD M"
+   ],
+   "totalValue": 87500.0,
+   "ticker": "AFCG",
+   "side": "buy"
+  },
+  {
+   "key": "TFC:buy",
+   "headline": "TFC: Lyons Michael P. (President & CEO) bought $1.0M \u2014 new position from senior management",
+   "reasons": [
+    "new position from senior management",
+    "$1.0M from the President & CEO"
+   ],
+   "insiders": [
+    "Lyons Michael P."
+   ],
+   "totalValue": 1015576.8,
+   "ticker": "TFC",
    "side": "buy"
   }
  ]
