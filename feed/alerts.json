@@ -1,64 +1,84 @@
 {
- "generatedAt": "2026-09-22T14:15:05.461385+00:00",
+ "generatedAt": "2026-09-22T21:15:56.090239+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 11 insiders bought $16.1M \u2014 0.04% of the company",
+   "headline": "BBD: 21 insiders bought $36.2M \u2014 0.10% of the company",
    "reasons": [
-    "11 insiders bought within days",
-    "11 insiders buying",
-    "grew their own stake 41%"
+    "21 insiders bought within days",
+    "21 insiders buying",
+    "grew their own stake 36%"
    ],
    "insiders": [
     "Alvarez Denise Aguiar",
     "Alvarez Rubens Aguiar",
+    "Bueno Julio Cesar",
+    "Caffarelli Paulo Rogerio",
+    "Favarao Vinicius Urias",
+    "Fernandes Oswaldo Tadeu",
+    "Freiberger Fernando",
+    "Machado Silvana Rosa",
+    "Mantarro Renata Geiser",
     "Marcilio Juliano Ribeiro",
     "Nunes Regina Helena Jorge",
     "Panico Alexandre",
+    "Paris Roberto de Jesus",
     "Pavarina Denise Pauli",
     "Pedras Carlos Henrique Villela",
     "Ramalho Miranda Jose Augusto",
+    "Tescarolo Marcos Valerio",
     "da Cunha Paulo Roberto Simoes",
     "de Oliveira Andre Luis Duarte",
+    "de Oliveira Tulio Xavier",
     "de Souza Cintia Scovine Barcelos"
    ],
-   "totalValue": 16103894.88,
+   "totalValue": 36222777.7,
    "ticker": "BBD",
    "side": "buy"
   },
   {
-   "key": "GRAB:buy",
-   "headline": "GRAB: 2 insiders bought $30.7M \u2014 0.27% of the company",
+   "key": "BCBP:buy",
+   "headline": "BCBP: 2 insiders bought $1.3M \u2014 0.84% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.26% of the whole company",
-    "new position from senior management",
-    "$29.9M from the Chief Executive Officer"
+    "0.79% of the whole company",
+    "$1.2M from the CHIEF EXECUTIVE OFFICER"
    ],
    "insiders": [
-    "Hungate Alexander Charles",
-    "Tan Anthony Ping Yeow"
+    "Chaudhry Jawad",
+    "OBrien Thomas M"
    ],
-   "totalValue": 30743148.6456,
-   "ticker": "GRAB",
+   "totalValue": 1317500.0,
+   "ticker": "BCBP",
    "side": "buy"
   },
   {
-   "key": "GME:buy",
-   "headline": "GME: 2 insiders bought $26.8M \u2014 0.23% of the company",
+   "key": "VFF:buy",
+   "headline": "VFF: 2 insiders bought $131,838 \u2014 0.03% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.23% of the whole company",
-    "now owns 8.0% of the company",
-    "$26.4M from the President, CEO and Chairman"
+    "now owns 8.0% of the company"
    ],
    "insiders": [
-    "Attal Alain",
-    "Cohen Ryan"
+    "DEGIGLIO MICHAEL A",
+    "Woodward Christopher C."
    ],
-   "totalValue": 26795680.0,
-   "ticker": "GME",
+   "totalValue": 131838.5,
+   "ticker": "VFF",
+   "side": "buy"
+  },
+  {
+   "key": "ENHA:buy",
+   "headline": "ENHA: Apeiron Investment Group Ltd. (director) bought $14.0M \u2014 2.52% of the whole company (institution)",
+   "reasons": [
+    "2.52% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Apeiron Investment Group Ltd."
+   ],
+   "totalValue": 13984108.1,
+   "ticker": "ENHA",
    "side": "buy"
   },
   {
@@ -72,6 +92,21 @@
    ],
    "totalValue": 59678464.0,
    "ticker": "GSAT",
+   "side": "buy"
+  },
+  {
+   "key": "TPVG:buy",
+   "headline": "TPVG: Labe James (Chief Executive Officer) bought $1.5M \u2014 0.74% of the whole company",
+   "reasons": [
+    "0.74% of the whole company",
+    "now owns 5.7% of the company",
+    "$1.5M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "Labe James"
+   ],
+   "totalValue": 1477081.111842,
+   "ticker": "TPVG",
    "side": "buy"
   },
   {
@@ -89,42 +124,18 @@
    "side": "buy"
   },
   {
-   "key": "ENHA:buy",
-   "headline": "ENHA: Apeiron Investment Group Ltd. (director) bought $7.0M \u2014 1.26% of the whole company (institution)",
+   "key": "GME:buy",
+   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $26.4M \u2014 0.23% of the whole company",
    "reasons": [
-    "1.26% of the whole company (institution)"
+    "0.23% of the whole company",
+    "now owns 8.0% of the company",
+    "$26.4M from the President, CEO and Chairman"
    ],
    "insiders": [
-    "Apeiron Investment Group Ltd."
+    "Cohen Ryan"
    ],
-   "totalValue": 6992054.05,
-   "ticker": "ENHA",
-   "side": "buy"
-  },
-  {
-   "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $16.9M \u2014 0.56% of the whole company (institution)",
-   "reasons": [
-    "0.56% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Conifer Management, L.L.C."
-   ],
-   "totalValue": 16857714.5535,
-   "ticker": "GPI",
-   "side": "buy"
-  },
-  {
-   "key": "CTRI:buy",
-   "headline": "CTRI: DeMaria Dustin (director) bought $100,204 \u2014 grew their own stake 67%",
-   "reasons": [
-    "grew their own stake 67%"
-   ],
-   "insiders": [
-    "DeMaria Dustin"
-   ],
-   "totalValue": 100204.0,
-   "ticker": "CTRI",
+   "totalValue": 26393722.5,
+   "ticker": "GME",
    "side": "buy"
   }
  ]
