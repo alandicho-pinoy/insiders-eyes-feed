@@ -1,22 +1,23 @@
 {
- "generatedAt": "2026-09-21T21:16:12.570395+00:00",
+ "generatedAt": "2026-09-22T01:45:57.502078+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 4 insiders bought $8.4M \u2014 0.02% of the company",
+   "headline": "BBD: 5 insiders bought $9.3M \u2014 0.02% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
+    "5 insiders bought within days",
+    "5 insiders buying",
     "grew their own stake 127%"
    ],
    "insiders": [
     "Panico Alexandre",
     "Pedras Carlos Henrique Villela",
+    "da Cunha Paulo Roberto Simoes",
     "de Oliveira Andre Luis Duarte",
     "de Souza Cintia Scovine Barcelos"
    ],
-   "totalValue": 8426758.52,
+   "totalValue": 9269553.04,
    "ticker": "BBD",
    "side": "buy"
   },
@@ -50,6 +51,40 @@
    ],
    "totalValue": 424461.184,
    "ticker": "RWT",
+   "side": "buy"
+  },
+  {
+   "key": "GRAB:buy",
+   "headline": "GRAB: 2 insiders bought $30.7M \u2014 0.27% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.26% of the whole company",
+    "new position from senior management",
+    "$29.9M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "Hungate Alexander Charles",
+    "Tan Anthony Ping Yeow"
+   ],
+   "totalValue": 30743148.6456,
+   "ticker": "GRAB",
+   "side": "buy"
+  },
+  {
+   "key": "GME:buy",
+   "headline": "GME: 2 insiders bought $26.8M \u2014 0.23% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.23% of the whole company",
+    "now owns 8.0% of the company",
+    "$26.4M from the President, CEO and Chairman"
+   ],
+   "insiders": [
+    "Attal Alain",
+    "Cohen Ryan"
+   ],
+   "totalValue": 26795680.0,
+   "ticker": "GME",
    "side": "buy"
   },
   {
@@ -94,33 +129,6 @@
    ],
    "totalValue": 857125.0,
    "ticker": "BORR",
-   "side": "buy"
-  },
-  {
-   "key": "BPRE:buy",
-   "headline": "BPRE: MacDonald Ryan S (insider) bought $248,048 \u2014 grew their own stake 468%",
-   "reasons": [
-    "grew their own stake 468%"
-   ],
-   "insiders": [
-    "MacDonald Ryan S"
-   ],
-   "totalValue": 248048.35,
-   "ticker": "BPRE",
-   "side": "buy"
-  },
-  {
-   "key": "CYBN:buy",
-   "headline": "CYBN: Halstead Michael (Chief Executive Officer) bought $1.3M \u2014 grew their own stake 146%",
-   "reasons": [
-    "grew their own stake 146%",
-    "$1.3M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Halstead Michael"
-   ],
-   "totalValue": 1347050.0,
-   "ticker": "CYBN",
    "side": "buy"
   }
  ]
