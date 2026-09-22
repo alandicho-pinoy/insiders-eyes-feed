@@ -1,56 +1,28 @@
 {
- "generatedAt": "2026-09-22T01:45:57.502078+00:00",
+ "generatedAt": "2026-09-22T13:35:02.222848+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 5 insiders bought $9.3M \u2014 0.02% of the company",
+   "headline": "BBD: 10 insiders bought $15.0M \u2014 0.04% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 127%"
+    "10 insiders bought within days",
+    "10 insiders buying"
    ],
    "insiders": [
+    "Alvarez Denise Aguiar",
+    "Alvarez Rubens Aguiar",
+    "Marcilio Juliano Ribeiro",
+    "Nunes Regina Helena Jorge",
     "Panico Alexandre",
+    "Pavarina Denise Pauli",
     "Pedras Carlos Henrique Villela",
     "da Cunha Paulo Roberto Simoes",
     "de Oliveira Andre Luis Duarte",
     "de Souza Cintia Scovine Barcelos"
    ],
-   "totalValue": 9269553.04,
+   "totalValue": 14958227.26,
    "ticker": "BBD",
-   "side": "buy"
-  },
-  {
-   "key": "KRMN:buy",
-   "headline": "KRMN: 3 insiders bought $1.0M \u2014 0.02% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Petryszyn Mary D",
-    "Stinnett David",
-    "Twitty Stephen"
-   ],
-   "totalValue": 1036485.3,
-   "ticker": "KRMN",
-   "side": "buy"
-  },
-  {
-   "key": "RWT:buy",
-   "headline": "RWT: 3 insiders bought $424,461 \u2014 0.09% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Abate Christopher J",
-    "Macomber Sasha G.",
-    "Stone Andrew P"
-   ],
-   "totalValue": 424461.184,
-   "ticker": "RWT",
    "side": "buy"
   },
   {
@@ -88,21 +60,6 @@
    "side": "buy"
   },
   {
-   "key": "CV:buy",
-   "headline": "CV: Shen Ching Hang (10% owner) bought $5.0M \u2014 1.40% of the whole company",
-   "reasons": [
-    "1.40% of the whole company",
-    "grew their own stake 43%",
-    "now owns 5.5% of the company"
-   ],
-   "insiders": [
-    "Shen Ching Hang"
-   ],
-   "totalValue": 4999996.46,
-   "ticker": "CV",
-   "side": "buy"
-  },
-  {
    "key": "GSAT:buy",
    "headline": "GSAT: Monroe James III (director) bought $29.8M \u2014 0.28% of the whole company",
    "reasons": [
@@ -117,18 +74,56 @@
    "side": "buy"
   },
   {
-   "key": "BORR:buy",
-   "headline": "BORR: 2 insiders bought $857,125 \u2014 0.06% of the company",
+   "key": "CYBN:buy",
+   "headline": "CYBN: Halstead Michael (Chief Executive Officer) bought $1.3M \u2014 grew their own stake 146%",
    "reasons": [
-    "2 insiders bought within days",
-    "now owns 9.9% of the company"
+    "grew their own stake 146%",
+    "$1.3M from the Chief Executive Officer"
    ],
    "insiders": [
-    "Morand De Oliveira Bruno",
-    "Troim Tor Olav"
+    "Halstead Michael"
    ],
-   "totalValue": 857125.0,
-   "ticker": "BORR",
+   "totalValue": 1347050.0,
+   "ticker": "CYBN",
+   "side": "buy"
+  },
+  {
+   "key": "ENHA:buy",
+   "headline": "ENHA: Apeiron Investment Group Ltd. (director) bought $7.0M \u2014 1.26% of the whole company (institution)",
+   "reasons": [
+    "1.26% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Apeiron Investment Group Ltd."
+   ],
+   "totalValue": 6992054.05,
+   "ticker": "ENHA",
+   "side": "buy"
+  },
+  {
+   "key": "GPI:buy",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $16.9M \u2014 0.56% of the whole company (institution)",
+   "reasons": [
+    "0.56% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Conifer Management, L.L.C."
+   ],
+   "totalValue": 16857714.5535,
+   "ticker": "GPI",
+   "side": "buy"
+  },
+  {
+   "key": "CTRI:buy",
+   "headline": "CTRI: DeMaria Dustin (director) bought $100,204 \u2014 grew their own stake 67%",
+   "reasons": [
+    "grew their own stake 67%"
+   ],
+   "insiders": [
+    "DeMaria Dustin"
+   ],
+   "totalValue": 100204.0,
+   "ticker": "CTRI",
    "side": "buy"
   }
  ]
