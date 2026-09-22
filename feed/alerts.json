@@ -1,13 +1,14 @@
 {
- "generatedAt": "2026-09-22T13:35:02.222848+00:00",
+ "generatedAt": "2026-09-22T14:15:05.461385+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 10 insiders bought $15.0M \u2014 0.04% of the company",
+   "headline": "BBD: 11 insiders bought $16.1M \u2014 0.04% of the company",
    "reasons": [
-    "10 insiders bought within days",
-    "10 insiders buying"
+    "11 insiders bought within days",
+    "11 insiders buying",
+    "grew their own stake 41%"
    ],
    "insiders": [
     "Alvarez Denise Aguiar",
@@ -17,11 +18,12 @@
     "Panico Alexandre",
     "Pavarina Denise Pauli",
     "Pedras Carlos Henrique Villela",
+    "Ramalho Miranda Jose Augusto",
     "da Cunha Paulo Roberto Simoes",
     "de Oliveira Andre Luis Duarte",
     "de Souza Cintia Scovine Barcelos"
    ],
-   "totalValue": 14958227.26,
+   "totalValue": 16103894.88,
    "ticker": "BBD",
    "side": "buy"
   },
@@ -61,15 +63,14 @@
   },
   {
    "key": "GSAT:buy",
-   "headline": "GSAT: Monroe James III (director) bought $29.8M \u2014 0.28% of the whole company",
+   "headline": "GSAT: Monroe James III (director) bought $59.7M \u2014 0.55% of the whole company",
    "reasons": [
-    "0.28% of the whole company",
-    "grew their own stake 775%"
+    "0.55% of the whole company"
    ],
    "insiders": [
     "Monroe James III"
    ],
-   "totalValue": 29839232.0,
+   "totalValue": 59678464.0,
    "ticker": "GSAT",
    "side": "buy"
   },
