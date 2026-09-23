@@ -1,55 +1,40 @@
 {
- "generatedAt": "2026-09-23T14:15:33.310847+00:00",
+ "generatedAt": "2026-09-23T21:16:03.621371+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 21 insiders bought $27.0M \u2014 0.07% of the company",
+   "headline": "BBD: 5 insiders bought $9.3M \u2014 0.02% of the company",
    "reasons": [
-    "21 insiders bought within days",
-    "21 insiders buying",
-    "grew their own stake 36%"
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 127%"
    ],
    "insiders": [
-    "Alvarez Denise Aguiar",
-    "Alvarez Rubens Aguiar",
-    "Bueno Julio Cesar",
-    "Caffarelli Paulo Rogerio",
-    "Favarao Vinicius Urias",
-    "Fernandes Oswaldo Tadeu",
-    "Freiberger Fernando",
-    "Machado Silvana Rosa",
-    "Mantarro Renata Geiser",
-    "Marcilio Juliano Ribeiro",
-    "Nunes Regina Helena Jorge",
     "Panico Alexandre",
-    "Paris Roberto de Jesus",
-    "Pavarina Denise Pauli",
     "Pedras Carlos Henrique Villela",
-    "Ramalho Miranda Jose Augusto",
-    "Tescarolo Marcos Valerio",
     "da Cunha Paulo Roberto Simoes",
     "de Oliveira Andre Luis Duarte",
-    "de Oliveira Tulio Xavier",
     "de Souza Cintia Scovine Barcelos"
    ],
-   "totalValue": 26953224.66,
+   "totalValue": 9269553.04,
    "ticker": "BBD",
    "side": "buy"
   },
   {
    "key": "BCBP:buy",
-   "headline": "BCBP: 2 insiders bought $1.3M \u2014 0.84% of the company",
+   "headline": "BCBP: 2 insiders bought $2.6M \u2014 1.68% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.79% of the whole company",
-    "$1.2M from the CHIEF EXECUTIVE OFFICER"
+    "1.58% of the whole company",
+    "grew their own stake 58%",
+    "$2.5M from the CHIEF EXECUTIVE OFFICER"
    ],
    "insiders": [
     "Chaudhry Jawad",
     "OBrien Thomas M"
    ],
-   "totalValue": 1317500.0,
+   "totalValue": 2635000.0,
    "ticker": "BCBP",
    "side": "buy"
   },
@@ -102,8 +87,23 @@
    "side": "buy"
   },
   {
+   "key": "DUOT:buy",
+   "headline": "DUOT: 2 insiders bought $183,131 \u2014 0.06% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Nixon James Craig",
+    "Recker Frank Douglas"
+   ],
+   "totalValue": 183131.42504,
+   "ticker": "DUOT",
+   "side": "buy"
+  },
+  {
    "key": "VFF:buy",
-   "headline": "VFF: 2 insiders bought $131,838 \u2014 0.03% of the company",
+   "headline": "VFF: 2 insiders bought $263,677 \u2014 0.07% of the company",
    "reasons": [
     "2 insiders bought within days",
     "now owns 8.0% of the company"
@@ -112,37 +112,21 @@
     "DEGIGLIO MICHAEL A",
     "Woodward Christopher C."
    ],
-   "totalValue": 131838.5,
+   "totalValue": 263677.0,
    "ticker": "VFF",
    "side": "buy"
   },
   {
-   "key": "TPVG:buy",
-   "headline": "TPVG: Labe James (Chief Executive Officer) bought $1.5M \u2014 0.74% of the whole company",
+   "key": "GAM:buy",
+   "headline": "GAM: Grassi Craig Anthony (Vice-President) bought $46,160 \u2014 grew their own stake 182%",
    "reasons": [
-    "0.74% of the whole company",
-    "now owns 5.7% of the company",
-    "$1.5M from the Chief Executive Officer"
+    "grew their own stake 182%"
    ],
    "insiders": [
-    "Labe James"
+    "Grassi Craig Anthony"
    ],
-   "totalValue": 1477081.111842,
-   "ticker": "TPVG",
-   "side": "buy"
-  },
-  {
-   "key": "CYBN:buy",
-   "headline": "CYBN: Halstead Michael (Chief Executive Officer) bought $1.3M \u2014 grew their own stake 146%",
-   "reasons": [
-    "grew their own stake 146%",
-    "$1.3M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Halstead Michael"
-   ],
-   "totalValue": 1347050.0,
-   "ticker": "CYBN",
+   "totalValue": 46160.0,
+   "ticker": "GAM",
    "side": "buy"
   }
  ]
