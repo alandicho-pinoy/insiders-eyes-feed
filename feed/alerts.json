@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-09-22T21:15:56.090239+00:00",
+ "generatedAt": "2026-09-23T01:46:05.163176+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 21 insiders bought $36.2M \u2014 0.10% of the company",
+   "headline": "BBD: 21 insiders bought $27.0M \u2014 0.07% of the company",
    "reasons": [
     "21 insiders bought within days",
     "21 insiders buying",
@@ -33,7 +33,7 @@
     "de Oliveira Tulio Xavier",
     "de Souza Cintia Scovine Barcelos"
    ],
-   "totalValue": 36222777.7,
+   "totalValue": 26953224.66,
    "ticker": "BBD",
    "side": "buy"
   },
@@ -54,6 +54,54 @@
    "side": "buy"
   },
   {
+   "key": "GRAB:buy",
+   "headline": "GRAB: 2 insiders bought $30.7M \u2014 0.27% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.26% of the whole company",
+    "new position from senior management",
+    "$29.9M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "Hungate Alexander Charles",
+    "Tan Anthony Ping Yeow"
+   ],
+   "totalValue": 30743148.6456,
+   "ticker": "GRAB",
+   "side": "buy"
+  },
+  {
+   "key": "GME:buy",
+   "headline": "GME: 2 insiders bought $26.8M \u2014 0.23% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.23% of the whole company",
+    "now owns 8.0% of the company",
+    "$26.4M from the President, CEO and Chairman"
+   ],
+   "insiders": [
+    "Attal Alain",
+    "Cohen Ryan"
+   ],
+   "totalValue": 26795680.0,
+   "ticker": "GME",
+   "side": "buy"
+  },
+  {
+   "key": "GSAT:buy",
+   "headline": "GSAT: Monroe James III (director) bought $29.8M \u2014 0.28% of the whole company",
+   "reasons": [
+    "0.28% of the whole company",
+    "grew their own stake 775%"
+   ],
+   "insiders": [
+    "Monroe James III"
+   ],
+   "totalValue": 29839232.0,
+   "ticker": "GSAT",
+   "side": "buy"
+  },
+  {
    "key": "VFF:buy",
    "headline": "VFF: 2 insiders bought $131,838 \u2014 0.03% of the company",
    "reasons": [
@@ -66,32 +114,6 @@
    ],
    "totalValue": 131838.5,
    "ticker": "VFF",
-   "side": "buy"
-  },
-  {
-   "key": "ENHA:buy",
-   "headline": "ENHA: Apeiron Investment Group Ltd. (director) bought $14.0M \u2014 2.52% of the whole company (institution)",
-   "reasons": [
-    "2.52% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Apeiron Investment Group Ltd."
-   ],
-   "totalValue": 13984108.1,
-   "ticker": "ENHA",
-   "side": "buy"
-  },
-  {
-   "key": "GSAT:buy",
-   "headline": "GSAT: Monroe James III (director) bought $59.7M \u2014 0.55% of the whole company",
-   "reasons": [
-    "0.55% of the whole company"
-   ],
-   "insiders": [
-    "Monroe James III"
-   ],
-   "totalValue": 59678464.0,
-   "ticker": "GSAT",
    "side": "buy"
   },
   {
@@ -121,21 +143,6 @@
    ],
    "totalValue": 1347050.0,
    "ticker": "CYBN",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $26.4M \u2014 0.23% of the whole company",
-   "reasons": [
-    "0.23% of the whole company",
-    "now owns 8.0% of the company",
-    "$26.4M from the President, CEO and Chairman"
-   ],
-   "insiders": [
-    "Cohen Ryan"
-   ],
-   "totalValue": 26393722.5,
-   "ticker": "GME",
    "side": "buy"
   }
  ]
