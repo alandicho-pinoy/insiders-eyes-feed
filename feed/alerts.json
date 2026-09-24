@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T18:46:20.531502+00:00",
+ "generatedAt": "2026-09-24T21:15:46.573837+00:00",
  "count": 8,
  "alerts": [
   {
@@ -39,35 +39,15 @@
   },
   {
    "key": "CV:buy",
-   "headline": "CV: 2 insiders bought $15.0M \u2014 4.21% of the company",
+   "headline": "CV: Harari Eliyahou Et Al (10% owner) bought $20.0M \u2014 5.61% of the whole company",
    "reasons": [
-    "2 insiders bought within days",
-    "2.80% of the whole company",
-    "1.40% of the whole company",
-    "now owns 13.7% of the company"
+    "5.61% of the whole company"
    ],
    "insiders": [
-    "HARARI ELIYAHOU ET AL",
-    "Shen Ching Hang"
+    "HARARI ELIYAHOU ET AL"
    ],
-   "totalValue": 14999995.07,
+   "totalValue": 19999997.22,
    "ticker": "CV",
-   "side": "buy"
-  },
-  {
-   "key": "GAM:buy",
-   "headline": "GAM: 3 insiders bought $387,410 \u2014 0.03% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "DAVIDSON SPENCER",
-    "Grassi Craig Anthony",
-    "Stark Eugene S"
-   ],
-   "totalValue": 387410.0,
-   "ticker": "GAM",
    "side": "buy"
   },
   {
@@ -152,6 +132,20 @@
    ],
    "totalValue": 4752698.0176,
    "ticker": "NYAX",
+   "side": "buy"
+  },
+  {
+   "key": "GSAT:buy",
+   "headline": "GSAT: Monroe James III (director) bought $29.8M \u2014 0.28% of the whole company",
+   "reasons": [
+    "0.28% of the whole company",
+    "grew their own stake 775%"
+   ],
+   "insiders": [
+    "Monroe James III"
+   ],
+   "totalValue": 29839232.0,
+   "ticker": "GSAT",
    "side": "buy"
   }
  ]
