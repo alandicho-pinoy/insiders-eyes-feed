@@ -1,14 +1,14 @@
 {
- "generatedAt": "2026-09-24T01:45:17.946026+00:00",
+ "generatedAt": "2026-09-24T18:46:20.531502+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 21 insiders bought $37.8M \u2014 0.10% of the company",
+   "headline": "BBD: 21 insiders bought $27.0M \u2014 0.07% of the company",
    "reasons": [
     "21 insiders bought within days",
     "21 insiders buying",
-    "grew their own stake 111%"
+    "grew their own stake 36%"
    ],
    "insiders": [
     "Alvarez Denise Aguiar",
@@ -33,8 +33,58 @@
     "de Oliveira Tulio Xavier",
     "de Souza Cintia Scovine Barcelos"
    ],
-   "totalValue": 37802554.44,
+   "totalValue": 26953224.66,
    "ticker": "BBD",
+   "side": "buy"
+  },
+  {
+   "key": "CV:buy",
+   "headline": "CV: 2 insiders bought $15.0M \u2014 4.21% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "2.80% of the whole company",
+    "1.40% of the whole company",
+    "now owns 13.7% of the company"
+   ],
+   "insiders": [
+    "HARARI ELIYAHOU ET AL",
+    "Shen Ching Hang"
+   ],
+   "totalValue": 14999995.07,
+   "ticker": "CV",
+   "side": "buy"
+  },
+  {
+   "key": "GAM:buy",
+   "headline": "GAM: 3 insiders bought $387,410 \u2014 0.03% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "DAVIDSON SPENCER",
+    "Grassi Craig Anthony",
+    "Stark Eugene S"
+   ],
+   "totalValue": 387410.0,
+   "ticker": "GAM",
+   "side": "buy"
+  },
+  {
+   "key": "ETRA:buy",
+   "headline": "ETRA: 2 insiders bought $40.0M \u2014 5.25% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "2.62% of the whole company",
+    "grew their own stake 35%",
+    "now owns 8.2% of the company"
+   ],
+   "insiders": [
+    "GORDON CARL L",
+    "ORBIMED ADVISORS LLC"
+   ],
+   "totalValue": 39999990.0,
+   "ticker": "ETRA",
    "side": "buy"
   },
   {
@@ -54,92 +104,54 @@
    "side": "buy"
   },
   {
-   "key": "TPVG:buy",
-   "headline": "TPVG: Labe James (Chief Executive Officer) bought $3.0M \u2014 1.48% of the whole company",
-   "reasons": [
-    "1.48% of the whole company",
-    "grew their own stake 37%",
-    "now owns 5.7% of the company",
-    "$3.0M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Labe James"
-   ],
-   "totalValue": 2954162.223684,
-   "ticker": "TPVG",
-   "side": "buy"
-  },
-  {
-   "key": "GSAT:buy",
-   "headline": "GSAT: Monroe James III (director) bought $29.8M \u2014 0.28% of the whole company",
-   "reasons": [
-    "0.28% of the whole company",
-    "grew their own stake 775%"
-   ],
-   "insiders": [
-    "Monroe James III"
-   ],
-   "totalValue": 29839232.0,
-   "ticker": "GSAT",
-   "side": "buy"
-  },
-  {
-   "key": "FLNC:buy",
-   "headline": "FLNC: 2 insiders bought $250,240 \u2014 0.02% of the company",
+   "key": "GRAB:buy",
+   "headline": "GRAB: 2 insiders bought $30.7M \u2014 0.27% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 27%"
+    "0.26% of the whole company",
+    "new position from senior management",
+    "$29.9M from the Chief Executive Officer"
    ],
    "insiders": [
-    "BULLS HERMAN E",
-    "von Heynitz Harald"
+    "Hungate Alexander Charles",
+    "Tan Anthony Ping Yeow"
    ],
-   "totalValue": 250240.0,
-   "ticker": "FLNC",
+   "totalValue": 30743148.6456,
+   "ticker": "GRAB",
    "side": "buy"
   },
   {
-   "key": "CV:buy",
-   "headline": "CV: Shen Ching Hang (10% owner) bought $5.0M \u2014 1.40% of the whole company",
-   "reasons": [
-    "1.40% of the whole company",
-    "now owns 13.7% of the company"
-   ],
-   "insiders": [
-    "Shen Ching Hang"
-   ],
-   "totalValue": 4999996.46,
-   "ticker": "CV",
-   "side": "buy"
-  },
-  {
-   "key": "DUOT:buy",
-   "headline": "DUOT: 2 insiders bought $133,844 \u2014 0.05% of the company",
+   "key": "GME:buy",
+   "headline": "GME: 2 insiders bought $26.8M \u2014 0.23% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "new position from senior management"
+    "0.23% of the whole company",
+    "now owns 8.0% of the company",
+    "$26.4M from the President, CEO and Chairman"
    ],
    "insiders": [
-    "Nixon James Craig",
-    "Recker Frank Douglas"
+    "Attal Alain",
+    "Cohen Ryan"
    ],
-   "totalValue": 133844.22502,
-   "ticker": "DUOT",
+   "totalValue": 26795680.0,
+   "ticker": "GME",
    "side": "buy"
   },
   {
-   "key": "VFF:buy",
-   "headline": "VFF: 2 insiders bought $131,838 \u2014 0.03% of the company",
+   "key": "NYAX:buy",
+   "headline": "NYAX: 2 insiders bought $4.8M \u2014 0.28% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "now owns 8.0% of the company"
+    "0.27% of the whole company",
+    "now owns 19.9% of the company",
+    "$4.6M from the CEO, Co Founder & Chairman"
    ],
    "insiders": [
-    "DEGIGLIO MICHAEL A",
-    "Woodward Christopher C."
+    "Ben-Avi David",
+    "Nechmad Yair"
    ],
-   "totalValue": 131838.5,
-   "ticker": "VFF",
+   "totalValue": 4752698.0176,
+   "ticker": "NYAX",
    "side": "buy"
   }
  ]
