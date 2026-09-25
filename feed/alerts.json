@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T21:15:46.573837+00:00",
+ "generatedAt": "2026-09-25T01:46:05.149308+00:00",
  "count": 8,
  "alerts": [
   {
@@ -38,19 +38,6 @@
    "side": "buy"
   },
   {
-   "key": "CV:buy",
-   "headline": "CV: Harari Eliyahou Et Al (10% owner) bought $20.0M \u2014 5.61% of the whole company",
-   "reasons": [
-    "5.61% of the whole company"
-   ],
-   "insiders": [
-    "HARARI ELIYAHOU ET AL"
-   ],
-   "totalValue": 19999997.22,
-   "ticker": "CV",
-   "side": "buy"
-  },
-  {
    "key": "ETRA:buy",
    "headline": "ETRA: 2 insiders bought $40.0M \u2014 5.25% of the company",
    "reasons": [
@@ -65,6 +52,19 @@
    ],
    "totalValue": 39999990.0,
    "ticker": "ETRA",
+   "side": "buy"
+  },
+  {
+   "key": "CV:buy",
+   "headline": "CV: Harari Eliyahou Et Al (10% owner) bought $10.0M \u2014 2.80% of the whole company",
+   "reasons": [
+    "2.80% of the whole company"
+   ],
+   "insiders": [
+    "HARARI ELIYAHOU ET AL"
+   ],
+   "totalValue": 9999998.61,
+   "ticker": "CV",
    "side": "buy"
   },
   {
@@ -135,17 +135,19 @@
    "side": "buy"
   },
   {
-   "key": "GSAT:buy",
-   "headline": "GSAT: Monroe James III (director) bought $29.8M \u2014 0.28% of the whole company",
+   "key": "HHH:buy",
+   "headline": "HHH: 2 insiders bought $1.7M \u2014 0.04% of the company",
    "reasons": [
-    "0.28% of the whole company",
-    "grew their own stake 775%"
+    "2 insiders bought within days",
+    "grew their own stake 35%",
+    "$1.6M from the Executive Chairman, Vantage"
    ],
    "insiders": [
-    "Monroe James III"
+    "Davis Andrew D.",
+    "GRANDISSON MARC"
    ],
-   "totalValue": 29839232.0,
-   "ticker": "GSAT",
+   "totalValue": 1667427.5,
+   "ticker": "HHH",
    "side": "buy"
   }
  ]
