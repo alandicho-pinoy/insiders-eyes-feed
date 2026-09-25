@@ -1,13 +1,13 @@
 {
- "generatedAt": "2026-09-25T01:46:05.149308+00:00",
+ "generatedAt": "2026-09-25T23:35:03.637549+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBD:buy",
-   "headline": "BBD: 21 insiders bought $27.0M \u2014 0.07% of the company",
+   "headline": "BBD: 16 insiders bought $17.7M \u2014 0.05% of the company",
    "reasons": [
-    "21 insiders bought within days",
-    "21 insiders buying",
+    "16 insiders bought within days",
+    "16 insiders buying",
     "grew their own stake 36%"
    ],
    "insiders": [
@@ -22,19 +22,47 @@
     "Mantarro Renata Geiser",
     "Marcilio Juliano Ribeiro",
     "Nunes Regina Helena Jorge",
-    "Panico Alexandre",
     "Paris Roberto de Jesus",
     "Pavarina Denise Pauli",
-    "Pedras Carlos Henrique Villela",
     "Ramalho Miranda Jose Augusto",
     "Tescarolo Marcos Valerio",
-    "da Cunha Paulo Roberto Simoes",
-    "de Oliveira Andre Luis Duarte",
-    "de Oliveira Tulio Xavier",
-    "de Souza Cintia Scovine Barcelos"
+    "de Oliveira Tulio Xavier"
    ],
-   "totalValue": 26953224.66,
+   "totalValue": 17683671.62,
    "ticker": "BBD",
+   "side": "buy"
+  },
+  {
+   "key": "CV:buy",
+   "headline": "CV: 2 insiders bought $15.0M \u2014 4.24% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "2.83% of the whole company",
+    "1.41% of the whole company",
+    "now owns 13.7% of the company"
+   ],
+   "insiders": [
+    "HARARI ELIYAHOU ET AL",
+    "Shen Ching Hang"
+   ],
+   "totalValue": 14999995.07,
+   "ticker": "CV",
+   "side": "buy"
+  },
+  {
+   "key": "GAM:buy",
+   "headline": "GAM: 3 insiders bought $387,410 \u2014 0.03% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "DAVIDSON SPENCER",
+    "Grassi Craig Anthony",
+    "Stark Eugene S"
+   ],
+   "totalValue": 387410.0,
+   "ticker": "GAM",
    "side": "buy"
   },
   {
@@ -55,16 +83,19 @@
    "side": "buy"
   },
   {
-   "key": "CV:buy",
-   "headline": "CV: Harari Eliyahou Et Al (10% owner) bought $10.0M \u2014 2.80% of the whole company",
+   "key": "RGCO:buy",
+   "headline": "RGCO: 3 insiders bought $85,088 \u2014 0.04% of the company",
    "reasons": [
-    "2.80% of the whole company"
+    "3 insiders bought within days",
+    "3 insiders buying"
    ],
    "insiders": [
-    "HARARI ELIYAHOU ET AL"
+    "JOHNSTON ROBERT B",
+    "Nester Paul W",
+    "WILLIAMSON JOHN B III"
    ],
-   "totalValue": 9999998.61,
-   "ticker": "CV",
+   "totalValue": 85087.95,
+   "ticker": "RGCO",
    "side": "buy"
   },
   {
@@ -81,40 +112,6 @@
    ],
    "totalValue": 1317500.0,
    "ticker": "BCBP",
-   "side": "buy"
-  },
-  {
-   "key": "GRAB:buy",
-   "headline": "GRAB: 2 insiders bought $30.7M \u2014 0.27% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.26% of the whole company",
-    "new position from senior management",
-    "$29.9M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Hungate Alexander Charles",
-    "Tan Anthony Ping Yeow"
-   ],
-   "totalValue": 30743148.6456,
-   "ticker": "GRAB",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: 2 insiders bought $26.8M \u2014 0.23% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.23% of the whole company",
-    "now owns 8.0% of the company",
-    "$26.4M from the President, CEO and Chairman"
-   ],
-   "insiders": [
-    "Attal Alain",
-    "Cohen Ryan"
-   ],
-   "totalValue": 26795680.0,
-   "ticker": "GME",
    "side": "buy"
   },
   {
