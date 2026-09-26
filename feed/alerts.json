@@ -1,37 +1,7 @@
 {
- "generatedAt": "2026-09-26T01:45:26.210937+00:00",
+ "generatedAt": "2026-09-26T14:15:10.839661+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "BBD:buy",
-   "headline": "BBD: 16 insiders bought $17.7M \u2014 0.05% of the company",
-   "reasons": [
-    "16 insiders bought within days",
-    "16 insiders buying",
-    "grew their own stake 36%"
-   ],
-   "insiders": [
-    "Alvarez Denise Aguiar",
-    "Alvarez Rubens Aguiar",
-    "Bueno Julio Cesar",
-    "Caffarelli Paulo Rogerio",
-    "Favarao Vinicius Urias",
-    "Fernandes Oswaldo Tadeu",
-    "Freiberger Fernando",
-    "Machado Silvana Rosa",
-    "Mantarro Renata Geiser",
-    "Marcilio Juliano Ribeiro",
-    "Nunes Regina Helena Jorge",
-    "Paris Roberto de Jesus",
-    "Pavarina Denise Pauli",
-    "Ramalho Miranda Jose Augusto",
-    "Tescarolo Marcos Valerio",
-    "de Oliveira Tulio Xavier"
-   ],
-   "totalValue": 17683671.62,
-   "ticker": "BBD",
-   "side": "buy"
-  },
   {
    "key": "CV:buy",
    "headline": "CV: 2 insiders bought $15.0M \u2014 4.24% of the company",
@@ -99,24 +69,8 @@
    "side": "buy"
   },
   {
-   "key": "BCBP:buy",
-   "headline": "BCBP: 2 insiders bought $1.3M \u2014 0.84% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.79% of the whole company",
-    "$1.2M from the CHIEF EXECUTIVE OFFICER"
-   ],
-   "insiders": [
-    "Chaudhry Jawad",
-    "OBrien Thomas M"
-   ],
-   "totalValue": 1317500.0,
-   "ticker": "BCBP",
-   "side": "buy"
-  },
-  {
    "key": "NYAX:buy",
-   "headline": "NYAX: 2 insiders bought $4.8M \u2014 0.28% of the company",
+   "headline": "NYAX: 2 insiders bought $4.7M \u2014 0.28% of the company",
    "reasons": [
     "2 insiders bought within days",
     "0.27% of the whole company",
@@ -127,7 +81,7 @@
     "Ben-Avi David",
     "Nechmad Yair"
    ],
-   "totalValue": 4752698.0176,
+   "totalValue": 4709187.4804,
    "ticker": "NYAX",
    "side": "buy"
   },
@@ -145,6 +99,32 @@
    ],
    "totalValue": 1667427.5,
    "ticker": "HHH",
+   "side": "buy"
+  },
+  {
+   "key": "AIAI:buy",
+   "headline": "AIAI: Affeldt Eric (director) bought $150,000 \u2014 grew their own stake 857%",
+   "reasons": [
+    "grew their own stake 857%"
+   ],
+   "insiders": [
+    "Affeldt Eric"
+   ],
+   "totalValue": 149999.5,
+   "ticker": "AIAI",
+   "side": "buy"
+  },
+  {
+   "key": "AEF:buy",
+   "headline": "AEF: Clark Anthony S. (director) bought $43,335 \u2014 grew their own stake 300%",
+   "reasons": [
+    "grew their own stake 300%"
+   ],
+   "insiders": [
+    "Clark Anthony S."
+   ],
+   "totalValue": 43335.0,
+   "ticker": "AEF",
    "side": "buy"
   }
  ]
