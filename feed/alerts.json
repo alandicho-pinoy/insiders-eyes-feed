@@ -1,57 +1,7 @@
 {
- "generatedAt": "2026-09-27T01:45:14.111378+00:00",
+ "generatedAt": "2026-09-27T14:15:08.321838+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "CV:buy",
-   "headline": "CV: 2 insiders bought $15.0M \u2014 4.24% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "2.83% of the whole company",
-    "1.41% of the whole company",
-    "now owns 13.7% of the company"
-   ],
-   "insiders": [
-    "HARARI ELIYAHOU ET AL",
-    "Shen Ching Hang"
-   ],
-   "totalValue": 14999995.07,
-   "ticker": "CV",
-   "side": "buy"
-  },
-  {
-   "key": "GAM:buy",
-   "headline": "GAM: 3 insiders bought $387,410 \u2014 0.03% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "DAVIDSON SPENCER",
-    "Grassi Craig Anthony",
-    "Stark Eugene S"
-   ],
-   "totalValue": 387410.0,
-   "ticker": "GAM",
-   "side": "buy"
-  },
-  {
-   "key": "ETRA:buy",
-   "headline": "ETRA: 2 insiders bought $40.0M \u2014 5.25% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "2.62% of the whole company",
-    "grew their own stake 35%",
-    "now owns 8.2% of the company"
-   ],
-   "insiders": [
-    "GORDON CARL L",
-    "ORBIMED ADVISORS LLC"
-   ],
-   "totalValue": 39999990.0,
-   "ticker": "ETRA",
-   "side": "buy"
-  },
   {
    "key": "RGCO:buy",
    "headline": "RGCO: 3 insiders bought $85,088 \u2014 0.04% of the company",
@@ -102,19 +52,6 @@
    "side": "buy"
   },
   {
-   "key": "AIAI:buy",
-   "headline": "AIAI: Affeldt Eric (director) bought $150,000 \u2014 grew their own stake 857%",
-   "reasons": [
-    "grew their own stake 857%"
-   ],
-   "insiders": [
-    "Affeldt Eric"
-   ],
-   "totalValue": 149999.5,
-   "ticker": "AIAI",
-   "side": "buy"
-  },
-  {
    "key": "AEF:buy",
    "headline": "AEF: Clark Anthony S. (director) bought $43,335 \u2014 grew their own stake 300%",
    "reasons": [
@@ -125,6 +62,59 @@
    ],
    "totalValue": 43335.0,
    "ticker": "AEF",
+   "side": "buy"
+  },
+  {
+   "key": "LEN:buy",
+   "headline": "LEN: Berkshire Hathaway Inc (10% owner) bought $136.4M \u2014 0.69% of the whole company (institution)",
+   "reasons": [
+    "0.69% of the whole company (institution)"
+   ],
+   "insiders": [
+    "BERKSHIRE HATHAWAY INC"
+   ],
+   "totalValue": 136382789.45,
+   "ticker": "LEN",
+   "side": "buy"
+  },
+  {
+   "key": "FTHY:buy",
+   "headline": "FTHY: Housey William A Jr (insider) bought $132,364 \u2014 grew their own stake 88%",
+   "reasons": [
+    "grew their own stake 88%"
+   ],
+   "insiders": [
+    "HOUSEY WILLIAM A JR"
+   ],
+   "totalValue": 132363.72,
+   "ticker": "FTHY",
+   "side": "buy"
+  },
+  {
+   "key": "MX:buy",
+   "headline": "MX: Lee Chae (Chief Executive Officer) bought $318,496 \u2014 0.26% of the whole company",
+   "reasons": [
+    "0.26% of the whole company",
+    "grew their own stake 35%"
+   ],
+   "insiders": [
+    "LEE CHAE"
+   ],
+   "totalValue": 318496.0,
+   "ticker": "MX",
+   "side": "buy"
+  },
+  {
+   "key": "GSHD:buy",
+   "headline": "GSHD: Durable Capital Partners LP (10% owner) bought $7.1M \u2014 0.68% of the whole company (institution)",
+   "reasons": [
+    "0.68% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Durable Capital Partners LP"
+   ],
+   "totalValue": 7098000.0,
+   "ticker": "GSHD",
    "side": "buy"
   }
  ]
