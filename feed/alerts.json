@@ -1,7 +1,24 @@
 {
- "generatedAt": "2026-09-28T01:45:08.645546+00:00",
+ "generatedAt": "2026-09-28T14:15:13.343222+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "ANIX:buy",
+   "headline": "ANIX: 3 insiders bought $165,167 \u2014 0.17% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.14% of the whole company",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Baskies Arnold M",
+    "KUMAR AMIT",
+    "Titterton Lewis H jr"
+   ],
+   "totalValue": 165166.84,
+   "ticker": "ANIX",
+   "side": "buy"
+  },
   {
    "key": "RGCO:buy",
    "headline": "RGCO: 3 insiders bought $85,088 \u2014 0.04% of the company",
@@ -19,39 +36,6 @@
    "side": "buy"
   },
   {
-   "key": "NYAX:buy",
-   "headline": "NYAX: 2 insiders bought $4.7M \u2014 0.28% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.27% of the whole company",
-    "now owns 19.9% of the company",
-    "$4.6M from the CEO, Co Founder & Chairman"
-   ],
-   "insiders": [
-    "Ben-Avi David",
-    "Nechmad Yair"
-   ],
-   "totalValue": 4709187.4804,
-   "ticker": "NYAX",
-   "side": "buy"
-  },
-  {
-   "key": "HHH:buy",
-   "headline": "HHH: 2 insiders bought $1.7M \u2014 0.04% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 35%",
-    "$1.6M from the Executive Chairman, Vantage"
-   ],
-   "insiders": [
-    "Davis Andrew D.",
-    "GRANDISSON MARC"
-   ],
-   "totalValue": 1667427.5,
-   "ticker": "HHH",
-   "side": "buy"
-  },
-  {
    "key": "AEF:buy",
    "headline": "AEF: Clark Anthony S. (director) bought $43,335 \u2014 grew their own stake 300%",
    "reasons": [
@@ -65,6 +49,20 @@
    "side": "buy"
   },
   {
+   "key": "KBDC:buy",
+   "headline": "KBDC: Robo James L (director) bought $2.7M \u2014 0.32% of the whole company",
+   "reasons": [
+    "0.32% of the whole company",
+    "grew their own stake 51%"
+   ],
+   "insiders": [
+    "ROBO JAMES L"
+   ],
+   "totalValue": 2739660.0,
+   "ticker": "KBDC",
+   "side": "buy"
+  },
+  {
    "key": "LEN:buy",
    "headline": "LEN: Berkshire Hathaway Inc (10% owner) bought $136.4M \u2014 0.69% of the whole company (institution)",
    "reasons": [
@@ -75,19 +73,6 @@
    ],
    "totalValue": 136382789.45,
    "ticker": "LEN",
-   "side": "buy"
-  },
-  {
-   "key": "FTHY:buy",
-   "headline": "FTHY: Housey William A Jr (insider) bought $132,364 \u2014 grew their own stake 88%",
-   "reasons": [
-    "grew their own stake 88%"
-   ],
-   "insiders": [
-    "HOUSEY WILLIAM A JR"
-   ],
-   "totalValue": 132363.72,
-   "ticker": "FTHY",
    "side": "buy"
   },
   {
@@ -105,16 +90,29 @@
    "side": "buy"
   },
   {
-   "key": "GSHD:buy",
-   "headline": "GSHD: Durable Capital Partners LP (10% owner) bought $7.1M \u2014 0.68% of the whole company (institution)",
+   "key": "MSC:buy",
+   "headline": "MSC: Ho Lawrence Yau Lung (director) bought $412,639 \u2014 0.24% of the whole company",
    "reasons": [
-    "0.68% of the whole company (institution)"
+    "0.24% of the whole company"
    ],
    "insiders": [
-    "Durable Capital Partners LP"
+    "HO LAWRENCE YAU LUNG"
    ],
-   "totalValue": 7098000.0,
-   "ticker": "GSHD",
+   "totalValue": 412639.44,
+   "ticker": "MSC",
+   "side": "buy"
+  },
+  {
+   "key": "CLPR:buy",
+   "headline": "CLPR: Levinson Sam (director) bought $77,434 \u2014 0.14% of the whole company",
+   "reasons": [
+    "0.14% of the whole company"
+   ],
+   "insiders": [
+    "Levinson Sam"
+   ],
+   "totalValue": 77434.2635,
+   "ticker": "CLPR",
    "side": "buy"
   }
  ]
