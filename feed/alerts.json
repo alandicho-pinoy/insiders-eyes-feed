@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T14:15:13.343222+00:00",
+ "generatedAt": "2026-09-28T21:16:22.227006+00:00",
  "count": 8,
  "alerts": [
   {
@@ -36,6 +36,22 @@
    "side": "buy"
   },
   {
+   "key": "FTHY:buy",
+   "headline": "FTHY: 2 insiders bought $193,747 \u2014 0.04% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 71%",
+    "grew their own stake 30%"
+   ],
+   "insiders": [
+    "HOUSEY WILLIAM A JR",
+    "MCGAREL DAVID"
+   ],
+   "totalValue": 193747.0,
+   "ticker": "FTHY",
+   "side": "buy"
+  },
+  {
    "key": "AEF:buy",
    "headline": "AEF: Clark Anthony S. (director) bought $43,335 \u2014 grew their own stake 300%",
    "reasons": [
@@ -49,17 +65,16 @@
    "side": "buy"
   },
   {
-   "key": "KBDC:buy",
-   "headline": "KBDC: Robo James L (director) bought $2.7M \u2014 0.32% of the whole company",
+   "key": "GPI:buy",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $31.5M \u2014 1.09% of the whole company (institution)",
    "reasons": [
-    "0.32% of the whole company",
-    "grew their own stake 51%"
+    "1.09% of the whole company (institution)"
    ],
    "insiders": [
-    "ROBO JAMES L"
+    "Conifer Management, L.L.C."
    ],
-   "totalValue": 2739660.0,
-   "ticker": "KBDC",
+   "totalValue": 31524452.3584,
+   "ticker": "GPI",
    "side": "buy"
   },
   {
@@ -90,29 +105,16 @@
    "side": "buy"
   },
   {
-   "key": "MSC:buy",
-   "headline": "MSC: Ho Lawrence Yau Lung (director) bought $412,639 \u2014 0.24% of the whole company",
+   "key": "KBDC:buy",
+   "headline": "KBDC: Robo James L (director) bought $1.4M \u2014 0.16% of the whole company",
    "reasons": [
-    "0.24% of the whole company"
+    "0.16% of the whole company"
    ],
    "insiders": [
-    "HO LAWRENCE YAU LUNG"
+    "ROBO JAMES L"
    ],
-   "totalValue": 412639.44,
-   "ticker": "MSC",
-   "side": "buy"
-  },
-  {
-   "key": "CLPR:buy",
-   "headline": "CLPR: Levinson Sam (director) bought $77,434 \u2014 0.14% of the whole company",
-   "reasons": [
-    "0.14% of the whole company"
-   ],
-   "insiders": [
-    "Levinson Sam"
-   ],
-   "totalValue": 77434.2635,
-   "ticker": "CLPR",
+   "totalValue": 1369830.0,
+   "ticker": "KBDC",
    "side": "buy"
   }
  ]
