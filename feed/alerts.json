@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T14:15:17.330881+00:00",
+ "generatedAt": "2026-09-29T21:15:43.453016+00:00",
  "count": 8,
  "alerts": [
   {
@@ -26,6 +26,19 @@
    ],
    "totalValue": 31524452.3584,
    "ticker": "GPI",
+   "side": "buy"
+  },
+  {
+   "key": "WDI:buy",
+   "headline": "WDI: Buchanan Michael Carlton (insider) bought $118,830 \u2014 grew their own stake 100%",
+   "reasons": [
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Buchanan Michael Carlton"
+   ],
+   "totalValue": 118830.0,
+   "ticker": "WDI",
    "side": "buy"
   },
   {
@@ -56,43 +69,30 @@
    "side": "buy"
   },
   {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $8.8M \u2014 now owns 28.0% of the company (institution)",
-   "reasons": [
-    "now owns 28.0% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 8763848.7096,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "WDI:buy",
-   "headline": "WDI: Buchanan Michael Carlton (insider) bought $59,415 \u2014 grew their own stake 33%",
-   "reasons": [
-    "grew their own stake 33%"
-   ],
-   "insiders": [
-    "Buchanan Michael Carlton"
-   ],
-   "totalValue": 59415.0,
-   "ticker": "WDI",
-   "side": "buy"
-  },
-  {
    "key": "INR:buy",
-   "headline": "INR: Baetz Cary D (EVP and CFO) bought $299,993 \u2014 0.12% of the whole company",
+   "headline": "INR: Baetz Cary D (EVP and CFO) bought $599,987 \u2014 0.25% of the whole company",
    "reasons": [
-    "0.12% of the whole company",
+    "0.25% of the whole company",
     "new position from senior management"
    ],
    "insiders": [
     "Baetz Cary D"
    ],
-   "totalValue": 299993.28,
+   "totalValue": 599986.56,
    "ticker": "INR",
+   "side": "buy"
+  },
+  {
+   "key": "PAM:buy",
+   "headline": "PAM: Mariani Gustavo (Vicepresident) bought $2.0M \u2014 $2.0M from the Vicepresident",
+   "reasons": [
+    "$2.0M from the Vicepresident"
+   ],
+   "insiders": [
+    "Mariani Gustavo"
+   ],
+   "totalValue": 1956500.0,
+   "ticker": "PAM",
    "side": "buy"
   },
   {
