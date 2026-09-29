@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T21:16:22.227006+00:00",
+ "generatedAt": "2026-09-29T01:45:39.397330+00:00",
  "count": 8,
  "alerts": [
   {
@@ -65,6 +65,19 @@
    "side": "buy"
   },
   {
+   "key": "PDI:buy",
+   "headline": "PDI: Rappaport Alan (director) bought $75,655 \u2014 grew their own stake 144%",
+   "reasons": [
+    "grew their own stake 144%"
+   ],
+   "insiders": [
+    "Rappaport Alan"
+   ],
+   "totalValue": 75654.7,
+   "ticker": "PDI",
+   "side": "buy"
+  },
+  {
    "key": "GPI:buy",
    "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $31.5M \u2014 1.09% of the whole company (institution)",
    "reasons": [
@@ -91,30 +104,17 @@
    "side": "buy"
   },
   {
-   "key": "MX:buy",
-   "headline": "MX: Lee Chae (Chief Executive Officer) bought $318,496 \u2014 0.26% of the whole company",
+   "key": "AOMR:buy",
+   "headline": "AOMR: Fierman Michael (director) bought $290,511 \u2014 0.15% of the whole company",
    "reasons": [
-    "0.26% of the whole company",
-    "grew their own stake 35%"
+    "0.15% of the whole company",
+    "grew their own stake 58%"
    ],
    "insiders": [
-    "LEE CHAE"
+    "Fierman Michael"
    ],
-   "totalValue": 318496.0,
-   "ticker": "MX",
-   "side": "buy"
-  },
-  {
-   "key": "KBDC:buy",
-   "headline": "KBDC: Robo James L (director) bought $1.4M \u2014 0.16% of the whole company",
-   "reasons": [
-    "0.16% of the whole company"
-   ],
-   "insiders": [
-    "ROBO JAMES L"
-   ],
-   "totalValue": 1369830.0,
-   "ticker": "KBDC",
+   "totalValue": 290510.8342,
+   "ticker": "AOMR",
    "side": "buy"
   }
  ]
