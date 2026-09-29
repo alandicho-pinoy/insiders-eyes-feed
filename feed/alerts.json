@@ -1,69 +1,7 @@
 {
- "generatedAt": "2026-09-29T01:45:39.397330+00:00",
+ "generatedAt": "2026-09-29T14:15:17.330881+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "ANIX:buy",
-   "headline": "ANIX: 3 insiders bought $165,167 \u2014 0.17% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.14% of the whole company",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Baskies Arnold M",
-    "KUMAR AMIT",
-    "Titterton Lewis H jr"
-   ],
-   "totalValue": 165166.84,
-   "ticker": "ANIX",
-   "side": "buy"
-  },
-  {
-   "key": "RGCO:buy",
-   "headline": "RGCO: 3 insiders bought $85,088 \u2014 0.04% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "JOHNSTON ROBERT B",
-    "Nester Paul W",
-    "WILLIAMSON JOHN B III"
-   ],
-   "totalValue": 85087.95,
-   "ticker": "RGCO",
-   "side": "buy"
-  },
-  {
-   "key": "FTHY:buy",
-   "headline": "FTHY: 2 insiders bought $193,747 \u2014 0.04% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 71%",
-    "grew their own stake 30%"
-   ],
-   "insiders": [
-    "HOUSEY WILLIAM A JR",
-    "MCGAREL DAVID"
-   ],
-   "totalValue": 193747.0,
-   "ticker": "FTHY",
-   "side": "buy"
-  },
-  {
-   "key": "AEF:buy",
-   "headline": "AEF: Clark Anthony S. (director) bought $43,335 \u2014 grew their own stake 300%",
-   "reasons": [
-    "grew their own stake 300%"
-   ],
-   "insiders": [
-    "Clark Anthony S."
-   ],
-   "totalValue": 43335.0,
-   "ticker": "AEF",
-   "side": "buy"
-  },
   {
    "key": "PDI:buy",
    "headline": "PDI: Rappaport Alan (director) bought $75,655 \u2014 grew their own stake 144%",
@@ -91,19 +29,6 @@
    "side": "buy"
   },
   {
-   "key": "LEN:buy",
-   "headline": "LEN: Berkshire Hathaway Inc (10% owner) bought $136.4M \u2014 0.69% of the whole company (institution)",
-   "reasons": [
-    "0.69% of the whole company (institution)"
-   ],
-   "insiders": [
-    "BERKSHIRE HATHAWAY INC"
-   ],
-   "totalValue": 136382789.45,
-   "ticker": "LEN",
-   "side": "buy"
-  },
-  {
    "key": "AOMR:buy",
    "headline": "AOMR: Fierman Michael (director) bought $290,511 \u2014 0.15% of the whole company",
    "reasons": [
@@ -115,6 +40,72 @@
    ],
    "totalValue": 290510.8342,
    "ticker": "AOMR",
+   "side": "buy"
+  },
+  {
+   "key": "FTHY:buy",
+   "headline": "FTHY: Mcgarel David (Officer-Investment Adviser) bought $129,247 \u2014 grew their own stake 71%",
+   "reasons": [
+    "grew their own stake 71%"
+   ],
+   "insiders": [
+    "MCGAREL DAVID"
+   ],
+   "totalValue": 129247.0,
+   "ticker": "FTHY",
+   "side": "buy"
+  },
+  {
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $8.8M \u2014 now owns 28.0% of the company (institution)",
+   "reasons": [
+    "now owns 28.0% of the company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 8763848.7096,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
+  {
+   "key": "WDI:buy",
+   "headline": "WDI: Buchanan Michael Carlton (insider) bought $59,415 \u2014 grew their own stake 33%",
+   "reasons": [
+    "grew their own stake 33%"
+   ],
+   "insiders": [
+    "Buchanan Michael Carlton"
+   ],
+   "totalValue": 59415.0,
+   "ticker": "WDI",
+   "side": "buy"
+  },
+  {
+   "key": "INR:buy",
+   "headline": "INR: Baetz Cary D (EVP and CFO) bought $299,993 \u2014 0.12% of the whole company",
+   "reasons": [
+    "0.12% of the whole company",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Baetz Cary D"
+   ],
+   "totalValue": 299993.28,
+   "ticker": "INR",
+   "side": "buy"
+  },
+  {
+   "key": "HDSN:buy",
+   "headline": "HDSN: Hartree Partners, LP (10% owner) bought $604,446 \u2014 0.28% of the whole company (institution)",
+   "reasons": [
+    "0.28% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Hartree Partners, LP"
+   ],
+   "totalValue": 604445.7863,
+   "ticker": "HDSN",
    "side": "buy"
   }
  ]
