@@ -1,34 +1,21 @@
 {
- "generatedAt": "2026-09-30T01:46:31.111798+00:00",
+ "generatedAt": "2026-09-30T14:15:20.750738+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "FTHY:buy",
-   "headline": "FTHY: 2 insiders bought $161,410 \u2014 0.03% of the company",
+   "key": "ADRX:buy",
+   "headline": "ADRX: 2 insiders bought $54.4M \u2014 2.47% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 71%"
-   ],
-   "insiders": [
-    "HOUSEY WILLIAM A JR",
-    "MCGAREL DAVID"
-   ],
-   "totalValue": 161409.5,
-   "ticker": "FTHY",
-   "side": "buy"
-  },
-  {
-   "key": "ADRX:buy",
-   "headline": "ADRX: George Simeon (director) bought $27.2M \u2014 1.23% of the whole company",
-   "reasons": [
+    "1.23% of the whole company (institution)",
     "1.23% of the whole company",
-    "grew their own stake 40%",
-    "now owns 5.2% of the company"
+    "grew their own stake 40%"
    ],
    "insiders": [
-    "George Simeon"
+    "George Simeon",
+    "SR ONE CAPITAL MANAGEMENT, LLC"
    ],
-   "totalValue": 27200000.0,
+   "totalValue": 54400000.0,
    "ticker": "ADRX",
    "side": "buy"
   },
@@ -111,6 +98,19 @@
    ],
    "totalValue": 290510.8342,
    "ticker": "AOMR",
+   "side": "buy"
+  },
+  {
+   "key": "MNSO:buy",
+   "headline": "MNSO: Zhang Jingjing Eason (VP and Chief Financial Officer) bought $340,100 \u2014 grew their own stake 62%",
+   "reasons": [
+    "grew their own stake 62%"
+   ],
+   "insiders": [
+    "Zhang Jingjing Eason"
+   ],
+   "totalValue": 340099.98,
+   "ticker": "MNSO",
    "side": "buy"
   }
  ]
