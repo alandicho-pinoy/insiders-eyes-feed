@@ -1,7 +1,51 @@
 {
- "generatedAt": "2026-09-29T21:15:43.453016+00:00",
+ "generatedAt": "2026-09-30T01:46:31.111798+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "FTHY:buy",
+   "headline": "FTHY: 2 insiders bought $161,410 \u2014 0.03% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 71%"
+   ],
+   "insiders": [
+    "HOUSEY WILLIAM A JR",
+    "MCGAREL DAVID"
+   ],
+   "totalValue": 161409.5,
+   "ticker": "FTHY",
+   "side": "buy"
+  },
+  {
+   "key": "ADRX:buy",
+   "headline": "ADRX: George Simeon (director) bought $27.2M \u2014 1.23% of the whole company",
+   "reasons": [
+    "1.23% of the whole company",
+    "grew their own stake 40%",
+    "now owns 5.2% of the company"
+   ],
+   "insiders": [
+    "George Simeon"
+   ],
+   "totalValue": 27200000.0,
+   "ticker": "ADRX",
+   "side": "buy"
+  },
+  {
+   "key": "PRTA:buy",
+   "headline": "PRTA: Scully William P (10% owner) bought $889,872 \u2014 0.20% of the whole company",
+   "reasons": [
+    "0.20% of the whole company",
+    "grew their own stake 124%"
+   ],
+   "insiders": [
+    "SCULLY WILLIAM P"
+   ],
+   "totalValue": 889872.3,
+   "ticker": "PRTA",
+   "side": "buy"
+  },
   {
    "key": "PDI:buy",
    "headline": "PDI: Rappaport Alan (director) bought $75,655 \u2014 grew their own stake 144%",
@@ -29,16 +73,30 @@
    "side": "buy"
   },
   {
-   "key": "WDI:buy",
-   "headline": "WDI: Buchanan Michael Carlton (insider) bought $118,830 \u2014 grew their own stake 100%",
+   "key": "GME:buy",
+   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $10.6M \u2014 now owns 8.1% of the company",
    "reasons": [
-    "grew their own stake 100%"
+    "now owns 8.1% of the company",
+    "$10.6M from the President, CEO and Chairman"
    ],
    "insiders": [
-    "Buchanan Michael Carlton"
+    "Cohen Ryan"
    ],
-   "totalValue": 118830.0,
-   "ticker": "WDI",
+   "totalValue": 10563796.1,
+   "ticker": "GME",
+   "side": "buy"
+  },
+  {
+   "key": "COUR:buy",
+   "headline": "COUR: Pale Fire Capital SE (10% owner) bought $11.4M \u2014 0.85% of the whole company (institution)",
+   "reasons": [
+    "0.85% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Pale Fire Capital SE"
+   ],
+   "totalValue": 11355072.2138,
+   "ticker": "COUR",
    "side": "buy"
   },
   {
@@ -53,59 +111,6 @@
    ],
    "totalValue": 290510.8342,
    "ticker": "AOMR",
-   "side": "buy"
-  },
-  {
-   "key": "FTHY:buy",
-   "headline": "FTHY: Mcgarel David (Officer-Investment Adviser) bought $129,247 \u2014 grew their own stake 71%",
-   "reasons": [
-    "grew their own stake 71%"
-   ],
-   "insiders": [
-    "MCGAREL DAVID"
-   ],
-   "totalValue": 129247.0,
-   "ticker": "FTHY",
-   "side": "buy"
-  },
-  {
-   "key": "INR:buy",
-   "headline": "INR: Baetz Cary D (EVP and CFO) bought $599,987 \u2014 0.25% of the whole company",
-   "reasons": [
-    "0.25% of the whole company",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Baetz Cary D"
-   ],
-   "totalValue": 599986.56,
-   "ticker": "INR",
-   "side": "buy"
-  },
-  {
-   "key": "PAM:buy",
-   "headline": "PAM: Mariani Gustavo (Vicepresident) bought $2.0M \u2014 $2.0M from the Vicepresident",
-   "reasons": [
-    "$2.0M from the Vicepresident"
-   ],
-   "insiders": [
-    "Mariani Gustavo"
-   ],
-   "totalValue": 1956500.0,
-   "ticker": "PAM",
-   "side": "buy"
-  },
-  {
-   "key": "HDSN:buy",
-   "headline": "HDSN: Hartree Partners, LP (10% owner) bought $604,446 \u2014 0.28% of the whole company (institution)",
-   "reasons": [
-    "0.28% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Hartree Partners, LP"
-   ],
-   "totalValue": 604445.7863,
-   "ticker": "HDSN",
    "side": "buy"
   }
  ]
