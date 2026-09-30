@@ -1,7 +1,43 @@
 {
- "generatedAt": "2026-09-30T14:15:20.750738+00:00",
+ "generatedAt": "2026-09-30T21:16:09.080861+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "FUL:buy",
+   "headline": "FUL: 5 insiders bought $499,068 \u2014 0.02% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 150%"
+   ],
+   "insiders": [
+    "FLORNESS DANIEL L",
+    "HANDLEY THOMAS W",
+    "Lauber Charles T",
+    "Rasmussen Trangsrud Teresa J",
+    "Zaheer Srilata"
+   ],
+   "totalValue": 499067.9574,
+   "ticker": "FUL",
+   "side": "buy"
+  },
+  {
+   "key": "PMPEX:buy",
+   "headline": "PMPEX: 3 insiders bought $174,500",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 255%"
+   ],
+   "insiders": [
+    "Hartt Steven Knut",
+    "Samson Ethan Isaac",
+    "Woolley Peter Scott"
+   ],
+   "totalValue": 174499.98352,
+   "ticker": "PMPEX",
+   "side": "buy"
+  },
   {
    "key": "ADRX:buy",
    "headline": "ADRX: 2 insiders bought $54.4M \u2014 2.47% of the company",
@@ -20,97 +56,77 @@
    "side": "buy"
   },
   {
-   "key": "PRTA:buy",
-   "headline": "PRTA: Scully William P (10% owner) bought $889,872 \u2014 0.20% of the whole company",
+   "key": "SWZ:buy",
+   "headline": "SWZ: 2 insiders bought $127,344 \u2014 0.17% of the company",
    "reasons": [
-    "0.20% of the whole company",
-    "grew their own stake 124%"
+    "2 insiders bought within days",
+    "0.16% of the whole company",
+    "grew their own stake 50%"
    ],
    "insiders": [
-    "SCULLY WILLIAM P"
+    "Dakos Andrew",
+    "SELL MORITZ A"
    ],
-   "totalValue": 889872.3,
-   "ticker": "PRTA",
+   "totalValue": 127343.51,
+   "ticker": "SWZ",
    "side": "buy"
   },
   {
-   "key": "PDI:buy",
-   "headline": "PDI: Rappaport Alan (director) bought $75,655 \u2014 grew their own stake 144%",
+   "key": "FTHY:buy",
+   "headline": "FTHY: 2 insiders bought $161,410 \u2014 0.03% of the company",
    "reasons": [
-    "grew their own stake 144%"
+    "2 insiders bought within days",
+    "grew their own stake 71%"
    ],
    "insiders": [
-    "Rappaport Alan"
+    "HOUSEY WILLIAM A JR",
+    "MCGAREL DAVID"
    ],
-   "totalValue": 75654.7,
-   "ticker": "PDI",
+   "totalValue": 161409.5,
+   "ticker": "FTHY",
+   "side": "buy"
+  },
+  {
+   "key": "NYAX:buy",
+   "headline": "NYAX: 2 insiders bought $2.2M \u2014 0.13% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.12% of the whole company",
+    "now owns 20.0% of the company",
+    "$2.1M from the CEO, Co Founder & Chairman"
+   ],
+   "insiders": [
+    "Ben-Avi David",
+    "Nechmad Yair"
+   ],
+   "totalValue": 2231059.7879,
+   "ticker": "NYAX",
+   "side": "buy"
+  },
+  {
+   "key": "KOD:buy",
+   "headline": "KOD: Baker Bros. Advisors Lp (director) bought $157.0M \u2014 2.63% of the whole company (institution)",
+   "reasons": [
+    "2.63% of the whole company (institution)"
+   ],
+   "insiders": [
+    "BAKER BROS. ADVISORS LP"
+   ],
+   "totalValue": 156986393.7365,
+   "ticker": "KOD",
    "side": "buy"
   },
   {
    "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $31.5M \u2014 1.09% of the whole company (institution)",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $63.0M \u2014 2.18% of the whole company (institution)",
    "reasons": [
-    "1.09% of the whole company (institution)"
+    "2.18% of the whole company (institution)"
    ],
    "insiders": [
     "Conifer Management, L.L.C."
    ],
-   "totalValue": 31524452.3584,
+   "totalValue": 63048904.7168,
    "ticker": "GPI",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $10.6M \u2014 now owns 8.1% of the company",
-   "reasons": [
-    "now owns 8.1% of the company",
-    "$10.6M from the President, CEO and Chairman"
-   ],
-   "insiders": [
-    "Cohen Ryan"
-   ],
-   "totalValue": 10563796.1,
-   "ticker": "GME",
-   "side": "buy"
-  },
-  {
-   "key": "COUR:buy",
-   "headline": "COUR: Pale Fire Capital SE (10% owner) bought $11.4M \u2014 0.85% of the whole company (institution)",
-   "reasons": [
-    "0.85% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Pale Fire Capital SE"
-   ],
-   "totalValue": 11355072.2138,
-   "ticker": "COUR",
-   "side": "buy"
-  },
-  {
-   "key": "AOMR:buy",
-   "headline": "AOMR: Fierman Michael (director) bought $290,511 \u2014 0.15% of the whole company",
-   "reasons": [
-    "0.15% of the whole company",
-    "grew their own stake 58%"
-   ],
-   "insiders": [
-    "Fierman Michael"
-   ],
-   "totalValue": 290510.8342,
-   "ticker": "AOMR",
-   "side": "buy"
-  },
-  {
-   "key": "MNSO:buy",
-   "headline": "MNSO: Zhang Jingjing Eason (VP and Chief Financial Officer) bought $340,100 \u2014 grew their own stake 62%",
-   "reasons": [
-    "grew their own stake 62%"
-   ],
-   "insiders": [
-    "Zhang Jingjing Eason"
-   ],
-   "totalValue": 340099.98,
-   "ticker": "MNSO",
    "side": "buy"
   }
  ]
