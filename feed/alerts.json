@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T21:16:09.080861+00:00",
+ "generatedAt": "2026-10-01T01:45:36.988671+00:00",
  "count": 8,
  "alerts": [
   {
@@ -22,6 +22,26 @@
    "side": "buy"
   },
   {
+   "key": "ADRX:buy",
+   "headline": "ADRX: 5 insiders bought $87.7M \u2014 3.98% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "0.73% of the whole company",
+    "3 insiders buying",
+    "now owns 13.4% of the company"
+   ],
+   "insiders": [
+    "Chimovits Erez",
+    "GORDON CARL L",
+    "George Simeon",
+    "ORBIMED ADVISORS LLC",
+    "SR ONE CAPITAL MANAGEMENT, LLC"
+   ],
+   "totalValue": 87745772.0,
+   "ticker": "ADRX",
+   "side": "buy"
+  },
+  {
    "key": "PMPEX:buy",
    "headline": "PMPEX: 3 insiders bought $174,500",
    "reasons": [
@@ -39,20 +59,36 @@
    "side": "buy"
   },
   {
-   "key": "ADRX:buy",
-   "headline": "ADRX: 2 insiders bought $54.4M \u2014 2.47% of the company",
+   "key": "KWY:buy",
+   "headline": "KWY: 3 insiders bought $37,195 \u2014 0.01% of the company",
    "reasons": [
-    "2 insiders bought within days",
-    "1.23% of the whole company (institution)",
-    "1.23% of the whole company",
-    "grew their own stake 40%"
+    "3 insiders bought within days",
+    "3 insiders buying"
    ],
    "insiders": [
-    "George Simeon",
-    "SR ONE CAPITAL MANAGEMENT, LLC"
+    "Fitzgerald John Taylor Maloney",
+    "Hansen Kent A",
+    "Horowitz Joshua"
    ],
-   "totalValue": 54400000.0,
-   "ticker": "ADRX",
+   "totalValue": 37194.8169,
+   "ticker": "KWY",
+   "side": "buy"
+  },
+  {
+   "key": "BPRE:buy",
+   "headline": "BPRE: 2 insiders bought $11.3M",
+   "reasons": [
+    "$11M accumulated since Sep 28",
+    "2 insiders bought within days",
+    "grew their own stake 47%",
+    "grew their own stake 42%"
+   ],
+   "insiders": [
+    "KAMFAR RAMIN",
+    "Ruddy Jordan B."
+   ],
+   "totalValue": 11312759.1444,
+   "ticker": "BPRE",
    "side": "buy"
   },
   {
@@ -101,32 +137,6 @@
    ],
    "totalValue": 2231059.7879,
    "ticker": "NYAX",
-   "side": "buy"
-  },
-  {
-   "key": "KOD:buy",
-   "headline": "KOD: Baker Bros. Advisors Lp (director) bought $157.0M \u2014 2.63% of the whole company (institution)",
-   "reasons": [
-    "2.63% of the whole company (institution)"
-   ],
-   "insiders": [
-    "BAKER BROS. ADVISORS LP"
-   ],
-   "totalValue": 156986393.7365,
-   "ticker": "KOD",
-   "side": "buy"
-  },
-  {
-   "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $63.0M \u2014 2.18% of the whole company (institution)",
-   "reasons": [
-    "2.18% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Conifer Management, L.L.C."
-   ],
-   "totalValue": 63048904.7168,
-   "ticker": "GPI",
    "side": "buy"
   }
  ]
