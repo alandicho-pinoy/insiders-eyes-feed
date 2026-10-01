@@ -1,23 +1,48 @@
 {
- "generatedAt": "2026-10-01T14:15:31.846130+00:00",
+ "generatedAt": "2026-10-01T21:17:24.705986+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "FUL:buy",
-   "headline": "FUL: 5 insiders bought $499,068 \u2014 0.02% of the company",
+   "key": "SPG:buy",
+   "headline": "SPG: 10 insiders bought $389,743 \u2014 0.00% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 150%"
+    "10 insiders bought within days",
+    "10 insiders buying"
+   ],
+   "insiders": [
+    "Aeppel Glyn",
+    "Cicco Martin J",
+    "GLASSCOCK LARRY C",
+    "Jones Nina P",
+    "LEIBOWITZ REUBEN S",
+    "LEWIS RANDALL J",
+    "RODKIN GARY M",
+    "Roe Peggy",
+    "SELIG STEFAN M",
+    "STEWART MARTA R"
+   ],
+   "totalValue": 389743.16,
+   "ticker": "SPG",
+   "side": "buy"
+  },
+  {
+   "key": "FUL:buy",
+   "headline": "FUL: 7 insiders bought $621,316 \u2014 0.02% of the company",
+   "reasons": [
+    "7 insiders bought within days",
+    "7 insiders buying",
+    "grew their own stake 149%"
    ],
    "insiders": [
     "FLORNESS DANIEL L",
     "HANDLEY THOMAS W",
+    "Happe Michael J",
     "Lauber Charles T",
+    "Martin Celine Christine",
     "Rasmussen Trangsrud Teresa J",
     "Zaheer Srilata"
    ],
-   "totalValue": 499067.9574,
+   "totalValue": 621315.6079,
    "ticker": "FUL",
    "side": "buy"
   },
@@ -42,39 +67,6 @@
    "side": "buy"
   },
   {
-   "key": "PMPEX:buy",
-   "headline": "PMPEX: 3 insiders bought $174,500",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 255%"
-   ],
-   "insiders": [
-    "Hartt Steven Knut",
-    "Samson Ethan Isaac",
-    "Woolley Peter Scott"
-   ],
-   "totalValue": 174499.98352,
-   "ticker": "PMPEX",
-   "side": "buy"
-  },
-  {
-   "key": "ANIX:buy",
-   "headline": "ANIX: 3 insiders bought $82,140 \u2014 0.08% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Baskies Arnold M",
-    "Catelani Michael",
-    "KUMAR AMIT"
-   ],
-   "totalValue": 82140.0,
-   "ticker": "ANIX",
-   "side": "buy"
-  },
-  {
    "key": "KWY:buy",
    "headline": "KWY: 3 insiders bought $37,195 \u2014 0.01% of the company",
    "reasons": [
@@ -91,18 +83,35 @@
    "side": "buy"
   },
   {
-   "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $5.4M",
+   "key": "PMPEX:buy",
+   "headline": "PMPEX: 3 insiders bought $349,000",
    "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Hartt Steven Knut",
+    "Samson Ethan Isaac",
+    "Woolley Peter Scott"
+   ],
+   "totalValue": 348999.96704,
+   "ticker": "PMPEX",
+   "side": "buy"
+  },
+  {
+   "key": "BPRE:buy",
+   "headline": "BPRE: 2 insiders bought $11.3M",
+   "reasons": [
+    "$11M accumulated since Sep 28",
     "2 insiders bought within days",
-    "grew their own stake 89%",
+    "grew their own stake 47%",
     "grew their own stake 42%"
    ],
    "insiders": [
     "KAMFAR RAMIN",
     "Ruddy Jordan B."
    ],
-   "totalValue": 5411207.3228,
+   "totalValue": 11312759.1444,
    "ticker": "BPRE",
    "side": "buy"
   },
@@ -124,16 +133,19 @@
    "side": "buy"
   },
   {
-   "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $164.1M \u2014 5.68% of the whole company (institution)",
+   "key": "SWZ:buy",
+   "headline": "SWZ: 2 insiders bought $127,344 \u2014 0.17% of the company",
    "reasons": [
-    "5.68% of the whole company (institution)"
+    "2 insiders bought within days",
+    "0.16% of the whole company",
+    "grew their own stake 50%"
    ],
    "insiders": [
-    "Conifer Management, L.L.C."
+    "Dakos Andrew",
+    "SELL MORITZ A"
    ],
-   "totalValue": 164081085.1994,
-   "ticker": "GPI",
+   "totalValue": 127343.51,
+   "ticker": "SWZ",
    "side": "buy"
   }
  ]
