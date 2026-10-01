@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T01:45:36.988671+00:00",
+ "generatedAt": "2026-10-01T14:15:31.846130+00:00",
  "count": 8,
  "alerts": [
   {
@@ -59,6 +59,22 @@
    "side": "buy"
   },
   {
+   "key": "ANIX:buy",
+   "headline": "ANIX: 3 insiders bought $82,140 \u2014 0.08% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Baskies Arnold M",
+    "Catelani Michael",
+    "KUMAR AMIT"
+   ],
+   "totalValue": 82140.0,
+   "ticker": "ANIX",
+   "side": "buy"
+  },
+  {
    "key": "KWY:buy",
    "headline": "KWY: 3 insiders bought $37,195 \u2014 0.01% of the company",
    "reasons": [
@@ -76,67 +92,48 @@
   },
   {
    "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $11.3M",
+   "headline": "BPRE: 2 insiders bought $5.4M",
    "reasons": [
-    "$11M accumulated since Sep 28",
     "2 insiders bought within days",
-    "grew their own stake 47%",
+    "grew their own stake 89%",
     "grew their own stake 42%"
    ],
    "insiders": [
     "KAMFAR RAMIN",
     "Ruddy Jordan B."
    ],
-   "totalValue": 11312759.1444,
+   "totalValue": 5411207.3228,
    "ticker": "BPRE",
    "side": "buy"
   },
   {
-   "key": "SWZ:buy",
-   "headline": "SWZ: 2 insiders bought $127,344 \u2014 0.17% of the company",
+   "key": "XENE:buy",
+   "headline": "XENE: 2 insiders bought $1.7M \u2014 0.04% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.16% of the whole company",
-    "grew their own stake 50%"
+    "grew their own stake 151%",
+    "$1.1M from the PRESIDENT & CEO",
+    "new position from senior management"
    ],
    "insiders": [
-    "Dakos Andrew",
-    "SELL MORITZ A"
+    "Kelly Thomas Patrick",
+    "MORTIMER IAN"
    ],
-   "totalValue": 127343.51,
-   "ticker": "SWZ",
+   "totalValue": 1681140.0,
+   "ticker": "XENE",
    "side": "buy"
   },
   {
-   "key": "FTHY:buy",
-   "headline": "FTHY: 2 insiders bought $161,410 \u2014 0.03% of the company",
+   "key": "GPI:buy",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $164.1M \u2014 5.68% of the whole company (institution)",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 71%"
+    "5.68% of the whole company (institution)"
    ],
    "insiders": [
-    "HOUSEY WILLIAM A JR",
-    "MCGAREL DAVID"
+    "Conifer Management, L.L.C."
    ],
-   "totalValue": 161409.5,
-   "ticker": "FTHY",
-   "side": "buy"
-  },
-  {
-   "key": "NYAX:buy",
-   "headline": "NYAX: 2 insiders bought $2.2M \u2014 0.13% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.12% of the whole company",
-    "now owns 20.0% of the company",
-    "$2.1M from the CEO, Co Founder & Chairman"
-   ],
-   "insiders": [
-    "Ben-Avi David",
-    "Nechmad Yair"
-   ],
-   "totalValue": 2231059.7879,
-   "ticker": "NYAX",
+   "totalValue": 164081085.1994,
+   "ticker": "GPI",
    "side": "buy"
   }
  ]
