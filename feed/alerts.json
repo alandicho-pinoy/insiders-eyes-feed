@@ -1,13 +1,13 @@
 {
- "generatedAt": "2026-10-02T14:15:40.363455+00:00",
+ "generatedAt": "2026-10-02T21:17:50.688495+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "SPG:buy",
-   "headline": "SPG: 10 insiders bought $489,511 \u2014 0.00% of the company",
+   "headline": "SPG: 11 insiders bought $860,598 \u2014 0.00% of the company",
    "reasons": [
-    "10 insiders bought within days",
-    "10 insiders buying"
+    "11 insiders bought within days",
+    "11 insiders buying"
    ],
    "insiders": [
     "Aeppel Glyn",
@@ -18,20 +18,20 @@
     "LEWIS RANDALL J",
     "RODKIN GARY M",
     "Roe Peggy",
+    "SELIG STEFAN M",
     "STEWART MARTA R",
     "Smith Daniel C."
    ],
-   "totalValue": 489510.92,
+   "totalValue": 860598.32,
    "ticker": "SPG",
    "side": "buy"
   },
   {
    "key": "FUL:buy",
-   "headline": "FUL: 7 insiders bought $621,316 \u2014 0.02% of the company",
+   "headline": "FUL: 7 insiders bought $865,811 \u2014 0.03% of the company",
    "reasons": [
     "7 insiders bought within days",
-    "7 insiders buying",
-    "grew their own stake 149%"
+    "7 insiders buying"
    ],
    "insiders": [
     "FLORNESS DANIEL L",
@@ -42,28 +42,25 @@
     "Rasmussen Trangsrud Teresa J",
     "Zaheer Srilata"
    ],
-   "totalValue": 621315.6079,
+   "totalValue": 865810.9089,
    "ticker": "FUL",
    "side": "buy"
   },
   {
-   "key": "ADRX:buy",
-   "headline": "ADRX: 5 insiders bought $142.1M \u2014 6.45% of the company",
+   "key": "PMPEX:buy",
+   "headline": "PMPEX: 3 insiders bought $174,500",
    "reasons": [
-    "5 insiders bought within days",
-    "0.73% of the whole company",
+    "3 insiders bought within days",
     "3 insiders buying",
-    "now owns 13.4% of the company"
+    "grew their own stake 255%"
    ],
    "insiders": [
-    "Chimovits Erez",
-    "GORDON CARL L",
-    "George Simeon",
-    "ORBIMED ADVISORS LLC",
-    "SR ONE CAPITAL MANAGEMENT, LLC"
+    "Hartt Steven Knut",
+    "Samson Ethan Isaac",
+    "Woolley Peter Scott"
    ],
-   "totalValue": 142145772.0,
-   "ticker": "ADRX",
+   "totalValue": 174499.98352,
+   "ticker": "PMPEX",
    "side": "buy"
   },
   {
@@ -83,68 +80,71 @@
    "side": "buy"
   },
   {
-   "key": "PMPEX:buy",
-   "headline": "PMPEX: 3 insiders bought $349,000",
+   "key": "ADRX:buy",
+   "headline": "ADRX: 3 insiders bought $33.3M \u2014 1.51% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "3 insiders buying"
+    "0.73% of the whole company",
+    "now owns 13.4% of the company",
+    "0.73% of the whole company (institution)"
    ],
    "insiders": [
-    "Hartt Steven Knut",
-    "Samson Ethan Isaac",
-    "Woolley Peter Scott"
+    "Chimovits Erez",
+    "GORDON CARL L",
+    "ORBIMED ADVISORS LLC"
    ],
-   "totalValue": 348999.96704,
-   "ticker": "PMPEX",
+   "totalValue": 33345772.0,
+   "ticker": "ADRX",
    "side": "buy"
   },
   {
    "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $17.2M",
+   "headline": "BPRE: 2 insiders bought $5.4M",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 47%",
+    "grew their own stake 89%",
     "grew their own stake 42%"
    ],
    "insiders": [
     "KAMFAR RAMIN",
     "Ruddy Jordan B."
    ],
-   "totalValue": 17214310.966,
+   "totalValue": 5411207.3228,
    "ticker": "BPRE",
    "side": "buy"
   },
   {
-   "key": "SWZ:buy",
-   "headline": "SWZ: 2 insiders bought $243,157 \u2014 0.33% of the company",
+   "key": "GME:buy",
+   "headline": "GME: 2 insiders bought $17.6M \u2014 0.15% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.31% of the whole company",
-    "grew their own stake 200%"
+    "0.14% of the whole company",
+    "now owns 8.3% of the company",
+    "$17.1M from the President, CEO and Chairman"
    ],
    "insiders": [
-    "Dakos Andrew",
-    "SELL MORITZ A"
+    "Cohen Ryan",
+    "Turner Nat"
    ],
-   "totalValue": 243157.02,
-   "ticker": "SWZ",
+   "totalValue": 17593350.92,
+   "ticker": "GME",
    "side": "buy"
   },
   {
-   "key": "XENE:buy",
-   "headline": "XENE: 2 insiders bought $1.7M \u2014 0.04% of the company",
+   "key": "PAM:buy",
+   "headline": "PAM: 2 insiders bought $7.5M \u2014 0.18% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 151%",
-    "$1.1M from the PRESIDENT & CEO",
-    "new position from senior management"
+    "0.14% of the whole company",
+    "now owns 26.0% of the company",
+    "$5.6M from the Vicepresident"
    ],
    "insiders": [
-    "Kelly Thomas Patrick",
-    "MORTIMER IAN"
+    "Mariani Gustavo",
+    "Mindlin Damian Miguel"
    ],
-   "totalValue": 1681140.0,
-   "ticker": "XENE",
+   "totalValue": 7521316.685,
+   "ticker": "PAM",
    "side": "buy"
   }
  ]
