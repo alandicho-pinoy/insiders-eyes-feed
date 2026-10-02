@@ -1,13 +1,13 @@
 {
- "generatedAt": "2026-10-01T21:17:24.705986+00:00",
+ "generatedAt": "2026-10-02T01:47:05.451825+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "SPG:buy",
-   "headline": "SPG: 10 insiders bought $389,743 \u2014 0.00% of the company",
+   "headline": "SPG: 11 insiders bought $460,716 \u2014 0.00% of the company",
    "reasons": [
-    "10 insiders bought within days",
-    "10 insiders buying"
+    "11 insiders bought within days",
+    "11 insiders buying"
    ],
    "insiders": [
     "Aeppel Glyn",
@@ -19,9 +19,10 @@
     "RODKIN GARY M",
     "Roe Peggy",
     "SELIG STEFAN M",
-    "STEWART MARTA R"
+    "STEWART MARTA R",
+    "Smith Daniel C."
    ],
-   "totalValue": 389743.16,
+   "totalValue": 460716.16,
    "ticker": "SPG",
    "side": "buy"
   },
@@ -67,6 +68,23 @@
    "side": "buy"
   },
   {
+   "key": "PMPEX:buy",
+   "headline": "PMPEX: 3 insiders bought $174,500",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 255%"
+   ],
+   "insiders": [
+    "Hartt Steven Knut",
+    "Samson Ethan Isaac",
+    "Woolley Peter Scott"
+   ],
+   "totalValue": 174499.98352,
+   "ticker": "PMPEX",
+   "side": "buy"
+  },
+  {
    "key": "KWY:buy",
    "headline": "KWY: 3 insiders bought $37,195 \u2014 0.01% of the company",
    "reasons": [
@@ -80,22 +98,6 @@
    ],
    "totalValue": 37194.8169,
    "ticker": "KWY",
-   "side": "buy"
-  },
-  {
-   "key": "PMPEX:buy",
-   "headline": "PMPEX: 3 insiders bought $349,000",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Hartt Steven Knut",
-    "Samson Ethan Isaac",
-    "Woolley Peter Scott"
-   ],
-   "totalValue": 348999.96704,
-   "ticker": "PMPEX",
    "side": "buy"
   },
   {
@@ -133,19 +135,19 @@
    "side": "buy"
   },
   {
-   "key": "SWZ:buy",
-   "headline": "SWZ: 2 insiders bought $127,344 \u2014 0.17% of the company",
+   "key": "GME:buy",
+   "headline": "GME: 2 insiders bought $10.8M \u2014 0.09% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.16% of the whole company",
-    "grew their own stake 50%"
+    "now owns 8.1% of the company",
+    "$10.6M from the President, CEO and Chairman"
    ],
    "insiders": [
-    "Dakos Andrew",
-    "SELL MORITZ A"
+    "Cohen Ryan",
+    "Turner Nat"
    ],
-   "totalValue": 127343.51,
-   "ticker": "SWZ",
+   "totalValue": 10818336.56,
+   "ticker": "GME",
    "side": "buy"
   }
  ]
