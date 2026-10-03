@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-10-02T21:17:50.688495+00:00",
+ "generatedAt": "2026-10-03T01:48:08.688664+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "SPG:buy",
-   "headline": "SPG: 11 insiders bought $860,598 \u2014 0.00% of the company",
+   "headline": "SPG: 11 insiders bought $573,867 \u2014 0.00% of the company",
    "reasons": [
     "11 insiders bought within days",
     "11 insiders buying"
@@ -22,16 +22,17 @@
     "STEWART MARTA R",
     "Smith Daniel C."
    ],
-   "totalValue": 860598.32,
+   "totalValue": 573867.4,
    "ticker": "SPG",
    "side": "buy"
   },
   {
    "key": "FUL:buy",
-   "headline": "FUL: 7 insiders bought $865,811 \u2014 0.03% of the company",
+   "headline": "FUL: 7 insiders bought $621,316 \u2014 0.02% of the company",
    "reasons": [
     "7 insiders bought within days",
-    "7 insiders buying"
+    "7 insiders buying",
+    "grew their own stake 149%"
    ],
    "insiders": [
     "FLORNESS DANIEL L",
@@ -42,8 +43,28 @@
     "Rasmussen Trangsrud Teresa J",
     "Zaheer Srilata"
    ],
-   "totalValue": 865810.9089,
+   "totalValue": 621315.6079,
    "ticker": "FUL",
+   "side": "buy"
+  },
+  {
+   "key": "ADRX:buy",
+   "headline": "ADRX: 5 insiders bought $175.5M \u2014 7.96% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "1.47% of the whole company",
+    "3 insiders buying",
+    "now owns 13.4% of the company"
+   ],
+   "insiders": [
+    "Chimovits Erez",
+    "GORDON CARL L",
+    "George Simeon",
+    "ORBIMED ADVISORS LLC",
+    "SR ONE CAPITAL MANAGEMENT, LLC"
+   ],
+   "totalValue": 175491544.0,
+   "ticker": "ADRX",
    "side": "buy"
   },
   {
@@ -64,8 +85,24 @@
    "side": "buy"
   },
   {
+   "key": "DTIL:buy",
+   "headline": "DTIL: 3 insiders bought $53,002 \u2014 0.03% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Brown Melinda",
+    "Frankel Stanley",
+    "Germano Geno J"
+   ],
+   "totalValue": 53001.94,
+   "ticker": "DTIL",
+   "side": "buy"
+  },
+  {
    "key": "KWY:buy",
-   "headline": "KWY: 3 insiders bought $37,195 \u2014 0.01% of the company",
+   "headline": "KWY: 3 insiders bought $74,390 \u2014 0.03% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying"
@@ -75,76 +112,40 @@
     "Hansen Kent A",
     "Horowitz Joshua"
    ],
-   "totalValue": 37194.8169,
+   "totalValue": 74389.6338,
    "ticker": "KWY",
    "side": "buy"
   },
   {
-   "key": "ADRX:buy",
-   "headline": "ADRX: 3 insiders bought $33.3M \u2014 1.51% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.73% of the whole company",
-    "now owns 13.4% of the company",
-    "0.73% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Chimovits Erez",
-    "GORDON CARL L",
-    "ORBIMED ADVISORS LLC"
-   ],
-   "totalValue": 33345772.0,
-   "ticker": "ADRX",
-   "side": "buy"
-  },
-  {
    "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $5.4M",
+   "headline": "BPRE: 2 insiders bought $17.2M",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 89%",
+    "grew their own stake 47%",
     "grew their own stake 42%"
    ],
    "insiders": [
     "KAMFAR RAMIN",
     "Ruddy Jordan B."
    ],
-   "totalValue": 5411207.3228,
+   "totalValue": 17214310.966,
    "ticker": "BPRE",
    "side": "buy"
   },
   {
-   "key": "GME:buy",
-   "headline": "GME: 2 insiders bought $17.6M \u2014 0.15% of the company",
+   "key": "SWZ:buy",
+   "headline": "SWZ: 2 insiders bought $243,157 \u2014 0.33% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.14% of the whole company",
-    "now owns 8.3% of the company",
-    "$17.1M from the President, CEO and Chairman"
+    "0.31% of the whole company",
+    "grew their own stake 200%"
    ],
    "insiders": [
-    "Cohen Ryan",
-    "Turner Nat"
+    "Dakos Andrew",
+    "SELL MORITZ A"
    ],
-   "totalValue": 17593350.92,
-   "ticker": "GME",
-   "side": "buy"
-  },
-  {
-   "key": "PAM:buy",
-   "headline": "PAM: 2 insiders bought $7.5M \u2014 0.18% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.14% of the whole company",
-    "now owns 26.0% of the company",
-    "$5.6M from the Vicepresident"
-   ],
-   "insiders": [
-    "Mariani Gustavo",
-    "Mindlin Damian Miguel"
-   ],
-   "totalValue": 7521316.685,
-   "ticker": "PAM",
+   "totalValue": 243157.02,
+   "ticker": "SWZ",
    "side": "buy"
   }
  ]
