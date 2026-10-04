@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T01:45:22.226919+00:00",
+ "generatedAt": "2026-10-04T14:15:20.572030+00:00",
  "count": 8,
  "alerts": [
   {
@@ -27,94 +27,6 @@
    "side": "buy"
   },
   {
-   "key": "FUL:buy",
-   "headline": "FUL: 7 insiders bought $621,316 \u2014 0.02% of the company",
-   "reasons": [
-    "7 insiders bought within days",
-    "7 insiders buying",
-    "grew their own stake 149%"
-   ],
-   "insiders": [
-    "FLORNESS DANIEL L",
-    "HANDLEY THOMAS W",
-    "Happe Michael J",
-    "Lauber Charles T",
-    "Martin Celine Christine",
-    "Rasmussen Trangsrud Teresa J",
-    "Zaheer Srilata"
-   ],
-   "totalValue": 621315.6079,
-   "ticker": "FUL",
-   "side": "buy"
-  },
-  {
-   "key": "PMPEX:buy",
-   "headline": "PMPEX: 3 insiders bought $174,500",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 255%"
-   ],
-   "insiders": [
-    "Hartt Steven Knut",
-    "Samson Ethan Isaac",
-    "Woolley Peter Scott"
-   ],
-   "totalValue": 174499.98352,
-   "ticker": "PMPEX",
-   "side": "buy"
-  },
-  {
-   "key": "KWY:buy",
-   "headline": "KWY: 3 insiders bought $37,195 \u2014 0.01% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Fitzgerald John Taylor Maloney",
-    "Hansen Kent A",
-    "Horowitz Joshua"
-   ],
-   "totalValue": 37194.8169,
-   "ticker": "KWY",
-   "side": "buy"
-  },
-  {
-   "key": "ADRX:buy",
-   "headline": "ADRX: 3 insiders bought $33.3M \u2014 1.51% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.73% of the whole company",
-    "now owns 13.4% of the company",
-    "0.73% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Chimovits Erez",
-    "GORDON CARL L",
-    "ORBIMED ADVISORS LLC"
-   ],
-   "totalValue": 33345772.0,
-   "ticker": "ADRX",
-   "side": "buy"
-  },
-  {
-   "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $5.4M",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 89%",
-    "grew their own stake 42%"
-   ],
-   "insiders": [
-    "KAMFAR RAMIN",
-    "Ruddy Jordan B."
-   ],
-   "totalValue": 5411207.3228,
-   "ticker": "BPRE",
-   "side": "buy"
-  },
-  {
    "key": "XENE:buy",
    "headline": "XENE: 2 insiders bought $1.7M \u2014 0.04% of the company",
    "reasons": [
@@ -132,6 +44,21 @@
    "side": "buy"
   },
   {
+   "key": "FUL:buy",
+   "headline": "FUL: 2 insiders bought $122,248 \u2014 0.00% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 149%"
+   ],
+   "insiders": [
+    "Happe Michael J",
+    "Martin Celine Christine"
+   ],
+   "totalValue": 122247.6505,
+   "ticker": "FUL",
+   "side": "buy"
+  },
+  {
    "key": "GME:buy",
    "headline": "GME: 2 insiders bought $17.3M \u2014 0.14% of the company",
    "reasons": [
@@ -146,6 +73,62 @@
    ],
    "totalValue": 17338810.46,
    "ticker": "GME",
+   "side": "buy"
+  },
+  {
+   "key": "FUND:buy",
+   "headline": "FUND: George W Whitney (director) bought $1.8M \u2014 0.64% of the whole company",
+   "reasons": [
+    "0.64% of the whole company",
+    "now owns 27.5% of the company"
+   ],
+   "insiders": [
+    "GEORGE W WHITNEY"
+   ],
+   "totalValue": 1827220.65,
+   "ticker": "FUND",
+   "side": "buy"
+  },
+  {
+   "key": "FGBI:buy",
+   "headline": "FGBI: Smith Edgar R. III (director) bought $822,014 \u2014 0.60% of the whole company",
+   "reasons": [
+    "0.60% of the whole company",
+    "now owns 5.8% of the company"
+   ],
+   "insiders": [
+    "Smith Edgar R. III"
+   ],
+   "totalValue": 822013.56,
+   "ticker": "FGBI",
+   "side": "buy"
+  },
+  {
+   "key": "DLHC:buy",
+   "headline": "DLHC: Mink Brook Asset Management LLC (10% owner) bought $736,666 \u2014 1.44% of the whole company (institution)",
+   "reasons": [
+    "1.44% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Mink Brook Asset Management LLC"
+   ],
+   "totalValue": 736666.3,
+   "ticker": "DLHC",
+   "side": "buy"
+  },
+  {
+   "key": "MXF:buy",
+   "headline": "MXF: 2 insiders bought $42,188 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "now owns 16.3% of the company (institution)"
+   ],
+   "insiders": [
+    "Garcia Cuellar Maria Regina",
+    "Saba Capital Management, L.P."
+   ],
+   "totalValue": 42187.91,
+   "ticker": "MXF",
    "side": "buy"
   }
  ]
