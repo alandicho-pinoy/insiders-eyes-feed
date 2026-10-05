@@ -1,94 +1,7 @@
 {
- "generatedAt": "2026-10-05T01:45:24.795353+00:00",
+ "generatedAt": "2026-10-05T14:15:39.584993+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "SPG:buy",
-   "headline": "SPG: 11 insiders bought $460,716 \u2014 0.00% of the company",
-   "reasons": [
-    "11 insiders bought within days",
-    "11 insiders buying"
-   ],
-   "insiders": [
-    "Aeppel Glyn",
-    "Cicco Martin J",
-    "GLASSCOCK LARRY C",
-    "Jones Nina P",
-    "LEIBOWITZ REUBEN S",
-    "LEWIS RANDALL J",
-    "RODKIN GARY M",
-    "Roe Peggy",
-    "SELIG STEFAN M",
-    "STEWART MARTA R",
-    "Smith Daniel C."
-   ],
-   "totalValue": 460716.16,
-   "ticker": "SPG",
-   "side": "buy"
-  },
-  {
-   "key": "XENE:buy",
-   "headline": "XENE: 2 insiders bought $1.7M \u2014 0.04% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 151%",
-    "$1.1M from the PRESIDENT & CEO",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Kelly Thomas Patrick",
-    "MORTIMER IAN"
-   ],
-   "totalValue": 1681140.0,
-   "ticker": "XENE",
-   "side": "buy"
-  },
-  {
-   "key": "FUL:buy",
-   "headline": "FUL: 2 insiders bought $122,248 \u2014 0.00% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 149%"
-   ],
-   "insiders": [
-    "Happe Michael J",
-    "Martin Celine Christine"
-   ],
-   "totalValue": 122247.6505,
-   "ticker": "FUL",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: 2 insiders bought $17.3M \u2014 0.14% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.14% of the whole company",
-    "now owns 8.3% of the company",
-    "$17.1M from the President, CEO and Chairman"
-   ],
-   "insiders": [
-    "Cohen Ryan",
-    "Turner Nat"
-   ],
-   "totalValue": 17338810.46,
-   "ticker": "GME",
-   "side": "buy"
-  },
-  {
-   "key": "FUND:buy",
-   "headline": "FUND: George W Whitney (director) bought $1.8M \u2014 0.64% of the whole company",
-   "reasons": [
-    "0.64% of the whole company",
-    "now owns 27.5% of the company"
-   ],
-   "insiders": [
-    "GEORGE W WHITNEY"
-   ],
-   "totalValue": 1827220.65,
-   "ticker": "FUND",
-   "side": "buy"
-  },
   {
    "key": "FGBI:buy",
    "headline": "FGBI: Smith Edgar R. III (director) bought $822,014 \u2014 0.60% of the whole company",
@@ -101,6 +14,21 @@
    ],
    "totalValue": 822013.56,
    "ticker": "FGBI",
+   "side": "buy"
+  },
+  {
+   "key": "GME:buy",
+   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $17.1M \u2014 0.14% of the whole company",
+   "reasons": [
+    "0.14% of the whole company",
+    "now owns 8.3% of the company",
+    "$17.1M from the President, CEO and Chairman"
+   ],
+   "insiders": [
+    "Cohen Ryan"
+   ],
+   "totalValue": 17084270.0,
+   "ticker": "GME",
    "side": "buy"
   },
   {
@@ -117,18 +45,75 @@
    "side": "buy"
   },
   {
-   "key": "MXF:buy",
-   "headline": "MXF: 2 insiders bought $42,188 \u2014 0.01% of the company",
+   "key": "PAM:buy",
+   "headline": "PAM: Mindlin Damian Miguel (Vicepresident) bought $5.6M \u2014 0.14% of the whole company",
    "reasons": [
-    "2 insiders bought within days",
-    "now owns 16.3% of the company (institution)"
+    "0.14% of the whole company",
+    "now owns 26.0% of the company",
+    "$5.6M from the Vicepresident"
    ],
    "insiders": [
-    "Garcia Cuellar Maria Regina",
-    "Saba Capital Management, L.P."
+    "Mindlin Damian Miguel"
    ],
-   "totalValue": 42187.91,
-   "ticker": "MXF",
+   "totalValue": 5564816.685,
+   "ticker": "PAM",
+   "side": "buy"
+  },
+  {
+   "key": "PORT.U:buy",
+   "headline": "PORT.U: 2 insiders bought $10.0M",
+   "reasons": [
+    "2 insiders bought within days",
+    "new position from senior management",
+    "$5.0M from the CEO and CFO"
+   ],
+   "insiders": [
+    "SOUTHPORT ACQUISITION SPONSOR II LLC",
+    "SPENCER JEB S."
+   ],
+   "totalValue": 10000000.0,
+   "ticker": "PORT.U",
+   "side": "buy"
+  },
+  {
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $11.7M \u2014 now owns 28.3% of the company (institution)",
+   "reasons": [
+    "now owns 28.3% of the company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 11716076.7115,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
+  {
+   "key": "NYAX:buy",
+   "headline": "NYAX: Nechmad Yair (CEO, Co Founder & Chairman) bought $2.1M \u2014 0.12% of the whole company",
+   "reasons": [
+    "0.12% of the whole company",
+    "now owns 20.1% of the company",
+    "$2.1M from the CEO, Co Founder & Chairman"
+   ],
+   "insiders": [
+    "Nechmad Yair"
+   ],
+   "totalValue": 2112082.1791,
+   "ticker": "NYAX",
+   "side": "buy"
+  },
+  {
+   "key": "LEEEF:buy",
+   "headline": "LEEEF: Mendola Robert James Jr (director) bought $89,388 \u2014 0.16% of the whole company",
+   "reasons": [
+    "0.16% of the whole company"
+   ],
+   "insiders": [
+    "MENDOLA ROBERT JAMES JR"
+   ],
+   "totalValue": 89388.25,
+   "ticker": "LEEEF",
    "side": "buy"
   }
  ]
