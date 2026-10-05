@@ -1,7 +1,49 @@
 {
- "generatedAt": "2026-10-05T14:15:39.584993+00:00",
+ "generatedAt": "2026-10-05T21:18:27.831419+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "BBD:buy",
+   "headline": "BBD: Alvarez Denise Aguiar (director) bought $78.7M \u2014 0.21% of the whole company",
+   "reasons": [
+    "0.21% of the whole company",
+    "grew their own stake 122%"
+   ],
+   "insiders": [
+    "Alvarez Denise Aguiar"
+   ],
+   "totalValue": 78677156.3,
+   "ticker": "BBD",
+   "side": "buy"
+  },
+  {
+   "key": "UXIN:buy",
+   "headline": "UXIN: Dai Kun (Chief Executive Officer) bought $27,440 \u2014 grew their own stake 199%",
+   "reasons": [
+    "grew their own stake 199%"
+   ],
+   "insiders": [
+    "Dai Kun"
+   ],
+   "totalValue": 27439.7384,
+   "ticker": "UXIN",
+   "side": "buy"
+  },
+  {
+   "key": "MXF:buy",
+   "headline": "MXF: 2 insiders bought $795,887 \u2014 0.27% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.26% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Garcia Cuellar Maria Regina",
+    "Saba Capital Management, L.P."
+   ],
+   "totalValue": 795887.13,
+   "ticker": "MXF",
+   "side": "buy"
+  },
   {
    "key": "FGBI:buy",
    "headline": "FGBI: Smith Edgar R. III (director) bought $822,014 \u2014 0.60% of the whole company",
@@ -73,47 +115,6 @@
    ],
    "totalValue": 10000000.0,
    "ticker": "PORT.U",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $11.7M \u2014 now owns 28.3% of the company (institution)",
-   "reasons": [
-    "now owns 28.3% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 11716076.7115,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "NYAX:buy",
-   "headline": "NYAX: Nechmad Yair (CEO, Co Founder & Chairman) bought $2.1M \u2014 0.12% of the whole company",
-   "reasons": [
-    "0.12% of the whole company",
-    "now owns 20.1% of the company",
-    "$2.1M from the CEO, Co Founder & Chairman"
-   ],
-   "insiders": [
-    "Nechmad Yair"
-   ],
-   "totalValue": 2112082.1791,
-   "ticker": "NYAX",
-   "side": "buy"
-  },
-  {
-   "key": "LEEEF:buy",
-   "headline": "LEEEF: Mendola Robert James Jr (director) bought $89,388 \u2014 0.16% of the whole company",
-   "reasons": [
-    "0.16% of the whole company"
-   ],
-   "insiders": [
-    "MENDOLA ROBERT JAMES JR"
-   ],
-   "totalValue": 89388.25,
-   "ticker": "LEEEF",
    "side": "buy"
   }
  ]
