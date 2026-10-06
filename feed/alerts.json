@@ -1,21 +1,24 @@
 {
- "generatedAt": "2026-10-06T01:47:58.907569+00:00",
+ "generatedAt": "2026-10-06T14:15:29.936714+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "ACCV:buy",
-   "headline": "ACCV: 4 insiders bought $441,000 \u2014 0.02% of the company",
+   "headline": "ACCV: 5 insiders bought $4.1M \u2014 0.21% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
+    "5 insiders bought within days",
+    "0.19% of the whole company",
+    "5 insiders buying",
+    "$3.7M from the Chief Executive Officer"
    ],
    "insiders": [
     "Donahue Paul D",
     "HECKES HOWARD C",
     "JONES GINGER M",
-    "Jewell Brent C"
+    "Jewell Brent C",
+    "Rubiera Michael"
    ],
-   "totalValue": 441000.0,
+   "totalValue": 4098600.0,
    "ticker": "ACCV",
    "side": "buy"
   },
@@ -49,6 +52,20 @@
    "side": "buy"
   },
   {
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $6.2M \u2014 0.47% of the whole company",
+   "reasons": [
+    "0.47% of the whole company",
+    "now owns 10.4% of the company"
+   ],
+   "insiders": [
+    "Troim Tor Olav"
+   ],
+   "totalValue": 6197100.0,
+   "ticker": "BORR",
+   "side": "buy"
+  },
+  {
    "key": "BBD:buy",
    "headline": "BBD: Alvarez Denise Aguiar (director) bought $39.3M \u2014 0.11% of the whole company",
    "reasons": [
@@ -63,60 +80,42 @@
    "side": "buy"
   },
   {
-   "key": "FGBI:buy",
-   "headline": "FGBI: Smith Edgar R. III (director) bought $822,014 \u2014 0.60% of the whole company",
+   "key": "LEN:buy",
+   "headline": "LEN: Berkshire Hathaway Inc (10% owner) bought $192.6M \u2014 0.97% of the whole company (institution)",
    "reasons": [
-    "0.60% of the whole company",
-    "now owns 5.8% of the company"
+    "0.97% of the whole company (institution)"
    ],
    "insiders": [
-    "Smith Edgar R. III"
+    "BERKSHIRE HATHAWAY INC"
    ],
-   "totalValue": 822013.56,
-   "ticker": "FGBI",
+   "totalValue": 192634432.68,
+   "ticker": "LEN",
    "side": "buy"
   },
   {
-   "key": "GME:buy",
-   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $17.1M \u2014 0.14% of the whole company",
+   "key": "AVR:buy",
+   "headline": "AVR: L1 Capital Pty Ltd (10% owner) bought $6.7M \u2014 0.91% of the whole company (institution)",
    "reasons": [
-    "0.14% of the whole company",
-    "now owns 8.3% of the company",
-    "$17.1M from the President, CEO and Chairman"
+    "0.91% of the whole company (institution)"
    ],
    "insiders": [
-    "Cohen Ryan"
+    "L1 Capital Pty Ltd"
    ],
-   "totalValue": 17084270.0,
-   "ticker": "GME",
+   "totalValue": 6708731.17,
+   "ticker": "AVR",
    "side": "buy"
   },
   {
-   "key": "DLHC:buy",
-   "headline": "DLHC: Mink Brook Asset Management LLC (10% owner) bought $736,666 \u2014 1.44% of the whole company (institution)",
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $9.0M \u2014 now owns 28.4% of the company (institution)",
    "reasons": [
-    "1.44% of the whole company (institution)"
+    "now owns 28.4% of the company (institution)"
    ],
    "insiders": [
-    "Mink Brook Asset Management LLC"
+    "NIPPON LIFE INSURANCE CO"
    ],
-   "totalValue": 736666.3,
-   "ticker": "DLHC",
-   "side": "buy"
-  },
-  {
-   "key": "MXF:buy",
-   "headline": "MXF: 2 insiders bought $406,416 \u2014 0.14% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.13% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Garcia Cuellar Maria Regina",
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 406416.11,
-   "ticker": "MXF",
+   "totalValue": 9002472.9328,
+   "ticker": "CRBG",
    "side": "buy"
   }
  ]
