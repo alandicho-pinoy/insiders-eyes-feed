@@ -1,41 +1,79 @@
 {
- "generatedAt": "2026-10-07T21:16:18.959118+00:00",
+ "generatedAt": "2026-10-08T01:46:07.679770+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "ACCV:buy",
-   "headline": "ACCV: 5 insiders bought $4.1M \u2014 0.21% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "0.19% of the whole company",
-    "5 insiders buying",
-    "$3.7M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Donahue Paul D",
-    "HECKES HOWARD C",
-    "JONES GINGER M",
-    "Jewell Brent C",
-    "Rubiera Michael"
-   ],
-   "totalValue": 4098600.0,
-   "ticker": "ACCV",
-   "side": "buy"
-  },
-  {
    "key": "AGMB:buy",
-   "headline": "AGMB: 2 insiders bought $180,320 \u2014 0.04% of the company",
+   "headline": "AGMB: 3 insiders bought $266,670 \u2014 0.06% of the company",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 102%",
-    "new position from senior management"
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 102%"
    ],
    "insiders": [
+    "Epstein David R",
     "Kemula Pierre Thadee Victor",
     "Knotnerus Tim Jasper"
    ],
-   "totalValue": 180320.0,
+   "totalValue": 266670.0,
    "ticker": "AGMB",
+   "side": "buy"
+  },
+  {
+   "key": "OM:buy",
+   "headline": "OM: Leonard Braden Michael (10% owner) bought $2.6M \u2014 3.39% of the whole company",
+   "reasons": [
+    "3.39% of the whole company",
+    "grew their own stake 36%",
+    "now owns 14.7% of the company"
+   ],
+   "insiders": [
+    "Leonard Braden Michael"
+   ],
+   "totalValue": 2610781.215,
+   "ticker": "OM",
+   "side": "buy"
+  },
+  {
+   "key": "BPRE:buy",
+   "headline": "BPRE: 2 insiders bought $14.0M",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 173%"
+   ],
+   "insiders": [
+    "KAMFAR RAMIN",
+    "MacDonald Ryan S"
+   ],
+   "totalValue": 13973133.0972,
+   "ticker": "BPRE",
+   "side": "buy"
+  },
+  {
+   "key": "BBD:buy",
+   "headline": "BBD: Alvarez Denise Aguiar (director) bought $118.0M \u2014 0.25% of the whole company",
+   "reasons": [
+    "0.25% of the whole company",
+    "grew their own stake 472%"
+   ],
+   "insiders": [
+    "Alvarez Denise Aguiar"
+   ],
+   "totalValue": 118015734.45,
+   "ticker": "BBD",
+   "side": "buy"
+  },
+  {
+   "key": "PSUS:buy",
+   "headline": "PSUS: Israel Ryan (Chief Investment Officer) bought $19.2M \u2014 grew their own stake 211%",
+   "reasons": [
+    "grew their own stake 211%"
+   ],
+   "insiders": [
+    "ISRAEL RYAN"
+   ],
+   "totalValue": 19230431.1686,
+   "ticker": "PSUS",
    "side": "buy"
   },
   {
@@ -49,19 +87,6 @@
    ],
    "totalValue": 50200.0,
    "ticker": "VRA",
-   "side": "buy"
-  },
-  {
-   "key": "LEN:buy",
-   "headline": "LEN: Berkshire Hathaway Inc (10% owner) bought $385.3M \u2014 1.95% of the whole company (institution)",
-   "reasons": [
-    "1.95% of the whole company (institution)"
-   ],
-   "insiders": [
-    "BERKSHIRE HATHAWAY INC"
-   ],
-   "totalValue": 385268865.36,
-   "ticker": "LEN",
    "side": "buy"
   },
   {
@@ -91,33 +116,6 @@
    ],
    "totalValue": 6364200.0,
    "ticker": "BORR",
-   "side": "buy"
-  },
-  {
-   "key": "PSUS:buy",
-   "headline": "PSUS: Israel Ryan (Chief Investment Officer) bought $9.6M \u2014 grew their own stake 51%",
-   "reasons": [
-    "grew their own stake 51%"
-   ],
-   "insiders": [
-    "ISRAEL RYAN"
-   ],
-   "totalValue": 9615215.5843,
-   "ticker": "PSUS",
-   "side": "buy"
-  },
-  {
-   "key": "PRTA:buy",
-   "headline": "PRTA: Scully William P (10% owner) bought $857,240 \u2014 0.21% of the whole company",
-   "reasons": [
-    "0.21% of the whole company",
-    "grew their own stake 47%"
-   ],
-   "insiders": [
-    "SCULLY WILLIAM P"
-   ],
-   "totalValue": 857240.0,
-   "ticker": "PRTA",
    "side": "buy"
   }
  ]
