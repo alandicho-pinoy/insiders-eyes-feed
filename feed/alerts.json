@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T14:15:38.493707+00:00",
+ "generatedAt": "2026-10-08T21:16:12.222518+00:00",
  "count": 8,
  "alerts": [
   {
@@ -39,7 +39,7 @@
   },
   {
    "key": "AGMB:buy",
-   "headline": "AGMB: 3 insiders bought $266,670 \u2014 0.06% of the company",
+   "headline": "AGMB: 3 insiders bought $353,020 \u2014 0.08% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
@@ -50,23 +50,22 @@
     "Kemula Pierre Thadee Victor",
     "Knotnerus Tim Jasper"
    ],
-   "totalValue": 266670.0,
+   "totalValue": 353020.0,
    "ticker": "AGMB",
    "side": "buy"
   },
   {
-   "key": "NXH:buy",
-   "headline": "NXH: Lemonis Marcus (EXECUTIVE CHAIRMAN & CEO) bought $2.0M \u2014 1.14% of the whole company",
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $24.1M \u2014 1.84% of the whole company",
    "reasons": [
-    "1.14% of the whole company",
-    "grew their own stake 206%",
-    "$2.0M from the EXECUTIVE CHAIRMAN & CEO"
+    "1.84% of the whole company",
+    "now owns 11.3% of the company"
    ],
    "insiders": [
-    "LEMONIS MARCUS"
+    "Troim Tor Olav"
    ],
-   "totalValue": 2000000.88,
-   "ticker": "NXH",
+   "totalValue": 24148650.0,
+   "ticker": "BORR",
    "side": "buy"
   },
   {
@@ -85,34 +84,6 @@
    "side": "buy"
   },
   {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $12.6M \u2014 0.95% of the whole company",
-   "reasons": [
-    "0.95% of the whole company",
-    "now owns 10.9% of the company"
-   ],
-   "insiders": [
-    "Troim Tor Olav"
-   ],
-   "totalValue": 12561300.0,
-   "ticker": "BORR",
-   "side": "buy"
-  },
-  {
-   "key": "PRTA:buy",
-   "headline": "PRTA: Scully William P (10% owner) bought $1.7M \u2014 0.42% of the whole company",
-   "reasons": [
-    "0.42% of the whole company",
-    "grew their own stake 175%"
-   ],
-   "insiders": [
-    "SCULLY WILLIAM P"
-   ],
-   "totalValue": 1714480.0,
-   "ticker": "PRTA",
-   "side": "buy"
-  },
-  {
    "key": "OM:buy",
    "headline": "OM: Leonard Braden Michael (10% owner) bought $870,260 \u2014 1.13% of the whole company",
    "reasons": [
@@ -124,6 +95,32 @@
    ],
    "totalValue": 870260.405,
    "ticker": "OM",
+   "side": "buy"
+  },
+  {
+   "key": "AVR:buy",
+   "headline": "AVR: L1 Capital Pty Ltd (10% owner) bought $13.4M \u2014 2.08% of the whole company (institution)",
+   "reasons": [
+    "2.08% of the whole company (institution)"
+   ],
+   "insiders": [
+    "L1 Capital Pty Ltd"
+   ],
+   "totalValue": 13417462.34,
+   "ticker": "AVR",
+   "side": "buy"
+  },
+  {
+   "key": "UXIN:buy",
+   "headline": "UXIN: Dai Kun (Chief Executive Officer) bought $42,409 \u2014 grew their own stake 190%",
+   "reasons": [
+    "grew their own stake 190%"
+   ],
+   "insiders": [
+    "Dai Kun"
+   ],
+   "totalValue": 42408.8671,
+   "ticker": "UXIN",
    "side": "buy"
   }
  ]
