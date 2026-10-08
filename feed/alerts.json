@@ -1,7 +1,42 @@
 {
- "generatedAt": "2026-10-08T01:46:07.679770+00:00",
+ "generatedAt": "2026-10-08T14:15:38.493707+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "ACCV:buy",
+   "headline": "ACCV: 5 insiders bought $4.1M \u2014 0.21% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "0.19% of the whole company",
+    "5 insiders buying",
+    "$3.7M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "Donahue Paul D",
+    "HECKES HOWARD C",
+    "JONES GINGER M",
+    "Jewell Brent C",
+    "Rubiera Michael"
+   ],
+   "totalValue": 4098600.0,
+   "ticker": "ACCV",
+   "side": "buy"
+  },
+  {
+   "key": "COE:buy",
+   "headline": "COE: Huang Jack Jiajia (Chief Executive Officer) bought $32.3M \u2014 50.07% of the company",
+   "reasons": [
+    "28.21% of the whole company",
+    "$18.2M from the Chief Executive Officer",
+    "21.86% of the whole company"
+   ],
+   "insiders": [
+    "Huang Jack Jiajia"
+   ],
+   "totalValue": 32333529.6,
+   "ticker": "COE",
+   "side": "buy"
+  },
   {
    "key": "AGMB:buy",
    "headline": "AGMB: 3 insiders bought $266,670 \u2014 0.06% of the company",
@@ -20,102 +55,75 @@
    "side": "buy"
   },
   {
-   "key": "OM:buy",
-   "headline": "OM: Leonard Braden Michael (10% owner) bought $2.6M \u2014 3.39% of the whole company",
+   "key": "NXH:buy",
+   "headline": "NXH: Lemonis Marcus (EXECUTIVE CHAIRMAN & CEO) bought $2.0M \u2014 1.14% of the whole company",
    "reasons": [
-    "3.39% of the whole company",
-    "grew their own stake 36%",
-    "now owns 14.7% of the company"
+    "1.14% of the whole company",
+    "grew their own stake 206%",
+    "$2.0M from the EXECUTIVE CHAIRMAN & CEO"
    ],
    "insiders": [
-    "Leonard Braden Michael"
+    "LEMONIS MARCUS"
    ],
-   "totalValue": 2610781.215,
-   "ticker": "OM",
+   "totalValue": 2000000.88,
+   "ticker": "NXH",
    "side": "buy"
   },
   {
    "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $14.0M",
+   "headline": "BPRE: 2 insiders bought $3.5M",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 173%"
+    "grew their own stake 30%"
    ],
    "insiders": [
     "KAMFAR RAMIN",
     "MacDonald Ryan S"
    ],
-   "totalValue": 13973133.0972,
+   "totalValue": 3493283.2743,
    "ticker": "BPRE",
    "side": "buy"
   },
   {
-   "key": "BBD:buy",
-   "headline": "BBD: Alvarez Denise Aguiar (director) bought $118.0M \u2014 0.25% of the whole company",
-   "reasons": [
-    "0.25% of the whole company",
-    "grew their own stake 472%"
-   ],
-   "insiders": [
-    "Alvarez Denise Aguiar"
-   ],
-   "totalValue": 118015734.45,
-   "ticker": "BBD",
-   "side": "buy"
-  },
-  {
-   "key": "PSUS:buy",
-   "headline": "PSUS: Israel Ryan (Chief Investment Officer) bought $19.2M \u2014 grew their own stake 211%",
-   "reasons": [
-    "grew their own stake 211%"
-   ],
-   "insiders": [
-    "ISRAEL RYAN"
-   ],
-   "totalValue": 19230431.1686,
-   "ticker": "PSUS",
-   "side": "buy"
-  },
-  {
-   "key": "VRA:buy",
-   "headline": "VRA: Brockman Ivan (director) bought $50,200 \u2014 grew their own stake 400%",
-   "reasons": [
-    "grew their own stake 400%"
-   ],
-   "insiders": [
-    "Brockman Ivan"
-   ],
-   "totalValue": 50200.0,
-   "ticker": "VRA",
-   "side": "buy"
-  },
-  {
-   "key": "NXH:buy",
-   "headline": "NXH: Lemonis Marcus (EXECUTIVE CHAIRMAN & CEO) bought $1.0M \u2014 0.57% of the whole company",
-   "reasons": [
-    "0.57% of the whole company",
-    "grew their own stake 51%",
-    "$1.0M from the EXECUTIVE CHAIRMAN & CEO"
-   ],
-   "insiders": [
-    "LEMONIS MARCUS"
-   ],
-   "totalValue": 1000000.44,
-   "ticker": "NXH",
-   "side": "buy"
-  },
-  {
    "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $6.4M \u2014 0.48% of the whole company",
+   "headline": "BORR: Troim Tor Olav (director) bought $12.6M \u2014 0.95% of the whole company",
    "reasons": [
-    "0.48% of the whole company",
+    "0.95% of the whole company",
     "now owns 10.9% of the company"
    ],
    "insiders": [
     "Troim Tor Olav"
    ],
-   "totalValue": 6364200.0,
+   "totalValue": 12561300.0,
    "ticker": "BORR",
+   "side": "buy"
+  },
+  {
+   "key": "PRTA:buy",
+   "headline": "PRTA: Scully William P (10% owner) bought $1.7M \u2014 0.42% of the whole company",
+   "reasons": [
+    "0.42% of the whole company",
+    "grew their own stake 175%"
+   ],
+   "insiders": [
+    "SCULLY WILLIAM P"
+   ],
+   "totalValue": 1714480.0,
+   "ticker": "PRTA",
+   "side": "buy"
+  },
+  {
+   "key": "OM:buy",
+   "headline": "OM: Leonard Braden Michael (10% owner) bought $870,260 \u2014 1.13% of the whole company",
+   "reasons": [
+    "1.13% of the whole company",
+    "now owns 14.7% of the company"
+   ],
+   "insiders": [
+    "Leonard Braden Michael"
+   ],
+   "totalValue": 870260.405,
+   "ticker": "OM",
    "side": "buy"
   }
  ]
