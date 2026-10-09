@@ -1,27 +1,7 @@
 {
- "generatedAt": "2026-10-08T21:16:12.222518+00:00",
+ "generatedAt": "2026-10-09T01:45:49.823085+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "ACCV:buy",
-   "headline": "ACCV: 5 insiders bought $4.1M \u2014 0.21% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "0.19% of the whole company",
-    "5 insiders buying",
-    "$3.7M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Donahue Paul D",
-    "HECKES HOWARD C",
-    "JONES GINGER M",
-    "Jewell Brent C",
-    "Rubiera Michael"
-   ],
-   "totalValue": 4098600.0,
-   "ticker": "ACCV",
-   "side": "buy"
-  },
   {
    "key": "COE:buy",
    "headline": "COE: Huang Jack Jiajia (Chief Executive Officer) bought $32.3M \u2014 50.07% of the company",
@@ -39,33 +19,19 @@
   },
   {
    "key": "AGMB:buy",
-   "headline": "AGMB: 3 insiders bought $353,020 \u2014 0.08% of the company",
+   "headline": "AGMB: 3 insiders bought $446,990 \u2014 0.10% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
-    "grew their own stake 102%"
+    "new position from senior management"
    ],
    "insiders": [
     "Epstein David R",
     "Kemula Pierre Thadee Victor",
     "Knotnerus Tim Jasper"
    ],
-   "totalValue": 353020.0,
+   "totalValue": 446990.0,
    "ticker": "AGMB",
-   "side": "buy"
-  },
-  {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $24.1M \u2014 1.84% of the whole company",
-   "reasons": [
-    "1.84% of the whole company",
-    "now owns 11.3% of the company"
-   ],
-   "insiders": [
-    "Troim Tor Olav"
-   ],
-   "totalValue": 24148650.0,
-   "ticker": "BORR",
    "side": "buy"
   },
   {
@@ -84,6 +50,20 @@
    "side": "buy"
   },
   {
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $11.6M \u2014 0.88% of the whole company",
+   "reasons": [
+    "0.88% of the whole company",
+    "now owns 11.3% of the company"
+   ],
+   "insiders": [
+    "Troim Tor Olav"
+   ],
+   "totalValue": 11587350.0,
+   "ticker": "BORR",
+   "side": "buy"
+  },
+  {
    "key": "OM:buy",
    "headline": "OM: Leonard Braden Michael (10% owner) bought $870,260 \u2014 1.13% of the whole company",
    "reasons": [
@@ -98,29 +78,45 @@
    "side": "buy"
   },
   {
-   "key": "AVR:buy",
-   "headline": "AVR: L1 Capital Pty Ltd (10% owner) bought $13.4M \u2014 2.08% of the whole company (institution)",
+   "key": "SAH:buy",
+   "headline": "SAH: Rusnak Paul P. (10% owner) bought $8.8M \u2014 0.46% of the whole company",
    "reasons": [
-    "2.08% of the whole company (institution)"
+    "0.46% of the whole company",
+    "now owns 16.3% of the company"
    ],
    "insiders": [
-    "L1 Capital Pty Ltd"
+    "Rusnak Paul P."
    ],
-   "totalValue": 13417462.34,
-   "ticker": "AVR",
+   "totalValue": 8839728.18,
+   "ticker": "SAH",
    "side": "buy"
   },
   {
-   "key": "UXIN:buy",
-   "headline": "UXIN: Dai Kun (Chief Executive Officer) bought $42,409 \u2014 grew their own stake 190%",
+   "key": "NXH:buy",
+   "headline": "NXH: Lemonis Marcus (EXECUTIVE CHAIRMAN & CEO) bought $1.0M \u2014 0.57% of the whole company",
    "reasons": [
-    "grew their own stake 190%"
+    "0.57% of the whole company",
+    "grew their own stake 51%",
+    "$1.0M from the EXECUTIVE CHAIRMAN & CEO"
    ],
    "insiders": [
-    "Dai Kun"
+    "LEMONIS MARCUS"
    ],
-   "totalValue": 42408.8671,
-   "ticker": "UXIN",
+   "totalValue": 1000000.44,
+   "ticker": "NXH",
+   "side": "buy"
+  },
+  {
+   "key": "BBD:buy",
+   "headline": "BBD: Alvarez Denise Aguiar (director) bought $39.3M \u2014 grew their own stake 38%",
+   "reasons": [
+    "grew their own stake 38%"
+   ],
+   "insiders": [
+    "Alvarez Denise Aguiar"
+   ],
+   "totalValue": 39338578.15,
+   "ticker": "BBD",
    "side": "buy"
   }
  ]
