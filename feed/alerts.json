@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T01:45:49.823085+00:00",
+ "generatedAt": "2026-10-09T14:15:40.856227+00:00",
  "count": 8,
  "alerts": [
   {
@@ -18,77 +18,88 @@
    "side": "buy"
   },
   {
+   "key": "GGR:buy",
+   "headline": "GGR: Yin Chung-Yao (director) bought $35.1M \u2014 58.41% of the whole company",
+   "reasons": [
+    "58.41% of the whole company",
+    "grew their own stake 232%"
+   ],
+   "insiders": [
+    "Yin Chung-Yao"
+   ],
+   "totalValue": 35114297.68,
+   "ticker": "GGR",
+   "side": "buy"
+  },
+  {
    "key": "AGMB:buy",
-   "headline": "AGMB: 3 insiders bought $446,990 \u2014 0.10% of the company",
+   "headline": "AGMB: 3 insiders bought $311,170 \u2014 0.07% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
-    "new position from senior management"
+    "grew their own stake 102%"
    ],
    "insiders": [
     "Epstein David R",
     "Kemula Pierre Thadee Victor",
     "Knotnerus Tim Jasper"
    ],
-   "totalValue": 446990.0,
+   "totalValue": 311170.0,
    "ticker": "AGMB",
    "side": "buy"
   },
   {
-   "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $3.5M",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 30%"
-   ],
-   "insiders": [
-    "KAMFAR RAMIN",
-    "MacDonald Ryan S"
-   ],
-   "totalValue": 3493283.2743,
-   "ticker": "BPRE",
-   "side": "buy"
-  },
-  {
    "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $11.6M \u2014 0.88% of the whole company",
+   "headline": "BORR: Troim Tor Olav (director) bought $18.0M \u2014 1.36% of the whole company",
    "reasons": [
-    "0.88% of the whole company",
+    "1.36% of the whole company",
     "now owns 11.3% of the company"
    ],
    "insiders": [
     "Troim Tor Olav"
    ],
-   "totalValue": 11587350.0,
+   "totalValue": 17951550.0,
    "ticker": "BORR",
    "side": "buy"
   },
   {
-   "key": "OM:buy",
-   "headline": "OM: Leonard Braden Michael (10% owner) bought $870,260 \u2014 1.13% of the whole company",
+   "key": "PRTA:buy",
+   "headline": "PRTA: Scully William P (10% owner) bought $2.7M \u2014 0.65% of the whole company",
    "reasons": [
-    "1.13% of the whole company",
-    "now owns 14.7% of the company"
+    "0.65% of the whole company",
+    "grew their own stake 147%"
    ],
    "insiders": [
-    "Leonard Braden Michael"
+    "SCULLY WILLIAM P"
    ],
-   "totalValue": 870260.405,
-   "ticker": "OM",
+   "totalValue": 2678294.0,
+   "ticker": "PRTA",
    "side": "buy"
   },
   {
-   "key": "SAH:buy",
-   "headline": "SAH: Rusnak Paul P. (10% owner) bought $8.8M \u2014 0.46% of the whole company",
+   "key": "BBD:buy",
+   "headline": "BBD: Alvarez Rubens Aguiar (director) bought $32.0M \u2014 grew their own stake 100%",
    "reasons": [
-    "0.46% of the whole company",
-    "now owns 16.3% of the company"
+    "grew their own stake 100%"
    ],
    "insiders": [
-    "Rusnak Paul P."
+    "Alvarez Rubens Aguiar"
    ],
-   "totalValue": 8839728.18,
-   "ticker": "SAH",
+   "totalValue": 32042484.0,
+   "ticker": "BBD",
+   "side": "buy"
+  },
+  {
+   "key": "VRA:buy",
+   "headline": "VRA: Brockman Ivan (director) bought $50,200 \u2014 grew their own stake 400%",
+   "reasons": [
+    "grew their own stake 400%"
+   ],
+   "insiders": [
+    "Brockman Ivan"
+   ],
+   "totalValue": 50200.0,
+   "ticker": "VRA",
    "side": "buy"
   },
   {
@@ -104,19 +115,6 @@
    ],
    "totalValue": 1000000.44,
    "ticker": "NXH",
-   "side": "buy"
-  },
-  {
-   "key": "BBD:buy",
-   "headline": "BBD: Alvarez Denise Aguiar (director) bought $39.3M \u2014 grew their own stake 38%",
-   "reasons": [
-    "grew their own stake 38%"
-   ],
-   "insiders": [
-    "Alvarez Denise Aguiar"
-   ],
-   "totalValue": 39338578.15,
-   "ticker": "BBD",
    "side": "buy"
   }
  ]
