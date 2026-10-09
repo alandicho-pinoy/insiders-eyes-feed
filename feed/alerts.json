@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T14:15:40.856227+00:00",
+ "generatedAt": "2026-10-09T21:16:35.621250+00:00",
  "count": 8,
  "alerts": [
   {
@@ -50,15 +50,15 @@
   },
   {
    "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $18.0M \u2014 1.36% of the whole company",
+   "headline": "BORR: Troim Tor Olav (director) bought $17.8M \u2014 1.35% of the whole company",
    "reasons": [
-    "1.36% of the whole company",
+    "1.35% of the whole company",
     "now owns 11.3% of the company"
    ],
    "insiders": [
     "Troim Tor Olav"
    ],
-   "totalValue": 17951550.0,
+   "totalValue": 17784450.0,
    "ticker": "BORR",
    "side": "buy"
   },
@@ -90,16 +90,19 @@
    "side": "buy"
   },
   {
-   "key": "VRA:buy",
-   "headline": "VRA: Brockman Ivan (director) bought $50,200 \u2014 grew their own stake 400%",
+   "key": "OPTU:buy",
+   "headline": "OPTU: Subin Neil S (10% owner) bought $2.5M \u2014 0.69% of the company",
    "reasons": [
-    "grew their own stake 400%"
+    "$2M accumulated since Jul 31",
+    "0.49% of the whole company",
+    "now owns 5.1% of the company",
+    "0.21% of the whole company"
    ],
    "insiders": [
-    "Brockman Ivan"
+    "SUBIN NEIL S"
    ],
-   "totalValue": 50200.0,
-   "ticker": "VRA",
+   "totalValue": 2454821.5502,
+   "ticker": "OPTU",
    "side": "buy"
   },
   {
