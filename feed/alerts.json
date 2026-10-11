@@ -1,22 +1,7 @@
 {
- "generatedAt": "2026-10-10T21:15:11.683354+00:00",
+ "generatedAt": "2026-10-11T01:45:07.988752+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "COE:buy",
-   "headline": "COE: Huang Jack Jiajia (Chief Executive Officer) bought $32.3M \u2014 50.07% of the company",
-   "reasons": [
-    "28.21% of the whole company",
-    "$18.2M from the Chief Executive Officer",
-    "21.86% of the whole company"
-   ],
-   "insiders": [
-    "Huang Jack Jiajia"
-   ],
-   "totalValue": 32333529.6,
-   "ticker": "COE",
-   "side": "buy"
-  },
   {
    "key": "GGR:buy",
    "headline": "GGR: Yin Chung-Yao (director) bought $35.1M \u2014 58.41% of the whole company",
@@ -120,6 +105,20 @@
    ],
    "totalValue": 2454821.5502,
    "ticker": "OPTU",
+   "side": "buy"
+  },
+  {
+   "key": "PRTA:buy",
+   "headline": "PRTA: Scully William P (10% owner) bought $1.8M \u2014 0.44% of the whole company",
+   "reasons": [
+    "0.44% of the whole company",
+    "grew their own stake 68%"
+   ],
+   "insiders": [
+    "SCULLY WILLIAM P"
+   ],
+   "totalValue": 1821054.0,
+   "ticker": "PRTA",
    "side": "buy"
   }
  ]
