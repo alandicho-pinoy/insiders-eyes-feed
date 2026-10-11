@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-10-11T01:45:07.988752+00:00",
+ "generatedAt": "2026-10-11T14:15:06.794493+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "COE:buy",
+   "headline": "COE: Huang Jack Jiajia (Chief Executive Officer) bought $32.3M \u2014 50.07% of the company",
+   "reasons": [
+    "28.21% of the whole company",
+    "$18.2M from the Chief Executive Officer",
+    "21.86% of the whole company"
+   ],
+   "insiders": [
+    "Huang Jack Jiajia"
+   ],
+   "totalValue": 32333529.6,
+   "ticker": "COE",
+   "side": "buy"
+  },
   {
    "key": "GGR:buy",
    "headline": "GGR: Yin Chung-Yao (director) bought $35.1M \u2014 58.41% of the whole company",
@@ -35,37 +50,6 @@
    "side": "buy"
   },
   {
-   "key": "AGMB:buy",
-   "headline": "AGMB: 3 insiders bought $311,170 \u2014 0.07% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 102%"
-   ],
-   "insiders": [
-    "Epstein David R",
-    "Kemula Pierre Thadee Victor",
-    "Knotnerus Tim Jasper"
-   ],
-   "totalValue": 311170.0,
-   "ticker": "AGMB",
-   "side": "buy"
-  },
-  {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $11.8M \u2014 0.89% of the whole company",
-   "reasons": [
-    "0.89% of the whole company",
-    "now owns 11.3% of the company"
-   ],
-   "insiders": [
-    "Troim Tor Olav"
-   ],
-   "totalValue": 11754450.0,
-   "ticker": "BORR",
-   "side": "buy"
-  },
-  {
    "key": "BBD:buy",
    "headline": "BBD: Alvarez Rubens Aguiar (director) bought $32.0M \u2014 grew their own stake 100%",
    "reasons": [
@@ -76,19 +60,6 @@
    ],
    "totalValue": 32042484.0,
    "ticker": "BBD",
-   "side": "buy"
-  },
-  {
-   "key": "VRA:buy",
-   "headline": "VRA: Brockman Ivan (director) bought $50,200 \u2014 grew their own stake 400%",
-   "reasons": [
-    "grew their own stake 400%"
-   ],
-   "insiders": [
-    "Brockman Ivan"
-   ],
-   "totalValue": 50200.0,
-   "ticker": "VRA",
    "side": "buy"
   },
   {
@@ -119,6 +90,33 @@
    ],
    "totalValue": 1821054.0,
    "ticker": "PRTA",
+   "side": "buy"
+  },
+  {
+   "key": "BPRE:buy",
+   "headline": "BPRE: Kamfar Ramin (director) bought $8.5M \u2014 grew their own stake 55%",
+   "reasons": [
+    "grew their own stake 55%"
+   ],
+   "insiders": [
+    "KAMFAR RAMIN"
+   ],
+   "totalValue": 8501526.6013,
+   "ticker": "BPRE",
+   "side": "buy"
+  },
+  {
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $5.4M \u2014 0.41% of the whole company",
+   "reasons": [
+    "0.41% of the whole company",
+    "now owns 11.3% of the company"
+   ],
+   "insiders": [
+    "Troim Tor Olav"
+   ],
+   "totalValue": 5390250.0,
+   "ticker": "BORR",
    "side": "buy"
   }
  ]
