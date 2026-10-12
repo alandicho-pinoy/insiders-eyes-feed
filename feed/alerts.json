@@ -1,22 +1,7 @@
 {
- "generatedAt": "2026-10-12T01:45:10.576873+00:00",
+ "generatedAt": "2026-10-12T14:15:09.582598+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "COE:buy",
-   "headline": "COE: Huang Jack Jiajia (Chief Executive Officer) bought $32.3M \u2014 50.07% of the company",
-   "reasons": [
-    "28.21% of the whole company",
-    "$18.2M from the Chief Executive Officer",
-    "21.86% of the whole company"
-   ],
-   "insiders": [
-    "Huang Jack Jiajia"
-   ],
-   "totalValue": 32333529.6,
-   "ticker": "COE",
-   "side": "buy"
-  },
   {
    "key": "GGR:buy",
    "headline": "GGR: Yin Chung-Yao (director) bought $35.1M \u2014 58.41% of the whole company",
@@ -106,17 +91,29 @@
    "side": "buy"
   },
   {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $5.4M \u2014 0.41% of the whole company",
+   "key": "VDTA:buy",
+   "headline": "VDTA: Leverton Jaime (director) bought $255,000 \u2014 0.44% of the whole company",
    "reasons": [
-    "0.41% of the whole company",
-    "now owns 11.3% of the company"
+    "0.44% of the whole company"
    ],
    "insiders": [
-    "Troim Tor Olav"
+    "Leverton Jaime"
    ],
-   "totalValue": 5390250.0,
-   "ticker": "BORR",
+   "totalValue": 255000.0,
+   "ticker": "VDTA",
+   "side": "buy"
+  },
+  {
+   "key": "AGMB:buy",
+   "headline": "AGMB: Epstein David R (director) bought $44,500 \u2014 grew their own stake 50%",
+   "reasons": [
+    "grew their own stake 50%"
+   ],
+   "insiders": [
+    "Epstein David R"
+   ],
+   "totalValue": 44500.0,
+   "ticker": "AGMB",
    "side": "buy"
   }
  ]
