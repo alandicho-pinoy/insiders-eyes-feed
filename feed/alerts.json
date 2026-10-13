@@ -1,119 +1,73 @@
 {
- "generatedAt": "2026-10-13T01:45:04.948643+00:00",
- "count": 8,
+ "generatedAt": "2026-10-13T14:15:26.180213+00:00",
+ "count": 5,
  "alerts": [
   {
-   "key": "GGR:buy",
-   "headline": "GGR: Yin Chung-Yao (director) bought $35.1M \u2014 58.41% of the whole company",
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $11.8M \u2014 0.77% of the whole company",
    "reasons": [
-    "58.41% of the whole company",
-    "grew their own stake 232%"
+    "0.77% of the whole company",
+    "now owns 12.1% of the company"
    ],
    "insiders": [
-    "Yin Chung-Yao"
+    "Troim Tor Olav"
    ],
-   "totalValue": 35114297.68,
-   "ticker": "GGR",
+   "totalValue": 11843500.0,
+   "ticker": "BORR",
    "side": "buy"
   },
   {
-   "key": "REF:buy",
-   "headline": "REF: 3 insiders bought $3.1M \u2014 0.38% of the company",
+   "key": "PED:buy",
+   "headline": "PED: Kukes Simon G (10% owner) bought $1.9M \u2014 1.07% of the whole company",
    "reasons": [
-    "3 insiders bought within days",
-    "0.37% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 302%"
+    "1.07% of the whole company",
+    "now owns 31.1% of the company"
    ],
    "insiders": [
-    "Allen Zipporah",
-    "Coyle John Joseph",
-    "Kleine Brigitte"
+    "KUKES SIMON G"
    ],
-   "totalValue": 3055500.0,
-   "ticker": "REF",
+   "totalValue": 1911910.0,
+   "ticker": "PED",
    "side": "buy"
   },
   {
-   "key": "BBD:buy",
-   "headline": "BBD: Alvarez Rubens Aguiar (director) bought $32.0M \u2014 grew their own stake 100%",
+   "key": "SAR:buy",
+   "headline": "SAR: Oberbeck Christian L (CEO and Director) bought $445,800 \u2014 0.19% of the whole company",
    "reasons": [
-    "grew their own stake 100%"
+    "0.19% of the whole company",
+    "new position from senior management"
    ],
    "insiders": [
-    "Alvarez Rubens Aguiar"
+    "Oberbeck Christian L"
    ],
-   "totalValue": 32042484.0,
-   "ticker": "BBD",
+   "totalValue": 445800.0,
+   "ticker": "SAR",
    "side": "buy"
   },
   {
-   "key": "OPTU:buy",
-   "headline": "OPTU: Subin Neil S (10% owner) bought $2.5M \u2014 0.69% of the company",
+   "key": "ECF:buy",
+   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $333,847 \u2014 0.20% of the whole company (institution)",
    "reasons": [
-    "$2M accumulated since Jul 31",
-    "0.49% of the whole company",
-    "now owns 5.1% of the company",
-    "0.21% of the whole company"
+    "0.20% of the whole company (institution)"
    ],
    "insiders": [
-    "SUBIN NEIL S"
+    "Saba Capital Management, L.P."
    ],
-   "totalValue": 2454821.5502,
-   "ticker": "OPTU",
+   "totalValue": 333847.15,
+   "ticker": "ECF",
    "side": "buy"
   },
   {
-   "key": "PRTA:buy",
-   "headline": "PRTA: Scully William P (10% owner) bought $1.8M \u2014 0.44% of the whole company",
+   "key": "GOLD:buy",
+   "headline": "GOLD: Tether Global Investments Fund, S.I.C.A.F., S.A. (10% owner) bought $1.3M \u2014 0.11% of the whole company (institution)",
    "reasons": [
-    "0.44% of the whole company",
-    "grew their own stake 68%"
+    "0.11% of the whole company (institution)"
    ],
    "insiders": [
-    "SCULLY WILLIAM P"
+    "Tether Global Investments Fund, S.I.C.A.F., S.A."
    ],
-   "totalValue": 1821054.0,
-   "ticker": "PRTA",
-   "side": "buy"
-  },
-  {
-   "key": "BPRE:buy",
-   "headline": "BPRE: Kamfar Ramin (director) bought $8.5M \u2014 grew their own stake 55%",
-   "reasons": [
-    "grew their own stake 55%"
-   ],
-   "insiders": [
-    "KAMFAR RAMIN"
-   ],
-   "totalValue": 8501526.6013,
-   "ticker": "BPRE",
-   "side": "buy"
-  },
-  {
-   "key": "VDTA:buy",
-   "headline": "VDTA: Leverton Jaime (director) bought $255,000 \u2014 0.44% of the whole company",
-   "reasons": [
-    "0.44% of the whole company"
-   ],
-   "insiders": [
-    "Leverton Jaime"
-   ],
-   "totalValue": 255000.0,
-   "ticker": "VDTA",
-   "side": "buy"
-  },
-  {
-   "key": "AGMB:buy",
-   "headline": "AGMB: Epstein David R (director) bought $44,500 \u2014 grew their own stake 50%",
-   "reasons": [
-    "grew their own stake 50%"
-   ],
-   "insiders": [
-    "Epstein David R"
-   ],
-   "totalValue": 44500.0,
-   "ticker": "AGMB",
+   "totalValue": 1280534.7696,
+   "ticker": "GOLD",
    "side": "buy"
   }
  ]
