@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-13T14:15:26.180213+00:00",
- "count": 5,
+ "generatedAt": "2026-10-13T21:16:37.148048+00:00",
+ "count": 8,
  "alerts": [
   {
    "key": "BORR:buy",
@@ -31,6 +31,61 @@
    "side": "buy"
   },
   {
+   "key": "IMSR:buy",
+   "headline": "IMSR: Buckman Frederick W (director) bought $39,336 \u2014 grew their own stake 180%",
+   "reasons": [
+    "grew their own stake 180%"
+   ],
+   "insiders": [
+    "BUCKMAN FREDERICK W"
+   ],
+   "totalValue": 39336.0,
+   "ticker": "IMSR",
+   "side": "buy"
+  },
+  {
+   "key": "FEAM:buy",
+   "headline": "FEAM: vant Hoff Graham (director) bought $215,400 \u2014 0.14% of the whole company",
+   "reasons": [
+    "0.14% of the whole company",
+    "grew their own stake 140%"
+   ],
+   "insiders": [
+    "vant Hoff Graham"
+   ],
+   "totalValue": 215400.0,
+   "ticker": "FEAM",
+   "side": "buy"
+  },
+  {
+   "key": "GME:buy",
+   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $22.8M \u2014 0.17% of the whole company",
+   "reasons": [
+    "0.17% of the whole company",
+    "now owns 8.4% of the company",
+    "$22.8M from the President, CEO and Chairman"
+   ],
+   "insiders": [
+    "Cohen Ryan"
+   ],
+   "totalValue": 22774727.5,
+   "ticker": "GME",
+   "side": "buy"
+  },
+  {
+   "key": "TRXB:buy",
+   "headline": "TRXB: Svlsf Vi, Llc (10% owner) bought $1.3M \u2014 0.35% of the whole company (institution)",
+   "reasons": [
+    "0.35% of the whole company (institution)"
+   ],
+   "insiders": [
+    "SVLSF VI, LLC"
+   ],
+   "totalValue": 1299998.0,
+   "ticker": "TRXB",
+   "side": "buy"
+  },
+  {
    "key": "SAR:buy",
    "headline": "SAR: Oberbeck Christian L (CEO and Director) bought $445,800 \u2014 0.19% of the whole company",
    "reasons": [
@@ -45,29 +100,16 @@
    "side": "buy"
   },
   {
-   "key": "ECF:buy",
-   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $333,847 \u2014 0.20% of the whole company (institution)",
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $9.0M \u2014 now owns 28.6% of the company (institution)",
    "reasons": [
-    "0.20% of the whole company (institution)"
+    "now owns 28.6% of the company (institution)"
    ],
    "insiders": [
-    "Saba Capital Management, L.P."
+    "NIPPON LIFE INSURANCE CO"
    ],
-   "totalValue": 333847.15,
-   "ticker": "ECF",
-   "side": "buy"
-  },
-  {
-   "key": "GOLD:buy",
-   "headline": "GOLD: Tether Global Investments Fund, S.I.C.A.F., S.A. (10% owner) bought $1.3M \u2014 0.11% of the whole company (institution)",
-   "reasons": [
-    "0.11% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Tether Global Investments Fund, S.I.C.A.F., S.A."
-   ],
-   "totalValue": 1280534.7696,
-   "ticker": "GOLD",
+   "totalValue": 8958804.0822,
+   "ticker": "CRBG",
    "side": "buy"
   }
  ]
