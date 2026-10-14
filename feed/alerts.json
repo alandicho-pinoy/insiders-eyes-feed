@@ -1,7 +1,24 @@
 {
- "generatedAt": "2026-10-13T21:16:37.148048+00:00",
+ "generatedAt": "2026-10-14T01:46:03.723190+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "RTSN:buy",
+   "headline": "RTSN: 2 insiders bought $369,600 \u2014 0.38% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.26% of the whole company",
+    "now owns 5.1% of the company",
+    "0.12% of the whole company"
+   ],
+   "insiders": [
+    "BERGER FRANKLIN M",
+    "Keller Eric L."
+   ],
+   "totalValue": 369600.0,
+   "ticker": "RTSN",
+   "side": "buy"
+  },
   {
    "key": "BORR:buy",
    "headline": "BORR: Troim Tor Olav (director) bought $11.8M \u2014 0.77% of the whole company",
@@ -73,6 +90,20 @@
    "side": "buy"
   },
   {
+   "key": "ZONE:buy",
+   "headline": "ZONE: Hassen Tyler Lewis (Chief Executive Officer) bought $146,075 \u2014 0.25% of the whole company",
+   "reasons": [
+    "0.25% of the whole company",
+    "grew their own stake 62%"
+   ],
+   "insiders": [
+    "Hassen Tyler Lewis"
+   ],
+   "totalValue": 146075.0,
+   "ticker": "ZONE",
+   "side": "buy"
+  },
+  {
    "key": "TRXB:buy",
    "headline": "TRXB: Svlsf Vi, Llc (10% owner) bought $1.3M \u2014 0.35% of the whole company (institution)",
    "reasons": [
@@ -83,33 +114,6 @@
    ],
    "totalValue": 1299998.0,
    "ticker": "TRXB",
-   "side": "buy"
-  },
-  {
-   "key": "SAR:buy",
-   "headline": "SAR: Oberbeck Christian L (CEO and Director) bought $445,800 \u2014 0.19% of the whole company",
-   "reasons": [
-    "0.19% of the whole company",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Oberbeck Christian L"
-   ],
-   "totalValue": 445800.0,
-   "ticker": "SAR",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $9.0M \u2014 now owns 28.6% of the company (institution)",
-   "reasons": [
-    "now owns 28.6% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 8958804.0822,
-   "ticker": "CRBG",
    "side": "buy"
   }
  ]
