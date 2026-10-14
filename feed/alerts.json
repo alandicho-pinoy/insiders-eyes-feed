@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-10-14T14:15:18.074318+00:00",
+ "generatedAt": "2026-10-14T21:16:11.683702+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "IMSR:buy",
+   "headline": "IMSR: 2 insiders bought $90,154 \u2014 0.03% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 180%"
+   ],
+   "insiders": [
+    "BUCKMAN FREDERICK W",
+    "Irish Simon"
+   ],
+   "totalValue": 90154.3,
+   "ticker": "IMSR",
+   "side": "buy"
+  },
   {
    "key": "RTSN:buy",
    "headline": "RTSN: 2 insiders bought $369,600 \u2014 0.38% of the company",
@@ -21,16 +36,30 @@
   },
   {
    "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $11.8M \u2014 0.77% of the whole company",
+   "headline": "BORR: Troim Tor Olav (director) bought $19.2M \u2014 1.25% of the whole company",
    "reasons": [
-    "0.77% of the whole company",
-    "now owns 12.1% of the company"
+    "1.25% of the whole company",
+    "now owns 12.6% of the company"
    ],
    "insiders": [
     "Troim Tor Olav"
    ],
-   "totalValue": 11843500.0,
+   "totalValue": 19245100.0,
    "ticker": "BORR",
+   "side": "buy"
+  },
+  {
+   "key": "PED:buy",
+   "headline": "PED: Kukes Simon G (10% owner) bought $1.9M \u2014 1.07% of the whole company",
+   "reasons": [
+    "1.07% of the whole company",
+    "now owns 31.1% of the company"
+   ],
+   "insiders": [
+    "KUKES SIMON G"
+   ],
+   "totalValue": 1911910.0,
+   "ticker": "PED",
    "side": "buy"
   },
   {
@@ -87,35 +116,6 @@
    ],
    "totalValue": 1299998.0,
    "ticker": "TRXB",
-   "side": "buy"
-  },
-  {
-   "key": "IIPR:buy",
-   "headline": "IIPR: Gold Alan D (EXECUTIVE CHAIRMAN) bought $2.0M \u2014 0.14% of the whole company",
-   "reasons": [
-    "0.14% of the whole company",
-    "new position from senior management",
-    "$2.0M from the EXECUTIVE CHAIRMAN"
-   ],
-   "insiders": [
-    "Gold Alan D"
-   ],
-   "totalValue": 2000000.0,
-   "ticker": "IIPR",
-   "side": "buy"
-  },
-  {
-   "key": "SAR:buy",
-   "headline": "SAR: Oberbeck Christian L (CEO and Director) bought $445,800 \u2014 0.19% of the whole company",
-   "reasons": [
-    "0.19% of the whole company",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Oberbeck Christian L"
-   ],
-   "totalValue": 445800.0,
-   "ticker": "SAR",
    "side": "buy"
   }
  ]
