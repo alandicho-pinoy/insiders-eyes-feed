@@ -1,34 +1,20 @@
 {
- "generatedAt": "2026-10-15T14:15:29.984207+00:00",
+ "generatedAt": "2026-10-15T21:16:09.558991+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "IMSR:buy",
-   "headline": "IMSR: 2 insiders bought $90,154 \u2014 0.03% of the company",
+   "key": "FLSC:buy",
+   "headline": "FLSC: Cha Albert (Chief Executive Officer) bought $3.0M \u2014 2.96% of the whole company",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 180%"
+    "2.96% of the whole company",
+    "new position from senior management",
+    "$3.0M from the Chief Executive Officer"
    ],
    "insiders": [
-    "BUCKMAN FREDERICK W",
-    "Irish Simon"
+    "Cha Albert"
    ],
-   "totalValue": 90154.3,
-   "ticker": "IMSR",
-   "side": "buy"
-  },
-  {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $22.8M \u2014 1.48% of the whole company",
-   "reasons": [
-    "1.48% of the whole company",
-    "now owns 12.8% of the company"
-   ],
-   "insiders": [
-    "Troim Tor Olav"
-   ],
-   "totalValue": 22787650.0,
-   "ticker": "BORR",
+   "totalValue": 3000000.0,
+   "ticker": "FLSC",
    "side": "buy"
   },
   {
@@ -49,6 +35,21 @@
    "side": "buy"
   },
   {
+   "key": "QTEX:buy",
+   "headline": "QTEX: 2 insiders bought $51,996 \u2014 0.04% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Ben-Noon Dagi Shahar",
+    "Parnes Tal"
+   ],
+   "totalValue": 51996.14,
+   "ticker": "QTEX",
+   "side": "buy"
+  },
+  {
    "key": "QVCG:buy",
    "headline": "QVCG: Goldentree Asset Management Lp (10% owner) bought $16.7M \u2014 3.20% of the whole company (institution)",
    "reasons": [
@@ -59,6 +60,20 @@
    ],
    "totalValue": 16697200.0,
    "ticker": "QVCG",
+   "side": "buy"
+  },
+  {
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $10.9M \u2014 0.71% of the whole company",
+   "reasons": [
+    "0.71% of the whole company",
+    "now owns 12.8% of the company"
+   ],
+   "insiders": [
+    "Troim Tor Olav"
+   ],
+   "totalValue": 10944150.0,
+   "ticker": "BORR",
    "side": "buy"
   },
   {
@@ -76,6 +91,19 @@
    "side": "buy"
   },
   {
+   "key": "CXM:buy",
+   "headline": "CXM: Ward Jr Stephen M (director) bought $850,500 \u2014 grew their own stake 172%",
+   "reasons": [
+    "grew their own stake 172%"
+   ],
+   "insiders": [
+    "WARD JR STEPHEN M"
+   ],
+   "totalValue": 850500.0,
+   "ticker": "CXM",
+   "side": "buy"
+  },
+  {
    "key": "ZONE:buy",
    "headline": "ZONE: Hassen Tyler Lewis (Chief Executive Officer) bought $231,275 \u2014 0.40% of the whole company",
    "reasons": [
@@ -87,35 +115,6 @@
    ],
    "totalValue": 231275.0,
    "ticker": "ZONE",
-   "side": "buy"
-  },
-  {
-   "key": "FEAM:buy",
-   "headline": "FEAM: vant Hoff Graham (director) bought $215,400 \u2014 0.14% of the whole company",
-   "reasons": [
-    "0.14% of the whole company",
-    "grew their own stake 140%"
-   ],
-   "insiders": [
-    "vant Hoff Graham"
-   ],
-   "totalValue": 215400.0,
-   "ticker": "FEAM",
-   "side": "buy"
-  },
-  {
-   "key": "GME:buy",
-   "headline": "GME: Cohen Ryan (President, CEO and Chairman) bought $22.8M \u2014 0.17% of the whole company",
-   "reasons": [
-    "0.17% of the whole company",
-    "now owns 8.4% of the company",
-    "$22.8M from the President, CEO and Chairman"
-   ],
-   "insiders": [
-    "Cohen Ryan"
-   ],
-   "totalValue": 22774727.5,
-   "ticker": "GME",
    "side": "buy"
   }
  ]
