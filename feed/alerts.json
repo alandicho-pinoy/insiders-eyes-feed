@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T21:16:11.683702+00:00",
+ "generatedAt": "2026-10-15T01:45:39.647852+00:00",
  "count": 8,
  "alerts": [
   {
@@ -49,6 +49,19 @@
    "side": "buy"
   },
   {
+   "key": "QVCG:buy",
+   "headline": "QVCG: Goldentree Asset Management Lp (10% owner) bought $16.7M \u2014 3.20% of the whole company (institution)",
+   "reasons": [
+    "3.20% of the whole company (institution)"
+   ],
+   "insiders": [
+    "GOLDENTREE ASSET MANAGEMENT LP"
+   ],
+   "totalValue": 16697200.0,
+   "ticker": "QVCG",
+   "side": "buy"
+  },
+  {
    "key": "PED:buy",
    "headline": "PED: Kukes Simon G (10% owner) bought $1.9M \u2014 1.07% of the whole company",
    "reasons": [
@@ -60,6 +73,20 @@
    ],
    "totalValue": 1911910.0,
    "ticker": "PED",
+   "side": "buy"
+  },
+  {
+   "key": "ZONE:buy",
+   "headline": "ZONE: Hassen Tyler Lewis (Chief Executive Officer) bought $231,275 \u2014 0.40% of the whole company",
+   "reasons": [
+    "0.40% of the whole company",
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Hassen Tyler Lewis"
+   ],
+   "totalValue": 231275.0,
+   "ticker": "ZONE",
    "side": "buy"
   },
   {
@@ -89,33 +116,6 @@
    ],
    "totalValue": 22774727.5,
    "ticker": "GME",
-   "side": "buy"
-  },
-  {
-   "key": "ZONE:buy",
-   "headline": "ZONE: Hassen Tyler Lewis (Chief Executive Officer) bought $146,075 \u2014 0.25% of the whole company",
-   "reasons": [
-    "0.25% of the whole company",
-    "grew their own stake 62%"
-   ],
-   "insiders": [
-    "Hassen Tyler Lewis"
-   ],
-   "totalValue": 146075.0,
-   "ticker": "ZONE",
-   "side": "buy"
-  },
-  {
-   "key": "TRXB:buy",
-   "headline": "TRXB: Svlsf Vi, Llc (10% owner) bought $1.3M \u2014 0.35% of the whole company (institution)",
-   "reasons": [
-    "0.35% of the whole company (institution)"
-   ],
-   "insiders": [
-    "SVLSF VI, LLC"
-   ],
-   "totalValue": 1299998.0,
-   "ticker": "TRXB",
    "side": "buy"
   }
  ]
