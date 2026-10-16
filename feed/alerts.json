@@ -1,7 +1,41 @@
 {
- "generatedAt": "2026-10-15T21:16:09.558991+00:00",
+ "generatedAt": "2026-10-16T01:45:40.765665+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "IMSR:buy",
+   "headline": "IMSR: 3 insiders bought $112,279 \u2014 0.03% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 180%"
+   ],
+   "insiders": [
+    "BUCKMAN FREDERICK W",
+    "Irish Simon",
+    "Pardee Charles G"
+   ],
+   "totalValue": 112279.3,
+   "ticker": "IMSR",
+   "side": "buy"
+  },
+  {
+   "key": "BPRE:buy",
+   "headline": "BPRE: 3 insiders bought $5.5M",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 26%"
+   ],
+   "insiders": [
+    "KAMFAR RAMIN",
+    "MacDonald Ryan S",
+    "Ruddy Jordan B."
+   ],
+   "totalValue": 5523827.4812,
+   "ticker": "BPRE",
+   "side": "buy"
+  },
   {
    "key": "FLSC:buy",
    "headline": "FLSC: Cha Albert (Chief Executive Officer) bought $3.0M \u2014 2.96% of the whole company",
@@ -15,6 +49,20 @@
    ],
    "totalValue": 3000000.0,
    "ticker": "FLSC",
+   "side": "buy"
+  },
+  {
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $22.8M \u2014 1.48% of the whole company",
+   "reasons": [
+    "1.48% of the whole company",
+    "now owns 12.8% of the company"
+   ],
+   "insiders": [
+    "Troim Tor Olav"
+   ],
+   "totalValue": 22787650.0,
+   "ticker": "BORR",
    "side": "buy"
   },
   {
@@ -35,21 +83,6 @@
    "side": "buy"
   },
   {
-   "key": "QTEX:buy",
-   "headline": "QTEX: 2 insiders bought $51,996 \u2014 0.04% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Ben-Noon Dagi Shahar",
-    "Parnes Tal"
-   ],
-   "totalValue": 51996.14,
-   "ticker": "QTEX",
-   "side": "buy"
-  },
-  {
    "key": "QVCG:buy",
    "headline": "QVCG: Goldentree Asset Management Lp (10% owner) bought $16.7M \u2014 3.20% of the whole company (institution)",
    "reasons": [
@@ -60,20 +93,6 @@
    ],
    "totalValue": 16697200.0,
    "ticker": "QVCG",
-   "side": "buy"
-  },
-  {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $10.9M \u2014 0.71% of the whole company",
-   "reasons": [
-    "0.71% of the whole company",
-    "now owns 12.8% of the company"
-   ],
-   "insiders": [
-    "Troim Tor Olav"
-   ],
-   "totalValue": 10944150.0,
-   "ticker": "BORR",
    "side": "buy"
   },
   {
@@ -101,20 +120,6 @@
    ],
    "totalValue": 850500.0,
    "ticker": "CXM",
-   "side": "buy"
-  },
-  {
-   "key": "ZONE:buy",
-   "headline": "ZONE: Hassen Tyler Lewis (Chief Executive Officer) bought $231,275 \u2014 0.40% of the whole company",
-   "reasons": [
-    "0.40% of the whole company",
-    "grew their own stake 100%"
-   ],
-   "insiders": [
-    "Hassen Tyler Lewis"
-   ],
-   "totalValue": 231275.0,
-   "ticker": "ZONE",
    "side": "buy"
   }
  ]
