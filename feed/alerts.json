@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T01:45:40.765665+00:00",
+ "generatedAt": "2026-10-16T14:15:33.131403+00:00",
  "count": 8,
  "alerts": [
   {
@@ -53,15 +53,15 @@
   },
   {
    "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $22.8M \u2014 1.48% of the whole company",
+   "headline": "BORR: Troim Tor Olav (director) bought $25.1M \u2014 1.63% of the whole company",
    "reasons": [
-    "1.48% of the whole company",
-    "now owns 12.8% of the company"
+    "1.63% of the whole company",
+    "now owns 13.0% of the company"
    ],
    "insiders": [
     "Troim Tor Olav"
    ],
-   "totalValue": 22787650.0,
+   "totalValue": 25086800.0,
    "ticker": "BORR",
    "side": "buy"
   },
@@ -80,6 +80,20 @@
    ],
    "totalValue": 369600.0,
    "ticker": "RTSN",
+   "side": "buy"
+  },
+  {
+   "key": "ZONE:buy",
+   "headline": "ZONE: Hassen Tyler Lewis (Chief Executive Officer) bought $316,475 \u2014 0.55% of the whole company",
+   "reasons": [
+    "0.55% of the whole company",
+    "grew their own stake 220%"
+   ],
+   "insiders": [
+    "Hassen Tyler Lewis"
+   ],
+   "totalValue": 316475.0,
+   "ticker": "ZONE",
    "side": "buy"
   },
   {
@@ -107,19 +121,6 @@
    ],
    "totalValue": 1911910.0,
    "ticker": "PED",
-   "side": "buy"
-  },
-  {
-   "key": "CXM:buy",
-   "headline": "CXM: Ward Jr Stephen M (director) bought $850,500 \u2014 grew their own stake 172%",
-   "reasons": [
-    "grew their own stake 172%"
-   ],
-   "insiders": [
-    "WARD JR STEPHEN M"
-   ],
-   "totalValue": 850500.0,
-   "ticker": "CXM",
    "side": "buy"
   }
  ]
