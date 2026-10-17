@@ -1,24 +1,7 @@
 {
- "generatedAt": "2026-10-17T01:46:52.349778+00:00",
+ "generatedAt": "2026-10-17T14:15:12.854175+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "IMSR:buy",
-   "headline": "IMSR: 3 insiders bought $112,279 \u2014 0.03% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 180%"
-   ],
-   "insiders": [
-    "BUCKMAN FREDERICK W",
-    "Irish Simon",
-    "Pardee Charles G"
-   ],
-   "totalValue": 112279.3,
-   "ticker": "IMSR",
-   "side": "buy"
-  },
   {
    "key": "BPRE:buy",
    "headline": "BPRE: 3 insiders bought $5.5M",
@@ -38,10 +21,10 @@
   },
   {
    "key": "BORR:buy",
-   "headline": "BORR: 2 insiders bought $26.6M \u2014 1.73% of the company",
+   "headline": "BORR: 2 insiders bought $14.7M \u2014 0.96% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "1.63% of the whole company",
+    "0.86% of the whole company",
     "now owns 13.0% of the company",
     "grew their own stake 206%"
    ],
@@ -49,7 +32,7 @@
     "Snowling Harvey Edward",
     "Troim Tor Olav"
    ],
-   "totalValue": 26559800.0,
+   "totalValue": 14716300.0,
    "ticker": "BORR",
    "side": "buy"
   },
@@ -66,23 +49,6 @@
    ],
    "totalValue": 3000000.0,
    "ticker": "FLSC",
-   "side": "buy"
-  },
-  {
-   "key": "RTSN:buy",
-   "headline": "RTSN: 2 insiders bought $369,600 \u2014 0.38% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.26% of the whole company",
-    "now owns 5.1% of the company",
-    "0.12% of the whole company"
-   ],
-   "insiders": [
-    "BERGER FRANKLIN M",
-    "Keller Eric L."
-   ],
-   "totalValue": 369600.0,
-   "ticker": "RTSN",
    "side": "buy"
   },
   {
@@ -113,17 +79,42 @@
    "side": "buy"
   },
   {
-   "key": "PED:buy",
-   "headline": "PED: Kukes Simon G (10% owner) bought $1.9M \u2014 1.07% of the whole company",
+   "key": "BYRN:buy",
+   "headline": "BYRN: Roth Adam L. (director) bought $70,375 \u2014 grew their own stake 343%",
    "reasons": [
-    "1.07% of the whole company",
-    "now owns 31.1% of the company"
+    "grew their own stake 343%"
    ],
    "insiders": [
-    "KUKES SIMON G"
+    "Roth Adam L."
    ],
-   "totalValue": 1911910.0,
-   "ticker": "PED",
+   "totalValue": 70375.0,
+   "ticker": "BYRN",
+   "side": "buy"
+  },
+  {
+   "key": "CXM:buy",
+   "headline": "CXM: Ward Jr Stephen M (director) bought $850,500 \u2014 grew their own stake 172%",
+   "reasons": [
+    "grew their own stake 172%"
+   ],
+   "insiders": [
+    "WARD JR STEPHEN M"
+   ],
+   "totalValue": 850500.0,
+   "ticker": "CXM",
+   "side": "buy"
+  },
+  {
+   "key": "PEP:buy",
+   "headline": "PEP: Pohlad Robert C (director) bought $23.7M \u2014 grew their own stake 74%",
+   "reasons": [
+    "grew their own stake 74%"
+   ],
+   "insiders": [
+    "POHLAD ROBERT C"
+   ],
+   "totalValue": 23686388.88,
+   "ticker": "PEP",
    "side": "buy"
   }
  ]
