@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T21:15:54.085632+00:00",
+ "generatedAt": "2026-10-17T01:46:52.349778+00:00",
  "count": 8,
  "alerts": [
   {
@@ -21,7 +21,7 @@
   },
   {
    "key": "BPRE:buy",
-   "headline": "BPRE: 3 insiders bought $11.0M",
+   "headline": "BPRE: 3 insiders bought $5.5M",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
@@ -32,8 +32,25 @@
     "MacDonald Ryan S",
     "Ruddy Jordan B."
    ],
-   "totalValue": 11003338.1624,
+   "totalValue": 5523827.4812,
    "ticker": "BPRE",
+   "side": "buy"
+  },
+  {
+   "key": "BORR:buy",
+   "headline": "BORR: 2 insiders bought $26.6M \u2014 1.73% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "1.63% of the whole company",
+    "now owns 13.0% of the company",
+    "grew their own stake 206%"
+   ],
+   "insiders": [
+    "Snowling Harvey Edward",
+    "Troim Tor Olav"
+   ],
+   "totalValue": 26559800.0,
+   "ticker": "BORR",
    "side": "buy"
   },
   {
@@ -52,46 +69,33 @@
    "side": "buy"
   },
   {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $29.9M \u2014 1.94% of the whole company",
+   "key": "RTSN:buy",
+   "headline": "RTSN: 2 insiders bought $369,600 \u2014 0.38% of the company",
    "reasons": [
-    "1.94% of the whole company",
-    "now owns 12.8% of the company"
+    "2 insiders bought within days",
+    "0.26% of the whole company",
+    "now owns 5.1% of the company",
+    "0.12% of the whole company"
    ],
    "insiders": [
-    "Troim Tor Olav"
+    "BERGER FRANKLIN M",
+    "Keller Eric L."
    ],
-   "totalValue": 29872750.0,
-   "ticker": "BORR",
+   "totalValue": 369600.0,
+   "ticker": "RTSN",
    "side": "buy"
   },
   {
    "key": "QVCG:buy",
-   "headline": "QVCG: Goldentree Asset Management Lp (10% owner) bought $33.4M \u2014 6.40% of the whole company (institution)",
+   "headline": "QVCG: Goldentree Asset Management Lp (10% owner) bought $16.7M \u2014 3.20% of the whole company (institution)",
    "reasons": [
-    "6.40% of the whole company (institution)"
+    "3.20% of the whole company (institution)"
    ],
    "insiders": [
     "GOLDENTREE ASSET MANAGEMENT LP"
    ],
-   "totalValue": 33394400.0,
+   "totalValue": 16697200.0,
    "ticker": "QVCG",
-   "side": "buy"
-  },
-  {
-   "key": "TRXB:buy",
-   "headline": "TRXB: 2 insiders bought $8.8M \u2014 2.36% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "2.01% of the whole company (institution)",
-    "0.35% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Alexandria Venture Investments, LLC",
-    "SVLSF VI, LLC"
-   ],
-   "totalValue": 8799980.0,
-   "ticker": "TRXB",
    "side": "buy"
   },
   {
