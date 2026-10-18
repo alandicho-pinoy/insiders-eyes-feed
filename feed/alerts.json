@@ -1,30 +1,13 @@
 {
- "generatedAt": "2026-10-18T01:45:09.721096+00:00",
+ "generatedAt": "2026-10-18T14:15:08.744649+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "BPRE:buy",
-   "headline": "BPRE: 3 insiders bought $5.5M",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 26%"
-   ],
-   "insiders": [
-    "KAMFAR RAMIN",
-    "MacDonald Ryan S",
-    "Ruddy Jordan B."
-   ],
-   "totalValue": 5523827.4812,
-   "ticker": "BPRE",
-   "side": "buy"
-  },
-  {
    "key": "BORR:buy",
-   "headline": "BORR: 2 insiders bought $14.7M \u2014 0.96% of the company",
+   "headline": "BORR: 2 insiders bought $7.3M \u2014 0.48% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.86% of the whole company",
+    "0.38% of the whole company",
     "now owns 13.0% of the company",
     "grew their own stake 206%"
    ],
@@ -32,7 +15,7 @@
     "Snowling Harvey Edward",
     "Troim Tor Olav"
    ],
-   "totalValue": 14716300.0,
+   "totalValue": 7314700.0,
    "ticker": "BORR",
    "side": "buy"
   },
@@ -52,16 +35,18 @@
    "side": "buy"
   },
   {
-   "key": "QVCG:buy",
-   "headline": "QVCG: Goldentree Asset Management Lp (10% owner) bought $16.7M \u2014 3.20% of the whole company (institution)",
+   "key": "BPRE:buy",
+   "headline": "BPRE: 2 insiders bought $45,853",
    "reasons": [
-    "3.20% of the whole company (institution)"
+    "2 insiders bought within days",
+    "grew their own stake 26%"
    ],
    "insiders": [
-    "GOLDENTREE ASSET MANAGEMENT LP"
+    "MacDonald Ryan S",
+    "Ruddy Jordan B."
    ],
-   "totalValue": 16697200.0,
-   "ticker": "QVCG",
+   "totalValue": 45852.8,
+   "ticker": "BPRE",
    "side": "buy"
   },
   {
@@ -115,6 +100,19 @@
    ],
    "totalValue": 23686388.88,
    "ticker": "PEP",
+   "side": "buy"
+  },
+  {
+   "key": "NAD:buy",
+   "headline": "NAD: Toth Terence J (insider) bought $71,800 \u2014 grew their own stake 172%",
+   "reasons": [
+    "grew their own stake 172%"
+   ],
+   "insiders": [
+    "TOTH TERENCE J"
+   ],
+   "totalValue": 71799.99920704,
+   "ticker": "NAD",
    "side": "buy"
   }
  ]
