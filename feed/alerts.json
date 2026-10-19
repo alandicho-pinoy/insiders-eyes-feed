@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T14:15:22.882612+00:00",
+ "generatedAt": "2026-10-19T21:16:26.505550+00:00",
  "count": 8,
  "alerts": [
   {
@@ -89,6 +89,20 @@
    "side": "buy"
   },
   {
+   "key": "CNXU:buy",
+   "headline": "CNXU: Purcell Lynn Sebastian (director) bought $499,998 \u2014 0.54% of the whole company",
+   "reasons": [
+    "0.54% of the whole company",
+    "now owns 11.1% of the company"
+   ],
+   "insiders": [
+    "Purcell Lynn Sebastian"
+   ],
+   "totalValue": 499998.0,
+   "ticker": "CNXU",
+   "side": "buy"
+  },
+  {
    "key": "SAFX:buy",
    "headline": "SAFX: EEME Energy SPV I, LLC (10% owner) bought $142.1M \u2014 grew their own stake 109% (institution)",
    "reasons": [
@@ -99,19 +113,6 @@
    ],
    "totalValue": 142083450.544,
    "ticker": "SAFX",
-   "side": "buy"
-  },
-  {
-   "key": "GSBD:buy",
-   "headline": "GSBD: Leach Timothy J (director) bought $100,117 \u2014 grew their own stake 63%",
-   "reasons": [
-    "grew their own stake 63%"
-   ],
-   "insiders": [
-    "Leach Timothy J"
-   ],
-   "totalValue": 100116.8925,
-   "ticker": "GSBD",
    "side": "buy"
   }
  ]
