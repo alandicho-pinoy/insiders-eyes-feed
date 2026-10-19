@@ -1,13 +1,13 @@
 {
- "generatedAt": "2026-10-19T01:45:09.396311+00:00",
+ "generatedAt": "2026-10-19T14:15:22.882612+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BORR:buy",
-   "headline": "BORR: 2 insiders bought $7.3M \u2014 0.48% of the company",
+   "headline": "BORR: 2 insiders bought $3.8M \u2014 0.25% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.38% of the whole company",
+    "0.15% of the whole company",
     "now owns 13.0% of the company",
     "grew their own stake 206%"
    ],
@@ -15,38 +15,24 @@
     "Snowling Harvey Edward",
     "Troim Tor Olav"
    ],
-   "totalValue": 7314700.0,
+   "totalValue": 3772150.0,
    "ticker": "BORR",
    "side": "buy"
   },
   {
-   "key": "FLSC:buy",
-   "headline": "FLSC: Cha Albert (Chief Executive Officer) bought $3.0M \u2014 2.96% of the whole company",
-   "reasons": [
-    "2.96% of the whole company",
-    "new position from senior management",
-    "$3.0M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Cha Albert"
-   ],
-   "totalValue": 3000000.0,
-   "ticker": "FLSC",
-   "side": "buy"
-  },
-  {
-   "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $45,853",
+   "key": "APLD:buy",
+   "headline": "APLD: 2 insiders bought $6.7M \u2014 0.11% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 26%"
+    "$5.7M from the President",
+    "$1.0M from the CEO; Chairman"
    ],
    "insiders": [
-    "MacDonald Ryan S",
-    "Ruddy Jordan B."
+    "Cummins Wes",
+    "Zhang Jason Gechen"
    ],
-   "totalValue": 45852.8,
-   "ticker": "BPRE",
+   "totalValue": 6664686.12,
+   "ticker": "APLD",
    "side": "buy"
   },
   {
@@ -77,19 +63,6 @@
    "side": "buy"
   },
   {
-   "key": "CXM:buy",
-   "headline": "CXM: Ward Jr Stephen M (director) bought $850,500 \u2014 grew their own stake 172%",
-   "reasons": [
-    "grew their own stake 172%"
-   ],
-   "insiders": [
-    "WARD JR STEPHEN M"
-   ],
-   "totalValue": 850500.0,
-   "ticker": "CXM",
-   "side": "buy"
-  },
-  {
    "key": "PEP:buy",
    "headline": "PEP: Pohlad Robert C (director) bought $23.7M \u2014 grew their own stake 74%",
    "reasons": [
@@ -113,6 +86,32 @@
    ],
    "totalValue": 71799.99920704,
    "ticker": "NAD",
+   "side": "buy"
+  },
+  {
+   "key": "SAFX:buy",
+   "headline": "SAFX: EEME Energy SPV I, LLC (10% owner) bought $142.1M \u2014 grew their own stake 109% (institution)",
+   "reasons": [
+    "grew their own stake 109% (institution)"
+   ],
+   "insiders": [
+    "EEME Energy SPV I, LLC"
+   ],
+   "totalValue": 142083450.544,
+   "ticker": "SAFX",
+   "side": "buy"
+  },
+  {
+   "key": "GSBD:buy",
+   "headline": "GSBD: Leach Timothy J (director) bought $100,117 \u2014 grew their own stake 63%",
+   "reasons": [
+    "grew their own stake 63%"
+   ],
+   "insiders": [
+    "Leach Timothy J"
+   ],
+   "totalValue": 100116.8925,
+   "ticker": "GSBD",
    "side": "buy"
   }
  ]
