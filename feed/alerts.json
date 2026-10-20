@@ -1,24 +1,7 @@
 {
- "generatedAt": "2026-10-20T01:46:10.356015+00:00",
+ "generatedAt": "2026-10-20T14:15:18.843317+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "BORR:buy",
-   "headline": "BORR: 2 insiders bought $3.8M \u2014 0.25% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.15% of the whole company",
-    "now owns 13.0% of the company",
-    "grew their own stake 206%"
-   ],
-   "insiders": [
-    "Snowling Harvey Edward",
-    "Troim Tor Olav"
-   ],
-   "totalValue": 3772150.0,
-   "ticker": "BORR",
-   "side": "buy"
-  },
   {
    "key": "IAM:buy",
    "headline": "IAM: Rachlin Evan Lockwood (director) bought $11.5M \u2014 1.48% of the whole company",
@@ -51,59 +34,6 @@
    "side": "buy"
   },
   {
-   "key": "PAM:buy",
-   "headline": "PAM: Mindlin Marcos Marcelo (director) bought $35.1M \u2014 0.81% of the whole company",
-   "reasons": [
-    "0.81% of the whole company",
-    "now owns 13.4% of the company"
-   ],
-   "insiders": [
-    "Mindlin Marcos Marcelo"
-   ],
-   "totalValue": 35139300.0,
-   "ticker": "PAM",
-   "side": "buy"
-  },
-  {
-   "key": "BYRN:buy",
-   "headline": "BYRN: Roth Adam L. (director) bought $70,375 \u2014 grew their own stake 343%",
-   "reasons": [
-    "grew their own stake 343%"
-   ],
-   "insiders": [
-    "Roth Adam L."
-   ],
-   "totalValue": 70375.0,
-   "ticker": "BYRN",
-   "side": "buy"
-  },
-  {
-   "key": "PEP:buy",
-   "headline": "PEP: Pohlad Robert C (director) bought $23.7M \u2014 grew their own stake 74%",
-   "reasons": [
-    "grew their own stake 74%"
-   ],
-   "insiders": [
-    "POHLAD ROBERT C"
-   ],
-   "totalValue": 23686388.88,
-   "ticker": "PEP",
-   "side": "buy"
-  },
-  {
-   "key": "NAD:buy",
-   "headline": "NAD: Toth Terence J (insider) bought $71,800 \u2014 grew their own stake 172%",
-   "reasons": [
-    "grew their own stake 172%"
-   ],
-   "insiders": [
-    "TOTH TERENCE J"
-   ],
-   "totalValue": 71799.99920704,
-   "ticker": "NAD",
-   "side": "buy"
-  },
-  {
    "key": "CTY:buy",
    "headline": "CTY: 2 insiders bought $6.1M \u2014 0.57% of the company",
    "reasons": [
@@ -118,6 +48,72 @@
    ],
    "totalValue": 6120000.0,
    "ticker": "CTY",
+   "side": "buy"
+  },
+  {
+   "key": "CNXU:buy",
+   "headline": "CNXU: Purcell Lynn Sebastian (director) bought $499,998 \u2014 0.54% of the whole company",
+   "reasons": [
+    "0.54% of the whole company",
+    "now owns 11.1% of the company"
+   ],
+   "insiders": [
+    "Purcell Lynn Sebastian"
+   ],
+   "totalValue": 499998.0,
+   "ticker": "CNXU",
+   "side": "buy"
+  },
+  {
+   "key": "EP:buy",
+   "headline": "EP: Mulacek Phil E (director) bought $312,811 \u2014 0.22% of the whole company",
+   "reasons": [
+    "0.22% of the whole company"
+   ],
+   "insiders": [
+    "Mulacek Phil E"
+   ],
+   "totalValue": 312810.528,
+   "ticker": "EP",
+   "side": "buy"
+  },
+  {
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $17.1M \u2014 0.11% of the whole company (institution)",
+   "reasons": [
+    "0.11% of the whole company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 17076201.7723,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
+  {
+   "key": "MAGN:buy",
+   "headline": "MAGN: Brown Bruce (director) bought $49,996 \u2014 grew their own stake 34%",
+   "reasons": [
+    "grew their own stake 34%"
+   ],
+   "insiders": [
+    "Brown Bruce"
+   ],
+   "totalValue": 49995.869,
+   "ticker": "MAGN",
+   "side": "buy"
+  },
+  {
+   "key": "ACOG:buy",
+   "headline": "ACOG: Opaleye Management Inc. (10% owner) bought $308,576 \u2014 0.17% of the whole company (institution)",
+   "reasons": [
+    "0.17% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Opaleye Management Inc."
+   ],
+   "totalValue": 308575.5244,
+   "ticker": "ACOG",
    "side": "buy"
   }
  ]
