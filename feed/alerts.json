@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T21:16:26.505550+00:00",
+ "generatedAt": "2026-10-20T01:46:10.356015+00:00",
  "count": 8,
  "alerts": [
   {
@@ -17,6 +17,21 @@
    ],
    "totalValue": 3772150.0,
    "ticker": "BORR",
+   "side": "buy"
+  },
+  {
+   "key": "IAM:buy",
+   "headline": "IAM: Rachlin Evan Lockwood (director) bought $11.5M \u2014 1.48% of the whole company",
+   "reasons": [
+    "1.48% of the whole company",
+    "grew their own stake 38%",
+    "now owns 5.5% of the company"
+   ],
+   "insiders": [
+    "Rachlin Evan Lockwood"
+   ],
+   "totalValue": 11500000.0,
+   "ticker": "IAM",
    "side": "buy"
   },
   {
@@ -89,30 +104,20 @@
    "side": "buy"
   },
   {
-   "key": "CNXU:buy",
-   "headline": "CNXU: Purcell Lynn Sebastian (director) bought $499,998 \u2014 0.54% of the whole company",
+   "key": "CTY:buy",
+   "headline": "CTY: 2 insiders bought $6.1M \u2014 0.57% of the company",
    "reasons": [
-    "0.54% of the whole company",
-    "now owns 11.1% of the company"
+    "2 insiders bought within days",
+    "0.28% of the whole company (institution)",
+    "0.28% of the whole company",
+    "now owns 27.2% of the company"
    ],
    "insiders": [
-    "Purcell Lynn Sebastian"
+    "ARCH Venture Partners XII, LLC",
+    "NELSEN ROBERT"
    ],
-   "totalValue": 499998.0,
-   "ticker": "CNXU",
-   "side": "buy"
-  },
-  {
-   "key": "SAFX:buy",
-   "headline": "SAFX: EEME Energy SPV I, LLC (10% owner) bought $142.1M \u2014 grew their own stake 109% (institution)",
-   "reasons": [
-    "grew their own stake 109% (institution)"
-   ],
-   "insiders": [
-    "EEME Energy SPV I, LLC"
-   ],
-   "totalValue": 142083450.544,
-   "ticker": "SAFX",
+   "totalValue": 6120000.0,
+   "ticker": "CTY",
    "side": "buy"
   }
  ]
