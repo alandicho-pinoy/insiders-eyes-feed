@@ -1,119 +1,83 @@
 {
- "generatedAt": "2026-10-20T14:15:18.843317+00:00",
- "count": 8,
+ "generatedAt": "2026-10-20T21:15:29.971489+00:00",
+ "count": 6,
  "alerts": [
   {
-   "key": "IAM:buy",
-   "headline": "IAM: Rachlin Evan Lockwood (director) bought $11.5M \u2014 1.48% of the whole company",
+   "key": "LEO:buy",
+   "headline": "LEO: Saba Capital Management, L.P. (10% owner) bought $1.9M \u2014 0.54% of the whole company (institution)",
    "reasons": [
-    "1.48% of the whole company",
-    "grew their own stake 38%",
-    "now owns 5.5% of the company"
+    "0.54% of the whole company (institution)"
    ],
    "insiders": [
-    "Rachlin Evan Lockwood"
+    "Saba Capital Management, L.P."
    ],
-   "totalValue": 11500000.0,
-   "ticker": "IAM",
+   "totalValue": 1911637.97,
+   "ticker": "LEO",
    "side": "buy"
   },
   {
-   "key": "APLD:buy",
-   "headline": "APLD: 2 insiders bought $6.7M \u2014 0.11% of the company",
+   "key": "DSM:buy",
+   "headline": "DSM: Saba Capital Management, L.P. (10% owner) bought $1.1M \u2014 0.42% of the whole company (institution)",
    "reasons": [
-    "2 insiders bought within days",
-    "$5.7M from the President",
-    "$1.0M from the CEO; Chairman"
+    "0.42% of the whole company (institution)"
    ],
    "insiders": [
-    "Cummins Wes",
-    "Zhang Jason Gechen"
+    "Saba Capital Management, L.P."
    ],
-   "totalValue": 6664686.12,
-   "ticker": "APLD",
+   "totalValue": 1096500.26,
+   "ticker": "DSM",
    "side": "buy"
   },
   {
-   "key": "CTY:buy",
-   "headline": "CTY: 2 insiders bought $6.1M \u2014 0.57% of the company",
+   "key": "NXG:buy",
+   "headline": "NXG: Sunderland Todd (insider) bought $46,500 \u2014 grew their own stake 30%",
    "reasons": [
-    "2 insiders bought within days",
-    "0.28% of the whole company (institution)",
-    "0.28% of the whole company",
-    "now owns 27.2% of the company"
+    "grew their own stake 30%"
    ],
    "insiders": [
-    "ARCH Venture Partners XII, LLC",
-    "NELSEN ROBERT"
+    "Sunderland Todd"
    ],
-   "totalValue": 6120000.0,
-   "ticker": "CTY",
+   "totalValue": 46500.0,
+   "ticker": "NXG",
    "side": "buy"
   },
   {
-   "key": "CNXU:buy",
-   "headline": "CNXU: Purcell Lynn Sebastian (director) bought $499,998 \u2014 0.54% of the whole company",
+   "key": "ECF:buy",
+   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $386,339 \u2014 0.24% of the whole company (institution)",
    "reasons": [
-    "0.54% of the whole company",
-    "now owns 11.1% of the company"
+    "0.24% of the whole company (institution)"
    ],
    "insiders": [
-    "Purcell Lynn Sebastian"
+    "Saba Capital Management, L.P."
    ],
-   "totalValue": 499998.0,
-   "ticker": "CNXU",
+   "totalValue": 386338.68,
+   "ticker": "ECF",
    "side": "buy"
   },
   {
-   "key": "EP:buy",
-   "headline": "EP: Mulacek Phil E (director) bought $312,811 \u2014 0.22% of the whole company",
+   "key": "GF:buy",
+   "headline": "GF: Saba Capital Management, L.P. (10% owner) bought $310,659 \u2014 0.19% of the whole company (institution)",
    "reasons": [
-    "0.22% of the whole company"
+    "0.19% of the whole company (institution)"
    ],
    "insiders": [
-    "Mulacek Phil E"
+    "Saba Capital Management, L.P."
    ],
-   "totalValue": 312810.528,
-   "ticker": "EP",
+   "totalValue": 310658.66,
+   "ticker": "GF",
    "side": "buy"
   },
   {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $17.1M \u2014 0.11% of the whole company (institution)",
+   "key": "JOF:buy",
+   "headline": "JOF: Saba Capital Management, L.P. (10% owner) bought $551,891 \u2014 0.16% of the whole company (institution)",
    "reasons": [
-    "0.11% of the whole company (institution)"
+    "0.16% of the whole company (institution)"
    ],
    "insiders": [
-    "NIPPON LIFE INSURANCE CO"
+    "Saba Capital Management, L.P."
    ],
-   "totalValue": 17076201.7723,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "MAGN:buy",
-   "headline": "MAGN: Brown Bruce (director) bought $49,996 \u2014 grew their own stake 34%",
-   "reasons": [
-    "grew their own stake 34%"
-   ],
-   "insiders": [
-    "Brown Bruce"
-   ],
-   "totalValue": 49995.869,
-   "ticker": "MAGN",
-   "side": "buy"
-  },
-  {
-   "key": "ACOG:buy",
-   "headline": "ACOG: Opaleye Management Inc. (10% owner) bought $308,576 \u2014 0.17% of the whole company (institution)",
-   "reasons": [
-    "0.17% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Opaleye Management Inc."
-   ],
-   "totalValue": 308575.5244,
-   "ticker": "ACOG",
+   "totalValue": 551890.68,
+   "ticker": "JOF",
    "side": "buy"
   }
  ]
