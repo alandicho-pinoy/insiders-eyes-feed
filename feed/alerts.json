@@ -1,7 +1,23 @@
 {
- "generatedAt": "2026-10-21T14:15:17.995473+00:00",
+ "generatedAt": "2026-10-21T21:15:57.874435+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "DX:buy",
+   "headline": "DX: 3 insiders bought $267,230 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "BOSTON BYRON L",
+    "Popenoe Smriti Laxman",
+    "Sartori Michael Andrew"
+   ],
+   "totalValue": 267230.2,
+   "ticker": "DX",
+   "side": "buy"
+  },
   {
    "key": "IAM:buy",
    "headline": "IAM: Rachlin Evan Lockwood (director) bought $11.5M \u2014 1.48% of the whole company",
@@ -35,16 +51,55 @@
   },
   {
    "key": "BOLD:buy",
-   "headline": "BOLD: Tang Kevin (10% owner) bought $349,593 \u2014 0.62% of the whole company",
+   "headline": "BOLD: Tang Kevin (10% owner) bought $699,186 \u2014 1.25% of the whole company",
    "reasons": [
-    "0.62% of the whole company",
+    "1.25% of the whole company",
     "now owns 12.9% of the company"
    ],
    "insiders": [
     "TANG KEVIN"
    ],
-   "totalValue": 349592.97,
+   "totalValue": 699185.94,
    "ticker": "BOLD",
+   "side": "buy"
+  },
+  {
+   "key": "VRXA:buy",
+   "headline": "VRXA: Ziegler Christoph Samuel (director) bought $32,700 \u2014 grew their own stake 378%",
+   "reasons": [
+    "grew their own stake 378%"
+   ],
+   "insiders": [
+    "Ziegler Christoph Samuel"
+   ],
+   "totalValue": 32700.0,
+   "ticker": "VRXA",
+   "side": "buy"
+  },
+  {
+   "key": "TENX:buy",
+   "headline": "TENX: ADAR1 Capital Management, LLC (10% owner) bought $1.5M \u2014 2.40% of the whole company (institution)",
+   "reasons": [
+    "2.40% of the whole company (institution)"
+   ],
+   "insiders": [
+    "ADAR1 Capital Management, LLC"
+   ],
+   "totalValue": 1463426.2084,
+   "ticker": "TENX",
+   "side": "buy"
+  },
+  {
+   "key": "CLM:buy",
+   "headline": "CLM: Bradshaw Joshua (Vice Chairman and President) bought $97,280 \u2014 grew their own stake 367%",
+   "reasons": [
+    "grew their own stake 367%"
+   ],
+   "insiders": [
+    "Bradshaw Joshua"
+   ],
+   "totalValue": 97280.0,
+   "ticker": "CLM",
    "side": "buy"
   },
   {
@@ -62,59 +117,6 @@
    ],
    "totalValue": 6120000.0,
    "ticker": "CTY",
-   "side": "buy"
-  },
-  {
-   "key": "CNXU:buy",
-   "headline": "CNXU: Purcell Lynn Sebastian (director) bought $499,998 \u2014 0.54% of the whole company",
-   "reasons": [
-    "0.54% of the whole company",
-    "now owns 11.1% of the company"
-   ],
-   "insiders": [
-    "Purcell Lynn Sebastian"
-   ],
-   "totalValue": 499998.0,
-   "ticker": "CNXU",
-   "side": "buy"
-  },
-  {
-   "key": "EP:buy",
-   "headline": "EP: Mulacek Phil E (director) bought $312,811 \u2014 0.22% of the whole company",
-   "reasons": [
-    "0.22% of the whole company"
-   ],
-   "insiders": [
-    "Mulacek Phil E"
-   ],
-   "totalValue": 312810.528,
-   "ticker": "EP",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $29.1M \u2014 0.19% of the whole company (institution)",
-   "reasons": [
-    "0.19% of the whole company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 29128763.7218,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "LEO:buy",
-   "headline": "LEO: Saba Capital Management, L.P. (10% owner) bought $1.9M \u2014 0.54% of the whole company (institution)",
-   "reasons": [
-    "0.54% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 1911637.97,
-   "ticker": "LEO",
    "side": "buy"
   }
  ]
