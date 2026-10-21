@@ -1,7 +1,109 @@
 {
- "generatedAt": "2026-10-20T21:15:29.971489+00:00",
- "count": 6,
+ "generatedAt": "2026-10-21T01:45:58.733707+00:00",
+ "count": 8,
  "alerts": [
+  {
+   "key": "IAM:buy",
+   "headline": "IAM: Rachlin Evan Lockwood (director) bought $11.5M \u2014 1.48% of the whole company",
+   "reasons": [
+    "1.48% of the whole company",
+    "grew their own stake 38%",
+    "now owns 5.5% of the company"
+   ],
+   "insiders": [
+    "Rachlin Evan Lockwood"
+   ],
+   "totalValue": 11500000.0,
+   "ticker": "IAM",
+   "side": "buy"
+  },
+  {
+   "key": "APLD:buy",
+   "headline": "APLD: 2 insiders bought $6.7M \u2014 0.11% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "$5.7M from the President",
+    "$1.0M from the CEO; Chairman"
+   ],
+   "insiders": [
+    "Cummins Wes",
+    "Zhang Jason Gechen"
+   ],
+   "totalValue": 6664686.12,
+   "ticker": "APLD",
+   "side": "buy"
+  },
+  {
+   "key": "BOLD:buy",
+   "headline": "BOLD: Tang Kevin (10% owner) bought $349,593 \u2014 0.62% of the whole company",
+   "reasons": [
+    "0.62% of the whole company",
+    "now owns 12.9% of the company"
+   ],
+   "insiders": [
+    "TANG KEVIN"
+   ],
+   "totalValue": 349592.97,
+   "ticker": "BOLD",
+   "side": "buy"
+  },
+  {
+   "key": "CTY:buy",
+   "headline": "CTY: 2 insiders bought $6.1M \u2014 0.57% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.28% of the whole company (institution)",
+    "0.28% of the whole company",
+    "now owns 27.2% of the company"
+   ],
+   "insiders": [
+    "ARCH Venture Partners XII, LLC",
+    "NELSEN ROBERT"
+   ],
+   "totalValue": 6120000.0,
+   "ticker": "CTY",
+   "side": "buy"
+  },
+  {
+   "key": "CNXU:buy",
+   "headline": "CNXU: Purcell Lynn Sebastian (director) bought $499,998 \u2014 0.54% of the whole company",
+   "reasons": [
+    "0.54% of the whole company",
+    "now owns 11.1% of the company"
+   ],
+   "insiders": [
+    "Purcell Lynn Sebastian"
+   ],
+   "totalValue": 499998.0,
+   "ticker": "CNXU",
+   "side": "buy"
+  },
+  {
+   "key": "EP:buy",
+   "headline": "EP: Mulacek Phil E (director) bought $312,811 \u2014 0.22% of the whole company",
+   "reasons": [
+    "0.22% of the whole company"
+   ],
+   "insiders": [
+    "Mulacek Phil E"
+   ],
+   "totalValue": 312810.528,
+   "ticker": "EP",
+   "side": "buy"
+  },
+  {
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $29.1M \u2014 0.19% of the whole company (institution)",
+   "reasons": [
+    "0.19% of the whole company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 29128763.7218,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
   {
    "key": "LEO:buy",
    "headline": "LEO: Saba Capital Management, L.P. (10% owner) bought $1.9M \u2014 0.54% of the whole company (institution)",
@@ -13,71 +115,6 @@
    ],
    "totalValue": 1911637.97,
    "ticker": "LEO",
-   "side": "buy"
-  },
-  {
-   "key": "DSM:buy",
-   "headline": "DSM: Saba Capital Management, L.P. (10% owner) bought $1.1M \u2014 0.42% of the whole company (institution)",
-   "reasons": [
-    "0.42% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 1096500.26,
-   "ticker": "DSM",
-   "side": "buy"
-  },
-  {
-   "key": "NXG:buy",
-   "headline": "NXG: Sunderland Todd (insider) bought $46,500 \u2014 grew their own stake 30%",
-   "reasons": [
-    "grew their own stake 30%"
-   ],
-   "insiders": [
-    "Sunderland Todd"
-   ],
-   "totalValue": 46500.0,
-   "ticker": "NXG",
-   "side": "buy"
-  },
-  {
-   "key": "ECF:buy",
-   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $386,339 \u2014 0.24% of the whole company (institution)",
-   "reasons": [
-    "0.24% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 386338.68,
-   "ticker": "ECF",
-   "side": "buy"
-  },
-  {
-   "key": "GF:buy",
-   "headline": "GF: Saba Capital Management, L.P. (10% owner) bought $310,659 \u2014 0.19% of the whole company (institution)",
-   "reasons": [
-    "0.19% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 310658.66,
-   "ticker": "GF",
-   "side": "buy"
-  },
-  {
-   "key": "JOF:buy",
-   "headline": "JOF: Saba Capital Management, L.P. (10% owner) bought $551,891 \u2014 0.16% of the whole company (institution)",
-   "reasons": [
-    "0.16% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 551890.68,
-   "ticker": "JOF",
    "side": "buy"
   }
  ]
