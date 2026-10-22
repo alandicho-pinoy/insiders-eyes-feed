@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T21:15:57.874435+00:00",
+ "generatedAt": "2026-10-22T01:45:35.392744+00:00",
  "count": 8,
  "alerts": [
   {
@@ -50,20 +50,6 @@
    "side": "buy"
   },
   {
-   "key": "BOLD:buy",
-   "headline": "BOLD: Tang Kevin (10% owner) bought $699,186 \u2014 1.25% of the whole company",
-   "reasons": [
-    "1.25% of the whole company",
-    "now owns 12.9% of the company"
-   ],
-   "insiders": [
-    "TANG KEVIN"
-   ],
-   "totalValue": 699185.94,
-   "ticker": "BOLD",
-   "side": "buy"
-  },
-  {
    "key": "VRXA:buy",
    "headline": "VRXA: Ziegler Christoph Samuel (director) bought $32,700 \u2014 grew their own stake 378%",
    "reasons": [
@@ -100,6 +86,20 @@
    ],
    "totalValue": 97280.0,
    "ticker": "CLM",
+   "side": "buy"
+  },
+  {
+   "key": "BOLD:buy",
+   "headline": "BOLD: Tang Kevin (10% owner) bought $349,593 \u2014 0.62% of the whole company",
+   "reasons": [
+    "0.62% of the whole company",
+    "now owns 12.9% of the company"
+   ],
+   "insiders": [
+    "TANG KEVIN"
+   ],
+   "totalValue": 349592.97,
+   "ticker": "BOLD",
    "side": "buy"
   },
   {
