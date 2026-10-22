@@ -1,7 +1,26 @@
 {
- "generatedAt": "2026-10-22T14:15:34.412521+00:00",
+ "generatedAt": "2026-10-22T21:16:08.789445+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "RAPP:buy",
+   "headline": "RAPP: 5 insiders bought $1.6M \u2014 0.13% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 86%"
+   ],
+   "insiders": [
+    "Ignelzi Troy A.",
+    "MARAGANORE JOHN",
+    "PAUL STEVEN M",
+    "Silva Paul M",
+    "Young Wendy B."
+   ],
+   "totalValue": 1566346.7017,
+   "ticker": "RAPP",
+   "side": "buy"
+  },
   {
    "key": "DX:buy",
    "headline": "DX: 3 insiders bought $267,230 \u2014 0.01% of the company",
@@ -100,23 +119,6 @@
    ],
    "totalValue": 349592.97,
    "ticker": "BOLD",
-   "side": "buy"
-  },
-  {
-   "key": "CTY:buy",
-   "headline": "CTY: 2 insiders bought $6.1M \u2014 0.57% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.28% of the whole company (institution)",
-    "0.28% of the whole company",
-    "now owns 27.2% of the company"
-   ],
-   "insiders": [
-    "ARCH Venture Partners XII, LLC",
-    "NELSEN ROBERT"
-   ],
-   "totalValue": 6120000.0,
-   "ticker": "CTY",
    "side": "buy"
   }
  ]
