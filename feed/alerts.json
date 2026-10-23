@@ -1,23 +1,40 @@
 {
- "generatedAt": "2026-10-23T01:45:31.122622+00:00",
+ "generatedAt": "2026-10-23T14:15:23.477260+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "RAPP:buy",
-   "headline": "RAPP: 4 insiders bought $1.4M \u2014 0.12% of the company",
+   "headline": "RAPP: 5 insiders bought $1.6M \u2014 0.13% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
+    "5 insiders bought within days",
+    "5 insiders buying",
     "grew their own stake 86%"
    ],
    "insiders": [
+    "Ignelzi Troy A.",
     "MARAGANORE JOHN",
     "PAUL STEVEN M",
     "Silva Paul M",
     "Young Wendy B."
    ],
-   "totalValue": 1422796.7017,
+   "totalValue": 1566346.7017,
    "ticker": "RAPP",
+   "side": "buy"
+  },
+  {
+   "key": "DX:buy",
+   "headline": "DX: 3 insiders bought $267,230 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "BOSTON BYRON L",
+    "Popenoe Smriti Laxman",
+    "Sartori Michael Andrew"
+   ],
+   "totalValue": 267230.2,
+   "ticker": "DX",
    "side": "buy"
   },
   {
@@ -47,6 +64,33 @@
    "side": "buy"
   },
   {
+   "key": "CLM:buy",
+   "headline": "CLM: Bradshaw Joshua (Vice Chairman and President) bought $97,280 \u2014 grew their own stake 367%",
+   "reasons": [
+    "grew their own stake 367%"
+   ],
+   "insiders": [
+    "Bradshaw Joshua"
+   ],
+   "totalValue": 97280.0,
+   "ticker": "CLM",
+   "side": "buy"
+  },
+  {
+   "key": "BOLD:buy",
+   "headline": "BOLD: Tang Kevin (10% owner) bought $349,593 \u2014 0.62% of the whole company",
+   "reasons": [
+    "0.62% of the whole company",
+    "now owns 12.9% of the company"
+   ],
+   "insiders": [
+    "TANG KEVIN"
+   ],
+   "totalValue": 349592.97,
+   "ticker": "BOLD",
+   "side": "buy"
+  },
+  {
    "key": "DOLE:buy",
    "headline": "DOLE: Pale Fire Capital SE (10% owner) bought $8.6M \u2014 0.67% of the whole company (institution)",
    "reasons": [
@@ -60,57 +104,16 @@
    "side": "buy"
   },
   {
-   "key": "AGMB:buy",
-   "headline": "AGMB: Epstein David R (director) bought $88,800 \u2014 grew their own stake 67%",
+   "key": "BPRE:buy",
+   "headline": "BPRE: Kamfar Ramin (director) bought $3.3M \u2014 0.19% of the whole company",
    "reasons": [
-    "grew their own stake 67%"
+    "0.19% of the whole company"
    ],
    "insiders": [
-    "Epstein David R"
+    "KAMFAR RAMIN"
    ],
-   "totalValue": 88800.0,
-   "ticker": "AGMB",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $6.8M \u2014 now owns 29.2% of the company (institution)",
-   "reasons": [
-    "now owns 29.2% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 6769544.5842,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "MXF:buy",
-   "headline": "MXF: Saba Capital Management, L.P. (10% owner) bought $327,435 \u2014 0.11% of the whole company (institution)",
-   "reasons": [
-    "0.11% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 327434.7,
-   "ticker": "MXF",
-   "side": "buy"
-  },
-  {
-   "key": "LEO:buy",
-   "headline": "LEO: 2 insiders bought $263,651 \u2014 0.07% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "now owns 10.4% of the company (institution)"
-   ],
-   "insiders": [
-    "BANK OF AMERICA CORP /DE/",
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 263650.9461,
-   "ticker": "LEO",
+   "totalValue": 3345006.173,
+   "ticker": "BPRE",
    "side": "buy"
   }
  ]
