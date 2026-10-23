@@ -1,71 +1,23 @@
 {
- "generatedAt": "2026-10-22T21:16:08.789445+00:00",
+ "generatedAt": "2026-10-23T01:45:31.122622+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "RAPP:buy",
-   "headline": "RAPP: 5 insiders bought $1.6M \u2014 0.13% of the company",
+   "headline": "RAPP: 4 insiders bought $1.4M \u2014 0.12% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
+    "4 insiders bought within days",
+    "4 insiders buying",
     "grew their own stake 86%"
    ],
    "insiders": [
-    "Ignelzi Troy A.",
     "MARAGANORE JOHN",
     "PAUL STEVEN M",
     "Silva Paul M",
     "Young Wendy B."
    ],
-   "totalValue": 1566346.7017,
+   "totalValue": 1422796.7017,
    "ticker": "RAPP",
-   "side": "buy"
-  },
-  {
-   "key": "DX:buy",
-   "headline": "DX: 3 insiders bought $267,230 \u2014 0.01% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "BOSTON BYRON L",
-    "Popenoe Smriti Laxman",
-    "Sartori Michael Andrew"
-   ],
-   "totalValue": 267230.2,
-   "ticker": "DX",
-   "side": "buy"
-  },
-  {
-   "key": "IAM:buy",
-   "headline": "IAM: Rachlin Evan Lockwood (director) bought $11.5M \u2014 1.48% of the whole company",
-   "reasons": [
-    "1.48% of the whole company",
-    "grew their own stake 38%",
-    "now owns 5.5% of the company"
-   ],
-   "insiders": [
-    "Rachlin Evan Lockwood"
-   ],
-   "totalValue": 11500000.0,
-   "ticker": "IAM",
-   "side": "buy"
-  },
-  {
-   "key": "APLD:buy",
-   "headline": "APLD: 2 insiders bought $6.7M \u2014 0.11% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "$5.7M from the President",
-    "$1.0M from the CEO; Chairman"
-   ],
-   "insiders": [
-    "Cummins Wes",
-    "Zhang Jason Gechen"
-   ],
-   "totalValue": 6664686.12,
-   "ticker": "APLD",
    "side": "buy"
   },
   {
@@ -95,30 +47,70 @@
    "side": "buy"
   },
   {
-   "key": "CLM:buy",
-   "headline": "CLM: Bradshaw Joshua (Vice Chairman and President) bought $97,280 \u2014 grew their own stake 367%",
+   "key": "DOLE:buy",
+   "headline": "DOLE: Pale Fire Capital SE (10% owner) bought $8.6M \u2014 0.67% of the whole company (institution)",
    "reasons": [
-    "grew their own stake 367%"
+    "0.67% of the whole company (institution)"
    ],
    "insiders": [
-    "Bradshaw Joshua"
+    "Pale Fire Capital SE"
    ],
-   "totalValue": 97280.0,
-   "ticker": "CLM",
+   "totalValue": 8554410.2344,
+   "ticker": "DOLE",
    "side": "buy"
   },
   {
-   "key": "BOLD:buy",
-   "headline": "BOLD: Tang Kevin (10% owner) bought $349,593 \u2014 0.62% of the whole company",
+   "key": "AGMB:buy",
+   "headline": "AGMB: Epstein David R (director) bought $88,800 \u2014 grew their own stake 67%",
    "reasons": [
-    "0.62% of the whole company",
-    "now owns 12.9% of the company"
+    "grew their own stake 67%"
    ],
    "insiders": [
-    "TANG KEVIN"
+    "Epstein David R"
    ],
-   "totalValue": 349592.97,
-   "ticker": "BOLD",
+   "totalValue": 88800.0,
+   "ticker": "AGMB",
+   "side": "buy"
+  },
+  {
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $6.8M \u2014 now owns 29.2% of the company (institution)",
+   "reasons": [
+    "now owns 29.2% of the company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 6769544.5842,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
+  {
+   "key": "MXF:buy",
+   "headline": "MXF: Saba Capital Management, L.P. (10% owner) bought $327,435 \u2014 0.11% of the whole company (institution)",
+   "reasons": [
+    "0.11% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Saba Capital Management, L.P."
+   ],
+   "totalValue": 327434.7,
+   "ticker": "MXF",
+   "side": "buy"
+  },
+  {
+   "key": "LEO:buy",
+   "headline": "LEO: 2 insiders bought $263,651 \u2014 0.07% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "now owns 10.4% of the company (institution)"
+   ],
+   "insiders": [
+    "BANK OF AMERICA CORP /DE/",
+    "Saba Capital Management, L.P."
+   ],
+   "totalValue": 263650.9461,
+   "ticker": "LEO",
    "side": "buy"
   }
  ]
