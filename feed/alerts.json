@@ -1,24 +1,42 @@
 {
- "generatedAt": "2026-10-23T14:15:23.477260+00:00",
+ "generatedAt": "2026-10-23T21:16:16.782279+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "RAPP:buy",
-   "headline": "RAPP: 5 insiders bought $1.6M \u2014 0.13% of the company",
+   "headline": "RAPP: 6 insiders bought $1.7M \u2014 0.14% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
+    "6 insiders bought within days",
+    "6 insiders buying",
     "grew their own stake 86%"
    ],
    "insiders": [
     "Ignelzi Troy A.",
     "MARAGANORE JOHN",
     "PAUL STEVEN M",
+    "Sanchez Ramiro",
     "Silva Paul M",
     "Young Wendy B."
    ],
-   "totalValue": 1566346.7017,
+   "totalValue": 1664824.3417,
    "ticker": "RAPP",
+   "side": "buy"
+  },
+  {
+   "key": "NXG:buy",
+   "headline": "NXG: 3 insiders bought $525,575 \u2014 0.16% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.13% of the whole company",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Nelson Blake",
+    "Sunderland Todd",
+    "Swank Jerry V"
+   ],
+   "totalValue": 525575.0,
+   "ticker": "NXG",
    "side": "buy"
   },
   {
@@ -35,6 +53,23 @@
    ],
    "totalValue": 267230.2,
    "ticker": "DX",
+   "side": "buy"
+  },
+  {
+   "key": "RENT:buy",
+   "headline": "RENT: 3 insiders bought $6.1M \u2014 7.84% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "2.88% of the whole company (institution)",
+    "2.08% of the whole company (institution)"
+   ],
+   "insiders": [
+    "CHS US Investments LLC",
+    "Nexus Capital Management LP",
+    "STORY3 Capital Partners, LLC"
+   ],
+   "totalValue": 6120515.95,
+   "ticker": "RENT",
    "side": "buy"
   },
   {
@@ -88,32 +123,6 @@
    ],
    "totalValue": 349592.97,
    "ticker": "BOLD",
-   "side": "buy"
-  },
-  {
-   "key": "DOLE:buy",
-   "headline": "DOLE: Pale Fire Capital SE (10% owner) bought $8.6M \u2014 0.67% of the whole company (institution)",
-   "reasons": [
-    "0.67% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Pale Fire Capital SE"
-   ],
-   "totalValue": 8554410.2344,
-   "ticker": "DOLE",
-   "side": "buy"
-  },
-  {
-   "key": "BPRE:buy",
-   "headline": "BPRE: Kamfar Ramin (director) bought $3.3M \u2014 0.19% of the whole company",
-   "reasons": [
-    "0.19% of the whole company"
-   ],
-   "insiders": [
-    "KAMFAR RAMIN"
-   ],
-   "totalValue": 3345006.173,
-   "ticker": "BPRE",
    "side": "buy"
   }
  ]
