@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T21:16:16.782279+00:00",
+ "generatedAt": "2026-10-24T01:45:31.029312+00:00",
  "count": 8,
  "alerts": [
   {
@@ -73,6 +73,21 @@
    "side": "buy"
   },
   {
+   "key": "BPRE:buy",
+   "headline": "BPRE: 2 insiders bought $3.4M \u2014 0.19% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.19% of the whole company"
+   ],
+   "insiders": [
+    "KAMFAR RAMIN",
+    "Ruddy Jordan B."
+   ],
+   "totalValue": 3369992.909,
+   "ticker": "BPRE",
+   "side": "buy"
+  },
+  {
    "key": "VRXA:buy",
    "headline": "VRXA: Ziegler Christoph Samuel (director) bought $32,700 \u2014 grew their own stake 378%",
    "reasons": [
@@ -109,20 +124,6 @@
    ],
    "totalValue": 97280.0,
    "ticker": "CLM",
-   "side": "buy"
-  },
-  {
-   "key": "BOLD:buy",
-   "headline": "BOLD: Tang Kevin (10% owner) bought $349,593 \u2014 0.62% of the whole company",
-   "reasons": [
-    "0.62% of the whole company",
-    "now owns 12.9% of the company"
-   ],
-   "insiders": [
-    "TANG KEVIN"
-   ],
-   "totalValue": 349592.97,
-   "ticker": "BOLD",
    "side": "buy"
   }
  ]
