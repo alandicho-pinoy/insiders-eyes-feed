@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T01:45:31.029312+00:00",
+ "generatedAt": "2026-10-24T14:15:13.980159+00:00",
  "count": 8,
  "alerts": [
   {
@@ -23,39 +23,6 @@
    "side": "buy"
   },
   {
-   "key": "NXG:buy",
-   "headline": "NXG: 3 insiders bought $525,575 \u2014 0.16% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.13% of the whole company",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Nelson Blake",
-    "Sunderland Todd",
-    "Swank Jerry V"
-   ],
-   "totalValue": 525575.0,
-   "ticker": "NXG",
-   "side": "buy"
-  },
-  {
-   "key": "DX:buy",
-   "headline": "DX: 3 insiders bought $267,230 \u2014 0.01% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "BOSTON BYRON L",
-    "Popenoe Smriti Laxman",
-    "Sartori Michael Andrew"
-   ],
-   "totalValue": 267230.2,
-   "ticker": "DX",
-   "side": "buy"
-  },
-  {
    "key": "RENT:buy",
    "headline": "RENT: 3 insiders bought $6.1M \u2014 7.84% of the company",
    "reasons": [
@@ -70,6 +37,22 @@
    ],
    "totalValue": 6120515.95,
    "ticker": "RENT",
+   "side": "buy"
+  },
+  {
+   "key": "NXG:buy",
+   "headline": "NXG: 2 insiders bought $479,075 \u2014 0.14% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.13% of the whole company",
+    "grew their own stake 86%"
+   ],
+   "insiders": [
+    "Nelson Blake",
+    "Swank Jerry V"
+   ],
+   "totalValue": 479075.0,
+   "ticker": "NXG",
    "side": "buy"
   },
   {
@@ -124,6 +107,19 @@
    ],
    "totalValue": 97280.0,
    "ticker": "CLM",
+   "side": "buy"
+  },
+  {
+   "key": "DOLE:buy",
+   "headline": "DOLE: Pale Fire Capital SE (10% owner) bought $8.6M \u2014 0.67% of the whole company (institution)",
+   "reasons": [
+    "0.67% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Pale Fire Capital SE"
+   ],
+   "totalValue": 8554410.2344,
+   "ticker": "DOLE",
    "side": "buy"
   }
  ]
