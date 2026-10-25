@@ -1,24 +1,23 @@
 {
- "generatedAt": "2026-10-25T01:45:06.711702+00:00",
+ "generatedAt": "2026-10-25T14:15:03.607392+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "RAPP:buy",
-   "headline": "RAPP: 6 insiders bought $1.7M \u2014 0.14% of the company",
+   "headline": "RAPP: 5 insiders bought $1.5M \u2014 0.13% of the company",
    "reasons": [
-    "6 insiders bought within days",
-    "6 insiders buying",
+    "5 insiders bought within days",
+    "5 insiders buying",
     "grew their own stake 86%"
    ],
    "insiders": [
-    "Ignelzi Troy A.",
     "MARAGANORE JOHN",
     "PAUL STEVEN M",
     "Sanchez Ramiro",
     "Silva Paul M",
     "Young Wendy B."
    ],
-   "totalValue": 1664824.3417,
+   "totalValue": 1521274.3417,
    "ticker": "RAPP",
    "side": "buy"
   },
@@ -56,60 +55,6 @@
    "side": "buy"
   },
   {
-   "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $3.4M \u2014 0.19% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.19% of the whole company"
-   ],
-   "insiders": [
-    "KAMFAR RAMIN",
-    "Ruddy Jordan B."
-   ],
-   "totalValue": 3369992.909,
-   "ticker": "BPRE",
-   "side": "buy"
-  },
-  {
-   "key": "VRXA:buy",
-   "headline": "VRXA: Ziegler Christoph Samuel (director) bought $32,700 \u2014 grew their own stake 378%",
-   "reasons": [
-    "grew their own stake 378%"
-   ],
-   "insiders": [
-    "Ziegler Christoph Samuel"
-   ],
-   "totalValue": 32700.0,
-   "ticker": "VRXA",
-   "side": "buy"
-  },
-  {
-   "key": "TENX:buy",
-   "headline": "TENX: ADAR1 Capital Management, LLC (10% owner) bought $1.5M \u2014 2.40% of the whole company (institution)",
-   "reasons": [
-    "2.40% of the whole company (institution)"
-   ],
-   "insiders": [
-    "ADAR1 Capital Management, LLC"
-   ],
-   "totalValue": 1463426.2084,
-   "ticker": "TENX",
-   "side": "buy"
-  },
-  {
-   "key": "CLM:buy",
-   "headline": "CLM: Bradshaw Joshua (Vice Chairman and President) bought $97,280 \u2014 grew their own stake 367%",
-   "reasons": [
-    "grew their own stake 367%"
-   ],
-   "insiders": [
-    "Bradshaw Joshua"
-   ],
-   "totalValue": 97280.0,
-   "ticker": "CLM",
-   "side": "buy"
-  },
-  {
    "key": "DOLE:buy",
    "headline": "DOLE: Pale Fire Capital SE (10% owner) bought $8.6M \u2014 0.67% of the whole company (institution)",
    "reasons": [
@@ -120,6 +65,58 @@
    ],
    "totalValue": 8554410.2344,
    "ticker": "DOLE",
+   "side": "buy"
+  },
+  {
+   "key": "AGMB:buy",
+   "headline": "AGMB: Epstein David R (director) bought $88,800 \u2014 grew their own stake 67%",
+   "reasons": [
+    "grew their own stake 67%"
+   ],
+   "insiders": [
+    "Epstein David R"
+   ],
+   "totalValue": 88800.0,
+   "ticker": "AGMB",
+   "side": "buy"
+  },
+  {
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $14.5M \u2014 now owns 29.3% of the company (institution)",
+   "reasons": [
+    "now owns 29.3% of the company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 14453878.1082,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
+  {
+   "key": "SAMG:buy",
+   "headline": "SAMG: Equinox Partners Investment Management LLC (10% owner) bought $352,684 \u2014 0.45% of the whole company (institution)",
+   "reasons": [
+    "0.45% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Equinox Partners Investment Management LLC"
+   ],
+   "totalValue": 352684.32,
+   "ticker": "SAMG",
+   "side": "buy"
+  },
+  {
+   "key": "MXF:buy",
+   "headline": "MXF: Saba Capital Management, L.P. (10% owner) bought $367,715 \u2014 0.13% of the whole company (institution)",
+   "reasons": [
+    "0.13% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Saba Capital Management, L.P."
+   ],
+   "totalValue": 367714.7,
+   "ticker": "MXF",
    "side": "buy"
   }
  ]
