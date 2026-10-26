@@ -1,26 +1,7 @@
 {
- "generatedAt": "2026-10-26T01:45:06.928025+00:00",
- "count": 8,
+ "generatedAt": "2026-10-26T14:15:11.664888+00:00",
+ "count": 6,
  "alerts": [
-  {
-   "key": "RAPP:buy",
-   "headline": "RAPP: 5 insiders bought $1.5M \u2014 0.13% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 86%"
-   ],
-   "insiders": [
-    "MARAGANORE JOHN",
-    "PAUL STEVEN M",
-    "Sanchez Ramiro",
-    "Silva Paul M",
-    "Young Wendy B."
-   ],
-   "totalValue": 1521274.3417,
-   "ticker": "RAPP",
-   "side": "buy"
-  },
   {
    "key": "RENT:buy",
    "headline": "RENT: 3 insiders bought $6.1M \u2014 7.84% of the company",
@@ -55,42 +36,18 @@
    "side": "buy"
   },
   {
-   "key": "DOLE:buy",
-   "headline": "DOLE: Pale Fire Capital SE (10% owner) bought $8.6M \u2014 0.67% of the whole company (institution)",
+   "key": "BPRE:buy",
+   "headline": "BPRE: 2 insiders bought $2.2M \u2014 0.12% of the company",
    "reasons": [
-    "0.67% of the whole company (institution)"
+    "2 insiders bought within days",
+    "0.12% of the whole company"
    ],
    "insiders": [
-    "Pale Fire Capital SE"
+    "KAMFAR RAMIN",
+    "Ruddy Jordan B."
    ],
-   "totalValue": 8554410.2344,
-   "ticker": "DOLE",
-   "side": "buy"
-  },
-  {
-   "key": "AGMB:buy",
-   "headline": "AGMB: Epstein David R (director) bought $88,800 \u2014 grew their own stake 67%",
-   "reasons": [
-    "grew their own stake 67%"
-   ],
-   "insiders": [
-    "Epstein David R"
-   ],
-   "totalValue": 88800.0,
-   "ticker": "AGMB",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $14.5M \u2014 now owns 29.3% of the company (institution)",
-   "reasons": [
-    "now owns 29.3% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 14453878.1082,
-   "ticker": "CRBG",
+   "totalValue": 2151078.134,
+   "ticker": "BPRE",
    "side": "buy"
   },
   {
@@ -107,15 +64,28 @@
    "side": "buy"
   },
   {
-   "key": "MXF:buy",
-   "headline": "MXF: Saba Capital Management, L.P. (10% owner) bought $367,715 \u2014 0.13% of the whole company (institution)",
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $7.7M \u2014 now owns 29.3% of the company (institution)",
    "reasons": [
-    "0.13% of the whole company (institution)"
+    "now owns 29.3% of the company (institution)"
+   ],
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "totalValue": 7684333.524,
+   "ticker": "CRBG",
+   "side": "buy"
+  },
+  {
+   "key": "MXF:buy",
+   "headline": "MXF: Saba Capital Management, L.P. (10% owner) bought $80,560 \u2014 now owns 16.8% of the company (institution)",
+   "reasons": [
+    "now owns 16.8% of the company (institution)"
    ],
    "insiders": [
     "Saba Capital Management, L.P."
    ],
-   "totalValue": 367714.7,
+   "totalValue": 80560.0,
    "ticker": "MXF",
    "side": "buy"
   }
