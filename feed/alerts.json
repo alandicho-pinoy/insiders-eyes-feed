@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-26T14:15:11.664888+00:00",
- "count": 6,
+ "generatedAt": "2026-10-26T21:15:57.323651+00:00",
+ "count": 8,
  "alerts": [
   {
    "key": "RENT:buy",
@@ -51,6 +51,33 @@
    "side": "buy"
   },
   {
+   "key": "CITR:buy",
+   "headline": "CITR: Huff Craig A (director) bought $500,000 \u2014 0.83% of the whole company",
+   "reasons": [
+    "0.83% of the whole company",
+    "now owns 15.7% of the company"
+   ],
+   "insiders": [
+    "HUFF CRAIG A"
+   ],
+   "totalValue": 500000.0,
+   "ticker": "CITR",
+   "side": "buy"
+  },
+  {
+   "key": "PRTA:buy",
+   "headline": "PRTA: Scully William P (10% owner) bought $1.2M \u2014 0.28% of the whole company",
+   "reasons": [
+    "0.28% of the whole company"
+   ],
+   "insiders": [
+    "SCULLY WILLIAM P"
+   ],
+   "totalValue": 1222045.0,
+   "ticker": "PRTA",
+   "side": "buy"
+  },
+  {
    "key": "SAMG:buy",
    "headline": "SAMG: Equinox Partners Investment Management LLC (10% owner) bought $352,684 \u2014 0.45% of the whole company (institution)",
    "reasons": [
@@ -77,16 +104,16 @@
    "side": "buy"
   },
   {
-   "key": "MXF:buy",
-   "headline": "MXF: Saba Capital Management, L.P. (10% owner) bought $80,560 \u2014 now owns 16.8% of the company (institution)",
+   "key": "BOLD:buy",
+   "headline": "BOLD: Tang Kevin (10% owner) bought $51,619 \u2014 now owns 13.0% of the company",
    "reasons": [
-    "now owns 16.8% of the company (institution)"
+    "now owns 13.0% of the company"
    ],
    "insiders": [
-    "Saba Capital Management, L.P."
+    "TANG KEVIN"
    ],
-   "totalValue": 80560.0,
-   "ticker": "MXF",
+   "totalValue": 51619.2,
+   "ticker": "BOLD",
    "side": "buy"
   }
  ]
