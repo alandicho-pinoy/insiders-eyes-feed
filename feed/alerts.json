@@ -1,7 +1,23 @@
 {
- "generatedAt": "2026-10-26T21:15:57.323651+00:00",
+ "generatedAt": "2026-10-27T01:45:41.777824+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "STC:buy",
+   "headline": "STC: 3 insiders bought $283,710 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Apel Thomas G",
+    "BRADLEY C ALLEN JR",
+    "Corey William S. Jr."
+   ],
+   "totalValue": 283710.0,
+   "ticker": "STC",
+   "side": "buy"
+  },
   {
    "key": "RENT:buy",
    "headline": "RENT: 3 insiders bought $6.1M \u2014 7.84% of the company",
@@ -17,6 +33,21 @@
    ],
    "totalValue": 6120515.95,
    "ticker": "RENT",
+   "side": "buy"
+  },
+  {
+   "key": "THRM:buy",
+   "headline": "THRM: 2 insiders bought $662,600 \u2014 0.04% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 747%"
+   ],
+   "insiders": [
+    "MASCARENAS PAUL ANTHONY",
+    "Presley William T."
+   ],
+   "totalValue": 662600.0,
+   "ticker": "THRM",
    "side": "buy"
   },
   {
@@ -65,55 +96,30 @@
    "side": "buy"
   },
   {
-   "key": "PRTA:buy",
-   "headline": "PRTA: Scully William P (10% owner) bought $1.2M \u2014 0.28% of the whole company",
+   "key": "GPI:buy",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $24.2M \u2014 0.83% of the whole company (institution)",
    "reasons": [
-    "0.28% of the whole company"
+    "0.83% of the whole company (institution)"
    ],
    "insiders": [
-    "SCULLY WILLIAM P"
+    "Conifer Management, L.L.C."
    ],
-   "totalValue": 1222045.0,
-   "ticker": "PRTA",
+   "totalValue": 24232208.7706,
+   "ticker": "GPI",
    "side": "buy"
   },
   {
-   "key": "SAMG:buy",
-   "headline": "SAMG: Equinox Partners Investment Management LLC (10% owner) bought $352,684 \u2014 0.45% of the whole company (institution)",
+   "key": "OPTU:buy",
+   "headline": "OPTU: Subin Neil S (10% owner) bought $1.2M \u2014 0.42% of the whole company",
    "reasons": [
-    "0.45% of the whole company (institution)"
+    "0.42% of the whole company",
+    "now owns 5.7% of the company"
    ],
    "insiders": [
-    "Equinox Partners Investment Management LLC"
+    "SUBIN NEIL S"
    ],
-   "totalValue": 352684.32,
-   "ticker": "SAMG",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $7.7M \u2014 now owns 29.3% of the company (institution)",
-   "reasons": [
-    "now owns 29.3% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 7684333.524,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "BOLD:buy",
-   "headline": "BOLD: Tang Kevin (10% owner) bought $51,619 \u2014 now owns 13.0% of the company",
-   "reasons": [
-    "now owns 13.0% of the company"
-   ],
-   "insiders": [
-    "TANG KEVIN"
-   ],
-   "totalValue": 51619.2,
-   "ticker": "BOLD",
+   "totalValue": 1163551.2948,
+   "ticker": "OPTU",
    "side": "buy"
   }
  ]
