@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T01:45:41.777824+00:00",
+ "generatedAt": "2026-10-27T14:15:24.723826+00:00",
  "count": 8,
  "alerts": [
   {
@@ -19,23 +19,6 @@
    "side": "buy"
   },
   {
-   "key": "RENT:buy",
-   "headline": "RENT: 3 insiders bought $6.1M \u2014 7.84% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "2.88% of the whole company (institution)",
-    "2.08% of the whole company (institution)"
-   ],
-   "insiders": [
-    "CHS US Investments LLC",
-    "Nexus Capital Management LP",
-    "STORY3 Capital Partners, LLC"
-   ],
-   "totalValue": 6120515.95,
-   "ticker": "RENT",
-   "side": "buy"
-  },
-  {
    "key": "THRM:buy",
    "headline": "THRM: 2 insiders bought $662,600 \u2014 0.04% of the company",
    "reasons": [
@@ -48,37 +31,6 @@
    ],
    "totalValue": 662600.0,
    "ticker": "THRM",
-   "side": "buy"
-  },
-  {
-   "key": "NXG:buy",
-   "headline": "NXG: 2 insiders bought $479,075 \u2014 0.14% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.13% of the whole company",
-    "grew their own stake 86%"
-   ],
-   "insiders": [
-    "Nelson Blake",
-    "Swank Jerry V"
-   ],
-   "totalValue": 479075.0,
-   "ticker": "NXG",
-   "side": "buy"
-  },
-  {
-   "key": "BPRE:buy",
-   "headline": "BPRE: 2 insiders bought $2.2M \u2014 0.12% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.12% of the whole company"
-   ],
-   "insiders": [
-    "KAMFAR RAMIN",
-    "Ruddy Jordan B."
-   ],
-   "totalValue": 2151078.134,
-   "ticker": "BPRE",
    "side": "buy"
   },
   {
@@ -120,6 +72,45 @@
    ],
    "totalValue": 1163551.2948,
    "ticker": "OPTU",
+   "side": "buy"
+  },
+  {
+   "key": "PRTA:buy",
+   "headline": "PRTA: Scully William P (10% owner) bought $1.2M \u2014 0.28% of the whole company",
+   "reasons": [
+    "0.28% of the whole company"
+   ],
+   "insiders": [
+    "SCULLY WILLIAM P"
+   ],
+   "totalValue": 1222045.0,
+   "ticker": "PRTA",
+   "side": "buy"
+  },
+  {
+   "key": "BPRE:buy",
+   "headline": "BPRE: Kamfar Ramin (director) bought $2.1M \u2014 0.12% of the whole company",
+   "reasons": [
+    "0.12% of the whole company"
+   ],
+   "insiders": [
+    "KAMFAR RAMIN"
+   ],
+   "totalValue": 2126091.398,
+   "ticker": "BPRE",
+   "side": "buy"
+  },
+  {
+   "key": "KRRO:buy",
+   "headline": "KRRO: Lynx1 Capital Management LP (10% owner) bought $884,752 \u2014 0.50% of the whole company (institution)",
+   "reasons": [
+    "0.50% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Lynx1 Capital Management LP"
+   ],
+   "totalValue": 884751.9106,
+   "ticker": "KRRO",
    "side": "buy"
   }
  ]
