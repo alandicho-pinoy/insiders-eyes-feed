@@ -1,77 +1,80 @@
 {
- "generatedAt": "2026-10-27T14:15:24.723826+00:00",
+ "generatedAt": "2026-10-27T21:16:10.371799+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "STC:buy",
-   "headline": "STC: 3 insiders bought $283,710 \u2014 0.02% of the company",
+   "headline": "STC: 5 insiders bought $460,970 \u2014 0.04% of the company",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
+    "5 insiders bought within days",
+    "5 insiders buying"
    ],
    "insiders": [
     "Apel Thomas G",
     "BRADLEY C ALLEN JR",
-    "Corey William S. Jr."
+    "Corey William S. Jr.",
+    "EPPINGER FREDERICK H",
+    "Matz Deborah Jane"
    ],
-   "totalValue": 283710.0,
+   "totalValue": 460970.0,
    "ticker": "STC",
    "side": "buy"
   },
   {
-   "key": "THRM:buy",
-   "headline": "THRM: 2 insiders bought $662,600 \u2014 0.04% of the company",
+   "key": "NPB:buy",
+   "headline": "NPB: 3 insiders bought $1.8M \u2014 0.33% of the company",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 747%"
+    "3 insiders bought within days",
+    "0.28% of the whole company",
+    "3 insiders buying",
+    "now owns 7.4% of the company"
    ],
    "insiders": [
-    "MASCARENAS PAUL ANTHONY",
-    "Presley William T."
+    "Boer Carrie L",
+    "Long Joseph B",
+    "Williams Charles Alan"
    ],
-   "totalValue": 662600.0,
-   "ticker": "THRM",
-   "side": "buy"
-  },
-  {
-   "key": "CITR:buy",
-   "headline": "CITR: Huff Craig A (director) bought $500,000 \u2014 0.83% of the whole company",
-   "reasons": [
-    "0.83% of the whole company",
-    "now owns 15.7% of the company"
-   ],
-   "insiders": [
-    "HUFF CRAIG A"
-   ],
-   "totalValue": 500000.0,
-   "ticker": "CITR",
+   "totalValue": 1771951.372,
+   "ticker": "NPB",
    "side": "buy"
   },
   {
    "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $24.2M \u2014 0.83% of the whole company (institution)",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $48.5M \u2014 1.67% of the whole company (institution)",
    "reasons": [
-    "0.83% of the whole company (institution)"
+    "1.67% of the whole company (institution)"
    ],
    "insiders": [
     "Conifer Management, L.L.C."
    ],
-   "totalValue": 24232208.7706,
+   "totalValue": 48464417.5412,
    "ticker": "GPI",
    "side": "buy"
   },
   {
-   "key": "OPTU:buy",
-   "headline": "OPTU: Subin Neil S (10% owner) bought $1.2M \u2014 0.42% of the whole company",
+   "key": "KRRO:buy",
+   "headline": "KRRO: Lynx1 Capital Management LP (10% owner) bought $1.8M \u2014 1.00% of the whole company (institution)",
    "reasons": [
-    "0.42% of the whole company",
-    "now owns 5.7% of the company"
+    "1.00% of the whole company (institution)"
    ],
    "insiders": [
-    "SUBIN NEIL S"
+    "Lynx1 Capital Management LP"
    ],
-   "totalValue": 1163551.2948,
-   "ticker": "OPTU",
+   "totalValue": 1769503.8212,
+   "ticker": "KRRO",
+   "side": "buy"
+  },
+  {
+   "key": "CTEV:buy",
+   "headline": "CTEV: Ares Management Llc (10% owner) bought $3.4M \u2014 0.87% of the whole company (institution)",
+   "reasons": [
+    "0.87% of the whole company (institution)"
+   ],
+   "insiders": [
+    "ARES MANAGEMENT LLC"
+   ],
+   "totalValue": 3356212.0928,
+   "ticker": "CTEV",
    "side": "buy"
   },
   {
@@ -88,29 +91,29 @@
    "side": "buy"
   },
   {
-   "key": "BPRE:buy",
-   "headline": "BPRE: Kamfar Ramin (director) bought $2.1M \u2014 0.12% of the whole company",
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $20.2M \u2014 0.13% of the whole company (institution)",
    "reasons": [
-    "0.12% of the whole company"
+    "0.13% of the whole company (institution)"
    ],
    "insiders": [
-    "KAMFAR RAMIN"
+    "NIPPON LIFE INSURANCE CO"
    ],
-   "totalValue": 2126091.398,
-   "ticker": "BPRE",
+   "totalValue": 20230672.9926,
+   "ticker": "CRBG",
    "side": "buy"
   },
   {
-   "key": "KRRO:buy",
-   "headline": "KRRO: Lynx1 Capital Management LP (10% owner) bought $884,752 \u2014 0.50% of the whole company (institution)",
+   "key": "TIPT:buy",
+   "headline": "TIPT: Barnes Michael Gene (Chairman and CEO) bought $502,303 \u2014 now owns 27.2% of the company",
    "reasons": [
-    "0.50% of the whole company (institution)"
+    "now owns 27.2% of the company"
    ],
    "insiders": [
-    "Lynx1 Capital Management LP"
+    "Barnes Michael Gene"
    ],
-   "totalValue": 884751.9106,
-   "ticker": "KRRO",
+   "totalValue": 502303.2,
+   "ticker": "TIPT",
    "side": "buy"
   }
  ]
