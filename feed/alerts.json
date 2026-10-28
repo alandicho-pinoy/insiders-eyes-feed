@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T01:45:37.119177+00:00",
+ "generatedAt": "2026-10-28T14:15:28.955834+00:00",
  "count": 8,
  "alerts": [
   {
@@ -39,6 +39,21 @@
    "side": "buy"
   },
   {
+   "key": "THRM:buy",
+   "headline": "THRM: 2 insiders bought $662,600 \u2014 0.04% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 747%"
+   ],
+   "insiders": [
+    "MASCARENAS PAUL ANTHONY",
+    "Presley William T."
+   ],
+   "totalValue": 662600.0,
+   "ticker": "THRM",
+   "side": "buy"
+  },
+  {
    "key": "AIOK:buy",
    "headline": "AIOK: Panagiotidis Petros Panagiotis (Chief Executive Officer) bought $1.1M \u2014 1.83% of the whole company",
    "reasons": [
@@ -51,6 +66,35 @@
    ],
    "totalValue": 1059603.5813,
    "ticker": "AIOK",
+   "side": "buy"
+  },
+  {
+   "key": "ACN:buy",
+   "headline": "ACN: 2 insiders bought $3.2M \u2014 0.00% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 33%",
+    "$3.0M from the Chair and CEO"
+   ],
+   "insiders": [
+    "Price Paula A",
+    "Sweet Julie Spellman"
+   ],
+   "totalValue": 3200889.0,
+   "ticker": "ACN",
+   "side": "buy"
+  },
+  {
+   "key": "LYCA:buy",
+   "headline": "LYCA: Venrock Healthcare Capital Partners III, L.P. (10% owner) bought $37.7M \u2014 2.79% of the whole company (institution)",
+   "reasons": [
+    "2.79% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Venrock Healthcare Capital Partners III, L.P."
+   ],
+   "totalValue": 37653863.3,
+   "ticker": "LYCA",
    "side": "buy"
   },
   {
@@ -67,56 +111,16 @@
    "side": "buy"
   },
   {
-   "key": "CTEV:buy",
-   "headline": "CTEV: Ares Management Llc (10% owner) bought $6.7M \u2014 1.75% of the whole company (institution)",
+   "key": "LRN:buy",
+   "headline": "LRN: Haggart Dylan G. (director) bought $12.2M \u2014 0.36% of the whole company",
    "reasons": [
-    "1.75% of the whole company (institution)"
+    "0.36% of the whole company"
    ],
    "insiders": [
-    "ARES MANAGEMENT LLC"
+    "Haggart Dylan G."
    ],
-   "totalValue": 6712424.1856,
-   "ticker": "CTEV",
-   "side": "buy"
-  },
-  {
-   "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $24.2M \u2014 0.83% of the whole company (institution)",
-   "reasons": [
-    "0.83% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Conifer Management, L.L.C."
-   ],
-   "totalValue": 24232208.7706,
-   "ticker": "GPI",
-   "side": "buy"
-  },
-  {
-   "key": "OPTU:buy",
-   "headline": "OPTU: Subin Neil S (10% owner) bought $1.2M \u2014 0.42% of the whole company",
-   "reasons": [
-    "0.42% of the whole company",
-    "now owns 5.7% of the company"
-   ],
-   "insiders": [
-    "SUBIN NEIL S"
-   ],
-   "totalValue": 1163551.2948,
-   "ticker": "OPTU",
-   "side": "buy"
-  },
-  {
-   "key": "PDI:buy",
-   "headline": "PDI: Morris Sonya (director) bought $81,624 \u2014 grew their own stake 100%",
-   "reasons": [
-    "grew their own stake 100%"
-   ],
-   "insiders": [
-    "Morris Sonya"
-   ],
-   "totalValue": 81624.0,
-   "ticker": "PDI",
+   "totalValue": 12178122.0,
+   "ticker": "LRN",
    "side": "buy"
   }
  ]
