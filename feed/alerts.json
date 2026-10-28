@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T21:16:10.371799+00:00",
+ "generatedAt": "2026-10-28T01:45:37.119177+00:00",
  "count": 8,
  "alerts": [
   {
@@ -39,81 +39,84 @@
    "side": "buy"
   },
   {
-   "key": "GPI:buy",
-   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $48.5M \u2014 1.67% of the whole company (institution)",
+   "key": "AIOK:buy",
+   "headline": "AIOK: Panagiotidis Petros Panagiotis (Chief Executive Officer) bought $1.1M \u2014 1.83% of the whole company",
    "reasons": [
-    "1.67% of the whole company (institution)"
+    "1.83% of the whole company",
+    "now owns 77.2% of the company",
+    "$1.1M from the Chief Executive Officer"
    ],
    "insiders": [
-    "Conifer Management, L.L.C."
+    "Panagiotidis Petros Panagiotis"
    ],
-   "totalValue": 48464417.5412,
-   "ticker": "GPI",
+   "totalValue": 1059603.5813,
+   "ticker": "AIOK",
    "side": "buy"
   },
   {
-   "key": "KRRO:buy",
-   "headline": "KRRO: Lynx1 Capital Management LP (10% owner) bought $1.8M \u2014 1.00% of the whole company (institution)",
+   "key": "MSM:buy",
+   "headline": "MSM: Jacobson Mitchell (director) bought $29.0M \u2014 0.46% of the whole company",
    "reasons": [
-    "1.00% of the whole company (institution)"
+    "0.46% of the whole company"
    ],
    "insiders": [
-    "Lynx1 Capital Management LP"
+    "JACOBSON MITCHELL"
    ],
-   "totalValue": 1769503.8212,
-   "ticker": "KRRO",
+   "totalValue": 28984169.7372,
+   "ticker": "MSM",
    "side": "buy"
   },
   {
    "key": "CTEV:buy",
-   "headline": "CTEV: Ares Management Llc (10% owner) bought $3.4M \u2014 0.87% of the whole company (institution)",
+   "headline": "CTEV: Ares Management Llc (10% owner) bought $6.7M \u2014 1.75% of the whole company (institution)",
    "reasons": [
-    "0.87% of the whole company (institution)"
+    "1.75% of the whole company (institution)"
    ],
    "insiders": [
     "ARES MANAGEMENT LLC"
    ],
-   "totalValue": 3356212.0928,
+   "totalValue": 6712424.1856,
    "ticker": "CTEV",
    "side": "buy"
   },
   {
-   "key": "PRTA:buy",
-   "headline": "PRTA: Scully William P (10% owner) bought $1.2M \u2014 0.28% of the whole company",
+   "key": "GPI:buy",
+   "headline": "GPI: Conifer Management, L.L.C. (10% owner) bought $24.2M \u2014 0.83% of the whole company (institution)",
    "reasons": [
-    "0.28% of the whole company"
+    "0.83% of the whole company (institution)"
    ],
    "insiders": [
-    "SCULLY WILLIAM P"
+    "Conifer Management, L.L.C."
    ],
-   "totalValue": 1222045.0,
-   "ticker": "PRTA",
+   "totalValue": 24232208.7706,
+   "ticker": "GPI",
    "side": "buy"
   },
   {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $20.2M \u2014 0.13% of the whole company (institution)",
+   "key": "OPTU:buy",
+   "headline": "OPTU: Subin Neil S (10% owner) bought $1.2M \u2014 0.42% of the whole company",
    "reasons": [
-    "0.13% of the whole company (institution)"
+    "0.42% of the whole company",
+    "now owns 5.7% of the company"
    ],
    "insiders": [
-    "NIPPON LIFE INSURANCE CO"
+    "SUBIN NEIL S"
    ],
-   "totalValue": 20230672.9926,
-   "ticker": "CRBG",
+   "totalValue": 1163551.2948,
+   "ticker": "OPTU",
    "side": "buy"
   },
   {
-   "key": "TIPT:buy",
-   "headline": "TIPT: Barnes Michael Gene (Chairman and CEO) bought $502,303 \u2014 now owns 27.2% of the company",
+   "key": "PDI:buy",
+   "headline": "PDI: Morris Sonya (director) bought $81,624 \u2014 grew their own stake 100%",
    "reasons": [
-    "now owns 27.2% of the company"
+    "grew their own stake 100%"
    ],
    "insiders": [
-    "Barnes Michael Gene"
+    "Morris Sonya"
    ],
-   "totalValue": 502303.2,
-   "ticker": "TIPT",
+   "totalValue": 81624.0,
+   "ticker": "PDI",
    "side": "buy"
   }
  ]
