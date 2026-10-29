@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T01:45:47.164386+00:00",
+ "generatedAt": "2026-10-29T14:15:29.979536+00:00",
  "count": 8,
  "alerts": [
   {
@@ -22,18 +22,18 @@
   },
   {
    "key": "BBT:buy",
-   "headline": "BBT: 4 insiders bought $166,955 \u2014 0.01% of the company",
+   "headline": "BBT: 4 insiders bought $253,504 \u2014 0.01% of the company",
    "reasons": [
     "4 insiders bought within days",
     "4 insiders buying"
    ],
    "insiders": [
-    "Fitzgerald Margaret Boles",
+    "Callahan Mary Anne",
     "Hollister Thomas J",
     "Polito Karyn",
     "Rosengren Eric S"
    ],
-   "totalValue": 166954.83,
+   "totalValue": 253503.5,
    "ticker": "BBT",
    "side": "buy"
   },
@@ -68,6 +68,20 @@
    ],
    "totalValue": 662600.0,
    "ticker": "THRM",
+   "side": "buy"
+  },
+  {
+   "key": "XBIT:buy",
+   "headline": "XBIT: Simard John (director) bought $1.4M \u2014 2.34% of the whole company",
+   "reasons": [
+    "2.34% of the whole company",
+    "now owns 13.7% of the company"
+   ],
+   "insiders": [
+    "SIMARD JOHN"
+   ],
+   "totalValue": 1422502.64,
+   "ticker": "XBIT",
    "side": "buy"
   },
   {
@@ -114,19 +128,6 @@
    ],
    "totalValue": 1342810.5,
    "ticker": "TTMI",
-   "side": "buy"
-  },
-  {
-   "key": "LYCA:buy",
-   "headline": "LYCA: Venrock Healthcare Capital Partners III, L.P. (10% owner) bought $37.7M \u2014 2.79% of the whole company (institution)",
-   "reasons": [
-    "2.79% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Venrock Healthcare Capital Partners III, L.P."
-   ],
-   "totalValue": 37653863.3,
-   "ticker": "LYCA",
    "side": "buy"
   }
  ]
