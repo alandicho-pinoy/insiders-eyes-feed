@@ -1,58 +1,40 @@
 {
- "generatedAt": "2026-10-29T14:15:29.979536+00:00",
+ "generatedAt": "2026-10-29T21:15:33.300467+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "STC:buy",
-   "headline": "STC: 5 insiders bought $460,970 \u2014 0.04% of the company",
+   "key": "NPB:buy",
+   "headline": "NPB: 4 insiders bought $1.8M \u2014 0.33% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying"
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "0.28% of the whole company"
    ],
    "insiders": [
-    "Apel Thomas G",
-    "BRADLEY C ALLEN JR",
-    "Corey William S. Jr.",
-    "EPPINGER FREDERICK H",
-    "Matz Deborah Jane"
+    "Boer Carrie L",
+    "Chaudhary Rajeev Kumar",
+    "Long Joseph B",
+    "Williams Charles Alan"
    ],
-   "totalValue": 460970.0,
-   "ticker": "STC",
+   "totalValue": 1819348.972,
+   "ticker": "NPB",
    "side": "buy"
   },
   {
    "key": "BBT:buy",
-   "headline": "BBT: 4 insiders bought $253,504 \u2014 0.01% of the company",
+   "headline": "BBT: 4 insiders bought $189,935 \u2014 0.01% of the company",
    "reasons": [
     "4 insiders bought within days",
     "4 insiders buying"
    ],
    "insiders": [
     "Callahan Mary Anne",
-    "Hollister Thomas J",
+    "Fitzgerald Margaret Boles",
     "Polito Karyn",
     "Rosengren Eric S"
    ],
-   "totalValue": 253503.5,
+   "totalValue": 189934.66,
    "ticker": "BBT",
-   "side": "buy"
-  },
-  {
-   "key": "NPB:buy",
-   "headline": "NPB: 3 insiders bought $1.8M \u2014 0.33% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.28% of the whole company",
-    "3 insiders buying",
-    "now owns 7.4% of the company"
-   ],
-   "insiders": [
-    "Boer Carrie L",
-    "Long Joseph B",
-    "Williams Charles Alan"
-   ],
-   "totalValue": 1771951.372,
-   "ticker": "NPB",
    "side": "buy"
   },
   {
@@ -71,17 +53,34 @@
    "side": "buy"
   },
   {
-   "key": "XBIT:buy",
-   "headline": "XBIT: Simard John (director) bought $1.4M \u2014 2.34% of the whole company",
+   "key": "HBAN:buy",
+   "headline": "HBAN: 2 insiders bought $453,554 \u2014 0.00% of the company",
    "reasons": [
-    "2.34% of the whole company",
-    "now owns 13.7% of the company"
+    "2 insiders bought within days",
+    "grew their own stake 933%"
    ],
    "insiders": [
-    "SIMARD JOHN"
+    "ROLLINS JAMES D III",
+    "TORGOW GARY"
    ],
-   "totalValue": 1422502.64,
-   "ticker": "XBIT",
+   "totalValue": 453554.5,
+   "ticker": "HBAN",
+   "side": "buy"
+  },
+  {
+   "key": "ACN:buy",
+   "headline": "ACN: 2 insiders bought $6.4M \u2014 0.00% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 100%",
+    "$6.0M from the Chair and CEO"
+   ],
+   "insiders": [
+    "Price Paula A",
+    "Sweet Julie Spellman"
+   ],
+   "totalValue": 6401778.0,
+   "ticker": "ACN",
    "side": "buy"
   },
   {
@@ -100,22 +99,6 @@
    "side": "buy"
   },
   {
-   "key": "ACN:buy",
-   "headline": "ACN: 2 insiders bought $3.2M \u2014 0.00% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 33%",
-    "$3.0M from the Chair and CEO"
-   ],
-   "insiders": [
-    "Price Paula A",
-    "Sweet Julie Spellman"
-   ],
-   "totalValue": 3200889.0,
-   "ticker": "ACN",
-   "side": "buy"
-  },
-  {
    "key": "TTMI:buy",
    "headline": "TTMI: 2 insiders bought $1.3M \u2014 0.01% of the company",
    "reasons": [
@@ -128,6 +111,20 @@
    ],
    "totalValue": 1342810.5,
    "ticker": "TTMI",
+   "side": "buy"
+  },
+  {
+   "key": "CITR:buy",
+   "headline": "CITR: Huff Craig A (director) bought $1.0M \u2014 1.67% of the whole company",
+   "reasons": [
+    "1.67% of the whole company",
+    "now owns 15.7% of the company"
+   ],
+   "insiders": [
+    "HUFF CRAIG A"
+   ],
+   "totalValue": 1000000.0,
+   "ticker": "CITR",
    "side": "buy"
   }
  ]
