@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T21:15:53.410793+00:00",
+ "generatedAt": "2026-10-29T01:45:47.164386+00:00",
  "count": 8,
  "alerts": [
   {
@@ -102,6 +102,21 @@
    "side": "buy"
   },
   {
+   "key": "TTMI:buy",
+   "headline": "TTMI: 2 insiders bought $1.3M \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 39%"
+   ],
+   "insiders": [
+    "Ali Wajid",
+    "Roks Edwin"
+   ],
+   "totalValue": 1342810.5,
+   "ticker": "TTMI",
+   "side": "buy"
+  },
+  {
    "key": "LYCA:buy",
    "headline": "LYCA: Venrock Healthcare Capital Partners III, L.P. (10% owner) bought $37.7M \u2014 2.79% of the whole company (institution)",
    "reasons": [
@@ -112,20 +127,6 @@
    ],
    "totalValue": 37653863.3,
    "ticker": "LYCA",
-   "side": "buy"
-  },
-  {
-   "key": "XBIT:buy",
-   "headline": "XBIT: Simard John (director) bought $711,251 \u2014 1.17% of the whole company",
-   "reasons": [
-    "1.17% of the whole company",
-    "now owns 13.7% of the company"
-   ],
-   "insiders": [
-    "SIMARD JOHN"
-   ],
-   "totalValue": 711251.32,
-   "ticker": "XBIT",
    "side": "buy"
   }
  ]
