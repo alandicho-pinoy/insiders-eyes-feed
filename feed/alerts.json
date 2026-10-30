@@ -1,40 +1,56 @@
 {
- "generatedAt": "2026-10-29T21:15:33.300467+00:00",
+ "generatedAt": "2026-10-30T01:46:02.541675+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "NPB:buy",
-   "headline": "NPB: 4 insiders bought $1.8M \u2014 0.33% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "0.28% of the whole company"
-   ],
-   "insiders": [
-    "Boer Carrie L",
-    "Chaudhary Rajeev Kumar",
-    "Long Joseph B",
-    "Williams Charles Alan"
-   ],
-   "totalValue": 1819348.972,
-   "ticker": "NPB",
-   "side": "buy"
-  },
-  {
    "key": "BBT:buy",
-   "headline": "BBT: 4 insiders bought $189,935 \u2014 0.01% of the company",
+   "headline": "BBT: 5 insiders bought $263,627 \u2014 0.01% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
+    "5 insiders bought within days",
+    "5 insiders buying"
    ],
    "insiders": [
     "Callahan Mary Anne",
     "Fitzgerald Margaret Boles",
+    "Hollister Thomas J",
     "Polito Karyn",
     "Rosengren Eric S"
    ],
-   "totalValue": 189934.66,
+   "totalValue": 263626.83,
    "ticker": "BBT",
+   "side": "buy"
+  },
+  {
+   "key": "STC:buy",
+   "headline": "STC: 5 insiders bought $460,970 \u2014 0.04% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying"
+   ],
+   "insiders": [
+    "Apel Thomas G",
+    "BRADLEY C ALLEN JR",
+    "Corey William S. Jr.",
+    "EPPINGER FREDERICK H",
+    "Matz Deborah Jane"
+   ],
+   "totalValue": 460970.0,
+   "ticker": "STC",
+   "side": "buy"
+  },
+  {
+   "key": "AIOK:buy",
+   "headline": "AIOK: Panagiotidis Petros Panagiotis (Chief Executive Officer) bought $2.1M \u2014 3.66% of the whole company",
+   "reasons": [
+    "3.66% of the whole company",
+    "now owns 77.2% of the company",
+    "$2.1M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "Panagiotidis Petros Panagiotis"
+   ],
+   "totalValue": 2119207.1626,
+   "ticker": "AIOK",
    "side": "buy"
   },
   {
@@ -69,33 +85,18 @@
   },
   {
    "key": "ACN:buy",
-   "headline": "ACN: 2 insiders bought $6.4M \u2014 0.00% of the company",
+   "headline": "ACN: 2 insiders bought $3.2M \u2014 0.00% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 100%",
-    "$6.0M from the Chair and CEO"
+    "grew their own stake 33%",
+    "$3.0M from the Chair and CEO"
    ],
    "insiders": [
     "Price Paula A",
     "Sweet Julie Spellman"
    ],
-   "totalValue": 6401778.0,
+   "totalValue": 3200889.0,
    "ticker": "ACN",
-   "side": "buy"
-  },
-  {
-   "key": "AIOK:buy",
-   "headline": "AIOK: Panagiotidis Petros Panagiotis (Chief Executive Officer) bought $1.1M \u2014 1.83% of the whole company",
-   "reasons": [
-    "1.83% of the whole company",
-    "now owns 77.2% of the company",
-    "$1.1M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Panagiotidis Petros Panagiotis"
-   ],
-   "totalValue": 1059603.5813,
-   "ticker": "AIOK",
    "side": "buy"
   },
   {
@@ -114,17 +115,16 @@
    "side": "buy"
   },
   {
-   "key": "CITR:buy",
-   "headline": "CITR: Huff Craig A (director) bought $1.0M \u2014 1.67% of the whole company",
+   "key": "MSM:buy",
+   "headline": "MSM: Jacobson Mitchell (director) bought $58.0M \u2014 0.91% of the whole company",
    "reasons": [
-    "1.67% of the whole company",
-    "now owns 15.7% of the company"
+    "0.91% of the whole company"
    ],
    "insiders": [
-    "HUFF CRAIG A"
+    "JACOBSON MITCHELL"
    ],
-   "totalValue": 1000000.0,
-   "ticker": "CITR",
+   "totalValue": 57968339.4744,
+   "ticker": "MSM",
    "side": "buy"
   }
  ]
