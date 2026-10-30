@@ -1,71 +1,22 @@
 {
- "generatedAt": "2026-10-30T01:46:02.541675+00:00",
+ "generatedAt": "2026-10-30T14:15:20.772777+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBT:buy",
-   "headline": "BBT: 5 insiders bought $263,627 \u2014 0.01% of the company",
+   "headline": "BBT: 4 insiders bought $158,643 \u2014 0.01% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying"
+    "4 insiders bought within days",
+    "4 insiders buying"
    ],
    "insiders": [
     "Callahan Mary Anne",
     "Fitzgerald Margaret Boles",
-    "Hollister Thomas J",
     "Polito Karyn",
     "Rosengren Eric S"
    ],
-   "totalValue": 263626.83,
+   "totalValue": 158643.33,
    "ticker": "BBT",
-   "side": "buy"
-  },
-  {
-   "key": "STC:buy",
-   "headline": "STC: 5 insiders bought $460,970 \u2014 0.04% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying"
-   ],
-   "insiders": [
-    "Apel Thomas G",
-    "BRADLEY C ALLEN JR",
-    "Corey William S. Jr.",
-    "EPPINGER FREDERICK H",
-    "Matz Deborah Jane"
-   ],
-   "totalValue": 460970.0,
-   "ticker": "STC",
-   "side": "buy"
-  },
-  {
-   "key": "AIOK:buy",
-   "headline": "AIOK: Panagiotidis Petros Panagiotis (Chief Executive Officer) bought $2.1M \u2014 3.66% of the whole company",
-   "reasons": [
-    "3.66% of the whole company",
-    "now owns 77.2% of the company",
-    "$2.1M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Panagiotidis Petros Panagiotis"
-   ],
-   "totalValue": 2119207.1626,
-   "ticker": "AIOK",
-   "side": "buy"
-  },
-  {
-   "key": "THRM:buy",
-   "headline": "THRM: 2 insiders bought $662,600 \u2014 0.04% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 747%"
-   ],
-   "insiders": [
-    "MASCARENAS PAUL ANTHONY",
-    "Presley William T."
-   ],
-   "totalValue": 662600.0,
-   "ticker": "THRM",
    "side": "buy"
   },
   {
@@ -115,16 +66,57 @@
    "side": "buy"
   },
   {
-   "key": "MSM:buy",
-   "headline": "MSM: Jacobson Mitchell (director) bought $58.0M \u2014 0.91% of the whole company",
+   "key": "XBIT:buy",
+   "headline": "XBIT: Simard John (director) bought $711,251 \u2014 1.17% of the whole company",
    "reasons": [
-    "0.91% of the whole company"
+    "1.17% of the whole company",
+    "now owns 13.7% of the company"
    ],
    "insiders": [
-    "JACOBSON MITCHELL"
+    "SIMARD JOHN"
    ],
-   "totalValue": 57968339.4744,
-   "ticker": "MSM",
+   "totalValue": 711251.32,
+   "ticker": "XBIT",
+   "side": "buy"
+  },
+  {
+   "key": "XYL:buy",
+   "headline": "XYL: Koch D Christian (director) bought $985,600 \u2014 grew their own stake 882%",
+   "reasons": [
+    "grew their own stake 882%"
+   ],
+   "insiders": [
+    "KOCH D CHRISTIAN"
+   ],
+   "totalValue": 985600.0,
+   "ticker": "XYL",
+   "side": "buy"
+  },
+  {
+   "key": "TFC:buy",
+   "headline": "TFC: Lyons Michael P. (President & CEO) bought $1.2M \u2014 grew their own stake 119%",
+   "reasons": [
+    "grew their own stake 119%",
+    "$1.2M from the President & CEO"
+   ],
+   "insiders": [
+    "Lyons Michael P."
+   ],
+   "totalValue": 1209050.0,
+   "ticker": "TFC",
+   "side": "buy"
+  },
+  {
+   "key": "PDI:buy",
+   "headline": "PDI: Morris Sonya (director) bought $81,624 \u2014 grew their own stake 100%",
+   "reasons": [
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Morris Sonya"
+   ],
+   "totalValue": 81624.0,
+   "ticker": "PDI",
    "side": "buy"
   }
  ]
