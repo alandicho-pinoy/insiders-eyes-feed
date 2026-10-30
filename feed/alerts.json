@@ -1,42 +1,75 @@
 {
- "generatedAt": "2026-10-30T14:15:20.772777+00:00",
+ "generatedAt": "2026-10-30T21:16:21.196556+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "BBT:buy",
-   "headline": "BBT: 4 insiders bought $158,643 \u2014 0.01% of the company",
+   "headline": "BBT: 5 insiders bought $169,343 \u2014 0.01% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
+    "5 insiders bought within days",
+    "5 insiders buying"
    ],
    "insiders": [
     "Callahan Mary Anne",
+    "Charnley Nina A",
     "Fitzgerald Margaret Boles",
     "Polito Karyn",
     "Rosengren Eric S"
    ],
-   "totalValue": 158643.33,
+   "totalValue": 169342.83,
    "ticker": "BBT",
    "side": "buy"
   },
   {
-   "key": "HBAN:buy",
-   "headline": "HBAN: 2 insiders bought $453,554 \u2014 0.00% of the company",
+   "key": "NPB:buy",
+   "headline": "NPB: 4 insiders bought $1.8M \u2014 0.33% of the company",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 933%"
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "0.28% of the whole company"
    ],
    "insiders": [
-    "ROLLINS JAMES D III",
-    "TORGOW GARY"
+    "Boer Carrie L",
+    "Chaudhary Rajeev Kumar",
+    "Long Joseph B",
+    "Williams Charles Alan"
    ],
-   "totalValue": 453554.5,
-   "ticker": "HBAN",
+   "totalValue": 1819348.972,
+   "ticker": "NPB",
+   "side": "buy"
+  },
+  {
+   "key": "XBIT:buy",
+   "headline": "XBIT: Simard John (director) bought $1.4M \u2014 2.34% of the whole company",
+   "reasons": [
+    "2.34% of the whole company",
+    "now owns 13.7% of the company"
+   ],
+   "insiders": [
+    "SIMARD JOHN"
+   ],
+   "totalValue": 1422502.64,
+   "ticker": "XBIT",
+   "side": "buy"
+  },
+  {
+   "key": "TTMI:buy",
+   "headline": "TTMI: 2 insiders bought $2.7M \u2014 0.03% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 126%"
+   ],
+   "insiders": [
+    "Ali Wajid",
+    "Roks Edwin"
+   ],
+   "totalValue": 2685621.0,
+   "ticker": "TTMI",
    "side": "buy"
   },
   {
    "key": "ACN:buy",
-   "headline": "ACN: 2 insiders bought $3.2M \u2014 0.00% of the company",
+   "headline": "ACN: 2 insiders bought $3.4M \u2014 0.00% of the company",
    "reasons": [
     "2 insiders bought within days",
     "grew their own stake 33%",
@@ -46,77 +79,51 @@
     "Price Paula A",
     "Sweet Julie Spellman"
    ],
-   "totalValue": 3200889.0,
+   "totalValue": 3400736.76,
    "ticker": "ACN",
    "side": "buy"
   },
   {
-   "key": "TTMI:buy",
-   "headline": "TTMI: 2 insiders bought $1.3M \u2014 0.01% of the company",
+   "key": "AIOK:buy",
+   "headline": "AIOK: Panagiotidis Petros Panagiotis (Chief Executive Officer) bought $1.1M \u2014 1.83% of the whole company",
+   "reasons": [
+    "1.83% of the whole company",
+    "now owns 77.2% of the company",
+    "$1.1M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "Panagiotidis Petros Panagiotis"
+   ],
+   "totalValue": 1059603.5813,
+   "ticker": "AIOK",
+   "side": "buy"
+  },
+  {
+   "key": "FFIN:buy",
+   "headline": "FFIN: 2 insiders bought $124,515 \u2014 0.00% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 39%"
+    "grew their own stake 50%"
    ],
    "insiders": [
-    "Ali Wajid",
-    "Roks Edwin"
+    "Denny Michael B.",
+    "Nickles Robert Clark Jr"
    ],
-   "totalValue": 1342810.5,
-   "ticker": "TTMI",
+   "totalValue": 124514.6,
+   "ticker": "FFIN",
    "side": "buy"
   },
   {
-   "key": "XBIT:buy",
-   "headline": "XBIT: Simard John (director) bought $711,251 \u2014 1.17% of the whole company",
+   "key": "LYCA:buy",
+   "headline": "LYCA: Venrock Healthcare Capital Partners III, L.P. (10% owner) bought $37.7M \u2014 2.79% of the whole company (institution)",
    "reasons": [
-    "1.17% of the whole company",
-    "now owns 13.7% of the company"
+    "2.79% of the whole company (institution)"
    ],
    "insiders": [
-    "SIMARD JOHN"
+    "Venrock Healthcare Capital Partners III, L.P."
    ],
-   "totalValue": 711251.32,
-   "ticker": "XBIT",
-   "side": "buy"
-  },
-  {
-   "key": "XYL:buy",
-   "headline": "XYL: Koch D Christian (director) bought $985,600 \u2014 grew their own stake 882%",
-   "reasons": [
-    "grew their own stake 882%"
-   ],
-   "insiders": [
-    "KOCH D CHRISTIAN"
-   ],
-   "totalValue": 985600.0,
-   "ticker": "XYL",
-   "side": "buy"
-  },
-  {
-   "key": "TFC:buy",
-   "headline": "TFC: Lyons Michael P. (President & CEO) bought $1.2M \u2014 grew their own stake 119%",
-   "reasons": [
-    "grew their own stake 119%",
-    "$1.2M from the President & CEO"
-   ],
-   "insiders": [
-    "Lyons Michael P."
-   ],
-   "totalValue": 1209050.0,
-   "ticker": "TFC",
-   "side": "buy"
-  },
-  {
-   "key": "PDI:buy",
-   "headline": "PDI: Morris Sonya (director) bought $81,624 \u2014 grew their own stake 100%",
-   "reasons": [
-    "grew their own stake 100%"
-   ],
-   "insiders": [
-    "Morris Sonya"
-   ],
-   "totalValue": 81624.0,
-   "ticker": "PDI",
+   "totalValue": 37653863.3,
+   "ticker": "LYCA",
    "side": "buy"
   }
  ]
