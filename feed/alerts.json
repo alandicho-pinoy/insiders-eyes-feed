@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T21:16:21.196556+00:00",
+ "generatedAt": "2026-10-31T01:45:51.975330+00:00",
  "count": 8,
  "alerts": [
   {
@@ -39,48 +39,33 @@
    "side": "buy"
   },
   {
-   "key": "XBIT:buy",
-   "headline": "XBIT: Simard John (director) bought $1.4M \u2014 2.34% of the whole company",
+   "key": "HBAN:buy",
+   "headline": "HBAN: 2 insiders bought $453,554 \u2014 0.00% of the company",
    "reasons": [
-    "2.34% of the whole company",
-    "now owns 13.7% of the company"
+    "2 insiders bought within days",
+    "grew their own stake 933%"
    ],
    "insiders": [
-    "SIMARD JOHN"
+    "ROLLINS JAMES D III",
+    "TORGOW GARY"
    ],
-   "totalValue": 1422502.64,
-   "ticker": "XBIT",
+   "totalValue": 453554.5,
+   "ticker": "HBAN",
    "side": "buy"
   },
   {
-   "key": "TTMI:buy",
-   "headline": "TTMI: 2 insiders bought $2.7M \u2014 0.03% of the company",
+   "key": "RAPP:buy",
+   "headline": "RAPP: Healy James (director) bought $20.4M \u2014 1.69% of the whole company",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 126%"
+    "1.69% of the whole company",
+    "grew their own stake 53%",
+    "now owns 5.9% of the company"
    ],
    "insiders": [
-    "Ali Wajid",
-    "Roks Edwin"
+    "HEALY JAMES"
    ],
-   "totalValue": 2685621.0,
-   "ticker": "TTMI",
-   "side": "buy"
-  },
-  {
-   "key": "ACN:buy",
-   "headline": "ACN: 2 insiders bought $3.4M \u2014 0.00% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 33%",
-    "$3.0M from the Chair and CEO"
-   ],
-   "insiders": [
-    "Price Paula A",
-    "Sweet Julie Spellman"
-   ],
-   "totalValue": 3400736.76,
-   "ticker": "ACN",
+   "totalValue": 20359080.0,
+   "ticker": "RAPP",
    "side": "buy"
   },
   {
@@ -99,6 +84,37 @@
    "side": "buy"
   },
   {
+   "key": "ACN:buy",
+   "headline": "ACN: 2 insiders bought $3.2M \u2014 0.00% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 33%",
+    "$3.0M from the Chair and CEO"
+   ],
+   "insiders": [
+    "Price Paula A",
+    "Sweet Julie Spellman"
+   ],
+   "totalValue": 3200889.0,
+   "ticker": "ACN",
+   "side": "buy"
+  },
+  {
+   "key": "TTMI:buy",
+   "headline": "TTMI: 2 insiders bought $1.3M \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 39%"
+   ],
+   "insiders": [
+    "Ali Wajid",
+    "Roks Edwin"
+   ],
+   "totalValue": 1342810.5,
+   "ticker": "TTMI",
+   "side": "buy"
+  },
+  {
    "key": "FFIN:buy",
    "headline": "FFIN: 2 insiders bought $124,515 \u2014 0.00% of the company",
    "reasons": [
@@ -111,19 +127,6 @@
    ],
    "totalValue": 124514.6,
    "ticker": "FFIN",
-   "side": "buy"
-  },
-  {
-   "key": "LYCA:buy",
-   "headline": "LYCA: Venrock Healthcare Capital Partners III, L.P. (10% owner) bought $37.7M \u2014 2.79% of the whole company (institution)",
-   "reasons": [
-    "2.79% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Venrock Healthcare Capital Partners III, L.P."
-   ],
-   "totalValue": 37653863.3,
-   "ticker": "LYCA",
    "side": "buy"
   }
  ]
