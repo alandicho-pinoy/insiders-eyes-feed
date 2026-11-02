@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T15:15:17.893725+00:00",
+ "generatedAt": "2026-11-02T22:16:37.947344+00:00",
  "count": 8,
  "alerts": [
   {
@@ -18,6 +18,64 @@
    "side": "buy"
   },
   {
+   "key": "OCFC:buy",
+   "headline": "OCFC: 2 insiders bought $267,777 \u2014 0.02% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 32%"
+   ],
+   "insiders": [
+    "Barrett Patrick Sean",
+    "Katsoulis Nicos"
+   ],
+   "totalValue": 267777.0,
+   "ticker": "OCFC",
+   "side": "buy"
+  },
+  {
+   "key": "BBTX:buy",
+   "headline": "BBTX: 2 insiders bought $12.0M \u2014 1.51% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.75% of the whole company (institution)",
+    "0.75% of the whole company",
+    "now owns 18.6% of the company"
+   ],
+   "insiders": [
+    "Jeggle Helmut Wolfgang",
+    "Salvia Investment GmbH"
+   ],
+   "totalValue": 12000000.0,
+   "ticker": "BBTX",
+   "side": "buy"
+  },
+  {
+   "key": "HDSN:buy",
+   "headline": "HDSN: Hartree Partners, LP (10% owner) bought $1.3M \u2014 0.74% of the whole company (institution)",
+   "reasons": [
+    "0.74% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Hartree Partners, LP"
+   ],
+   "totalValue": 1313588.258,
+   "ticker": "HDSN",
+   "side": "buy"
+  },
+  {
+   "key": "ATEC:buy",
+   "headline": "ATEC: Demski David M (director) bought $817,200 \u2014 grew their own stake 32%",
+   "reasons": [
+    "grew their own stake 32%"
+   ],
+   "insiders": [
+    "Demski David M"
+   ],
+   "totalValue": 817200.0,
+   "ticker": "ATEC",
+   "side": "buy"
+  },
+  {
    "key": "FFIN:buy",
    "headline": "FFIN: Denny Michael B. (director) bought $99,816 \u2014 grew their own stake 50%",
    "reasons": [
@@ -32,14 +90,14 @@
   },
   {
    "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $8.7M \u2014 now owns 29.6% of the company (institution)",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $17.4M \u2014 0.11% of the whole company (institution)",
    "reasons": [
-    "now owns 29.6% of the company (institution)"
+    "0.11% of the whole company (institution)"
    ],
    "insiders": [
     "NIPPON LIFE INSURANCE CO"
    ],
-   "totalValue": 8671494.6108,
+   "totalValue": 17422447.7646,
    "ticker": "CRBG",
    "side": "buy"
   },
@@ -54,58 +112,6 @@
    ],
    "totalValue": 30229.3,
    "ticker": "PEO",
-   "side": "buy"
-  },
-  {
-   "key": "MED:buy",
-   "headline": "MED: Kiai Parsa (director) bought $68,027 \u2014 now owns 6.4% of the company",
-   "reasons": [
-    "now owns 6.4% of the company"
-   ],
-   "insiders": [
-    "Kiai Parsa"
-   ],
-   "totalValue": 68027.1269,
-   "ticker": "MED",
-   "side": "buy"
-  },
-  {
-   "key": "LYCA:buy",
-   "headline": "LYCA: Venrock Healthcare Capital Partners III, L.P. (10% owner) bought $644,711 \u2014 now owns 13.1% of the company (institution)",
-   "reasons": [
-    "now owns 13.1% of the company (institution)"
-   ],
-   "insiders": [
-    "Venrock Healthcare Capital Partners III, L.P."
-   ],
-   "totalValue": 644711.28,
-   "ticker": "LYCA",
-   "side": "buy"
-  },
-  {
-   "key": "STIM:buy",
-   "headline": "STIM: Chernett Jorey (10% owner) bought $40,860 \u2014 now owns 13.9% of the company",
-   "reasons": [
-    "now owns 13.9% of the company"
-   ],
-   "insiders": [
-    "Chernett Jorey"
-   ],
-   "totalValue": 40860.0,
-   "ticker": "STIM",
-   "side": "buy"
-  },
-  {
-   "key": "ECF:buy",
-   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $70,923 \u2014 now owns 13.2% of the company (institution)",
-   "reasons": [
-    "now owns 13.2% of the company (institution)"
-   ],
-   "insiders": [
-    "Saba Capital Management, L.P."
-   ],
-   "totalValue": 70923.25,
-   "ticker": "ECF",
    "side": "buy"
   }
  ]
