@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T02:45:04.803186+00:00",
+ "generatedAt": "2026-11-02T15:15:17.893725+00:00",
  "count": 8,
  "alerts": [
   {
@@ -18,33 +18,6 @@
    "side": "buy"
   },
   {
-   "key": "XYL:buy",
-   "headline": "XYL: Koch D Christian (director) bought $985,600 \u2014 grew their own stake 882%",
-   "reasons": [
-    "grew their own stake 882%"
-   ],
-   "insiders": [
-    "KOCH D CHRISTIAN"
-   ],
-   "totalValue": 985600.0,
-   "ticker": "XYL",
-   "side": "buy"
-  },
-  {
-   "key": "TFC:buy",
-   "headline": "TFC: Lyons Michael P. (President & CEO) bought $1.2M \u2014 grew their own stake 119%",
-   "reasons": [
-    "grew their own stake 119%",
-    "$1.2M from the President & CEO"
-   ],
-   "insiders": [
-    "Lyons Michael P."
-   ],
-   "totalValue": 1209050.0,
-   "ticker": "TFC",
-   "side": "buy"
-  },
-  {
    "key": "FFIN:buy",
    "headline": "FFIN: Denny Michael B. (director) bought $99,816 \u2014 grew their own stake 50%",
    "reasons": [
@@ -59,28 +32,15 @@
   },
   {
    "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $14.9M \u2014 now owns 29.6% of the company (institution)",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $8.7M \u2014 now owns 29.6% of the company (institution)",
    "reasons": [
     "now owns 29.6% of the company (institution)"
    ],
    "insiders": [
     "NIPPON LIFE INSURANCE CO"
    ],
-   "totalValue": 14930680.4773,
+   "totalValue": 8671494.6108,
    "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "SAMG:buy",
-   "headline": "SAMG: Equinox Partners Investment Management LLC (10% owner) bought $348,694 \u2014 0.41% of the whole company (institution)",
-   "reasons": [
-    "0.41% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Equinox Partners Investment Management LLC"
-   ],
-   "totalValue": 348694.45,
-   "ticker": "SAMG",
    "side": "buy"
   },
   {
@@ -97,16 +57,55 @@
    "side": "buy"
   },
   {
-   "key": "DINO:buy",
-   "headline": "DINO: Myers Franklin (CEO) bought $1.1M \u2014 $1.1M from the CEO",
+   "key": "MED:buy",
+   "headline": "MED: Kiai Parsa (director) bought $68,027 \u2014 now owns 6.4% of the company",
    "reasons": [
-    "$1.1M from the CEO"
+    "now owns 6.4% of the company"
    ],
    "insiders": [
-    "MYERS FRANKLIN"
+    "Kiai Parsa"
    ],
-   "totalValue": 1108000.0,
-   "ticker": "DINO",
+   "totalValue": 68027.1269,
+   "ticker": "MED",
+   "side": "buy"
+  },
+  {
+   "key": "LYCA:buy",
+   "headline": "LYCA: Venrock Healthcare Capital Partners III, L.P. (10% owner) bought $644,711 \u2014 now owns 13.1% of the company (institution)",
+   "reasons": [
+    "now owns 13.1% of the company (institution)"
+   ],
+   "insiders": [
+    "Venrock Healthcare Capital Partners III, L.P."
+   ],
+   "totalValue": 644711.28,
+   "ticker": "LYCA",
+   "side": "buy"
+  },
+  {
+   "key": "STIM:buy",
+   "headline": "STIM: Chernett Jorey (10% owner) bought $40,860 \u2014 now owns 13.9% of the company",
+   "reasons": [
+    "now owns 13.9% of the company"
+   ],
+   "insiders": [
+    "Chernett Jorey"
+   ],
+   "totalValue": 40860.0,
+   "ticker": "STIM",
+   "side": "buy"
+  },
+  {
+   "key": "ECF:buy",
+   "headline": "ECF: Saba Capital Management, L.P. (10% owner) bought $70,923 \u2014 now owns 13.2% of the company (institution)",
+   "reasons": [
+    "now owns 13.2% of the company (institution)"
+   ],
+   "insiders": [
+    "Saba Capital Management, L.P."
+   ],
+   "totalValue": 70923.25,
+   "ticker": "ECF",
    "side": "buy"
   }
  ]
