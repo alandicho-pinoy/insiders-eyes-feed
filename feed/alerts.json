@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T15:15:20.250368+00:00",
+ "generatedAt": "2026-11-03T22:18:17.942315+00:00",
  "count": 8,
  "alerts": [
   {
@@ -19,6 +19,22 @@
    "side": "buy"
   },
   {
+   "key": "STRZ:buy",
+   "headline": "STRZ: 3 insiders bought $176,706 \u2014 0.05% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Hirsch Jeffrey",
+    "Kapenstein James M.",
+    "MACDONALD SCOTT D"
+   ],
+   "totalValue": 176706.4,
+   "ticker": "STRZ",
+   "side": "buy"
+  },
+  {
    "key": "ASPE:buy",
    "headline": "ASPE: 2 insiders bought $38.0M \u2014 10.63% of the company",
    "reasons": [
@@ -32,6 +48,52 @@
    ],
    "totalValue": 37999995.0,
    "ticker": "ASPE",
+   "side": "buy"
+  },
+  {
+   "key": "LKQ:buy",
+   "headline": "LKQ: 2 insiders bought $591,530 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 62%",
+    "grew their own stake 91%"
+   ],
+   "insiders": [
+    "CLARKE ANDREW C",
+    "Powell Michael Scott"
+   ],
+   "totalValue": 591530.0,
+   "ticker": "LKQ",
+   "side": "buy"
+  },
+  {
+   "key": "ENPH:buy",
+   "headline": "ENPH: 2 insiders bought $298,104 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Kothandaraman Badrinarayanan",
+    "Trivedi Shanker"
+   ],
+   "totalValue": 298104.0,
+   "ticker": "ENPH",
+   "side": "buy"
+  },
+  {
+   "key": "OCFC:buy",
+   "headline": "OCFC: 2 insiders bought $188,285 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 32%"
+   ],
+   "insiders": [
+    "Farris Jack M.",
+    "Katsoulis Nicos"
+   ],
+   "totalValue": 188285.03,
+   "ticker": "OCFC",
    "side": "buy"
   },
   {
@@ -52,70 +114,17 @@
    "side": "buy"
   },
   {
-   "key": "HDSN:buy",
-   "headline": "HDSN: Hartree Partners, LP (10% owner) bought $2.6M \u2014 1.48% of the whole company (institution)",
+   "key": "MGM:buy",
+   "headline": "MGM: Meister Keith A. (director) bought $51.7M \u2014 0.66% of the whole company",
    "reasons": [
-    "1.48% of the whole company (institution)"
+    "0.66% of the whole company",
+    "grew their own stake 33%"
    ],
    "insiders": [
-    "Hartree Partners, LP"
+    "Meister Keith A."
    ],
-   "totalValue": 2627176.516,
-   "ticker": "HDSN",
-   "side": "buy"
-  },
-  {
-   "key": "ROL:buy",
-   "headline": "ROL: 2 insiders bought $99.9M \u2014 0.58% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.29% of the whole company (institution)"
-   ],
-   "insiders": [
-    "LOR INC",
-    "R. Randall Rollins Voting Trust U/A dated August 25, 1994"
-   ],
-   "totalValue": 99913330.6656,
-   "ticker": "ROL",
-   "side": "buy"
-  },
-  {
-   "key": "JBLU:buy",
-   "headline": "JBLU: Boneparth Peter (director) bought $300,000 \u2014 grew their own stake 75%",
-   "reasons": [
-    "grew their own stake 75%"
-   ],
-   "insiders": [
-    "BONEPARTH PETER"
-   ],
-   "totalValue": 300000.0,
-   "ticker": "JBLU",
-   "side": "buy"
-  },
-  {
-   "key": "RSI:buy",
-   "headline": "RSI: Winter Thomas (director) bought $118,310 \u2014 grew their own stake 49%",
-   "reasons": [
-    "grew their own stake 49%"
-   ],
-   "insiders": [
-    "Winter Thomas"
-   ],
-   "totalValue": 118310.0,
-   "ticker": "RSI",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $8.8M \u2014 now owns 29.6% of the company (institution)",
-   "reasons": [
-    "now owns 29.6% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 8750953.1538,
-   "ticker": "CRBG",
+   "totalValue": 51740827.48,
+   "ticker": "MGM",
    "side": "buy"
   }
  ]
