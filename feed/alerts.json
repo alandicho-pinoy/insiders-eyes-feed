@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T22:16:37.947344+00:00",
+ "generatedAt": "2026-11-03T02:45:58.275278+00:00",
  "count": 8,
  "alerts": [
   {
@@ -50,6 +50,34 @@
    "side": "buy"
   },
   {
+   "key": "ROL:buy",
+   "headline": "ROL: 2 insiders bought $99.9M \u2014 0.58% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.29% of the whole company (institution)"
+   ],
+   "insiders": [
+    "LOR INC",
+    "R. Randall Rollins Voting Trust U/A dated August 25, 1994"
+   ],
+   "totalValue": 99913330.6656,
+   "ticker": "ROL",
+   "side": "buy"
+  },
+  {
+   "key": "JBLU:buy",
+   "headline": "JBLU: Boneparth Peter (director) bought $300,000 \u2014 grew their own stake 75%",
+   "reasons": [
+    "grew their own stake 75%"
+   ],
+   "insiders": [
+    "BONEPARTH PETER"
+   ],
+   "totalValue": 300000.0,
+   "ticker": "JBLU",
+   "side": "buy"
+  },
+  {
    "key": "HDSN:buy",
    "headline": "HDSN: Hartree Partners, LP (10% owner) bought $1.3M \u2014 0.74% of the whole company (institution)",
    "reasons": [
@@ -63,16 +91,16 @@
    "side": "buy"
   },
   {
-   "key": "ATEC:buy",
-   "headline": "ATEC: Demski David M (director) bought $817,200 \u2014 grew their own stake 32%",
+   "key": "RSI:buy",
+   "headline": "RSI: Winter Thomas (director) bought $118,310 \u2014 grew their own stake 49%",
    "reasons": [
-    "grew their own stake 32%"
+    "grew their own stake 49%"
    ],
    "insiders": [
-    "Demski David M"
+    "Winter Thomas"
    ],
-   "totalValue": 817200.0,
-   "ticker": "ATEC",
+   "totalValue": 118310.0,
+   "ticker": "RSI",
    "side": "buy"
   },
   {
@@ -86,32 +114,6 @@
    ],
    "totalValue": 99816.2,
    "ticker": "FFIN",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $17.4M \u2014 0.11% of the whole company (institution)",
-   "reasons": [
-    "0.11% of the whole company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 17422447.7646,
-   "ticker": "CRBG",
-   "side": "buy"
-  },
-  {
-   "key": "PEO:buy",
-   "headline": "PEO: Nelson Jane Musser (director) bought $30,229 \u2014 grew their own stake 32%",
-   "reasons": [
-    "grew their own stake 32%"
-   ],
-   "insiders": [
-    "Nelson Jane Musser"
-   ],
-   "totalValue": 30229.3,
-   "ticker": "PEO",
    "side": "buy"
   }
  ]
