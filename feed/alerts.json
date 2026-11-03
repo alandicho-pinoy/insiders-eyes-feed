@@ -1,35 +1,37 @@
 {
- "generatedAt": "2026-11-03T02:45:58.275278+00:00",
+ "generatedAt": "2026-11-03T15:15:20.250368+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "RAPP:buy",
-   "headline": "RAPP: Healy James (director) bought $20.4M \u2014 1.69% of the whole company",
+   "key": "TRTX:buy",
+   "headline": "TRTX: 3 insiders bought $298,699 \u2014 0.06% of the company",
    "reasons": [
-    "1.69% of the whole company",
-    "grew their own stake 53%",
-    "now owns 5.9% of the company"
+    "3 insiders bought within days",
+    "3 insiders buying"
    ],
    "insiders": [
-    "HEALY JAMES"
+    "Gillmore Michael",
+    "SILVERSTEIN WENDY",
+    "Smith Michael Bradley"
    ],
-   "totalValue": 20359080.0,
-   "ticker": "RAPP",
+   "totalValue": 298699.0,
+   "ticker": "TRTX",
    "side": "buy"
   },
   {
-   "key": "OCFC:buy",
-   "headline": "OCFC: 2 insiders bought $267,777 \u2014 0.02% of the company",
+   "key": "ASPE:buy",
+   "headline": "ASPE: 2 insiders bought $38.0M \u2014 10.63% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 32%"
+    "5.60% of the whole company (institution)",
+    "5.04% of the whole company (institution)"
    ],
    "insiders": [
-    "Barrett Patrick Sean",
-    "Katsoulis Nicos"
+    "ARCH Venture Fund X, L.P.",
+    "ARCH Venture Partners XIV, L.P."
    ],
-   "totalValue": 267777.0,
-   "ticker": "OCFC",
+   "totalValue": 37999995.0,
+   "ticker": "ASPE",
    "side": "buy"
   },
   {
@@ -47,6 +49,19 @@
    ],
    "totalValue": 12000000.0,
    "ticker": "BBTX",
+   "side": "buy"
+  },
+  {
+   "key": "HDSN:buy",
+   "headline": "HDSN: Hartree Partners, LP (10% owner) bought $2.6M \u2014 1.48% of the whole company (institution)",
+   "reasons": [
+    "1.48% of the whole company (institution)"
+   ],
+   "insiders": [
+    "Hartree Partners, LP"
+   ],
+   "totalValue": 2627176.516,
+   "ticker": "HDSN",
    "side": "buy"
   },
   {
@@ -78,19 +93,6 @@
    "side": "buy"
   },
   {
-   "key": "HDSN:buy",
-   "headline": "HDSN: Hartree Partners, LP (10% owner) bought $1.3M \u2014 0.74% of the whole company (institution)",
-   "reasons": [
-    "0.74% of the whole company (institution)"
-   ],
-   "insiders": [
-    "Hartree Partners, LP"
-   ],
-   "totalValue": 1313588.258,
-   "ticker": "HDSN",
-   "side": "buy"
-  },
-  {
    "key": "RSI:buy",
    "headline": "RSI: Winter Thomas (director) bought $118,310 \u2014 grew their own stake 49%",
    "reasons": [
@@ -104,16 +106,16 @@
    "side": "buy"
   },
   {
-   "key": "FFIN:buy",
-   "headline": "FFIN: Denny Michael B. (director) bought $99,816 \u2014 grew their own stake 50%",
+   "key": "CRBG:buy",
+   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $8.8M \u2014 now owns 29.6% of the company (institution)",
    "reasons": [
-    "grew their own stake 50%"
+    "now owns 29.6% of the company (institution)"
    ],
    "insiders": [
-    "Denny Michael B."
+    "NIPPON LIFE INSURANCE CO"
    ],
-   "totalValue": 99816.2,
-   "ticker": "FFIN",
+   "totalValue": 8750953.1538,
+   "ticker": "CRBG",
    "side": "buy"
   }
  ]
