@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T22:18:17.942315+00:00",
+ "generatedAt": "2026-11-04T02:46:38.338390+00:00",
  "count": 8,
  "alerts": [
   {
@@ -35,19 +35,52 @@
    "side": "buy"
   },
   {
-   "key": "ASPE:buy",
-   "headline": "ASPE: 2 insiders bought $38.0M \u2014 10.63% of the company",
+   "key": "BBTX:buy",
+   "headline": "BBTX: 3 insiders bought $58.6M \u2014 7.37% of the company",
    "reasons": [
-    "2 insiders bought within days",
-    "5.60% of the whole company (institution)",
-    "5.04% of the whole company (institution)"
+    "3 insiders bought within days",
+    "5.86% of the whole company (institution)",
+    "0.75% of the whole company (institution)",
+    "0.75% of the whole company"
    ],
    "insiders": [
-    "ARCH Venture Fund X, L.P.",
-    "ARCH Venture Partners XIV, L.P."
+    "Jeggle Helmut Wolfgang",
+    "RA CAPITAL MANAGEMENT, L.P.",
+    "Salvia Investment GmbH"
    ],
-   "totalValue": 37999995.0,
-   "ticker": "ASPE",
+   "totalValue": 58639957.19,
+   "ticker": "BBTX",
+   "side": "buy"
+  },
+  {
+   "key": "PLBY:buy",
+   "headline": "PLBY: Docler Holding S.a r.l. (director) bought $5.0M \u2014 3.15% of the whole company",
+   "reasons": [
+    "3.15% of the whole company",
+    "grew their own stake 32%",
+    "now owns 16.4% of the company"
+   ],
+   "insiders": [
+    "Docler Holding S.a r.l."
+   ],
+   "totalValue": 5000000.25,
+   "ticker": "PLBY",
+   "side": "buy"
+  },
+  {
+   "key": "BA:buy",
+   "headline": "BA: 2 insiders bought $1.5M \u2014 0.00% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 131%",
+    "grew their own stake 78%"
+   ],
+   "insiders": [
+    "Buckley Mortimer J",
+    "MOLLENKOPF STEVEN M"
+   ],
+   "totalValue": 1508847.7,
+   "ticker": "BA",
    "side": "buy"
   },
   {
@@ -94,37 +127,6 @@
    ],
    "totalValue": 188285.03,
    "ticker": "OCFC",
-   "side": "buy"
-  },
-  {
-   "key": "BBTX:buy",
-   "headline": "BBTX: 2 insiders bought $12.0M \u2014 1.51% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.75% of the whole company (institution)",
-    "0.75% of the whole company",
-    "now owns 18.6% of the company"
-   ],
-   "insiders": [
-    "Jeggle Helmut Wolfgang",
-    "Salvia Investment GmbH"
-   ],
-   "totalValue": 12000000.0,
-   "ticker": "BBTX",
-   "side": "buy"
-  },
-  {
-   "key": "MGM:buy",
-   "headline": "MGM: Meister Keith A. (director) bought $51.7M \u2014 0.66% of the whole company",
-   "reasons": [
-    "0.66% of the whole company",
-    "grew their own stake 33%"
-   ],
-   "insiders": [
-    "Meister Keith A."
-   ],
-   "totalValue": 51740827.48,
-   "ticker": "MGM",
    "side": "buy"
   }
  ]
