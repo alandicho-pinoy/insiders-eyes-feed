@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T02:46:38.338390+00:00",
+ "generatedAt": "2026-11-04T15:15:17.277552+00:00",
  "count": 8,
  "alerts": [
   {
@@ -35,39 +35,6 @@
    "side": "buy"
   },
   {
-   "key": "BBTX:buy",
-   "headline": "BBTX: 3 insiders bought $58.6M \u2014 7.37% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "5.86% of the whole company (institution)",
-    "0.75% of the whole company (institution)",
-    "0.75% of the whole company"
-   ],
-   "insiders": [
-    "Jeggle Helmut Wolfgang",
-    "RA CAPITAL MANAGEMENT, L.P.",
-    "Salvia Investment GmbH"
-   ],
-   "totalValue": 58639957.19,
-   "ticker": "BBTX",
-   "side": "buy"
-  },
-  {
-   "key": "PLBY:buy",
-   "headline": "PLBY: Docler Holding S.a r.l. (director) bought $5.0M \u2014 3.15% of the whole company",
-   "reasons": [
-    "3.15% of the whole company",
-    "grew their own stake 32%",
-    "now owns 16.4% of the company"
-   ],
-   "insiders": [
-    "Docler Holding S.a r.l."
-   ],
-   "totalValue": 5000000.25,
-   "ticker": "PLBY",
-   "side": "buy"
-  },
-  {
    "key": "BA:buy",
    "headline": "BA: 2 insiders bought $1.5M \u2014 0.00% of the company",
    "reasons": [
@@ -81,6 +48,19 @@
    ],
    "totalValue": 1508847.7,
    "ticker": "BA",
+   "side": "buy"
+  },
+  {
+   "key": "BBTX:buy",
+   "headline": "BBTX: Ra Capital Management, L.P. (director) bought $46.6M \u2014 5.86% of the whole company (institution)",
+   "reasons": [
+    "5.86% of the whole company (institution)"
+   ],
+   "insiders": [
+    "RA CAPITAL MANAGEMENT, L.P."
+   ],
+   "totalValue": 46639957.19,
+   "ticker": "BBTX",
    "side": "buy"
   },
   {
@@ -100,33 +80,44 @@
    "side": "buy"
   },
   {
-   "key": "ENPH:buy",
-   "headline": "ENPH: 2 insiders bought $298,104 \u2014 0.01% of the company",
+   "key": "LRN:buy",
+   "headline": "LRN: Haggart Dylan G. (director) bought $17.6M \u2014 0.53% of the whole company",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 100%"
+    "0.53% of the whole company",
+    "now owns 5.1% of the company"
    ],
    "insiders": [
-    "Kothandaraman Badrinarayanan",
-    "Trivedi Shanker"
+    "Haggart Dylan G."
    ],
-   "totalValue": 298104.0,
-   "ticker": "ENPH",
+   "totalValue": 17573121.28,
+   "ticker": "LRN",
    "side": "buy"
   },
   {
-   "key": "OCFC:buy",
-   "headline": "OCFC: 2 insiders bought $188,285 \u2014 0.01% of the company",
+   "key": "SITE:buy",
+   "headline": "SITE: Black Doug (CEO) bought $1.0M \u2014 grew their own stake 101%",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 32%"
+    "grew their own stake 101%",
+    "$1.0M from the CEO"
    ],
    "insiders": [
-    "Farris Jack M.",
-    "Katsoulis Nicos"
+    "BLACK DOUG"
    ],
-   "totalValue": 188285.03,
-   "ticker": "OCFC",
+   "totalValue": 1003684.5,
+   "ticker": "SITE",
+   "side": "buy"
+  },
+  {
+   "key": "ENPH:buy",
+   "headline": "ENPH: Trivedi Shanker (director) bought $30,590 \u2014 grew their own stake 100%",
+   "reasons": [
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Trivedi Shanker"
+   ],
+   "totalValue": 30590.0,
+   "ticker": "ENPH",
    "side": "buy"
   }
  ]
