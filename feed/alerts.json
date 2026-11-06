@@ -1,7 +1,22 @@
 {
- "generatedAt": "2026-11-05T22:16:44.335692+00:00",
+ "generatedAt": "2026-11-06T02:46:04.957288+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "LYEL:buy",
+   "headline": "LYEL: 2 insiders bought $50.0M \u2014 13.60% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "6.80% of the whole company (institution)"
+   ],
+   "insiders": [
+    "ARCH Venture Fund XIII, L.P.",
+    "ARCH Venture Partners IX, LLC"
+   ],
+   "totalValue": 49999983.48,
+   "ticker": "LYEL",
+   "side": "buy"
+  },
   {
    "key": "LBTY:buy",
    "headline": "LBTY: 2 insiders bought $3.0M",
@@ -35,6 +50,21 @@
    "side": "buy"
   },
   {
+   "key": "BXMT:buy",
+   "headline": "BXMT: 2 insiders bought $1.1M \u2014 0.06% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "$1.0M from the Chief Executive Officer"
+   ],
+   "insiders": [
+    "Johnson Timothy Steven",
+    "NASSAU HENRY N"
+   ],
+   "totalValue": 1149642.0,
+   "ticker": "BXMT",
+   "side": "buy"
+  },
+  {
    "key": "AN:buy",
    "headline": "AN: 2 insiders bought $1.1M \u2014 0.02% of the company",
    "reasons": [
@@ -50,72 +80,48 @@
    "side": "buy"
   },
   {
-   "key": "SPXC:buy",
-   "headline": "SPXC: Deck Brian A (director) bought $493,020 \u2014 grew their own stake 404%",
+   "key": "TRAD:buy",
+   "headline": "TRAD: Liu Shaoren (CEO and CFO) bought $2.1M \u2014 1.43% of the company",
    "reasons": [
-    "grew their own stake 404%"
+    "1.41% of the whole company",
+    "now owns 21.1% of the company",
+    "$2.1M from the CEO and CFO"
    ],
    "insiders": [
-    "Deck Brian A"
+    "Liu Shaoren"
    ],
-   "totalValue": 493020.0,
-   "ticker": "SPXC",
+   "totalValue": 2120000.0,
+   "ticker": "TRAD",
    "side": "buy"
   },
   {
-   "key": "GLXY:buy",
-   "headline": "GLXY: Novogratz Michael (Chief Executive Officer) bought $9.9M \u2014 0.35% of the whole company",
+   "key": "COUR:buy",
+   "headline": "COUR: Pale Fire Capital SE (10% owner) bought $31.5M \u2014 2.96% of the whole company (institution)",
    "reasons": [
-    "0.35% of the whole company",
-    "new position from senior management",
-    "$9.9M from the Chief Executive Officer"
+    "2.96% of the whole company (institution)"
    ],
    "insiders": [
-    "Novogratz Michael"
+    "Pale Fire Capital SE"
    ],
-   "totalValue": 9864345.934,
-   "ticker": "GLXY",
+   "totalValue": 31450844.1298,
+   "ticker": "COUR",
    "side": "buy"
   },
   {
-   "key": "LSCC:buy",
-   "headline": "LSCC: Tamer Ford (President & CEO) bought $1.0M \u2014 grew their own stake 98%",
+   "key": "ETRA:buy",
+   "headline": "ETRA: 2 insiders bought $7.2M \u2014 1.56% of the company",
    "reasons": [
-    "grew their own stake 98%",
-    "$1.0M from the President & CEO"
+    "2 insiders bought within days",
+    "0.78% of the whole company",
+    "now owns 8.3% of the company",
+    "0.78% of the whole company (institution)"
    ],
    "insiders": [
-    "Tamer Ford"
+    "GORDON CARL L",
+    "ORBIMED ADVISORS LLC"
    ],
-   "totalValue": 1003689.3342,
-   "ticker": "LSCC",
-   "side": "buy"
-  },
-  {
-   "key": "FBRT:buy",
-   "headline": "FBRT: Byrne Richard J (Chairman and CEO) bought $998,364 \u2014 0.21% of the whole company",
-   "reasons": [
-    "0.21% of the whole company",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Byrne Richard J"
-   ],
-   "totalValue": 998364.0,
-   "ticker": "FBRT",
-   "side": "buy"
-  },
-  {
-   "key": "CRBG:buy",
-   "headline": "CRBG: Nippon Life Insurance Co (10% owner) bought $12.9M \u2014 now owns 29.8% of the company (institution)",
-   "reasons": [
-    "now owns 29.8% of the company (institution)"
-   ],
-   "insiders": [
-    "NIPPON LIFE INSURANCE CO"
-   ],
-   "totalValue": 12865524.0325,
-   "ticker": "CRBG",
+   "totalValue": 7210232.78,
+   "ticker": "ETRA",
    "side": "buy"
   }
  ]
