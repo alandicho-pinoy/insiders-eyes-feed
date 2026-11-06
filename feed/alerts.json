@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T15:15:32.488438+00:00",
+ "generatedAt": "2026-11-06T22:17:23.258002+00:00",
  "count": 8,
  "alerts": [
   {
@@ -72,6 +72,39 @@
    "side": "buy"
   },
   {
+   "key": "LKQ:buy",
+   "headline": "LKQ: 3 insiders bought $792,615 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 89%"
+   ],
+   "insiders": [
+    "CLARKE ANDREW C",
+    "GOVE SUE",
+    "Powell Michael Scott"
+   ],
+   "totalValue": 792615.473,
+   "ticker": "LKQ",
+   "side": "buy"
+  },
+  {
+   "key": "TRTX:buy",
+   "headline": "TRTX: 3 insiders bought $298,699 \u2014 0.06% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Gillmore Michael",
+    "SILVERSTEIN WENDY",
+    "Smith Michael Bradley"
+   ],
+   "totalValue": 298699.0,
+   "ticker": "TRTX",
+   "side": "buy"
+  },
+  {
    "key": "LYEL:buy",
    "headline": "LYEL: 2 insiders bought $50.0M \u2014 13.60% of the company",
    "reasons": [
@@ -87,51 +120,20 @@
    "side": "buy"
   },
   {
-   "key": "LBTY:buy",
-   "headline": "LBTY: 2 insiders bought $3.0M",
+   "key": "AN:buy",
+   "headline": "AN: 3 insiders bought $1.4M \u2014 0.02% of the company",
    "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 54%",
-    "$1.0M from the President & CEO"
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "$1.0M from the CEO and Director"
    ],
    "insiders": [
-    "FRIES MICHAEL T",
-    "Rodriguez Enrique"
+    "EDMUNDS C COLEMAN",
+    "Manley Michael Mark",
+    "Szlosek Thomas A"
    ],
-   "totalValue": 3026150.0728,
-   "ticker": "LBTY",
-   "side": "buy"
-  },
-  {
-   "key": "FBRT:buy",
-   "headline": "FBRT: 2 insiders bought $1.0M \u2014 0.21% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.21% of the whole company",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Byrne Richard J",
-    "ORTALE BUFORD H"
-   ],
-   "totalValue": 1024107.95,
-   "ticker": "FBRT",
-   "side": "buy"
-  },
-  {
-   "key": "PAM:buy",
-   "headline": "PAM: 2 insiders bought $2.8M \u2014 0.08% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "$2.6M from the Vicepresident",
-    "new position from senior management"
-   ],
-   "insiders": [
-    "Mindlin Damian Miguel",
-    "Zuberbuhler Adolfo Fernando"
-   ],
-   "totalValue": 2823418.82,
-   "ticker": "PAM",
+   "totalValue": 1431864.0293,
+   "ticker": "AN",
    "side": "buy"
   }
  ]
