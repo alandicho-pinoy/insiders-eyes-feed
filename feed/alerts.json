@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T22:17:23.258002+00:00",
+ "generatedAt": "2026-11-07T02:46:06.289202+00:00",
  "count": 8,
  "alerts": [
   {
@@ -41,18 +41,18 @@
   },
   {
    "key": "ASPE:buy",
-   "headline": "ASPE: 2 insiders bought $30.0M \u2014 8.39% of the company",
+   "headline": "ASPE: 2 insiders bought $60.0M \u2014 16.79% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "4.20% of the whole company",
-    "grew their own stake 39%",
+    "8.39% of the whole company",
+    "grew their own stake 126%",
     "now owns 12.3% of the company"
    ],
    "insiders": [
     "ORBIMED ADVISORS LLC",
     "Thompson Peter A."
    ],
-   "totalValue": 30000000.0,
+   "totalValue": 60000000.0,
    "ticker": "ASPE",
    "side": "buy"
   },
@@ -105,21 +105,6 @@
    "side": "buy"
   },
   {
-   "key": "LYEL:buy",
-   "headline": "LYEL: 2 insiders bought $50.0M \u2014 13.60% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "6.80% of the whole company (institution)"
-   ],
-   "insiders": [
-    "ARCH Venture Fund XIII, L.P.",
-    "ARCH Venture Partners IX, LLC"
-   ],
-   "totalValue": 49999983.48,
-   "ticker": "LYEL",
-   "side": "buy"
-  },
-  {
    "key": "AN:buy",
    "headline": "AN: 3 insiders bought $1.4M \u2014 0.02% of the company",
    "reasons": [
@@ -134,6 +119,22 @@
    ],
    "totalValue": 1431864.0293,
    "ticker": "AN",
+   "side": "buy"
+  },
+  {
+   "key": "STRZ:buy",
+   "headline": "STRZ: 3 insiders bought $176,706 \u2014 0.04% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Hirsch Jeffrey",
+    "Kapenstein James M.",
+    "MACDONALD SCOTT D"
+   ],
+   "totalValue": 176706.4,
+   "ticker": "STRZ",
    "side": "buy"
   }
  ]
