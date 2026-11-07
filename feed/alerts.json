@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T02:46:06.289202+00:00",
+ "generatedAt": "2026-11-07T15:15:15.798689+00:00",
  "count": 8,
  "alerts": [
   {
@@ -41,18 +41,18 @@
   },
   {
    "key": "ASPE:buy",
-   "headline": "ASPE: 2 insiders bought $60.0M \u2014 16.79% of the company",
+   "headline": "ASPE: 2 insiders bought $30.0M \u2014 8.39% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "8.39% of the whole company",
-    "grew their own stake 126%",
+    "4.20% of the whole company",
+    "grew their own stake 39%",
     "now owns 12.3% of the company"
    ],
    "insiders": [
     "ORBIMED ADVISORS LLC",
     "Thompson Peter A."
    ],
-   "totalValue": 60000000.0,
+   "totalValue": 30000000.0,
    "ticker": "ASPE",
    "side": "buy"
   },
@@ -72,36 +72,18 @@
    "side": "buy"
   },
   {
-   "key": "LKQ:buy",
-   "headline": "LKQ: 3 insiders bought $792,615 \u2014 0.02% of the company",
+   "key": "LYEL:buy",
+   "headline": "LYEL: 2 insiders bought $50.0M \u2014 13.60% of the company",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 89%"
+    "2 insiders bought within days",
+    "6.80% of the whole company (institution)"
    ],
    "insiders": [
-    "CLARKE ANDREW C",
-    "GOVE SUE",
-    "Powell Michael Scott"
+    "ARCH Venture Fund XIII, L.P.",
+    "ARCH Venture Partners IX, LLC"
    ],
-   "totalValue": 792615.473,
-   "ticker": "LKQ",
-   "side": "buy"
-  },
-  {
-   "key": "TRTX:buy",
-   "headline": "TRTX: 3 insiders bought $298,699 \u2014 0.06% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Gillmore Michael",
-    "SILVERSTEIN WENDY",
-    "Smith Michael Bradley"
-   ],
-   "totalValue": 298699.0,
-   "ticker": "TRTX",
+   "totalValue": 49999983.48,
+   "ticker": "LYEL",
    "side": "buy"
   },
   {
@@ -122,19 +104,35 @@
    "side": "buy"
   },
   {
-   "key": "STRZ:buy",
-   "headline": "STRZ: 3 insiders bought $176,706 \u2014 0.04% of the company",
+   "key": "LBTY:buy",
+   "headline": "LBTY: 2 insiders bought $3.0M",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
+    "2 insiders bought within days",
+    "grew their own stake 54%",
+    "$1.0M from the President & CEO"
    ],
    "insiders": [
-    "Hirsch Jeffrey",
-    "Kapenstein James M.",
-    "MACDONALD SCOTT D"
+    "FRIES MICHAEL T",
+    "Rodriguez Enrique"
    ],
-   "totalValue": 176706.4,
-   "ticker": "STRZ",
+   "totalValue": 3026150.0728,
+   "ticker": "LBTY",
+   "side": "buy"
+  },
+  {
+   "key": "FBRT:buy",
+   "headline": "FBRT: 2 insiders bought $1.0M \u2014 0.21% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.21% of the whole company",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Byrne Richard J",
+    "ORTALE BUFORD H"
+   ],
+   "totalValue": 1024107.95,
+   "ticker": "FBRT",
    "side": "buy"
   }
  ]
