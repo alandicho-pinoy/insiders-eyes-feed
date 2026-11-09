@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T15:15:27.910709+00:00",
+ "generatedAt": "2026-11-09T22:17:00.347968+00:00",
  "count": 8,
  "alerts": [
   {
@@ -21,16 +21,52 @@
    "side": "buy"
   },
   {
-   "key": "GFS:buy",
-   "headline": "GFS: Moorthy Ganesh (director) bought $187,375 \u2014 grew their own stake 1000%",
+   "key": "OBIO:buy",
+   "headline": "OBIO: 4 insiders bought $230,000 \u2014 0.07% of the company",
    "reasons": [
-    "grew their own stake 1000%"
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 37%"
    ],
    "insiders": [
-    "MOORTHY GANESH"
+    "Fain Eric S",
+    "Hochman David P",
+    "Pacitti David",
+    "Taylor Andrew Lawrence"
    ],
-   "totalValue": 187375.0,
-   "ticker": "GFS",
+   "totalValue": 230000.0,
+   "ticker": "OBIO",
+   "side": "buy"
+  },
+  {
+   "key": "LUMN:buy",
+   "headline": "LUMN: 2 insiders bought $494,605 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 100%",
+    "grew their own stake 33%"
+   ],
+   "insiders": [
+    "GOLDBERG MICHELLE J",
+    "Johnson Kathleen E"
+   ],
+   "totalValue": 494605.0,
+   "ticker": "LUMN",
+   "side": "buy"
+  },
+  {
+   "key": "WCC:buy",
+   "headline": "WCC: 2 insiders bought $603,430 \u2014 0.00% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 33%"
+   ],
+   "insiders": [
+    "Dev Indraneel",
+    "Marino Anthony S"
+   ],
+   "totalValue": 603430.27,
+   "ticker": "WCC",
    "side": "buy"
   },
   {
@@ -48,6 +84,19 @@
    "side": "buy"
   },
   {
+   "key": "EAF:buy",
+   "headline": "EAF: Shivaram Sachin M (director) bought $50,000 \u2014 grew their own stake 100%",
+   "reasons": [
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Shivaram Sachin M"
+   ],
+   "totalValue": 50000.0,
+   "ticker": "EAF",
+   "side": "buy"
+  },
+  {
    "key": "LKQ:buy",
    "headline": "LKQ: Gove Sue (director) bought $201,085 \u2014 grew their own stake 89%",
    "reasons": [
@@ -61,57 +110,16 @@
    "side": "buy"
   },
   {
-   "key": "MDGL:buy",
-   "headline": "MDGL: Baker Bros. Advisors Lp (director) bought $35.0M \u2014 0.38% of the whole company (institution)",
+   "key": "GFS:buy",
+   "headline": "GFS: Moorthy Ganesh (director) bought $93,688 \u2014 grew their own stake 83%",
    "reasons": [
-    "0.38% of the whole company (institution)"
+    "grew their own stake 83%"
    ],
    "insiders": [
-    "BAKER BROS. ADVISORS LP"
+    "MOORTHY GANESH"
    ],
-   "totalValue": 35023032.1012,
-   "ticker": "MDGL",
-   "side": "buy"
-  },
-  {
-   "key": "AGMB:buy",
-   "headline": "AGMB: Epstein David R (director) bought $103,500 \u2014 grew their own stake 60%",
-   "reasons": [
-    "grew their own stake 60%"
-   ],
-   "insiders": [
-    "Epstein David R"
-   ],
-   "totalValue": 103500.0,
-   "ticker": "AGMB",
-   "side": "buy"
-  },
-  {
-   "key": "CVS:buy",
-   "headline": "CVS: Shah Prem S (EVP and Group President) bought $2.0M \u2014 grew their own stake 37%",
-   "reasons": [
-    "grew their own stake 37%",
-    "$2.0M from the EVP and Group President"
-   ],
-   "insiders": [
-    "Shah Prem S"
-   ],
-   "totalValue": 2001315.225,
-   "ticker": "CVS",
-   "side": "buy"
-  },
-  {
-   "key": "NTHI:buy",
-   "headline": "NTHI: Heshmatpour Amir F (CEO, President) bought $230,510 \u2014 0.21% of the whole company",
-   "reasons": [
-    "0.21% of the whole company",
-    "now owns 11.3% of the company"
-   ],
-   "insiders": [
-    "Heshmatpour Amir F"
-   ],
-   "totalValue": 230510.0,
-   "ticker": "NTHI",
+   "totalValue": 93687.5,
+   "ticker": "GFS",
    "side": "buy"
   }
  ]
