@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T15:15:32.615684+00:00",
+ "generatedAt": "2026-11-10T22:16:07.771887+00:00",
  "count": 8,
  "alerts": [
   {
@@ -47,20 +47,41 @@
    "side": "buy"
   },
   {
-   "key": "MTDR:buy",
-   "headline": "MTDR: 4 insiders bought $350,944 \u2014 0.01% of the company",
+   "key": "SLQT:buy",
+   "headline": "SLQT: 5 insiders bought $446,272 \u2014 0.54% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 105%"
+    "5 insiders bought within days",
+    "0.24% of the whole company",
+    "5 insiders buying",
+    "grew their own stake 80%"
    ],
    "insiders": [
+    "Danker Timothy Robert",
+    "Grant Robert Clay",
+    "Grant William Thomas III",
+    "Hawks Donald L III",
+    "Weldon Raymond F"
+   ],
+   "totalValue": 446271.857,
+   "ticker": "SLQT",
+   "side": "buy"
+  },
+  {
+   "key": "MTDR:buy",
+   "headline": "MTDR: 5 insiders bought $675,265 \u2014 0.01% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Appel Shelley F",
     "Ehrman Monika U",
     "Foran Joseph Wm",
     "Harvey Paul W",
     "Stetson Glenn W"
    ],
-   "totalValue": 350943.9,
+   "totalValue": 675265.15,
    "ticker": "MTDR",
    "side": "buy"
   },
@@ -84,7 +105,7 @@
   },
   {
    "key": "AFCG:buy",
-   "headline": "AFCG: 3 insiders bought $149,435 \u2014 0.19% of the company",
+   "headline": "AFCG: 3 insiders bought $184,910 \u2014 0.24% of the company",
    "reasons": [
     "3 insiders bought within days",
     "0.15% of the whole company",
@@ -96,7 +117,7 @@
     "TANNENBAUM LEONARD M",
     "Tannenbaum Robyn"
    ],
-   "totalValue": 149435.0,
+   "totalValue": 184910.0,
    "ticker": "AFCG",
    "side": "buy"
   },
@@ -130,22 +151,6 @@
    ],
    "totalValue": 675088.224,
    "ticker": "ADTN",
-   "side": "buy"
-  },
-  {
-   "key": "GOOD:buy",
-   "headline": "GOOD: 2 insiders bought $186,263 \u2014 0.04% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 36%",
-    "grew their own stake 28%"
-   ],
-   "insiders": [
-    "Cooper Arthur S.",
-    "Gerson Gary"
-   ],
-   "totalValue": 186263.44145259,
-   "ticker": "GOOD",
    "side": "buy"
   },
   {
