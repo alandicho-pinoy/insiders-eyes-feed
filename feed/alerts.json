@@ -1,22 +1,24 @@
 {
- "generatedAt": "2026-11-09T22:17:00.347968+00:00",
+ "generatedAt": "2026-11-10T02:45:55.771939+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "MTDR:buy",
-   "headline": "MTDR: 4 insiders bought $375,965 \u2014 0.01% of the company",
+   "headline": "MTDR: 6 insiders bought $494,286 \u2014 0.01% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
+    "6 insiders bought within days",
+    "6 insiders buying",
     "grew their own stake 105%"
    ],
    "insiders": [
+    "Appel Shelley F",
     "Elsener William Thomas",
     "Erman Bryan A",
     "Foran Joseph Wm",
-    "Harvey Paul W"
+    "Harvey Paul W",
+    "Stetson Glenn W"
    ],
-   "totalValue": 375964.85,
+   "totalValue": 494286.1,
    "ticker": "MTDR",
    "side": "buy"
   },
@@ -39,6 +41,23 @@
    "side": "buy"
   },
   {
+   "key": "AFCG:buy",
+   "headline": "AFCG: 3 insiders bought $92,455 \u2014 0.12% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "now owns 31.7% of the company"
+   ],
+   "insiders": [
+    "Hetzel Brandon",
+    "TANNENBAUM LEONARD M",
+    "Tannenbaum Robyn"
+   ],
+   "totalValue": 92455.0,
+   "ticker": "AFCG",
+   "side": "buy"
+  },
+  {
    "key": "LUMN:buy",
    "headline": "LUMN: 2 insiders bought $494,605 \u2014 0.01% of the company",
    "reasons": [
@@ -52,6 +71,38 @@
    ],
    "totalValue": 494605.0,
    "ticker": "LUMN",
+   "side": "buy"
+  },
+  {
+   "key": "GFS:buy",
+   "headline": "GFS: 2 insiders bought $473,688 \u2014 0.00% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 36%",
+    "grew their own stake 83%"
+   ],
+   "insiders": [
+    "LAZAR JACK R",
+    "MOORTHY GANESH"
+   ],
+   "totalValue": 473687.5,
+   "ticker": "GFS",
+   "side": "buy"
+  },
+  {
+   "key": "ADTN:buy",
+   "headline": "ADTN: 2 insiders bought $675,088 \u2014 0.19% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.17% of the whole company",
+    "grew their own stake 30%"
+   ],
+   "insiders": [
+    "STANTON THOMAS R",
+    "Santo Timothy P"
+   ],
+   "totalValue": 675088.224,
+   "ticker": "ADTN",
    "side": "buy"
   },
   {
@@ -70,56 +121,16 @@
    "side": "buy"
   },
   {
-   "key": "KMI:buy",
-   "headline": "KMI: Kinder Richard D (Executive Chairman) bought $15.0M \u2014 now owns 11.1% of the company",
+   "key": "NATR:buy",
+   "headline": "NATR: Prescott Group Capital Management, L.L.C. (10% owner) bought $2.8M \u2014 1.49% of the whole company (institution)",
    "reasons": [
-    "now owns 11.1% of the company",
-    "$15.0M from the Executive Chairman"
+    "1.49% of the whole company (institution)"
    ],
    "insiders": [
-    "KINDER RICHARD D"
+    "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C."
    ],
-   "totalValue": 14994200.0,
-   "ticker": "KMI",
-   "side": "buy"
-  },
-  {
-   "key": "EAF:buy",
-   "headline": "EAF: Shivaram Sachin M (director) bought $50,000 \u2014 grew their own stake 100%",
-   "reasons": [
-    "grew their own stake 100%"
-   ],
-   "insiders": [
-    "Shivaram Sachin M"
-   ],
-   "totalValue": 50000.0,
-   "ticker": "EAF",
-   "side": "buy"
-  },
-  {
-   "key": "LKQ:buy",
-   "headline": "LKQ: Gove Sue (director) bought $201,085 \u2014 grew their own stake 89%",
-   "reasons": [
-    "grew their own stake 89%"
-   ],
-   "insiders": [
-    "GOVE SUE"
-   ],
-   "totalValue": 201085.473,
-   "ticker": "LKQ",
-   "side": "buy"
-  },
-  {
-   "key": "GFS:buy",
-   "headline": "GFS: Moorthy Ganesh (director) bought $93,688 \u2014 grew their own stake 83%",
-   "reasons": [
-    "grew their own stake 83%"
-   ],
-   "insiders": [
-    "MOORTHY GANESH"
-   ],
-   "totalValue": 93687.5,
-   "ticker": "GFS",
+   "totalValue": 2849810.84,
+   "ticker": "NATR",
    "side": "buy"
   }
  ]
