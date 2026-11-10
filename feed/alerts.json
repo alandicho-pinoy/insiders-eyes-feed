@@ -1,30 +1,72 @@
 {
- "generatedAt": "2026-11-10T02:45:55.771939+00:00",
+ "generatedAt": "2026-11-10T15:15:32.615684+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "MTDR:buy",
-   "headline": "MTDR: 6 insiders bought $494,286 \u2014 0.01% of the company",
+   "key": "TSM:buy",
+   "headline": "TSM: 31 insiders bought $416,558 \u2014 0.00% of the company",
    "reasons": [
-    "6 insiders bought within days",
-    "6 insiders buying",
+    "31 insiders bought within days",
+    "31 insiders buying"
+   ],
+   "insiders": [
+    "Cao Min",
+    "Chang Tzonz-Sheng",
+    "Chen Chih-Ho",
+    "Chen Pei-Hung",
+    "Chin Yung-Pei",
+    "Chuang Juiping",
+    "Chuang Tzu-Sou",
+    "Fang Shu-Hua",
+    "He Jun",
+    "Hou Yung-Chin",
+    "Hsu Kuo-Chin",
+    "Huang Jen-Chau",
+    "Hwang Yuan-Ko",
+    "Jang Syun-Ming",
+    "Ku Yao-Ching",
+    "Lee Chun-Hsien",
+    "Lin Chris Horng-Dar",
+    "Lin Shyue-Shyh",
+    "Lu Chin-Sheng",
+    "Lu Lee-Chung",
+    "Mii Yuh-Jier",
+    "SPLINTER MICHAEL R",
+    "Tien Bor-Zen",
+    "Wang Ying-Lang",
+    "Wei Che-Chia",
+    "Wu Shien-Yang",
+    "Wu Yi-Huang",
+    "Yeap Choh Fei",
+    "Yoo Chue-San",
+    "Yuan Lipen",
+    "Zhang Kevin Xiaoqiang"
+   ],
+   "totalValue": 416557.5,
+   "ticker": "TSM",
+   "side": "buy"
+  },
+  {
+   "key": "MTDR:buy",
+   "headline": "MTDR: 4 insiders bought $350,944 \u2014 0.01% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying",
     "grew their own stake 105%"
    ],
    "insiders": [
-    "Appel Shelley F",
-    "Elsener William Thomas",
-    "Erman Bryan A",
+    "Ehrman Monika U",
     "Foran Joseph Wm",
     "Harvey Paul W",
     "Stetson Glenn W"
    ],
-   "totalValue": 494286.1,
+   "totalValue": 350943.9,
    "ticker": "MTDR",
    "side": "buy"
   },
   {
    "key": "OBIO:buy",
-   "headline": "OBIO: 4 insiders bought $230,000 \u2014 0.07% of the company",
+   "headline": "OBIO: 4 insiders bought $230,000 \u2014 0.06% of the company",
    "reasons": [
     "4 insiders bought within days",
     "4 insiders buying",
@@ -42,9 +84,10 @@
   },
   {
    "key": "AFCG:buy",
-   "headline": "AFCG: 3 insiders bought $92,455 \u2014 0.12% of the company",
+   "headline": "AFCG: 3 insiders bought $149,435 \u2014 0.19% of the company",
    "reasons": [
     "3 insiders bought within days",
+    "0.15% of the whole company",
     "3 insiders buying",
     "now owns 31.7% of the company"
    ],
@@ -53,7 +96,7 @@
     "TANNENBAUM LEONARD M",
     "Tannenbaum Robyn"
    ],
-   "totalValue": 92455.0,
+   "totalValue": 149435.0,
    "ticker": "AFCG",
    "side": "buy"
   },
@@ -74,22 +117,6 @@
    "side": "buy"
   },
   {
-   "key": "GFS:buy",
-   "headline": "GFS: 2 insiders bought $473,688 \u2014 0.00% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 36%",
-    "grew their own stake 83%"
-   ],
-   "insiders": [
-    "LAZAR JACK R",
-    "MOORTHY GANESH"
-   ],
-   "totalValue": 473687.5,
-   "ticker": "GFS",
-   "side": "buy"
-  },
-  {
    "key": "ADTN:buy",
    "headline": "ADTN: 2 insiders bought $675,088 \u2014 0.19% of the company",
    "reasons": [
@@ -106,31 +133,35 @@
    "side": "buy"
   },
   {
-   "key": "WCC:buy",
-   "headline": "WCC: 2 insiders bought $603,430 \u2014 0.00% of the company",
+   "key": "GOOD:buy",
+   "headline": "GOOD: 2 insiders bought $186,263 \u2014 0.04% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 33%"
+    "grew their own stake 36%",
+    "grew their own stake 28%"
    ],
    "insiders": [
-    "Dev Indraneel",
-    "Marino Anthony S"
+    "Cooper Arthur S.",
+    "Gerson Gary"
    ],
-   "totalValue": 603430.27,
-   "ticker": "WCC",
+   "totalValue": 186263.44145259,
+   "ticker": "GOOD",
    "side": "buy"
   },
   {
-   "key": "NATR:buy",
-   "headline": "NATR: Prescott Group Capital Management, L.L.C. (10% owner) bought $2.8M \u2014 1.49% of the whole company (institution)",
+   "key": "FLOC:buy",
+   "headline": "FLOC: 2 insiders bought $1.2M \u2014 0.14% of the company",
    "reasons": [
-    "1.49% of the whole company (institution)"
+    "2 insiders bought within days",
+    "0.14% of the whole company",
+    "$1.2M from the President and CEO"
    ],
    "insiders": [
-    "PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C."
+    "Chmelev Alexander",
+    "EDWARDS JOSEPH R"
    ],
-   "totalValue": 2849810.84,
-   "ticker": "NATR",
+   "totalValue": 1201150.85,
+   "ticker": "FLOC",
    "side": "buy"
   }
  ]
