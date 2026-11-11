@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T22:16:07.771887+00:00",
+ "generatedAt": "2026-11-11T02:46:53.671300+00:00",
  "count": 8,
  "alerts": [
   {
@@ -68,11 +68,11 @@
   },
   {
    "key": "MTDR:buy",
-   "headline": "MTDR: 5 insiders bought $675,265 \u2014 0.01% of the company",
+   "headline": "MTDR: 5 insiders bought $418,465 \u2014 0.01% of the company",
    "reasons": [
     "5 insiders bought within days",
     "5 insiders buying",
-    "new position from senior management"
+    "grew their own stake 105%"
    ],
    "insiders": [
     "Appel Shelley F",
@@ -81,7 +81,7 @@
     "Harvey Paul W",
     "Stetson Glenn W"
    ],
-   "totalValue": 675265.15,
+   "totalValue": 418465.15,
    "ticker": "MTDR",
    "side": "buy"
   },
@@ -104,11 +104,45 @@
    "side": "buy"
   },
   {
-   "key": "AFCG:buy",
-   "headline": "AFCG: 3 insiders bought $184,910 \u2014 0.24% of the company",
+   "key": "FUN:buy",
+   "headline": "FUN: 3 insiders bought $15.1M \u2014 1.37% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "0.15% of the whole company",
+    "1.36% of the whole company",
+    "3 insiders buying",
+    "grew their own stake 30%"
+   ],
+   "insiders": [
+    "Bennett Christopher Lawrence",
+    "HADDRILL RICHARD M",
+    "JAFFER REHAN"
+   ],
+   "totalValue": 15066320.0,
+   "ticker": "FUN",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 3 insiders bought $254,917 \u2014 0.49% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.31% of the whole company",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Green Ira Harris Jr",
+    "Johnson David Richard",
+    "Prejean Robert Wayne"
+   ],
+   "totalValue": 254917.3,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
+   "key": "AFCG:buy",
+   "headline": "AFCG: 3 insiders bought $92,455 \u2014 0.12% of the company",
+   "reasons": [
+    "3 insiders bought within days",
     "3 insiders buying",
     "now owns 31.7% of the company"
    ],
@@ -117,56 +151,25 @@
     "TANNENBAUM LEONARD M",
     "Tannenbaum Robyn"
    ],
-   "totalValue": 184910.0,
+   "totalValue": 92455.0,
    "ticker": "AFCG",
    "side": "buy"
   },
   {
-   "key": "LUMN:buy",
-   "headline": "LUMN: 2 insiders bought $494,605 \u2014 0.01% of the company",
+   "key": "MX:buy",
+   "headline": "MX: 2 insiders bought $1.5M \u2014 1.55% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "grew their own stake 100%",
-    "grew their own stake 33%"
+    "1.39% of the whole company",
+    "now owns 8.6% of the company",
+    "0.16% of the whole company"
    ],
    "insiders": [
-    "GOLDBERG MICHELLE J",
-    "Johnson Kathleen E"
+    "Amoruso Cristiano",
+    "LEE CHAE"
    ],
-   "totalValue": 494605.0,
-   "ticker": "LUMN",
-   "side": "buy"
-  },
-  {
-   "key": "ADTN:buy",
-   "headline": "ADTN: 2 insiders bought $675,088 \u2014 0.19% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.17% of the whole company",
-    "grew their own stake 30%"
-   ],
-   "insiders": [
-    "STANTON THOMAS R",
-    "Santo Timothy P"
-   ],
-   "totalValue": 675088.224,
-   "ticker": "ADTN",
-   "side": "buy"
-  },
-  {
-   "key": "FLOC:buy",
-   "headline": "FLOC: 2 insiders bought $1.2M \u2014 0.14% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.14% of the whole company",
-    "$1.2M from the President and CEO"
-   ],
-   "insiders": [
-    "Chmelev Alexander",
-    "EDWARDS JOSEPH R"
-   ],
-   "totalValue": 1201150.85,
-   "ticker": "FLOC",
+   "totalValue": 1526506.0274,
+   "ticker": "MX",
    "side": "buy"
   }
  ]
