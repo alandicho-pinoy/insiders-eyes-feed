@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T02:45:09.897328+00:00",
+ "generatedAt": "2026-11-12T15:16:07.404448+00:00",
  "count": 8,
  "alerts": [
   {
@@ -86,6 +86,43 @@
    "side": "buy"
   },
   {
+   "key": "GSM:buy",
+   "headline": "GSM: 5 insiders bought $262,563 \u2014 0.05% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 29%"
+   ],
+   "insiders": [
+    "CROCKETT BRUCE LARMOUR",
+    "Girardeau David Marie, Gabriel",
+    "Levi Marco",
+    "Lopez Madrid Javier",
+    "Villar-Mir de Fuentes Silvia"
+   ],
+   "totalValue": 262562.9378,
+   "ticker": "GSM",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 4 insiders bought $258,737 \u2014 0.50% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "0.31% of the whole company",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "FURST JACK D",
+    "Green Ira Harris Jr",
+    "Johnson David Richard",
+    "Prejean Robert Wayne"
+   ],
+   "totalValue": 258736.579,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
    "key": "OBIO:buy",
    "headline": "OBIO: 4 insiders bought $230,000 \u2014 0.06% of the company",
    "reasons": [
@@ -122,54 +159,20 @@
    "side": "buy"
   },
   {
-   "key": "DTI:buy",
-   "headline": "DTI: 3 insiders bought $254,917 \u2014 0.49% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.31% of the whole company",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "Green Ira Harris Jr",
-    "Johnson David Richard",
-    "Prejean Robert Wayne"
-   ],
-   "totalValue": 254917.3,
-   "ticker": "DTI",
-   "side": "buy"
-  },
-  {
-   "key": "AFCG:buy",
-   "headline": "AFCG: 3 insiders bought $92,455 \u2014 0.12% of the company",
+   "key": "GOOD:buy",
+   "headline": "GOOD: 3 insiders bought $188,837 \u2014 0.04% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
-    "now owns 31.7% of the company"
+    "grew their own stake 36%"
    ],
    "insiders": [
-    "Hetzel Brandon",
-    "TANNENBAUM LEONARD M",
-    "Tannenbaum Robyn"
+    "Beckhorn Jay",
+    "Cooper Arthur S.",
+    "Gerson Gary"
    ],
-   "totalValue": 92455.0,
-   "ticker": "AFCG",
-   "side": "buy"
-  },
-  {
-   "key": "MX:buy",
-   "headline": "MX: 2 insiders bought $1.5M \u2014 1.55% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "1.39% of the whole company",
-    "now owns 8.6% of the company",
-    "0.16% of the whole company"
-   ],
-   "insiders": [
-    "Amoruso Cristiano",
-    "LEE CHAE"
-   ],
-   "totalValue": 1526506.0274,
-   "ticker": "MX",
+   "totalValue": 188837.19145259,
+   "ticker": "GOOD",
    "side": "buy"
   }
  ]
