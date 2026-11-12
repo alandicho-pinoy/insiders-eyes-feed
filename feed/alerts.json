@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:16:07.404448+00:00",
+ "generatedAt": "2026-11-12T22:17:40.730063+00:00",
  "count": 8,
  "alerts": [
   {
@@ -105,38 +105,21 @@
    "side": "buy"
   },
   {
-   "key": "DTI:buy",
-   "headline": "DTI: 4 insiders bought $258,737 \u2014 0.50% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "0.31% of the whole company",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "FURST JACK D",
-    "Green Ira Harris Jr",
-    "Johnson David Richard",
-    "Prejean Robert Wayne"
-   ],
-   "totalValue": 258736.579,
-   "ticker": "DTI",
-   "side": "buy"
-  },
-  {
    "key": "OBIO:buy",
-   "headline": "OBIO: 4 insiders bought $230,000 \u2014 0.06% of the company",
+   "headline": "OBIO: 5 insiders bought $6.2M \u2014 1.76% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 37%"
+    "5 insiders bought within days",
+    "1.69% of the whole company (institution)",
+    "4 insiders buying"
    ],
    "insiders": [
     "Fain Eric S",
     "Hochman David P",
     "Pacitti David",
+    "RTW INVESTMENTS, LP",
     "Taylor Andrew Lawrence"
    ],
-   "totalValue": 230000.0,
+   "totalValue": 6230000.0,
    "ticker": "OBIO",
    "side": "buy"
   },
@@ -159,20 +142,38 @@
    "side": "buy"
   },
   {
-   "key": "GOOD:buy",
-   "headline": "GOOD: 3 insiders bought $188,837 \u2014 0.04% of the company",
+   "key": "DTI:buy",
+   "headline": "DTI: 3 insiders bought $509,835 \u2014 0.98% of the company",
    "reasons": [
     "3 insiders bought within days",
+    "0.63% of the whole company",
     "3 insiders buying",
-    "grew their own stake 36%"
+    "grew their own stake 51%"
    ],
    "insiders": [
-    "Beckhorn Jay",
-    "Cooper Arthur S.",
-    "Gerson Gary"
+    "Green Ira Harris Jr",
+    "Johnson David Richard",
+    "Prejean Robert Wayne"
    ],
-   "totalValue": 188837.19145259,
-   "ticker": "GOOD",
+   "totalValue": 509834.6,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
+   "key": "MX:buy",
+   "headline": "MX: 2 insiders bought $3.1M \u2014 3.10% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "2.78% of the whole company",
+    "grew their own stake 53%",
+    "now owns 8.6% of the company"
+   ],
+   "insiders": [
+    "Amoruso Cristiano",
+    "LEE CHAE"
+   ],
+   "totalValue": 3053012.0548,
+   "ticker": "MX",
    "side": "buy"
   }
  ]
