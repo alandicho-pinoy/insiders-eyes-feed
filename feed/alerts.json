@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T22:17:40.730063+00:00",
+ "generatedAt": "2026-11-13T02:47:04.331598+00:00",
  "count": 8,
  "alerts": [
   {
@@ -47,6 +47,26 @@
    "side": "buy"
   },
   {
+   "key": "LRMR:buy",
+   "headline": "LRMR: 7 insiders bought $382,086 \u2014 0.14% of the company",
+   "reasons": [
+    "7 insiders bought within days",
+    "7 insiders buying"
+   ],
+   "insiders": [
+    "BEN-MAIMON CAROLE",
+    "Celano Michael",
+    "Hamilton Thomas Edward",
+    "Harlow John B. Jr.",
+    "Shankar Gopi",
+    "THOMAS FRANK E",
+    "Truitt Joseph"
+   ],
+   "totalValue": 382085.821,
+   "ticker": "LRMR",
+   "side": "buy"
+  },
+  {
    "key": "SLQT:buy",
    "headline": "SLQT: 5 insiders bought $446,272 \u2014 0.54% of the company",
    "reasons": [
@@ -68,11 +88,11 @@
   },
   {
    "key": "MTDR:buy",
-   "headline": "MTDR: 5 insiders bought $418,465 \u2014 0.01% of the company",
+   "headline": "MTDR: 5 insiders bought $541,690 \u2014 0.01% of the company",
    "reasons": [
     "5 insiders bought within days",
     "5 insiders buying",
-    "grew their own stake 105%"
+    "grew their own stake 157%"
    ],
    "insiders": [
     "Appel Shelley F",
@@ -81,7 +101,7 @@
     "Harvey Paul W",
     "Stetson Glenn W"
    ],
-   "totalValue": 418465.15,
+   "totalValue": 541690.15,
    "ticker": "MTDR",
    "side": "buy"
   },
@@ -105,6 +125,44 @@
    "side": "buy"
   },
   {
+   "key": "DOX:buy",
+   "headline": "DOX: 5 insiders bought $332,822 \u2014 0.01% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 31%"
+   ],
+   "insiders": [
+    "Davis Sarah R.",
+    "Genish Amos",
+    "Kanouff Yvette",
+    "MORALI VERONIQUE",
+    "MacDonald John Anthony"
+   ],
+   "totalValue": 332822.4702,
+   "ticker": "DOX",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 4 insiders bought $282,579 \u2014 0.54% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 28%",
+    "0.31% of the whole company"
+   ],
+   "insiders": [
+    "FURST JACK D",
+    "Green Ira Harris Jr",
+    "Johnson David Richard",
+    "Prejean Robert Wayne"
+   ],
+   "totalValue": 282578.67,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
    "key": "OBIO:buy",
    "headline": "OBIO: 5 insiders bought $6.2M \u2014 1.76% of the company",
    "reasons": [
@@ -121,59 +179,6 @@
    ],
    "totalValue": 6230000.0,
    "ticker": "OBIO",
-   "side": "buy"
-  },
-  {
-   "key": "FUN:buy",
-   "headline": "FUN: 3 insiders bought $15.1M \u2014 1.37% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "1.36% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 30%"
-   ],
-   "insiders": [
-    "Bennett Christopher Lawrence",
-    "HADDRILL RICHARD M",
-    "JAFFER REHAN"
-   ],
-   "totalValue": 15066320.0,
-   "ticker": "FUN",
-   "side": "buy"
-  },
-  {
-   "key": "DTI:buy",
-   "headline": "DTI: 3 insiders bought $509,835 \u2014 0.98% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.63% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 51%"
-   ],
-   "insiders": [
-    "Green Ira Harris Jr",
-    "Johnson David Richard",
-    "Prejean Robert Wayne"
-   ],
-   "totalValue": 509834.6,
-   "ticker": "DTI",
-   "side": "buy"
-  },
-  {
-   "key": "MX:buy",
-   "headline": "MX: 2 insiders bought $3.1M \u2014 3.10% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "2.78% of the whole company",
-    "grew their own stake 53%",
-    "now owns 8.6% of the company"
-   ],
-   "insiders": [
-    "Amoruso Cristiano",
-    "LEE CHAE"
-   ],
-   "totalValue": 3053012.0548,
-   "ticker": "MX",
    "side": "buy"
   }
  ]
