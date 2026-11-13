@@ -1,51 +1,7 @@
 {
- "generatedAt": "2026-11-13T02:47:04.331598+00:00",
+ "generatedAt": "2026-11-13T15:15:30.037667+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "TSM:buy",
-   "headline": "TSM: 31 insiders bought $416,558 \u2014 0.00% of the company",
-   "reasons": [
-    "31 insiders bought within days",
-    "31 insiders buying"
-   ],
-   "insiders": [
-    "Cao Min",
-    "Chang Tzonz-Sheng",
-    "Chen Chih-Ho",
-    "Chen Pei-Hung",
-    "Chin Yung-Pei",
-    "Chuang Juiping",
-    "Chuang Tzu-Sou",
-    "Fang Shu-Hua",
-    "He Jun",
-    "Hou Yung-Chin",
-    "Hsu Kuo-Chin",
-    "Huang Jen-Chau",
-    "Hwang Yuan-Ko",
-    "Jang Syun-Ming",
-    "Ku Yao-Ching",
-    "Lee Chun-Hsien",
-    "Lin Chris Horng-Dar",
-    "Lin Shyue-Shyh",
-    "Lu Chin-Sheng",
-    "Lu Lee-Chung",
-    "Mii Yuh-Jier",
-    "SPLINTER MICHAEL R",
-    "Tien Bor-Zen",
-    "Wang Ying-Lang",
-    "Wei Che-Chia",
-    "Wu Shien-Yang",
-    "Wu Yi-Huang",
-    "Yeap Choh Fei",
-    "Yoo Chue-San",
-    "Yuan Lipen",
-    "Zhang Kevin Xiaoqiang"
-   ],
-   "totalValue": 416557.5,
-   "ticker": "TSM",
-   "side": "buy"
-  },
   {
    "key": "LRMR:buy",
    "headline": "LRMR: 7 insiders bought $382,086 \u2014 0.14% of the company",
@@ -87,25 +43,6 @@
    "side": "buy"
   },
   {
-   "key": "MTDR:buy",
-   "headline": "MTDR: 5 insiders bought $541,690 \u2014 0.01% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 157%"
-   ],
-   "insiders": [
-    "Appel Shelley F",
-    "Ehrman Monika U",
-    "Foran Joseph Wm",
-    "Harvey Paul W",
-    "Stetson Glenn W"
-   ],
-   "totalValue": 541690.15,
-   "ticker": "MTDR",
-   "side": "buy"
-  },
-  {
    "key": "GSM:buy",
    "headline": "GSM: 5 insiders bought $262,563 \u2014 0.05% of the company",
    "reasons": [
@@ -144,41 +81,69 @@
    "side": "buy"
   },
   {
-   "key": "DTI:buy",
-   "headline": "DTI: 4 insiders bought $282,579 \u2014 0.54% of the company",
+   "key": "CSQR:buy",
+   "headline": "CSQR: 3 insiders bought $454,429 \u2014 0.02% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 28%",
-    "0.31% of the whole company"
+    "3 insiders bought within days",
+    "3 insiders buying"
    ],
    "insiders": [
-    "FURST JACK D",
-    "Green Ira Harris Jr",
-    "Johnson David Richard",
-    "Prejean Robert Wayne"
+    "Cook Steven R. E.",
+    "Kelley Philip M",
+    "MULLEE SPENCER EDWARD"
    ],
-   "totalValue": 282578.67,
-   "ticker": "DTI",
+   "totalValue": 454428.519478,
+   "ticker": "CSQR",
    "side": "buy"
   },
   {
-   "key": "OBIO:buy",
-   "headline": "OBIO: 5 insiders bought $6.2M \u2014 1.76% of the company",
+   "key": "MP:buy",
+   "headline": "MP: 3 insiders bought $3.4M \u2014 0.05% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "1.69% of the whole company (institution)",
-    "4 insiders buying"
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 36%"
    ],
    "insiders": [
-    "Fain Eric S",
-    "Hochman David P",
-    "Pacitti David",
-    "RTW INVESTMENTS, LP",
-    "Taylor Andrew Lawrence"
+    "Corbett Ryan",
+    "Rosenthal Michael Stuart",
+    "WEISENBURGER RANDALL J"
    ],
-   "totalValue": 6230000.0,
-   "ticker": "OBIO",
+   "totalValue": 3353605.68,
+   "ticker": "MP",
+   "side": "buy"
+  },
+  {
+   "key": "FUN:buy",
+   "headline": "FUN: 2 insiders bought $15.0M \u2014 1.36% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "1.36% of the whole company",
+    "grew their own stake 30%",
+    "now owns 6.2% of the company"
+   ],
+   "insiders": [
+    "HADDRILL RICHARD M",
+    "JAFFER REHAN"
+   ],
+   "totalValue": 15019720.0,
+   "ticker": "FUN",
+   "side": "buy"
+  },
+  {
+   "key": "HPP:buy",
+   "headline": "HPP: 2 insiders bought $862,112 \u2014 0.18% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.14% of the whole company",
+    "grew their own stake 212%"
+   ],
+   "insiders": [
+    "BORTZ JON E",
+    "COLEMAN VICTOR J"
+   ],
+   "totalValue": 862112.3,
+   "ticker": "HPP",
    "side": "buy"
   }
  ]
