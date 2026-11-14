@@ -1,5 +1,158 @@
 {
- "generatedAt": "2026-11-13T22:15:01.106088+00:00",
- "count": 0,
- "alerts": []
+ "generatedAt": "2026-11-14T02:48:49.164660+00:00",
+ "count": 8,
+ "alerts": [
+  {
+   "key": "LRMR:buy",
+   "headline": "LRMR: 7 insiders bought $382,086 \u2014 0.14% of the company",
+   "reasons": [
+    "7 insiders bought within days",
+    "7 insiders buying"
+   ],
+   "insiders": [
+    "BEN-MAIMON CAROLE",
+    "Celano Michael",
+    "Hamilton Thomas Edward",
+    "Harlow John B. Jr.",
+    "Shankar Gopi",
+    "THOMAS FRANK E",
+    "Truitt Joseph"
+   ],
+   "totalValue": 382085.821,
+   "ticker": "LRMR",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 5 insiders bought $369,603 \u2014 0.71% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "0.35% of the whole company",
+    "5 insiders buying",
+    "0.13% of the whole company"
+   ],
+   "insiders": [
+    "FURST JACK D",
+    "Green Ira Harris Jr",
+    "Johnson David Richard",
+    "Neuman Eric C",
+    "Prejean Robert Wayne"
+   ],
+   "totalValue": 369603.18,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
+   "key": "SLQT:buy",
+   "headline": "SLQT: 5 insiders bought $446,272 \u2014 0.54% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "0.24% of the whole company",
+    "5 insiders buying",
+    "grew their own stake 80%"
+   ],
+   "insiders": [
+    "Danker Timothy Robert",
+    "Grant Robert Clay",
+    "Grant William Thomas III",
+    "Hawks Donald L III",
+    "Weldon Raymond F"
+   ],
+   "totalValue": 446271.857,
+   "ticker": "SLQT",
+   "side": "buy"
+  },
+  {
+   "key": "GSM:buy",
+   "headline": "GSM: 5 insiders bought $262,563 \u2014 0.05% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 29%"
+   ],
+   "insiders": [
+    "CROCKETT BRUCE LARMOUR",
+    "Girardeau David Marie, Gabriel",
+    "Levi Marco",
+    "Lopez Madrid Javier",
+    "Villar-Mir de Fuentes Silvia"
+   ],
+   "totalValue": 262562.9378,
+   "ticker": "GSM",
+   "side": "buy"
+  },
+  {
+   "key": "DOX:buy",
+   "headline": "DOX: 5 insiders bought $332,822 \u2014 0.01% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 31%"
+   ],
+   "insiders": [
+    "Davis Sarah R.",
+    "Genish Amos",
+    "Kanouff Yvette",
+    "MORALI VERONIQUE",
+    "MacDonald John Anthony"
+   ],
+   "totalValue": 332822.4702,
+   "ticker": "DOX",
+   "side": "buy"
+  },
+  {
+   "key": "FF:buy",
+   "headline": "FF: 4 insiders bought $307,781 \u2014 0.24% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "0.11% of the whole company",
+    "4 insiders buying",
+    "grew their own stake 137%"
+   ],
+   "insiders": [
+    "Bedell Donald C.",
+    "Butcher Pamela R",
+    "Polet Roeland",
+    "SPARKS ROSE"
+   ],
+   "totalValue": 307781.4,
+   "ticker": "FF",
+   "side": "buy"
+  },
+  {
+   "key": "BW:buy",
+   "headline": "BW: 5 insiders bought $762,874 \u2014 0.11% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "BRC Group Holdings, Inc.",
+    "Howe Alan B",
+    "Moeller Philip D",
+    "Tato Joseph A",
+    "Young Kenneth M"
+   ],
+   "totalValue": 762874.02,
+   "ticker": "BW",
+   "side": "buy"
+  },
+  {
+   "key": "HPP:buy",
+   "headline": "HPP: 3 insiders bought $905,762 \u2014 0.19% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "0.14% of the whole company"
+   ],
+   "insiders": [
+    "BORTZ JON E",
+    "COLEMAN VICTOR J",
+    "LAMMAS MARK T"
+   ],
+   "totalValue": 905762.3,
+   "ticker": "HPP",
+   "side": "buy"
+  }
+ ]
 }
