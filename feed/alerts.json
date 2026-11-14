@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T02:48:49.164660+00:00",
+ "generatedAt": "2026-11-14T15:15:20.844461+00:00",
  "count": 8,
  "alerts": [
   {
@@ -20,46 +20,6 @@
    ],
    "totalValue": 382085.821,
    "ticker": "LRMR",
-   "side": "buy"
-  },
-  {
-   "key": "DTI:buy",
-   "headline": "DTI: 5 insiders bought $369,603 \u2014 0.71% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "0.35% of the whole company",
-    "5 insiders buying",
-    "0.13% of the whole company"
-   ],
-   "insiders": [
-    "FURST JACK D",
-    "Green Ira Harris Jr",
-    "Johnson David Richard",
-    "Neuman Eric C",
-    "Prejean Robert Wayne"
-   ],
-   "totalValue": 369603.18,
-   "ticker": "DTI",
-   "side": "buy"
-  },
-  {
-   "key": "SLQT:buy",
-   "headline": "SLQT: 5 insiders bought $446,272 \u2014 0.54% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "0.24% of the whole company",
-    "5 insiders buying",
-    "grew their own stake 80%"
-   ],
-   "insiders": [
-    "Danker Timothy Robert",
-    "Grant Robert Clay",
-    "Grant William Thomas III",
-    "Hawks Donald L III",
-    "Weldon Raymond F"
-   ],
-   "totalValue": 446271.857,
-   "ticker": "SLQT",
    "side": "buy"
   },
   {
@@ -152,6 +112,39 @@
    ],
    "totalValue": 905762.3,
    "ticker": "HPP",
+   "side": "buy"
+  },
+  {
+   "key": "KGS:buy",
+   "headline": "KGS: 3 insiders bought $544,115 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 140%"
+   ],
+   "insiders": [
+    "Darden Alexander Newsom",
+    "Holloway Gretchen Lynn",
+    "Montana Margaret C"
+   ],
+   "totalValue": 544115.205,
+   "ticker": "KGS",
+   "side": "buy"
+  },
+  {
+   "key": "CSQR:buy",
+   "headline": "CSQR: 3 insiders bought $454,429 \u2014 0.02% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Cook Steven R. E.",
+    "Kelley Philip M",
+    "MULLEE SPENCER EDWARD"
+   ],
+   "totalValue": 454428.519478,
+   "ticker": "CSQR",
    "side": "buy"
   }
  ]
