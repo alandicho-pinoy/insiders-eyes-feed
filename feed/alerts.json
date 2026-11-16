@@ -1,65 +1,7 @@
 {
- "generatedAt": "2026-11-16T02:45:19.702118+00:00",
+ "generatedAt": "2026-11-16T15:15:33.103098+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "LRMR:buy",
-   "headline": "LRMR: 7 insiders bought $382,086 \u2014 0.14% of the company",
-   "reasons": [
-    "7 insiders bought within days",
-    "7 insiders buying"
-   ],
-   "insiders": [
-    "BEN-MAIMON CAROLE",
-    "Celano Michael",
-    "Hamilton Thomas Edward",
-    "Harlow John B. Jr.",
-    "Shankar Gopi",
-    "THOMAS FRANK E",
-    "Truitt Joseph"
-   ],
-   "totalValue": 382085.821,
-   "ticker": "LRMR",
-   "side": "buy"
-  },
-  {
-   "key": "GSM:buy",
-   "headline": "GSM: 5 insiders bought $262,563 \u2014 0.05% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 29%"
-   ],
-   "insiders": [
-    "CROCKETT BRUCE LARMOUR",
-    "Girardeau David Marie, Gabriel",
-    "Levi Marco",
-    "Lopez Madrid Javier",
-    "Villar-Mir de Fuentes Silvia"
-   ],
-   "totalValue": 262562.9378,
-   "ticker": "GSM",
-   "side": "buy"
-  },
-  {
-   "key": "DOX:buy",
-   "headline": "DOX: 5 insiders bought $332,822 \u2014 0.01% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 31%"
-   ],
-   "insiders": [
-    "Davis Sarah R.",
-    "Genish Amos",
-    "Kanouff Yvette",
-    "MORALI VERONIQUE",
-    "MacDonald John Anthony"
-   ],
-   "totalValue": 332822.4702,
-   "ticker": "DOX",
-   "side": "buy"
-  },
   {
    "key": "FF:buy",
    "headline": "FF: 4 insiders bought $307,781 \u2014 0.24% of the company",
@@ -80,71 +22,120 @@
    "side": "buy"
   },
   {
-   "key": "BW:buy",
-   "headline": "BW: 5 insiders bought $762,874 \u2014 0.11% of the company",
+   "key": "CATX:buy",
+   "headline": "CATX: 4 insiders bought $90,447 \u2014 0.09% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "4 insiders buying"
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 30%"
    ],
    "insiders": [
-    "BRC Group Holdings, Inc.",
-    "Howe Alan B",
-    "Moeller Philip D",
-    "Tato Joseph A",
-    "Young Kenneth M"
+    "Morich Frank",
+    "Puhlmann Markus",
+    "Williamson Robert F III",
+    "Woods Lori A"
    ],
-   "totalValue": 762874.02,
-   "ticker": "BW",
-   "side": "buy"
-  },
-  {
-   "key": "HPP:buy",
-   "headline": "HPP: 3 insiders bought $905,762 \u2014 0.19% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "0.14% of the whole company"
-   ],
-   "insiders": [
-    "BORTZ JON E",
-    "COLEMAN VICTOR J",
-    "LAMMAS MARK T"
-   ],
-   "totalValue": 905762.3,
-   "ticker": "HPP",
-   "side": "buy"
-  },
-  {
-   "key": "KGS:buy",
-   "headline": "KGS: 3 insiders bought $544,115 \u2014 0.01% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 140%"
-   ],
-   "insiders": [
-    "Darden Alexander Newsom",
-    "Holloway Gretchen Lynn",
-    "Montana Margaret C"
-   ],
-   "totalValue": 544115.205,
-   "ticker": "KGS",
+   "totalValue": 90446.7654,
+   "ticker": "CATX",
    "side": "buy"
   },
   {
    "key": "CSQR:buy",
-   "headline": "CSQR: 3 insiders bought $454,429 \u2014 0.02% of the company",
+   "headline": "CSQR: 3 insiders bought $241,320 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Cook Steven R. E.",
+    "Kelley Philip M",
+    "PIZZUTO TERRI"
+   ],
+   "totalValue": 241319.919478,
+   "ticker": "CSQR",
+   "side": "buy"
+  },
+  {
+   "key": "ALT:buy",
+   "headline": "ALT: 3 insiders bought $82,244 \u2014 0.03% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 49%"
+   ],
+   "insiders": [
+    "Durso Jerome Benedict",
+    "Pisano Wayne",
+    "WEAVER GREGORY L"
+   ],
+   "totalValue": 82244.09,
+   "ticker": "ALT",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 3 insiders bought $87,025 \u2014 0.17% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.13% of the whole company",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "FURST JACK D",
+    "Neuman Eric C",
+    "Prejean Robert Wayne"
+   ],
+   "totalValue": 87024.51,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
+   "key": "BW:buy",
+   "headline": "BW: 3 insiders bought $110,142 \u2014 0.02% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying"
    ],
    "insiders": [
-    "Cook Steven R. E.",
-    "Kelley Philip M",
-    "MULLEE SPENCER EDWARD"
+    "Moeller Philip D",
+    "Tato Joseph A",
+    "Young Kenneth M"
    ],
-   "totalValue": 454428.519478,
-   "ticker": "CSQR",
+   "totalValue": 110141.52,
+   "ticker": "BW",
+   "side": "buy"
+  },
+  {
+   "key": "STWD:buy",
+   "headline": "STWD: 2 insiders bought $16.7M \u2014 0.40% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.36% of the whole company",
+    "grew their own stake 491%",
+    "$14.7M from the CEO, Chairman of the Board"
+   ],
+   "insiders": [
+    "Pollack Jonathan Lee",
+    "STERNLICHT BARRY S"
+   ],
+   "totalValue": 16711131.6,
+   "ticker": "STWD",
+   "side": "buy"
+  },
+  {
+   "key": "KGS:buy",
+   "headline": "KGS: 2 insiders bought $499,855 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 140%"
+   ],
+   "insiders": [
+    "Darden Alexander Newsom",
+    "Holloway Gretchen Lynn"
+   ],
+   "totalValue": 499855.205,
+   "ticker": "KGS",
    "side": "buy"
   }
  ]
