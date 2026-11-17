@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T02:46:35.811737+00:00",
+ "generatedAt": "2026-11-17T15:15:27.738285+00:00",
  "count": 8,
  "alerts": [
   {
@@ -22,24 +22,6 @@
    "side": "buy"
   },
   {
-   "key": "CATX:buy",
-   "headline": "CATX: 4 insiders bought $90,447 \u2014 0.09% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 30%"
-   ],
-   "insiders": [
-    "Morich Frank",
-    "Puhlmann Markus",
-    "Williamson Robert F III",
-    "Woods Lori A"
-   ],
-   "totalValue": 90446.7654,
-   "ticker": "CATX",
-   "side": "buy"
-  },
-  {
    "key": "FPS:buy",
    "headline": "FPS: 4 insiders bought $1.1M \u2014 0.02% of the company",
    "reasons": [
@@ -57,72 +39,20 @@
    "side": "buy"
   },
   {
-   "key": "BW:buy",
-   "headline": "BW: 4 insiders bought $152,242 \u2014 0.02% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Frymyer Cameron M",
-    "Moeller Philip D",
-    "Tato Joseph A",
-    "Young Kenneth M"
-   ],
-   "totalValue": 152241.52,
-   "ticker": "BW",
-   "side": "buy"
-  },
-  {
-   "key": "CSQR:buy",
-   "headline": "CSQR: 3 insiders bought $241,320 \u2014 0.01% of the company",
+   "key": "CATX:buy",
+   "headline": "CATX: 3 insiders bought $105,810 \u2014 0.10% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
-    "grew their own stake 100%"
+    "grew their own stake 76%"
    ],
    "insiders": [
-    "Cook Steven R. E.",
-    "Kelley Philip M",
-    "PIZZUTO TERRI"
+    "Morich Frank",
+    "Williamson Robert F III",
+    "Woods Lori A"
    ],
-   "totalValue": 241319.919478,
-   "ticker": "CSQR",
-   "side": "buy"
-  },
-  {
-   "key": "DTI:buy",
-   "headline": "DTI: 3 insiders bought $149,078 \u2014 0.29% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.12% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 49%"
-   ],
-   "insiders": [
-    "FURST JACK D",
-    "Neuman Eric C",
-    "Prejean Robert Wayne"
-   ],
-   "totalValue": 149078.4461,
-   "ticker": "DTI",
-   "side": "buy"
-  },
-  {
-   "key": "ALT:buy",
-   "headline": "ALT: 3 insiders bought $82,244 \u2014 0.03% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 49%"
-   ],
-   "insiders": [
-    "Durso Jerome Benedict",
-    "Pisano Wayne",
-    "WEAVER GREGORY L"
-   ],
-   "totalValue": 82244.09,
-   "ticker": "ALT",
+   "totalValue": 105810.2808,
+   "ticker": "CATX",
    "side": "buy"
   },
   {
@@ -139,6 +69,67 @@
    ],
    "totalValue": 120524.37,
    "ticker": "AOMR",
+   "side": "buy"
+  },
+  {
+   "key": "DOX:buy",
+   "headline": "DOX: 3 insiders bought $421,619 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 25%"
+   ],
+   "insiders": [
+    "DE LA VEGA RAFAEL",
+    "Gardner Adrian",
+    "Gelman Eliahu Meir"
+   ],
+   "totalValue": 421618.985,
+   "ticker": "DOX",
+   "side": "buy"
+  },
+  {
+   "key": "CSQR:buy",
+   "headline": "CSQR: 2 insiders bought $206,320 \u2014 0.01% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 100%",
+    "grew their own stake 56%"
+   ],
+   "insiders": [
+    "Kelley Philip M",
+    "PIZZUTO TERRI"
+   ],
+   "totalValue": 206320.0,
+   "ticker": "CSQR",
+   "side": "buy"
+  },
+  {
+   "key": "PCT:buy",
+   "headline": "PCT: 2 insiders bought $470,296 \u2014 0.14% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.11% of the whole company"
+   ],
+   "insiders": [
+    "Musa Fernando",
+    "Olson Dustin"
+   ],
+   "totalValue": 470296.0,
+   "ticker": "PCT",
+   "side": "buy"
+  },
+  {
+   "key": "EMO:buy",
+   "headline": "EMO: Prudential Financial Inc (10% owner) bought $35.0M \u2014 3.55% of the whole company (institution)",
+   "reasons": [
+    "3.55% of the whole company (institution)"
+   ],
+   "insiders": [
+    "PRUDENTIAL FINANCIAL INC"
+   ],
+   "totalValue": 35000000.0,
+   "ticker": "EMO",
    "side": "buy"
   }
  ]
