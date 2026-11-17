@@ -1,7 +1,25 @@
 {
- "generatedAt": "2026-11-17T15:15:27.738285+00:00",
+ "generatedAt": "2026-11-17T22:16:37.327272+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "ITG:buy",
+   "headline": "ITG: 5 insiders bought $1.2M \u2014 0.18% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying"
+   ],
+   "insiders": [
+    "Braun III Francis A",
+    "Brooks Michael George",
+    "Giacalone Peter",
+    "LAPERCH WILLIAM G",
+    "Parrott Andrew"
+   ],
+   "totalValue": 1181659.70376,
+   "ticker": "ITG",
+   "side": "buy"
+  },
   {
    "key": "ADIG:buy",
    "headline": "ADIG: 5 insiders bought $325,603 \u2014 0.05% of the company",
@@ -39,23 +57,6 @@
    "side": "buy"
   },
   {
-   "key": "CATX:buy",
-   "headline": "CATX: 3 insiders bought $105,810 \u2014 0.10% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 76%"
-   ],
-   "insiders": [
-    "Morich Frank",
-    "Williamson Robert F III",
-    "Woods Lori A"
-   ],
-   "totalValue": 105810.2808,
-   "ticker": "CATX",
-   "side": "buy"
-  },
-  {
    "key": "AOMR:buy",
    "headline": "AOMR: 3 insiders bought $120,524 \u2014 0.09% of the company",
    "reasons": [
@@ -69,6 +70,23 @@
    ],
    "totalValue": 120524.37,
    "ticker": "AOMR",
+   "side": "buy"
+  },
+  {
+   "key": "PAM:buy",
+   "headline": "PAM: 3 insiders bought $2.1M \u2014 0.06% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "now owns 13.4% of the company"
+   ],
+   "insiders": [
+    "Mariani Gustavo",
+    "Mindlin Damian Miguel",
+    "Mindlin Marcos Marcelo"
+   ],
+   "totalValue": 2146970.913,
+   "ticker": "PAM",
    "side": "buy"
   },
   {
@@ -105,31 +123,16 @@
    "side": "buy"
   },
   {
-   "key": "PCT:buy",
-   "headline": "PCT: 2 insiders bought $470,296 \u2014 0.14% of the company",
+   "key": "PEPG:buy",
+   "headline": "PEPG: Ra Capital Management, L.P. (director) bought $43.1M \u2014 11.79% of the whole company (institution)",
    "reasons": [
-    "2 insiders bought within days",
-    "0.11% of the whole company"
+    "11.79% of the whole company (institution)"
    ],
    "insiders": [
-    "Musa Fernando",
-    "Olson Dustin"
+    "RA CAPITAL MANAGEMENT, L.P."
    ],
-   "totalValue": 470296.0,
-   "ticker": "PCT",
-   "side": "buy"
-  },
-  {
-   "key": "EMO:buy",
-   "headline": "EMO: Prudential Financial Inc (10% owner) bought $35.0M \u2014 3.55% of the whole company (institution)",
-   "reasons": [
-    "3.55% of the whole company (institution)"
-   ],
-   "insiders": [
-    "PRUDENTIAL FINANCIAL INC"
-   ],
-   "totalValue": 35000000.0,
-   "ticker": "EMO",
+   "totalValue": 43125000.0,
+   "ticker": "PEPG",
    "side": "buy"
   }
  ]
