@@ -1,25 +1,59 @@
 {
- "generatedAt": "2026-11-16T22:17:12.638840+00:00",
+ "generatedAt": "2026-11-17T02:46:35.811737+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "FF:buy",
-   "headline": "FF: 5 insiders bought $591,781 \u2014 0.47% of the company",
+   "key": "ADIG:buy",
+   "headline": "ADIG: 5 insiders bought $325,603 \u2014 0.05% of the company",
    "reasons": [
     "5 insiders bought within days",
-    "0.22% of the whole company",
     "5 insiders buying",
-    "grew their own stake 1000%"
+    "grew their own stake 26%"
    ],
    "insiders": [
-    "Bedell Donald C.",
-    "Butcher Pamela R",
-    "KRUSZEWSKI RONALD J",
-    "Polet Roeland",
-    "SPARKS ROSE"
+    "Aarnes Robert B",
+    "Cardazzi Marco",
+    "Carlet Michael",
+    "Copeland Alicia Crispin",
+    "Lane Jeannine J"
    ],
-   "totalValue": 591781.4,
-   "ticker": "FF",
+   "totalValue": 325602.92,
+   "ticker": "ADIG",
+   "side": "buy"
+  },
+  {
+   "key": "CATX:buy",
+   "headline": "CATX: 4 insiders bought $90,447 \u2014 0.09% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 30%"
+   ],
+   "insiders": [
+    "Morich Frank",
+    "Puhlmann Markus",
+    "Williamson Robert F III",
+    "Woods Lori A"
+   ],
+   "totalValue": 90446.7654,
+   "ticker": "CATX",
+   "side": "buy"
+  },
+  {
+   "key": "FPS:buy",
+   "headline": "FPS: 4 insiders bought $1.1M \u2014 0.02% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "Ard Amy E",
+    "Bhatia Neel",
+    "Hottinger Tyson",
+    "Niederpruem Gary John"
+   ],
+   "totalValue": 1078334.7149,
+   "ticker": "FPS",
    "side": "buy"
   },
   {
@@ -40,6 +74,41 @@
    "side": "buy"
   },
   {
+   "key": "CSQR:buy",
+   "headline": "CSQR: 3 insiders bought $241,320 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "Cook Steven R. E.",
+    "Kelley Philip M",
+    "PIZZUTO TERRI"
+   ],
+   "totalValue": 241319.919478,
+   "ticker": "CSQR",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 3 insiders bought $149,078 \u2014 0.29% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.12% of the whole company",
+    "3 insiders buying",
+    "grew their own stake 49%"
+   ],
+   "insiders": [
+    "FURST JACK D",
+    "Neuman Eric C",
+    "Prejean Robert Wayne"
+   ],
+   "totalValue": 149078.4461,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
    "key": "ALT:buy",
    "headline": "ALT: 3 insiders bought $82,244 \u2014 0.03% of the company",
    "reasons": [
@@ -57,82 +126,19 @@
    "side": "buy"
   },
   {
-   "key": "DOX:buy",
-   "headline": "DOX: 3 insiders bought $421,619 \u2014 0.01% of the company",
+   "key": "AOMR:buy",
+   "headline": "AOMR: 3 insiders bought $120,524 \u2014 0.09% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 25%"
+    "3 insiders buying"
    ],
    "insiders": [
-    "DE LA VEGA RAFAEL",
-    "Gardner Adrian",
-    "Gelman Eliahu Meir"
+    "MINAMI W D",
+    "Morgan Jonathan",
+    "Savarese Noelle"
    ],
-   "totalValue": 421618.985,
-   "ticker": "DOX",
-   "side": "buy"
-  },
-  {
-   "key": "CSQR:buy",
-   "headline": "CSQR: 2 insiders bought $206,320 \u2014 0.01% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 100%",
-    "grew their own stake 56%"
-   ],
-   "insiders": [
-    "Kelley Philip M",
-    "PIZZUTO TERRI"
-   ],
-   "totalValue": 206320.0,
-   "ticker": "CSQR",
-   "side": "buy"
-  },
-  {
-   "key": "KGS:buy",
-   "headline": "KGS: 2 insiders bought $499,855 \u2014 0.01% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 140%"
-   ],
-   "insiders": [
-    "Darden Alexander Newsom",
-    "Holloway Gretchen Lynn"
-   ],
-   "totalValue": 499855.205,
-   "ticker": "KGS",
-   "side": "buy"
-  },
-  {
-   "key": "KEEL:buy",
-   "headline": "KEEL: 2 insiders bought $126,170 \u2014 0.01% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 29%",
-    "grew their own stake 57%"
-   ],
-   "insiders": [
-    "Freedman Amy",
-    "WILSON LIAM DANIEL"
-   ],
-   "totalValue": 126169.66,
-   "ticker": "KEEL",
-   "side": "buy"
-  },
-  {
-   "key": "VANI:buy",
-   "headline": "VANI: 2 insiders bought $67,408 \u2014 0.07% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "now owns 41.0% of the company"
-   ],
-   "insiders": [
-    "Dwyer Donald",
-    "Williams Gregg"
-   ],
-   "totalValue": 67408.3,
-   "ticker": "VANI",
+   "totalValue": 120524.37,
+   "ticker": "AOMR",
    "side": "buy"
   }
  ]
