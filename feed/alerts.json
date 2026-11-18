@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T02:49:08.913883+00:00",
+ "generatedAt": "2026-11-18T15:15:43.486675+00:00",
  "count": 8,
  "alerts": [
   {
@@ -40,41 +40,6 @@
    "side": "buy"
   },
   {
-   "key": "FISN:buy",
-   "headline": "FISN: 5 insiders bought $79,387 \u2014 0.07% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying"
-   ],
-   "insiders": [
-    "Goldman Tepper Leslie",
-    "JANOVER BLAKE",
-    "Muller Elizabeth",
-    "Muller Richard",
-    "Peres Mark Wayne"
-   ],
-   "totalValue": 79387.49885086,
-   "ticker": "FISN",
-   "side": "buy"
-  },
-  {
-   "key": "FPS:buy",
-   "headline": "FPS: 4 insiders bought $1.1M \u2014 0.02% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Ard Amy E",
-    "Bhatia Neel",
-    "Hottinger Tyson",
-    "Niederpruem Gary John"
-   ],
-   "totalValue": 1078334.7149,
-   "ticker": "FPS",
-   "side": "buy"
-  },
-  {
    "key": "AOMR:buy",
    "headline": "AOMR: 4 insiders bought $150,230 \u2014 0.11% of the company",
    "reasons": [
@@ -92,35 +57,55 @@
    "side": "buy"
   },
   {
-   "key": "LCTX:buy",
-   "headline": "LCTX: 3 insiders bought $74,198 \u2014 0.04% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "ANDREWS DEBORAH J",
-    "Culley Brian M",
-    "Howe Jill Ann"
-   ],
-   "totalValue": 74198.0,
-   "ticker": "LCTX",
-   "side": "buy"
-  },
-  {
    "key": "CATX:buy",
-   "headline": "CATX: 3 insiders bought $69,948 \u2014 0.07% of the company",
+   "headline": "CATX: 3 insiders bought $104,944 \u2014 0.10% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "3 insiders buying"
+    "3 insiders buying",
+    "grew their own stake 76%"
    ],
    "insiders": [
     "Morich Frank",
     "Williamson Robert F III",
     "Woods Lori A"
    ],
-   "totalValue": 69948.2654,
+   "totalValue": 104944.2654,
    "ticker": "CATX",
+   "side": "buy"
+  },
+  {
+   "key": "LCTX:buy",
+   "headline": "LCTX: 3 insiders bought $111,296 \u2014 0.06% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 38%"
+   ],
+   "insiders": [
+    "ANDREWS DEBORAH J",
+    "Culley Brian M",
+    "Howe Jill Ann"
+   ],
+   "totalValue": 111296.0,
+   "ticker": "LCTX",
+   "side": "buy"
+  },
+  {
+   "key": "PAL:buy",
+   "headline": "PAL: 3 insiders bought $252,768 \u2014 0.32% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.23% of the whole company",
+    "3 insiders buying",
+    "grew their own stake 97%"
+   ],
+   "insiders": [
+    "Gattoni James B",
+    "Lal Rohit",
+    "Rice Amy F."
+   ],
+   "totalValue": 252768.0,
+   "ticker": "PAL",
    "side": "buy"
   },
   {
@@ -138,6 +123,23 @@
    ],
    "totalValue": 2146970.913,
    "ticker": "PAM",
+   "side": "buy"
+  },
+  {
+   "key": "DOX:buy",
+   "headline": "DOX: 3 insiders bought $421,619 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 25%"
+   ],
+   "insiders": [
+    "DE LA VEGA RAFAEL",
+    "Gardner Adrian",
+    "Gelman Eliahu Meir"
+   ],
+   "totalValue": 421618.985,
+   "ticker": "DOX",
    "side": "buy"
   }
  ]
