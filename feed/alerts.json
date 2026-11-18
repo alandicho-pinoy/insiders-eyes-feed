@@ -1,7 +1,27 @@
 {
- "generatedAt": "2026-11-18T15:15:43.486675+00:00",
+ "generatedAt": "2026-11-18T22:17:18.535405+00:00",
  "count": 8,
  "alerts": [
+  {
+   "key": "HAWK:buy",
+   "headline": "HAWK: 7 insiders bought $124,211 \u2014 0.01% of the company",
+   "reasons": [
+    "7 insiders bought within days",
+    "7 insiders buying"
+   ],
+   "insiders": [
+    "Fox Alex J",
+    "Probert Todd",
+    "Searle Craig Chih-Meng",
+    "Serafini John Sheldon",
+    "Shames Jonathan",
+    "Sweeney Janine Virginia",
+    "Zeitouni Patrick Elie"
+   ],
+   "totalValue": 124210.5511,
+   "ticker": "HAWK",
+   "side": "buy"
+  },
   {
    "key": "ITG:buy",
    "headline": "ITG: 5 insiders bought $1.2M \u2014 0.18% of the company",
@@ -40,8 +60,60 @@
    "side": "buy"
   },
   {
+   "key": "FISN:buy",
+   "headline": "FISN: 5 insiders bought $79,387 \u2014 0.07% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying"
+   ],
+   "insiders": [
+    "Goldman Tepper Leslie",
+    "JANOVER BLAKE",
+    "Muller Elizabeth",
+    "Muller Richard",
+    "Peres Mark Wayne"
+   ],
+   "totalValue": 79387.49885086,
+   "ticker": "FISN",
+   "side": "buy"
+  },
+  {
+   "key": "FPS:buy",
+   "headline": "FPS: 4 insiders bought $1.1M \u2014 0.02% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "Ard Amy E",
+    "Bhatia Neel",
+    "Hottinger Tyson",
+    "Niederpruem Gary John"
+   ],
+   "totalValue": 1078334.7149,
+   "ticker": "FPS",
+   "side": "buy"
+  },
+  {
+   "key": "UMH:buy",
+   "headline": "UMH: 4 insiders bought $57,850 \u2014 0.00% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "Carus Jeffrey A",
+    "HIRSCH MATTHEW I",
+    "Miller Kevin S.",
+    "Mitchell William Edward"
+   ],
+   "totalValue": 57849.9425,
+   "ticker": "UMH",
+   "side": "buy"
+  },
+  {
    "key": "AOMR:buy",
-   "headline": "AOMR: 4 insiders bought $150,230 \u2014 0.11% of the company",
+   "headline": "AOMR: 4 insiders bought $179,935 \u2014 0.14% of the company",
    "reasons": [
     "4 insiders bought within days",
     "4 insiders buying"
@@ -52,94 +124,26 @@
     "Morgan Jonathan",
     "Savarese Noelle"
    ],
-   "totalValue": 150229.87,
+   "totalValue": 179935.37,
    "ticker": "AOMR",
    "side": "buy"
   },
   {
-   "key": "CATX:buy",
-   "headline": "CATX: 3 insiders bought $104,944 \u2014 0.10% of the company",
+   "key": "WWB:buy",
+   "headline": "WWB: 3 insiders bought $69.8M \u2014 5.31% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 76%"
+    "2.26% of the whole company",
+    "1.52% of the whole company",
+    "grew their own stake 221%"
    ],
    "insiders": [
-    "Morich Frank",
-    "Williamson Robert F III",
-    "Woods Lori A"
+    "Bonita David P",
+    "ORBIMED ADVISORS LLC",
+    "Stampacchia Otello"
    ],
-   "totalValue": 104944.2654,
-   "ticker": "CATX",
-   "side": "buy"
-  },
-  {
-   "key": "LCTX:buy",
-   "headline": "LCTX: 3 insiders bought $111,296 \u2014 0.06% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 38%"
-   ],
-   "insiders": [
-    "ANDREWS DEBORAH J",
-    "Culley Brian M",
-    "Howe Jill Ann"
-   ],
-   "totalValue": 111296.0,
-   "ticker": "LCTX",
-   "side": "buy"
-  },
-  {
-   "key": "PAL:buy",
-   "headline": "PAL: 3 insiders bought $252,768 \u2014 0.32% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.23% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 97%"
-   ],
-   "insiders": [
-    "Gattoni James B",
-    "Lal Rohit",
-    "Rice Amy F."
-   ],
-   "totalValue": 252768.0,
-   "ticker": "PAL",
-   "side": "buy"
-  },
-  {
-   "key": "PAM:buy",
-   "headline": "PAM: 3 insiders bought $2.1M \u2014 0.06% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "now owns 13.4% of the company"
-   ],
-   "insiders": [
-    "Mariani Gustavo",
-    "Mindlin Damian Miguel",
-    "Mindlin Marcos Marcelo"
-   ],
-   "totalValue": 2146970.913,
-   "ticker": "PAM",
-   "side": "buy"
-  },
-  {
-   "key": "DOX:buy",
-   "headline": "DOX: 3 insiders bought $421,619 \u2014 0.01% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 25%"
-   ],
-   "insiders": [
-    "DE LA VEGA RAFAEL",
-    "Gardner Adrian",
-    "Gelman Eliahu Meir"
-   ],
-   "totalValue": 421618.985,
-   "ticker": "DOX",
+   "totalValue": 69750014.0,
+   "ticker": "WWB",
    "side": "buy"
   }
  ]
