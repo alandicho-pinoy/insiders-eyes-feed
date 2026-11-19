@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-19T15:16:15.803556+00:00",
+ "generatedAt": "2026-11-19T22:16:35.207476+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "HAWK:buy",
-   "headline": "HAWK: 8 insiders bought $223,291 \u2014 0.01% of the company",
+   "headline": "HAWK: 8 insiders bought $173,405 \u2014 0.01% of the company",
    "reasons": [
     "8 insiders bought within days",
     "8 insiders buying"
@@ -19,7 +19,7 @@
     "Sweeney Janine Virginia",
     "Zeitouni Patrick Elie"
    ],
-   "totalValue": 223290.7911,
+   "totalValue": 173404.5511,
    "ticker": "HAWK",
    "side": "buy"
   },
@@ -118,38 +118,38 @@
    "side": "buy"
   },
   {
-   "key": "OFRM:buy",
-   "headline": "OFRM: 4 insiders bought $555,785 \u2014 0.12% of the company",
+   "key": "WWB:buy",
+   "headline": "WWB: 3 insiders bought $99.5M \u2014 7.57% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 34%"
+    "3 insiders bought within days",
+    "4.53% of the whole company",
+    "1.52% of the whole company",
+    "grew their own stake 221%"
    ],
    "insiders": [
-    "Foraker John M.",
-    "Morris Scott James",
-    "PEIROS LARRY",
-    "ROBB WALTER E IV"
+    "Bonita David P",
+    "ORBIMED ADVISORS LLC",
+    "Stampacchia Otello"
    ],
-   "totalValue": 555784.68,
-   "ticker": "OFRM",
+   "totalValue": 99500014.0,
+   "ticker": "WWB",
    "side": "buy"
   },
   {
-   "key": "UMH:buy",
-   "headline": "UMH: 4 insiders bought $57,850 \u2014 0.00% of the company",
+   "key": "LCTX:buy",
+   "headline": "LCTX: 4 insiders bought $100,298 \u2014 0.05% of the company",
    "reasons": [
     "4 insiders bought within days",
     "4 insiders buying"
    ],
    "insiders": [
-    "Carus Jeffrey A",
-    "HIRSCH MATTHEW I",
-    "Miller Kevin S.",
-    "Mitchell William Edward"
+    "ANDREWS DEBORAH J",
+    "Culley Brian M",
+    "Howe Jill Ann",
+    "Mulroy Michael H."
    ],
-   "totalValue": 57849.9425,
-   "ticker": "UMH",
+   "totalValue": 100298.0,
+   "ticker": "LCTX",
    "side": "buy"
   }
  ]
