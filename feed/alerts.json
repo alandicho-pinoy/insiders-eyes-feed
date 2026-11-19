@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-19T02:46:50.465025+00:00",
+ "generatedAt": "2026-11-19T15:16:15.803556+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "HAWK:buy",
-   "headline": "HAWK: 8 insiders bought $173,405 \u2014 0.01% of the company",
+   "headline": "HAWK: 8 insiders bought $223,291 \u2014 0.01% of the company",
    "reasons": [
     "8 insiders bought within days",
     "8 insiders buying"
@@ -19,7 +19,7 @@
     "Sweeney Janine Virginia",
     "Zeitouni Patrick Elie"
    ],
-   "totalValue": 173404.5511,
+   "totalValue": 223290.7911,
    "ticker": "HAWK",
    "side": "buy"
   },
