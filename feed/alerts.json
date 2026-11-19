@@ -1,15 +1,16 @@
 {
- "generatedAt": "2026-11-18T22:17:18.535405+00:00",
+ "generatedAt": "2026-11-19T02:46:50.465025+00:00",
  "count": 8,
  "alerts": [
   {
    "key": "HAWK:buy",
-   "headline": "HAWK: 7 insiders bought $124,211 \u2014 0.01% of the company",
+   "headline": "HAWK: 8 insiders bought $173,405 \u2014 0.01% of the company",
    "reasons": [
-    "7 insiders bought within days",
-    "7 insiders buying"
+    "8 insiders bought within days",
+    "8 insiders buying"
    ],
    "insiders": [
+    "Finelli Francis Alphonse",
     "Fox Alex J",
     "Probert Todd",
     "Searle Craig Chih-Meng",
@@ -18,8 +19,28 @@
     "Sweeney Janine Virginia",
     "Zeitouni Patrick Elie"
    ],
-   "totalValue": 124210.5511,
+   "totalValue": 173404.5511,
    "ticker": "HAWK",
+   "side": "buy"
+  },
+  {
+   "key": "RMIX:buy",
+   "headline": "RMIX: 6 insiders bought $1.1M \u2014 0.24% of the company",
+   "reasons": [
+    "6 insiders bought within days",
+    "0.16% of the whole company",
+    "6 insiders buying"
+   ],
+   "insiders": [
+    "Fleming Ned N III",
+    "Johnston Bretton A.",
+    "Jones Mark Alan",
+    "Matteson Mark R",
+    "Rees-Jones David",
+    "Wentroth Thomas G."
+   ],
+   "totalValue": 1087191.45,
+   "ticker": "RMIX",
    "side": "buy"
   },
   {
@@ -38,6 +59,25 @@
    ],
    "totalValue": 1181659.70376,
    "ticker": "ITG",
+   "side": "buy"
+  },
+  {
+   "key": "FPS:buy",
+   "headline": "FPS: 5 insiders bought $1.1M \u2014 0.02% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "grew their own stake 43%"
+   ],
+   "insiders": [
+    "Ard Amy E",
+    "Bhatia Neel",
+    "Hottinger Tyson",
+    "Lund Inez",
+    "Niederpruem Gary John"
+   ],
+   "totalValue": 1143314.7149,
+   "ticker": "FPS",
    "side": "buy"
   },
   {
@@ -78,20 +118,21 @@
    "side": "buy"
   },
   {
-   "key": "FPS:buy",
-   "headline": "FPS: 4 insiders bought $1.1M \u2014 0.02% of the company",
+   "key": "OFRM:buy",
+   "headline": "OFRM: 4 insiders bought $555,785 \u2014 0.12% of the company",
    "reasons": [
     "4 insiders bought within days",
-    "4 insiders buying"
+    "4 insiders buying",
+    "grew their own stake 34%"
    ],
    "insiders": [
-    "Ard Amy E",
-    "Bhatia Neel",
-    "Hottinger Tyson",
-    "Niederpruem Gary John"
+    "Foraker John M.",
+    "Morris Scott James",
+    "PEIROS LARRY",
+    "ROBB WALTER E IV"
    ],
-   "totalValue": 1078334.7149,
-   "ticker": "FPS",
+   "totalValue": 555784.68,
+   "ticker": "OFRM",
    "side": "buy"
   },
   {
@@ -109,41 +150,6 @@
    ],
    "totalValue": 57849.9425,
    "ticker": "UMH",
-   "side": "buy"
-  },
-  {
-   "key": "AOMR:buy",
-   "headline": "AOMR: 4 insiders bought $179,935 \u2014 0.14% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "JONES CRAIG B",
-    "MINAMI W D",
-    "Morgan Jonathan",
-    "Savarese Noelle"
-   ],
-   "totalValue": 179935.37,
-   "ticker": "AOMR",
-   "side": "buy"
-  },
-  {
-   "key": "WWB:buy",
-   "headline": "WWB: 3 insiders bought $69.8M \u2014 5.31% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "2.26% of the whole company",
-    "1.52% of the whole company",
-    "grew their own stake 221%"
-   ],
-   "insiders": [
-    "Bonita David P",
-    "ORBIMED ADVISORS LLC",
-    "Stampacchia Otello"
-   ],
-   "totalValue": 69750014.0,
-   "ticker": "WWB",
    "side": "buy"
   }
  ]
