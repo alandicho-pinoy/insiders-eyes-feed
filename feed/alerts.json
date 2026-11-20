@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T22:16:35.207476+00:00",
+ "generatedAt": "2026-11-20T02:48:08.184408+00:00",
  "count": 8,
  "alerts": [
   {
@@ -25,22 +25,43 @@
   },
   {
    "key": "RMIX:buy",
-   "headline": "RMIX: 6 insiders bought $1.1M \u2014 0.24% of the company",
+   "headline": "RMIX: 7 insiders bought $1.3M \u2014 0.28% of the company",
    "reasons": [
-    "6 insiders bought within days",
-    "0.16% of the whole company",
-    "6 insiders buying"
+    "7 insiders bought within days",
+    "7 insiders buying",
+    "0.16% of the whole company"
    ],
    "insiders": [
     "Fleming Ned N III",
+    "HEYER ANDREW R",
     "Johnston Bretton A.",
     "Jones Mark Alan",
     "Matteson Mark R",
     "Rees-Jones David",
     "Wentroth Thomas G."
    ],
-   "totalValue": 1087191.45,
+   "totalValue": 1269991.45,
    "ticker": "RMIX",
+   "side": "buy"
+  },
+  {
+   "key": "PAL:buy",
+   "headline": "PAL: 5 insiders bought $415,188 \u2014 0.53% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "0.11% of the whole company",
+    "5 insiders buying",
+    "grew their own stake 69%"
+   ],
+   "insiders": [
+    "COL DOUGLAS L",
+    "Gattoni James B",
+    "Lal Rohit",
+    "Rice Amy F.",
+    "Schraudenbach John"
+   ],
+   "totalValue": 415188.0,
+   "ticker": "PAL",
    "side": "buy"
   },
   {
@@ -118,37 +139,21 @@
    "side": "buy"
   },
   {
-   "key": "WWB:buy",
-   "headline": "WWB: 3 insiders bought $99.5M \u2014 7.57% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "4.53% of the whole company",
-    "1.52% of the whole company",
-    "grew their own stake 221%"
-   ],
-   "insiders": [
-    "Bonita David P",
-    "ORBIMED ADVISORS LLC",
-    "Stampacchia Otello"
-   ],
-   "totalValue": 99500014.0,
-   "ticker": "WWB",
-   "side": "buy"
-  },
-  {
    "key": "LCTX:buy",
-   "headline": "LCTX: 4 insiders bought $100,298 \u2014 0.05% of the company",
+   "headline": "LCTX: 5 insiders bought $870,998 \u2014 0.43% of the company",
    "reasons": [
-    "4 insiders bought within days",
+    "5 insiders bought within days",
+    "0.38% of the whole company (institution)",
     "4 insiders buying"
    ],
    "insiders": [
     "ANDREWS DEBORAH J",
+    "BROADWOOD PARTNERS, L.P.",
     "Culley Brian M",
     "Howe Jill Ann",
     "Mulroy Michael H."
    ],
-   "totalValue": 100298.0,
+   "totalValue": 870998.0,
    "ticker": "LCTX",
    "side": "buy"
   }
