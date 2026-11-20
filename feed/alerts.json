@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:16:08.578742+00:00",
+ "generatedAt": "2026-11-20T22:17:04.455523+00:00",
  "count": 8,
  "alerts": [
   {
@@ -63,19 +63,19 @@
   },
   {
    "key": "OFRM:buy",
-   "headline": "OFRM: 4 insiders bought $555,785 \u2014 0.12% of the company",
+   "headline": "OFRM: 5 insiders bought $1.0M \u2014 0.21% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying",
-    "grew their own stake 34%"
+    "5 insiders bought within days",
+    "5 insiders buying"
    ],
    "insiders": [
     "Foraker John M.",
+    "Garner Jennifer Anne",
     "Morris Scott James",
     "PEIROS LARRY",
     "ROBB WALTER E IV"
    ],
-   "totalValue": 555784.68,
+   "totalValue": 1020200.88,
    "ticker": "OFRM",
    "side": "buy"
   },
@@ -97,6 +97,23 @@
    "side": "buy"
   },
   {
+   "key": "SEI:buy",
+   "headline": "SEI: 4 insiders bought $692,074 \u2014 0.02% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "4 insiders buying"
+   ],
+   "insiders": [
+    "Brock Amanda M",
+    "Ramachandran Kyle S.",
+    "TEAGUE AJ",
+    "Zartler William A"
+   ],
+   "totalValue": 692074.25,
+   "ticker": "SEI",
+   "side": "buy"
+  },
+  {
    "key": "HAWK:buy",
    "headline": "HAWK: 4 insiders bought $113,879 \u2014 0.01% of the company",
    "reasons": [
@@ -114,39 +131,21 @@
    "side": "buy"
   },
   {
-   "key": "LCTX:buy",
-   "headline": "LCTX: 4 insiders bought $853,898 \u2014 0.42% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "0.38% of the whole company (institution)",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "ANDREWS DEBORAH J",
-    "BROADWOOD PARTNERS, L.P.",
-    "Culley Brian M",
-    "Mulroy Michael H."
-   ],
-   "totalValue": 853898.0,
-   "ticker": "LCTX",
-   "side": "buy"
-  },
-  {
-   "key": "DTI:buy",
-   "headline": "DTI: 3 insiders bought $226,873 \u2014 0.40% of the company",
+   "key": "WWB:buy",
+   "headline": "WWB: 3 insiders bought $69.8M \u2014 5.31% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "0.17% of the whole company",
-    "3 insiders buying",
-    "grew their own stake 47%"
+    "2.26% of the whole company",
+    "1.52% of the whole company",
+    "grew their own stake 221%"
    ],
    "insiders": [
-    "Domino Michael Wayne Jr.",
-    "FURST JACK D",
-    "Rodriguez Aldo"
+    "Bonita David P",
+    "ORBIMED ADVISORS LLC",
+    "Stampacchia Otello"
    ],
-   "totalValue": 226873.1718,
-   "ticker": "DTI",
+   "totalValue": 69750014.0,
+   "ticker": "WWB",
    "side": "buy"
   }
  ]
