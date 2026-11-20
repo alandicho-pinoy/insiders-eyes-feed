@@ -1,28 +1,7 @@
 {
- "generatedAt": "2026-11-20T02:48:08.184408+00:00",
+ "generatedAt": "2026-11-20T15:16:08.578742+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "HAWK:buy",
-   "headline": "HAWK: 8 insiders bought $173,405 \u2014 0.01% of the company",
-   "reasons": [
-    "8 insiders bought within days",
-    "8 insiders buying"
-   ],
-   "insiders": [
-    "Finelli Francis Alphonse",
-    "Fox Alex J",
-    "Probert Todd",
-    "Searle Craig Chih-Meng",
-    "Serafini John Sheldon",
-    "Shames Jonathan",
-    "Sweeney Janine Virginia",
-    "Zeitouni Patrick Elie"
-   ],
-   "totalValue": 173404.5511,
-   "ticker": "HAWK",
-   "side": "buy"
-  },
   {
    "key": "RMIX:buy",
    "headline": "RMIX: 7 insiders bought $1.3M \u2014 0.28% of the company",
@@ -83,78 +62,91 @@
    "side": "buy"
   },
   {
-   "key": "FPS:buy",
-   "headline": "FPS: 5 insiders bought $1.1M \u2014 0.02% of the company",
+   "key": "OFRM:buy",
+   "headline": "OFRM: 4 insiders bought $555,785 \u2014 0.12% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 43%"
+    "4 insiders bought within days",
+    "4 insiders buying",
+    "grew their own stake 34%"
    ],
    "insiders": [
-    "Ard Amy E",
-    "Bhatia Neel",
-    "Hottinger Tyson",
-    "Lund Inez",
-    "Niederpruem Gary John"
+    "Foraker John M.",
+    "Morris Scott James",
+    "PEIROS LARRY",
+    "ROBB WALTER E IV"
    ],
-   "totalValue": 1143314.7149,
-   "ticker": "FPS",
+   "totalValue": 555784.68,
+   "ticker": "OFRM",
    "side": "buy"
   },
   {
-   "key": "ADIG:buy",
-   "headline": "ADIG: 5 insiders bought $325,603 \u2014 0.05% of the company",
+   "key": "UMH:buy",
+   "headline": "UMH: 4 insiders bought $57,850 \u2014 0.00% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 26%"
+    "4 insiders bought within days",
+    "4 insiders buying"
    ],
    "insiders": [
-    "Aarnes Robert B",
-    "Cardazzi Marco",
-    "Carlet Michael",
-    "Copeland Alicia Crispin",
-    "Lane Jeannine J"
+    "Carus Jeffrey A",
+    "HIRSCH MATTHEW I",
+    "Miller Kevin S.",
+    "Mitchell William Edward"
    ],
-   "totalValue": 325602.92,
-   "ticker": "ADIG",
+   "totalValue": 57849.9425,
+   "ticker": "UMH",
    "side": "buy"
   },
   {
-   "key": "FISN:buy",
-   "headline": "FISN: 5 insiders bought $79,387 \u2014 0.07% of the company",
+   "key": "HAWK:buy",
+   "headline": "HAWK: 4 insiders bought $113,879 \u2014 0.01% of the company",
    "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying"
+    "4 insiders bought within days",
+    "4 insiders buying"
    ],
    "insiders": [
-    "Goldman Tepper Leslie",
-    "JANOVER BLAKE",
-    "Muller Elizabeth",
-    "Muller Richard",
-    "Peres Mark Wayne"
+    "Finelli Francis Alphonse",
+    "Shames Jonathan",
+    "Sweeney Janine Virginia",
+    "Zeitouni Patrick Elie"
    ],
-   "totalValue": 79387.49885086,
-   "ticker": "FISN",
+   "totalValue": 113879.45,
+   "ticker": "HAWK",
    "side": "buy"
   },
   {
    "key": "LCTX:buy",
-   "headline": "LCTX: 5 insiders bought $870,998 \u2014 0.43% of the company",
+   "headline": "LCTX: 4 insiders bought $853,898 \u2014 0.42% of the company",
    "reasons": [
-    "5 insiders bought within days",
+    "4 insiders bought within days",
     "0.38% of the whole company (institution)",
-    "4 insiders buying"
+    "3 insiders buying"
    ],
    "insiders": [
     "ANDREWS DEBORAH J",
     "BROADWOOD PARTNERS, L.P.",
     "Culley Brian M",
-    "Howe Jill Ann",
     "Mulroy Michael H."
    ],
-   "totalValue": 870998.0,
+   "totalValue": 853898.0,
    "ticker": "LCTX",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 3 insiders bought $226,873 \u2014 0.40% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.17% of the whole company",
+    "3 insiders buying",
+    "grew their own stake 47%"
+   ],
+   "insiders": [
+    "Domino Michael Wayne Jr.",
+    "FURST JACK D",
+    "Rodriguez Aldo"
+   ],
+   "totalValue": 226873.1718,
+   "ticker": "DTI",
    "side": "buy"
   }
  ]
