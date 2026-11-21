@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:17:04.455523+00:00",
+ "generatedAt": "2026-11-21T02:46:38.366819+00:00",
  "count": 8,
  "alerts": [
   {
@@ -63,10 +63,11 @@
   },
   {
    "key": "OFRM:buy",
-   "headline": "OFRM: 5 insiders bought $1.0M \u2014 0.21% of the company",
+   "headline": "OFRM: 5 insiders bought $815,516 \u2014 0.17% of the company",
    "reasons": [
     "5 insiders bought within days",
-    "5 insiders buying"
+    "5 insiders buying",
+    "grew their own stake 538%"
    ],
    "insiders": [
     "Foraker John M.",
@@ -75,8 +76,27 @@
     "PEIROS LARRY",
     "ROBB WALTER E IV"
    ],
-   "totalValue": 1020200.88,
+   "totalValue": 815515.88,
    "ticker": "OFRM",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 4 insiders bought $399,738 \u2014 0.71% of the company",
+   "reasons": [
+    "4 insiders bought within days",
+    "0.42% of the whole company",
+    "4 insiders buying",
+    "grew their own stake 124%"
+   ],
+   "insiders": [
+    "Domino Michael Wayne Jr.",
+    "FURST JACK D",
+    "Green Ira Harris Jr",
+    "Rodriguez Aldo"
+   ],
+   "totalValue": 399738.1718,
+   "ticker": "DTI",
    "side": "buy"
   },
   {
@@ -98,7 +118,7 @@
   },
   {
    "key": "SEI:buy",
-   "headline": "SEI: 4 insiders bought $692,074 \u2014 0.02% of the company",
+   "headline": "SEI: 4 insiders bought $681,993 \u2014 0.01% of the company",
    "reasons": [
     "4 insiders bought within days",
     "4 insiders buying"
@@ -109,7 +129,7 @@
     "TEAGUE AJ",
     "Zartler William A"
    ],
-   "totalValue": 692074.25,
+   "totalValue": 681992.75,
    "ticker": "SEI",
    "side": "buy"
   },
@@ -128,24 +148,6 @@
    ],
    "totalValue": 113879.45,
    "ticker": "HAWK",
-   "side": "buy"
-  },
-  {
-   "key": "WWB:buy",
-   "headline": "WWB: 3 insiders bought $69.8M \u2014 5.31% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "2.26% of the whole company",
-    "1.52% of the whole company",
-    "grew their own stake 221%"
-   ],
-   "insiders": [
-    "Bonita David P",
-    "ORBIMED ADVISORS LLC",
-    "Stampacchia Otello"
-   ],
-   "totalValue": 69750014.0,
-   "ticker": "WWB",
    "side": "buy"
   }
  ]
