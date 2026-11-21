@@ -1,28 +1,7 @@
 {
- "generatedAt": "2026-11-21T02:46:38.366819+00:00",
+ "generatedAt": "2026-11-21T15:15:19.313617+00:00",
  "count": 8,
  "alerts": [
-  {
-   "key": "RMIX:buy",
-   "headline": "RMIX: 7 insiders bought $1.3M \u2014 0.28% of the company",
-   "reasons": [
-    "7 insiders bought within days",
-    "7 insiders buying",
-    "0.16% of the whole company"
-   ],
-   "insiders": [
-    "Fleming Ned N III",
-    "HEYER ANDREW R",
-    "Johnston Bretton A.",
-    "Jones Mark Alan",
-    "Matteson Mark R",
-    "Rees-Jones David",
-    "Wentroth Thomas G."
-   ],
-   "totalValue": 1269991.45,
-   "ticker": "RMIX",
-   "side": "buy"
-  },
   {
    "key": "PAL:buy",
    "headline": "PAL: 5 insiders bought $415,188 \u2014 0.53% of the company",
@@ -41,24 +20,6 @@
    ],
    "totalValue": 415188.0,
    "ticker": "PAL",
-   "side": "buy"
-  },
-  {
-   "key": "ITG:buy",
-   "headline": "ITG: 5 insiders bought $1.2M \u2014 0.18% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying"
-   ],
-   "insiders": [
-    "Braun III Francis A",
-    "Brooks Michael George",
-    "Giacalone Peter",
-    "LAPERCH WILLIAM G",
-    "Parrott Andrew"
-   ],
-   "totalValue": 1181659.70376,
-   "ticker": "ITG",
    "side": "buy"
   },
   {
@@ -81,13 +42,32 @@
    "side": "buy"
   },
   {
+   "key": "RMIX:buy",
+   "headline": "RMIX: 5 insiders bought $1.0M \u2014 0.23% of the company",
+   "reasons": [
+    "5 insiders bought within days",
+    "5 insiders buying",
+    "0.16% of the whole company"
+   ],
+   "insiders": [
+    "HEYER ANDREW R",
+    "Johnston Bretton A.",
+    "Jones Mark Alan",
+    "Matteson Mark R",
+    "Rees-Jones David"
+   ],
+   "totalValue": 1030996.5,
+   "ticker": "RMIX",
+   "side": "buy"
+  },
+  {
    "key": "DTI:buy",
-   "headline": "DTI: 4 insiders bought $399,738 \u2014 0.71% of the company",
+   "headline": "DTI: 4 insiders bought $325,065 \u2014 0.58% of the company",
    "reasons": [
     "4 insiders bought within days",
-    "0.42% of the whole company",
+    "0.29% of the whole company",
     "4 insiders buying",
-    "grew their own stake 124%"
+    "grew their own stake 62%"
    ],
    "insiders": [
     "Domino Michael Wayne Jr.",
@@ -95,25 +75,8 @@
     "Green Ira Harris Jr",
     "Rodriguez Aldo"
    ],
-   "totalValue": 399738.1718,
+   "totalValue": 325065.2,
    "ticker": "DTI",
-   "side": "buy"
-  },
-  {
-   "key": "UMH:buy",
-   "headline": "UMH: 4 insiders bought $57,850 \u2014 0.00% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Carus Jeffrey A",
-    "HIRSCH MATTHEW I",
-    "Miller Kevin S.",
-    "Mitchell William Edward"
-   ],
-   "totalValue": 57849.9425,
-   "ticker": "UMH",
    "side": "buy"
   },
   {
@@ -148,6 +111,39 @@
    ],
    "totalValue": 113879.45,
    "ticker": "HAWK",
+   "side": "buy"
+  },
+  {
+   "key": "WWB:buy",
+   "headline": "WWB: 3 insiders bought $69.8M \u2014 5.31% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "2.26% of the whole company",
+    "1.52% of the whole company",
+    "grew their own stake 221%"
+   ],
+   "insiders": [
+    "Bonita David P",
+    "ORBIMED ADVISORS LLC",
+    "Stampacchia Otello"
+   ],
+   "totalValue": 69750014.0,
+   "ticker": "WWB",
+   "side": "buy"
+  },
+  {
+   "key": "KNOP:buy",
+   "headline": "KNOP: Seglem Trygve (director) bought $34.9M \u2014 13.78% of the whole company",
+   "reasons": [
+    "13.78% of the whole company",
+    "grew their own stake 29%",
+    "now owns 36.0% of the company"
+   ],
+   "insiders": [
+    "Seglem Trygve"
+   ],
+   "totalValue": 34863375.0,
+   "ticker": "KNOP",
    "side": "buy"
   }
  ]
