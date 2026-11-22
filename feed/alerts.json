@@ -1,68 +1,10 @@
 {
- "generatedAt": "2026-11-22T02:45:16.156312+00:00",
+ "generatedAt": "2026-11-22T15:15:08.532276+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "PAL:buy",
-   "headline": "PAL: 5 insiders bought $415,188 \u2014 0.53% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "0.11% of the whole company",
-    "5 insiders buying",
-    "grew their own stake 69%"
-   ],
-   "insiders": [
-    "COL DOUGLAS L",
-    "Gattoni James B",
-    "Lal Rohit",
-    "Rice Amy F.",
-    "Schraudenbach John"
-   ],
-   "totalValue": 415188.0,
-   "ticker": "PAL",
-   "side": "buy"
-  },
-  {
-   "key": "OFRM:buy",
-   "headline": "OFRM: 5 insiders bought $815,516 \u2014 0.17% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "grew their own stake 538%"
-   ],
-   "insiders": [
-    "Foraker John M.",
-    "Garner Jennifer Anne",
-    "Morris Scott James",
-    "PEIROS LARRY",
-    "ROBB WALTER E IV"
-   ],
-   "totalValue": 815515.88,
-   "ticker": "OFRM",
-   "side": "buy"
-  },
-  {
-   "key": "RMIX:buy",
-   "headline": "RMIX: 5 insiders bought $1.0M \u2014 0.23% of the company",
-   "reasons": [
-    "5 insiders bought within days",
-    "5 insiders buying",
-    "0.16% of the whole company"
-   ],
-   "insiders": [
-    "HEYER ANDREW R",
-    "Johnston Bretton A.",
-    "Jones Mark Alan",
-    "Matteson Mark R",
-    "Rees-Jones David"
-   ],
-   "totalValue": 1030996.5,
-   "ticker": "RMIX",
-   "side": "buy"
-  },
-  {
    "key": "DTI:buy",
-   "headline": "DTI: 4 insiders bought $325,065 \u2014 0.58% of the company",
+   "headline": "DTI: 4 insiders bought $279,425 \u2014 0.49% of the company",
    "reasons": [
     "4 insiders bought within days",
     "0.29% of the whole company",
@@ -75,7 +17,7 @@
     "Green Ira Harris Jr",
     "Rodriguez Aldo"
    ],
-   "totalValue": 325065.2,
+   "totalValue": 279425.3,
    "ticker": "DTI",
    "side": "buy"
   },
@@ -97,41 +39,6 @@
    "side": "buy"
   },
   {
-   "key": "HAWK:buy",
-   "headline": "HAWK: 4 insiders bought $113,879 \u2014 0.01% of the company",
-   "reasons": [
-    "4 insiders bought within days",
-    "4 insiders buying"
-   ],
-   "insiders": [
-    "Finelli Francis Alphonse",
-    "Shames Jonathan",
-    "Sweeney Janine Virginia",
-    "Zeitouni Patrick Elie"
-   ],
-   "totalValue": 113879.45,
-   "ticker": "HAWK",
-   "side": "buy"
-  },
-  {
-   "key": "WWB:buy",
-   "headline": "WWB: 3 insiders bought $69.8M \u2014 5.31% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "2.26% of the whole company",
-    "1.52% of the whole company",
-    "grew their own stake 221%"
-   ],
-   "insiders": [
-    "Bonita David P",
-    "ORBIMED ADVISORS LLC",
-    "Stampacchia Otello"
-   ],
-   "totalValue": 69750014.0,
-   "ticker": "WWB",
-   "side": "buy"
-  },
-  {
    "key": "KNOP:buy",
    "headline": "KNOP: Seglem Trygve (director) bought $34.9M \u2014 13.78% of the whole company",
    "reasons": [
@@ -144,6 +51,89 @@
    ],
    "totalValue": 34863375.0,
    "ticker": "KNOP",
+   "side": "buy"
+  },
+  {
+   "key": "CTGO:buy",
+   "headline": "CTGO: 3 insiders bought $472,627 \u2014 0.14% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "JUNEAU JOHN B",
+    "Nauman Clynton R.",
+    "Van Nieuwenhuyse Rick"
+   ],
+   "totalValue": 472626.51,
+   "ticker": "CTGO",
+   "side": "buy"
+  },
+  {
+   "key": "PICS:buy",
+   "headline": "PICS: 3 insiders bought $556,660 \u2014 0.08% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 40%"
+   ],
+   "insiders": [
+    "Costa de Moura Mauricio",
+    "Pruett William Rodney",
+    "Teixeira Linares Marcio Antonio"
+   ],
+   "totalValue": 556660.38,
+   "ticker": "PICS",
+   "side": "buy"
+  },
+  {
+   "key": "CWBC:buy",
+   "headline": "CWBC: 3 insiders bought $375,951 \u2014 0.06% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "BARTLEIN ROBERT",
+    "GILL JAGROOP",
+    "STOVESAND KIRK"
+   ],
+   "totalValue": 375951.0,
+   "ticker": "CWBC",
+   "side": "buy"
+  },
+  {
+   "key": "HMH:buy",
+   "headline": "HMH: 2 insiders bought $1.7M \u2014 1.27% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "1.21% of the whole company",
+    "grew their own stake 255%",
+    "$1.6M from the Chief Financial Officer"
+   ],
+   "insiders": [
+    "Bergsvik Eirik",
+    "McGee Thomas W."
+   ],
+   "totalValue": 1736052.0,
+   "ticker": "HMH",
+   "side": "buy"
+  },
+  {
+   "key": "PAL:buy",
+   "headline": "PAL: 2 insiders bought $162,420 \u2014 0.21% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.11% of the whole company",
+    "grew their own stake 69%",
+    "grew their own stake 116%"
+   ],
+   "insiders": [
+    "COL DOUGLAS L",
+    "Schraudenbach John"
+   ],
+   "totalValue": 162420.0,
+   "ticker": "PAL",
    "side": "buy"
   }
  ]
