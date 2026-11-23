@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:15:35.966859+00:00",
+ "generatedAt": "2026-11-23T22:17:02.047815+00:00",
  "count": 8,
  "alerts": [
   {
@@ -41,18 +41,71 @@
    "side": "buy"
   },
   {
-   "key": "KNOP:buy",
-   "headline": "KNOP: Seglem Trygve (director) bought $34.9M \u2014 13.78% of the whole company",
+   "key": "DTI:buy",
+   "headline": "DTI: 3 insiders bought $391,264 \u2014 0.69% of the company",
    "reasons": [
-    "13.78% of the whole company",
-    "grew their own stake 29%",
-    "now owns 36.0% of the company"
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "0.58% of the whole company"
    ],
    "insiders": [
-    "Seglem Trygve"
+    "Domino Michael Wayne Jr.",
+    "FURST JACK D",
+    "Green Ira Harris Jr"
    ],
-   "totalValue": 34863375.0,
-   "ticker": "KNOP",
+   "totalValue": 391263.6,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
+   "key": "PAM:buy",
+   "headline": "PAM: 3 insiders bought $11.4M \u2014 0.34% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.22% of the whole company",
+    "3 insiders buying",
+    "now owns 13.8% of the company"
+   ],
+   "insiders": [
+    "Mariani Gustavo",
+    "Mindlin Damian Miguel",
+    "Mindlin Marcos Marcelo"
+   ],
+   "totalValue": 11378350.92,
+   "ticker": "PAM",
+   "side": "buy"
+  },
+  {
+   "key": "PICS:buy",
+   "headline": "PICS: 3 insiders bought $1.1M \u2014 0.17% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 133%"
+   ],
+   "insiders": [
+    "Costa de Moura Mauricio",
+    "Pruett William Rodney",
+    "Teixeira Linares Marcio Antonio"
+   ],
+   "totalValue": 1113320.76,
+   "ticker": "PICS",
+   "side": "buy"
+  },
+  {
+   "key": "BULL:buy",
+   "headline": "BULL: 3 insiders bought $156,637 \u2014 0.01% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying"
+   ],
+   "insiders": [
+    "Denier Anthony Michael",
+    "James Benjamin Worthy",
+    "Wang Haichen"
+   ],
+   "totalValue": 156637.0,
+   "ticker": "BULL",
    "side": "buy"
   },
   {
@@ -83,54 +136,6 @@
    ],
    "totalValue": 1246655.2,
    "ticker": "HOS",
-   "side": "buy"
-  },
-  {
-   "key": "GLXY:buy",
-   "headline": "GLXY: 2 insiders bought $5.0M \u2014 0.20% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.20% of the whole company",
-    "grew their own stake 55%",
-    "$4.9M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "DEASON DOUGLAS R",
-    "Novogratz Michael"
-   ],
-   "totalValue": 4968843.472,
-   "ticker": "GLXY",
-   "side": "buy"
-  },
-  {
-   "key": "DTI:buy",
-   "headline": "DTI: 2 insiders bought $172,865 \u2014 0.31% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.29% of the whole company",
-    "grew their own stake 62%"
-   ],
-   "insiders": [
-    "FURST JACK D",
-    "Green Ira Harris Jr"
-   ],
-   "totalValue": 172865.0,
-   "ticker": "DTI",
-   "side": "buy"
-  },
-  {
-   "key": "OFRM:buy",
-   "headline": "OFRM: 2 insiders bought $377,742 \u2014 0.08% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 98%"
-   ],
-   "insiders": [
-    "Garner Jennifer Anne",
-    "Morris Scott James"
-   ],
-   "totalValue": 377742.4,
-   "ticker": "OFRM",
    "side": "buy"
   }
  ]
