@@ -1,29 +1,31 @@
 {
- "generatedAt": "2026-11-23T02:45:10.277596+00:00",
+ "generatedAt": "2026-11-23T15:15:35.966859+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "DTI:buy",
-   "headline": "DTI: 4 insiders bought $279,425 \u2014 0.49% of the company",
+   "key": "GNL:buy",
+   "headline": "GNL: 7 insiders bought $636,281 \u2014 0.05% of the company",
    "reasons": [
-    "4 insiders bought within days",
-    "0.29% of the whole company",
-    "4 insiders buying",
-    "grew their own stake 62%"
+    "7 insiders bought within days",
+    "7 insiders buying",
+    "grew their own stake 69%"
    ],
    "insiders": [
-    "Domino Michael Wayne Jr.",
-    "FURST JACK D",
-    "Green Ira Harris Jr",
-    "Rodriguez Aldo"
+    "Galloway Jesse Charles",
+    "Kabnick Lisa",
+    "Kravel Ori",
+    "Masterson Christopher J.",
+    "PERLA STANLEY R",
+    "Richardson Leon",
+    "Weil Edward M Jr."
    ],
-   "totalValue": 279425.3,
-   "ticker": "DTI",
+   "totalValue": 636281.1728,
+   "ticker": "GNL",
    "side": "buy"
   },
   {
    "key": "SEI:buy",
-   "headline": "SEI: 4 insiders bought $681,993 \u2014 0.01% of the company",
+   "headline": "SEI: 4 insiders bought $671,911 \u2014 0.01% of the company",
    "reasons": [
     "4 insiders bought within days",
     "4 insiders buying"
@@ -34,7 +36,7 @@
     "TEAGUE AJ",
     "Zartler William A"
    ],
-   "totalValue": 681992.75,
+   "totalValue": 671911.25,
    "ticker": "SEI",
    "side": "buy"
   },
@@ -54,86 +56,81 @@
    "side": "buy"
   },
   {
-   "key": "CTGO:buy",
-   "headline": "CTGO: 3 insiders bought $472,627 \u2014 0.14% of the company",
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $30.5M \u2014 2.65% of the whole company",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
+    "2.65% of the whole company",
+    "now owns 15.9% of the company"
    ],
    "insiders": [
-    "JUNEAU JOHN B",
-    "Nauman Clynton R.",
-    "Van Nieuwenhuyse Rick"
+    "Troim Tor Olav"
    ],
-   "totalValue": 472626.51,
-   "ticker": "CTGO",
+   "totalValue": 30451500.0,
+   "ticker": "BORR",
    "side": "buy"
   },
   {
-   "key": "PICS:buy",
-   "headline": "PICS: 3 insiders bought $556,660 \u2014 0.08% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "grew their own stake 40%"
-   ],
-   "insiders": [
-    "Costa de Moura Mauricio",
-    "Pruett William Rodney",
-    "Teixeira Linares Marcio Antonio"
-   ],
-   "totalValue": 556660.38,
-   "ticker": "PICS",
-   "side": "buy"
-  },
-  {
-   "key": "CWBC:buy",
-   "headline": "CWBC: 3 insiders bought $375,951 \u2014 0.06% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
-   ],
-   "insiders": [
-    "BARTLEIN ROBERT",
-    "GILL JAGROOP",
-    "STOVESAND KIRK"
-   ],
-   "totalValue": 375951.0,
-   "ticker": "CWBC",
-   "side": "buy"
-  },
-  {
-   "key": "HMH:buy",
-   "headline": "HMH: 2 insiders bought $1.7M \u2014 1.27% of the company",
+   "key": "HOS:buy",
+   "headline": "HOS: 2 insiders bought $1.2M \u2014 0.10% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "1.21% of the whole company",
-    "grew their own stake 255%",
-    "$1.6M from the Chief Financial Officer"
+    "$1.0M from the PRESIDENT & CEO",
+    "grew their own stake 277%"
    ],
    "insiders": [
-    "Bergsvik Eirik",
-    "McGee Thomas W."
+    "Fink Benjamin Matthew",
+    "HORNBECK TODD M"
    ],
-   "totalValue": 1736052.0,
-   "ticker": "HMH",
+   "totalValue": 1246655.2,
+   "ticker": "HOS",
    "side": "buy"
   },
   {
-   "key": "PAL:buy",
-   "headline": "PAL: 2 insiders bought $162,420 \u2014 0.21% of the company",
+   "key": "GLXY:buy",
+   "headline": "GLXY: 2 insiders bought $5.0M \u2014 0.20% of the company",
    "reasons": [
     "2 insiders bought within days",
-    "0.11% of the whole company",
-    "grew their own stake 69%",
-    "grew their own stake 116%"
+    "0.20% of the whole company",
+    "grew their own stake 55%",
+    "$4.9M from the Chief Executive Officer"
    ],
    "insiders": [
-    "COL DOUGLAS L",
-    "Schraudenbach John"
+    "DEASON DOUGLAS R",
+    "Novogratz Michael"
    ],
-   "totalValue": 162420.0,
-   "ticker": "PAL",
+   "totalValue": 4968843.472,
+   "ticker": "GLXY",
+   "side": "buy"
+  },
+  {
+   "key": "DTI:buy",
+   "headline": "DTI: 2 insiders bought $172,865 \u2014 0.31% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.29% of the whole company",
+    "grew their own stake 62%"
+   ],
+   "insiders": [
+    "FURST JACK D",
+    "Green Ira Harris Jr"
+   ],
+   "totalValue": 172865.0,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
+   "key": "OFRM:buy",
+   "headline": "OFRM: 2 insiders bought $377,742 \u2014 0.08% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 98%"
+   ],
+   "insiders": [
+    "Garner Jennifer Anne",
+    "Morris Scott James"
+   ],
+   "totalValue": 377742.4,
+   "ticker": "OFRM",
    "side": "buy"
   }
  ]
