@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T22:17:02.047815+00:00",
+ "generatedAt": "2026-11-24T02:46:17.130128+00:00",
  "count": 8,
  "alerts": [
   {
@@ -41,20 +41,18 @@
    "side": "buy"
   },
   {
-   "key": "DTI:buy",
-   "headline": "DTI: 3 insiders bought $391,264 \u2014 0.69% of the company",
+   "key": "KNOP:buy",
+   "headline": "KNOP: Seglem Trygve (director) bought $34.9M \u2014 13.78% of the whole company",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "0.58% of the whole company"
+    "13.78% of the whole company",
+    "grew their own stake 29%",
+    "now owns 36.0% of the company"
    ],
    "insiders": [
-    "Domino Michael Wayne Jr.",
-    "FURST JACK D",
-    "Green Ira Harris Jr"
+    "Seglem Trygve"
    ],
-   "totalValue": 391263.6,
-   "ticker": "DTI",
+   "totalValue": 34863375.0,
+   "ticker": "KNOP",
    "side": "buy"
   },
   {
@@ -76,19 +74,54 @@
    "side": "buy"
   },
   {
-   "key": "PICS:buy",
-   "headline": "PICS: 3 insiders bought $1.1M \u2014 0.17% of the company",
+   "key": "DTI:buy",
+   "headline": "DTI: 3 insiders bought $218,399 \u2014 0.39% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
-    "grew their own stake 133%"
+    "0.29% of the whole company"
+   ],
+   "insiders": [
+    "Domino Michael Wayne Jr.",
+    "FURST JACK D",
+    "Green Ira Harris Jr"
+   ],
+   "totalValue": 218398.6,
+   "ticker": "DTI",
+   "side": "buy"
+  },
+  {
+   "key": "TMS:buy",
+   "headline": "TMS: 3 insiders bought $924,055 \u2014 0.33% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.23% of the whole company",
+    "3 insiders buying",
+    "new position from senior management"
+   ],
+   "insiders": [
+    "Brown Michael Ashby Sutherland",
+    "Eu Alexander Zai De",
+    "Moore Evan Charles"
+   ],
+   "totalValue": 924055.26,
+   "ticker": "TMS",
+   "side": "buy"
+  },
+  {
+   "key": "PICS:buy",
+   "headline": "PICS: 3 insiders bought $556,660 \u2014 0.08% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "grew their own stake 40%"
    ],
    "insiders": [
     "Costa de Moura Mauricio",
     "Pruett William Rodney",
     "Teixeira Linares Marcio Antonio"
    ],
-   "totalValue": 1113320.76,
+   "totalValue": 556660.38,
    "ticker": "PICS",
    "side": "buy"
   },
@@ -106,36 +139,6 @@
    ],
    "totalValue": 156637.0,
    "ticker": "BULL",
-   "side": "buy"
-  },
-  {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $30.5M \u2014 2.65% of the whole company",
-   "reasons": [
-    "2.65% of the whole company",
-    "now owns 15.9% of the company"
-   ],
-   "insiders": [
-    "Troim Tor Olav"
-   ],
-   "totalValue": 30451500.0,
-   "ticker": "BORR",
-   "side": "buy"
-  },
-  {
-   "key": "HOS:buy",
-   "headline": "HOS: 2 insiders bought $1.2M \u2014 0.10% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "$1.0M from the PRESIDENT & CEO",
-    "grew their own stake 277%"
-   ],
-   "insiders": [
-    "Fink Benjamin Matthew",
-    "HORNBECK TODD M"
-   ],
-   "totalValue": 1246655.2,
-   "ticker": "HOS",
    "side": "buy"
   }
  ]
