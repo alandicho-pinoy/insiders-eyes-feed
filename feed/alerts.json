@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:15:32.172423+00:00",
+ "generatedAt": "2026-11-24T22:16:21.081371+00:00",
  "count": 8,
  "alerts": [
   {
@@ -24,40 +24,23 @@
    "side": "buy"
   },
   {
-   "key": "PAM:buy",
-   "headline": "PAM: 3 insiders bought $11.4M \u2014 0.34% of the company",
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $60.9M \u2014 5.30% of the whole company",
    "reasons": [
-    "3 insiders bought within days",
-    "0.22% of the whole company",
-    "3 insiders buying",
-    "now owns 13.8% of the company"
+    "5.30% of the whole company",
+    "grew their own stake 58%",
+    "now owns 15.9% of the company"
    ],
    "insiders": [
-    "Mariani Gustavo",
-    "Mindlin Damian Miguel",
-    "Mindlin Marcos Marcelo"
+    "Troim Tor Olav"
    ],
-   "totalValue": 11378350.92,
-   "ticker": "PAM",
-   "side": "buy"
-  },
-  {
-   "key": "VANI:buy",
-   "headline": "VANI: Williams Gregg (director) bought $5.3M \u2014 5.20% of the whole company",
-   "reasons": [
-    "5.20% of the whole company",
-    "now owns 46.9% of the company"
-   ],
-   "insiders": [
-    "Williams Gregg"
-   ],
-   "totalValue": 5295330.932,
-   "ticker": "VANI",
+   "totalValue": 60903000.0,
+   "ticker": "BORR",
    "side": "buy"
   },
   {
    "key": "BULL:buy",
-   "headline": "BULL: 3 insiders bought $156,637 \u2014 0.01% of the company",
+   "headline": "BULL: 3 insiders bought $177,768 \u2014 0.01% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying"
@@ -67,22 +50,40 @@
     "James Benjamin Worthy",
     "Wang Haichen"
    ],
-   "totalValue": 156637.0,
+   "totalValue": 177768.5,
    "ticker": "BULL",
    "side": "buy"
   },
   {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $30.5M \u2014 2.65% of the whole company",
+   "key": "TMS:buy",
+   "headline": "TMS: 2 insiders bought $1.6M \u2014 0.57% of the company",
    "reasons": [
-    "2.65% of the whole company",
-    "now owns 15.9% of the company"
+    "2 insiders bought within days",
+    "0.46% of the whole company",
+    "new position from senior management",
+    "$1.3M from the Chief Executive Officer"
    ],
    "insiders": [
-    "Troim Tor Olav"
+    "Brown Michael Ashby Sutherland",
+    "Moore Evan Charles"
    ],
-   "totalValue": 30451500.0,
-   "ticker": "BORR",
+   "totalValue": 1629050.52,
+   "ticker": "TMS",
+   "side": "buy"
+  },
+  {
+   "key": "ZOMDF:buy",
+   "headline": "ZOMDF: 2 insiders bought $73,353 \u2014 0.09% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "grew their own stake 100%"
+   ],
+   "insiders": [
+    "DeHaan-Fullerton Karen",
+    "HEATON LARRY C II"
+   ],
+   "totalValue": 73353.0,
+   "ticker": "ZOMDF",
    "side": "buy"
   },
   {
@@ -102,6 +103,22 @@
    "side": "buy"
   },
   {
+   "key": "CWGL:buy",
+   "headline": "CWGL: 2 insiders bought $750,000 \u2014 0.97% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.49% of the whole company",
+    "now owns 6.5% of the company"
+   ],
+   "insiders": [
+    "Cumming John D.",
+    "STEINBERG JOSEPH S"
+   ],
+   "totalValue": 750000.0,
+   "ticker": "CWGL",
+   "side": "buy"
+  },
+  {
    "key": "CCAP:buy",
    "headline": "CCAP: 2 insiders bought $113,155 \u2014 0.03% of the company",
    "reasons": [
@@ -114,23 +131,6 @@
    ],
    "totalValue": 113155.0,
    "ticker": "CCAP",
-   "side": "buy"
-  },
-  {
-   "key": "TMS:buy",
-   "headline": "TMS: 2 insiders bought $814,525 \u2014 0.29% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "0.23% of the whole company",
-    "new position from senior management",
-    "grew their own stake 71%"
-   ],
-   "insiders": [
-    "Brown Michael Ashby Sutherland",
-    "Moore Evan Charles"
-   ],
-   "totalValue": 814525.26,
-   "ticker": "TMS",
    "side": "buy"
   }
  ]
