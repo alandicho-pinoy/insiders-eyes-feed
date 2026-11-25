@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:46:50.935770+00:00",
+ "generatedAt": "2026-11-25T15:15:58.413202+00:00",
  "count": 8,
  "alerts": [
   {
@@ -24,8 +24,23 @@
    "side": "buy"
   },
   {
+   "key": "VANI:buy",
+   "headline": "VANI: Williams Gregg (director) bought $10.6M \u2014 10.39% of the whole company",
+   "reasons": [
+    "10.39% of the whole company",
+    "grew their own stake 33%",
+    "now owns 46.9% of the company"
+   ],
+   "insiders": [
+    "Williams Gregg"
+   ],
+   "totalValue": 10590661.864,
+   "ticker": "VANI",
+   "side": "buy"
+  },
+  {
    "key": "PAM:buy",
-   "headline": "PAM: 3 insiders bought $11.4M \u2014 0.34% of the company",
+   "headline": "PAM: 3 insiders bought $11.4M \u2014 0.35% of the company",
    "reasons": [
     "3 insiders bought within days",
     "0.22% of the whole company",
@@ -39,20 +54,6 @@
    ],
    "totalValue": 11378350.92,
    "ticker": "PAM",
-   "side": "buy"
-  },
-  {
-   "key": "VANI:buy",
-   "headline": "VANI: Williams Gregg (director) bought $5.3M \u2014 5.20% of the whole company",
-   "reasons": [
-    "5.20% of the whole company",
-    "now owns 46.9% of the company"
-   ],
-   "insiders": [
-    "Williams Gregg"
-   ],
-   "totalValue": 5295330.932,
-   "ticker": "VANI",
    "side": "buy"
   },
   {
@@ -103,6 +104,22 @@
    "side": "buy"
   },
   {
+   "key": "HOS:buy",
+   "headline": "HOS: 2 insiders bought $1.2M \u2014 0.10% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "$1.0M from the PRESIDENT & CEO",
+    "grew their own stake 277%"
+   ],
+   "insiders": [
+    "Fink Benjamin Matthew",
+    "HORNBECK TODD M"
+   ],
+   "totalValue": 1246655.2,
+   "ticker": "HOS",
+   "side": "buy"
+  },
+  {
    "key": "MNR:buy",
    "headline": "MNR: 2 insiders bought $2.2M \u2014 0.17% of the company",
    "reasons": [
@@ -117,21 +134,6 @@
    ],
    "totalValue": 2170109.12,
    "ticker": "MNR",
-   "side": "buy"
-  },
-  {
-   "key": "CCAP:buy",
-   "headline": "CCAP: 2 insiders bought $113,155 \u2014 0.03% of the company",
-   "reasons": [
-    "2 insiders bought within days",
-    "grew their own stake 36%"
-   ],
-   "insiders": [
-    "Barrios Erik G",
-    "Chung Henry"
-   ],
-   "totalValue": 113155.0,
-   "ticker": "CCAP",
    "side": "buy"
   }
  ]
