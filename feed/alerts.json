@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T02:46:11.850105+00:00",
+ "generatedAt": "2026-11-26T15:15:59.216858+00:00",
  "count": 8,
  "alerts": [
   {
@@ -25,7 +25,7 @@
   },
   {
    "key": "PRE:buy",
-   "headline": "PRE: 3 insiders bought $1.7M \u2014 0.86% of the company",
+   "headline": "PRE: 3 insiders bought $1.3M \u2014 0.65% of the company",
    "reasons": [
     "3 insiders bought within days",
     "0.38% of the whole company",
@@ -37,7 +37,7 @@
     "Rosin Brian J",
     "Yeung Danny Sheng Wu"
    ],
-   "totalValue": 1668640.0,
+   "totalValue": 1264440.0,
    "ticker": "PRE",
    "side": "buy"
   },
@@ -92,7 +92,7 @@
   },
   {
    "key": "TROX:buy",
-   "headline": "TROX: 3 insiders bought $207,711 \u2014 0.08% of the company",
+   "headline": "TROX: 3 insiders bought $207,711 \u2014 0.06% of the company",
    "reasons": [
     "3 insiders bought within days",
     "3 insiders buying",
