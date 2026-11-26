@@ -1,119 +1,140 @@
 {
- "generatedAt": "2026-11-25T22:17:19.243314+00:00",
+ "generatedAt": "2026-11-26T02:46:11.850105+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "VANI:buy",
-   "headline": "VANI: Williams Gregg (director) bought $10.6M \u2014 10.39% of the whole company",
+   "key": "GNL:buy",
+   "headline": "GNL: 7 insiders bought $636,281 \u2014 0.05% of the company",
    "reasons": [
-    "10.39% of the whole company",
-    "grew their own stake 33%",
-    "now owns 46.9% of the company"
+    "7 insiders bought within days",
+    "7 insiders buying",
+    "grew their own stake 69%"
+   ],
+   "insiders": [
+    "Galloway Jesse Charles",
+    "Kabnick Lisa",
+    "Kravel Ori",
+    "Masterson Christopher J.",
+    "PERLA STANLEY R",
+    "Richardson Leon",
+    "Weil Edward M Jr."
+   ],
+   "totalValue": 636281.1728,
+   "ticker": "GNL",
+   "side": "buy"
+  },
+  {
+   "key": "PRE:buy",
+   "headline": "PRE: 3 insiders bought $1.7M \u2014 0.86% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.38% of the whole company",
+    "3 insiders buying",
+    "grew their own stake 67%"
+   ],
+   "insiders": [
+    "Lo Hoi Chun",
+    "Rosin Brian J",
+    "Yeung Danny Sheng Wu"
+   ],
+   "totalValue": 1668640.0,
+   "ticker": "PRE",
+   "side": "buy"
+  },
+  {
+   "key": "PAM:buy",
+   "headline": "PAM: 3 insiders bought $11.4M \u2014 0.35% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "0.22% of the whole company",
+    "3 insiders buying",
+    "now owns 13.8% of the company"
+   ],
+   "insiders": [
+    "Mariani Gustavo",
+    "Mindlin Damian Miguel",
+    "Mindlin Marcos Marcelo"
+   ],
+   "totalValue": 11378350.92,
+   "ticker": "PAM",
+   "side": "buy"
+  },
+  {
+   "key": "VANI:buy",
+   "headline": "VANI: Williams Gregg (director) bought $5.5M \u2014 5.35% of the whole company",
+   "reasons": [
+    "5.35% of the whole company",
+    "now owns 47.1% of the company"
    ],
    "insiders": [
     "Williams Gregg"
    ],
-   "totalValue": 10590661.864,
+   "totalValue": 5455410.012,
    "ticker": "VANI",
    "side": "buy"
   },
   {
-   "key": "TROX:buy",
-   "headline": "TROX: 2 insiders bought $159,194 \u2014 0.06% of the company",
+   "key": "RMIX:buy",
+   "headline": "RMIX: 3 insiders bought $777,806 \u2014 0.15% of the company",
    "reasons": [
-    "2 insiders bought within days",
+    "3 insiders bought within days",
+    "3 insiders buying",
+    "0.12% of the whole company"
+   ],
+   "insiders": [
+    "Edgar Randall W.",
+    "Fleming Ned N III",
+    "Rees-Jones David"
+   ],
+   "totalValue": 777805.52,
+   "ticker": "RMIX",
+   "side": "buy"
+  },
+  {
+   "key": "TROX:buy",
+   "headline": "TROX: 3 insiders bought $207,711 \u2014 0.08% of the company",
+   "reasons": [
+    "3 insiders bought within days",
+    "3 insiders buying",
     "grew their own stake 75%"
    ],
    "insiders": [
     "Engle Jeffrey A.",
-    "Romano John D"
+    "Romano John D",
+    "Srivisal John"
    ],
-   "totalValue": 159193.75,
+   "totalValue": 207710.74,
    "ticker": "TROX",
    "side": "buy"
   },
   {
-   "key": "PLBY:buy",
-   "headline": "PLBY: Docler Holding S.a r.l. (director) bought $1.7M \u2014 1.26% of the whole company",
+   "key": "BULL:buy",
+   "headline": "BULL: 3 insiders bought $177,768 \u2014 0.01% of the company",
    "reasons": [
-    "1.26% of the whole company",
-    "now owns 18.8% of the company"
+    "3 insiders bought within days",
+    "3 insiders buying"
    ],
    "insiders": [
-    "Docler Holding S.a r.l."
+    "Denier Anthony Michael",
+    "James Benjamin Worthy",
+    "Wang Haichen"
    ],
-   "totalValue": 1702156.8,
-   "ticker": "PLBY",
+   "totalValue": 177768.5,
+   "ticker": "BULL",
    "side": "buy"
   },
   {
-   "key": "SHMD:buy",
-   "headline": "SHMD: Schuetz Arthur Josef Hermann (CFO Schmid Group N.V.) bought $103885.7M \u2014 grew their own stake 142%",
+   "key": "BORR:buy",
+   "headline": "BORR: Troim Tor Olav (director) bought $34.4M \u2014 2.99% of the whole company",
    "reasons": [
-    "grew their own stake 142%",
-    "$103885.7M from the CFO Schmid Group N.V."
+    "2.99% of the whole company",
+    "now owns 16.2% of the company"
    ],
    "insiders": [
-    "Schuetz Arthur Josef Hermann"
+    "Troim Tor Olav"
    ],
-   "totalValue": 103885740000.0,
-   "ticker": "SHMD",
-   "side": "buy"
-  },
-  {
-   "key": "KDK:buy",
-   "headline": "KDK: Burnette Donald L. (Chief Executive Officer) bought $2.2M \u2014 0.88% of the whole company",
-   "reasons": [
-    "0.88% of the whole company",
-    "now owns 14.3% of the company",
-    "$2.2M from the Chief Executive Officer"
-   ],
-   "insiders": [
-    "Burnette Donald L."
-   ],
-   "totalValue": 2213400.0,
-   "ticker": "KDK",
-   "side": "buy"
-  },
-  {
-   "key": "SCOR:buy",
-   "headline": "SCOR: McLaughlin Matthew F. (Chief Executive Officer) bought $230,745 \u2014 0.44% of the whole company",
-   "reasons": [
-    "0.44% of the whole company",
-    "grew their own stake 87%"
-   ],
-   "insiders": [
-    "McLaughlin Matthew F."
-   ],
-   "totalValue": 230745.07,
-   "ticker": "SCOR",
-   "side": "buy"
-  },
-  {
-   "key": "VIVO:buy",
-   "headline": "VIVO: Chin Kevin (Chairman & CEO) bought $465,860 \u2014 0.75% of the whole company",
-   "reasons": [
-    "0.75% of the whole company",
-    "now owns 10.6% of the company"
-   ],
-   "insiders": [
-    "Chin Kevin"
-   ],
-   "totalValue": 465859.68,
-   "ticker": "VIVO",
-   "side": "buy"
-  },
-  {
-   "key": "COHR:buy",
-   "headline": "COHR: Pagliuca Stephen G (director) bought $49.9M \u2014 0.13% of the whole company",
-   "reasons": [
-    "0.13% of the whole company"
-   ],
-   "insiders": [
-    "PAGLIUCA STEPHEN G"
-   ],
-   "totalValue": 49871573.8457,
-   "ticker": "COHR",
+   "totalValue": 34388800.0,
+   "ticker": "BORR",
    "side": "buy"
   }
  ]
