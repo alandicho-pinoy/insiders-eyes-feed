@@ -1,70 +1,31 @@
 {
- "generatedAt": "2026-11-27T02:45:14.256520+00:00",
+ "generatedAt": "2026-11-27T15:15:44.005601+00:00",
  "count": 8,
  "alerts": [
   {
-   "key": "GNL:buy",
-   "headline": "GNL: 7 insiders bought $636,281 \u2014 0.05% of the company",
-   "reasons": [
-    "7 insiders bought within days",
-    "7 insiders buying",
-    "grew their own stake 69%"
-   ],
-   "insiders": [
-    "Galloway Jesse Charles",
-    "Kabnick Lisa",
-    "Kravel Ori",
-    "Masterson Christopher J.",
-    "PERLA STANLEY R",
-    "Richardson Leon",
-    "Weil Edward M Jr."
-   ],
-   "totalValue": 636281.1728,
-   "ticker": "GNL",
-   "side": "buy"
-  },
-  {
    "key": "PRE:buy",
-   "headline": "PRE: 3 insiders bought $1.3M \u2014 0.65% of the company",
+   "headline": "PRE: 3 insiders bought $2.1M \u2014 1.09% of the company",
    "reasons": [
     "3 insiders bought within days",
-    "0.38% of the whole company",
+    "0.75% of the whole company",
     "3 insiders buying",
-    "grew their own stake 67%"
+    "grew their own stake 401%"
    ],
    "insiders": [
     "Lo Hoi Chun",
     "Rosin Brian J",
     "Yeung Danny Sheng Wu"
    ],
-   "totalValue": 1264440.0,
+   "totalValue": 2124680.0,
    "ticker": "PRE",
    "side": "buy"
   },
   {
-   "key": "PAM:buy",
-   "headline": "PAM: 3 insiders bought $11.4M \u2014 0.35% of the company",
-   "reasons": [
-    "3 insiders bought within days",
-    "0.22% of the whole company",
-    "3 insiders buying",
-    "now owns 13.8% of the company"
-   ],
-   "insiders": [
-    "Mariani Gustavo",
-    "Mindlin Damian Miguel",
-    "Mindlin Marcos Marcelo"
-   ],
-   "totalValue": 11378350.92,
-   "ticker": "PAM",
-   "side": "buy"
-  },
-  {
    "key": "VANI:buy",
-   "headline": "VANI: Williams Gregg (director) bought $5.5M \u2014 5.35% of the whole company",
+   "headline": "VANI: Williams Gregg (director) bought $5.5M \u2014 4.27% of the whole company",
    "reasons": [
-    "5.35% of the whole company",
-    "now owns 47.1% of the company"
+    "4.27% of the whole company",
+    "now owns 44.5% of the company"
    ],
    "insiders": [
     "Williams Gregg"
@@ -74,67 +35,95 @@
    "side": "buy"
   },
   {
-   "key": "RMIX:buy",
-   "headline": "RMIX: 3 insiders bought $777,806 \u2014 0.15% of the company",
+   "key": "PCYO:buy",
+   "headline": "PCYO: 2 insiders bought $29,775 \u2014 0.01% of the company",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
-    "0.12% of the whole company"
+    "2 insiders bought within days",
+    "grew their own stake 223%"
    ],
    "insiders": [
-    "Edgar Randall W.",
-    "Fleming Ned N III",
-    "Rees-Jones David"
+    "Fink Christopher",
+    "Spezialy Marc Stephen"
    ],
-   "totalValue": 777805.52,
-   "ticker": "RMIX",
+   "totalValue": 29775.0,
+   "ticker": "PCYO",
+   "side": "buy"
+  },
+  {
+   "key": "MNR:buy",
+   "headline": "MNR: 2 insiders bought $2.2M \u2014 0.17% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "0.15% of the whole company",
+    "now owns 8.1% of the company",
+    "grew their own stake 112%"
+   ],
+   "insiders": [
+    "McMullen William Wallace",
+    "WARD TOM L."
+   ],
+   "totalValue": 2170109.12,
+   "ticker": "MNR",
    "side": "buy"
   },
   {
    "key": "TROX:buy",
-   "headline": "TROX: 3 insiders bought $207,711 \u2014 0.06% of the company",
+   "headline": "TROX: 2 insiders bought $159,194 \u2014 0.05% of the company",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying",
+    "2 insiders bought within days",
     "grew their own stake 75%"
    ],
    "insiders": [
     "Engle Jeffrey A.",
-    "Romano John D",
-    "Srivisal John"
+    "Romano John D"
    ],
-   "totalValue": 207710.74,
+   "totalValue": 159193.75,
    "ticker": "TROX",
    "side": "buy"
   },
   {
-   "key": "BULL:buy",
-   "headline": "BULL: 3 insiders bought $177,768 \u2014 0.01% of the company",
+   "key": "SNEX:buy",
+   "headline": "SNEX: 2 insiders bought $497,468 \u2014 0.01% of the company",
    "reasons": [
-    "3 insiders bought within days",
-    "3 insiders buying"
+    "2 insiders bought within days",
+    "grew their own stake 43%"
    ],
    "insiders": [
-    "Denier Anthony Michael",
-    "James Benjamin Worthy",
-    "Wang Haichen"
+    "Lyon Charles M",
+    "Thamodaran Dhamu R."
    ],
-   "totalValue": 177768.5,
-   "ticker": "BULL",
+   "totalValue": 497468.08,
+   "ticker": "SNEX",
    "side": "buy"
   },
   {
-   "key": "BORR:buy",
-   "headline": "BORR: Troim Tor Olav (director) bought $34.4M \u2014 2.99% of the whole company",
+   "key": "TMC:buy",
+   "headline": "TMC: 2 insiders bought $838,400 \u2014 0.10% of the company",
    "reasons": [
-    "2.99% of the whole company",
-    "now owns 16.2% of the company"
+    "2 insiders bought within days",
+    "now owns 9.5% of the company",
+    "now owns 13.9% of the company"
    ],
    "insiders": [
-    "Troim Tor Olav"
+    "Barron Gerard",
+    "Karkar Andrei"
    ],
-   "totalValue": 34388800.0,
-   "ticker": "BORR",
+   "totalValue": 838400.0,
+   "ticker": "TMC",
+   "side": "buy"
+  },
+  {
+   "key": "PLBY:buy",
+   "headline": "PLBY: Docler Holding S.a r.l. (director) bought $1.7M \u2014 1.26% of the whole company",
+   "reasons": [
+    "1.26% of the whole company",
+    "now owns 18.8% of the company"
+   ],
+   "insiders": [
+    "Docler Holding S.a r.l."
+   ],
+   "totalValue": 1702156.8,
+   "ticker": "PLBY",
    "side": "buy"
   }
  ]
