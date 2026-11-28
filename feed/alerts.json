@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:15:41.248353+00:00",
+ "generatedAt": "2026-11-28T02:45:58.391569+00:00",
  "count": 8,
  "alerts": [
   {
@@ -22,15 +22,15 @@
   },
   {
    "key": "VANI:buy",
-   "headline": "VANI: Williams Gregg (director) bought $5.6M \u2014 4.40% of the whole company",
+   "headline": "VANI: Williams Gregg (director) bought $5.5M \u2014 4.27% of the whole company",
    "reasons": [
-    "4.40% of the whole company",
+    "4.27% of the whole company",
     "now owns 44.5% of the company"
    ],
    "insiders": [
     "Williams Gregg"
    ],
-   "totalValue": 5615489.092,
+   "totalValue": 5455410.012,
    "ticker": "VANI",
    "side": "buy"
   },
@@ -82,19 +82,6 @@
    "side": "buy"
   },
   {
-   "key": "EMPD:buy",
-   "headline": "EMPD: Read Ian C (director) bought $1.1M \u2014 1.83% of the whole company",
-   "reasons": [
-    "1.83% of the whole company"
-   ],
-   "insiders": [
-    "READ IAN C"
-   ],
-   "totalValue": 1070220.0,
-   "ticker": "EMPD",
-   "side": "buy"
-  },
-  {
    "key": "SNEX:buy",
    "headline": "SNEX: 2 insiders bought $497,468 \u2014 0.01% of the company",
    "reasons": [
@@ -110,17 +97,34 @@
    "side": "buy"
   },
   {
-   "key": "QTRX:buy",
-   "headline": "QTRX: Donnelly William P (director) bought $542,500 \u2014 0.61% of the whole company",
+   "key": "IESC:buy",
+   "headline": "IESC: 2 insiders bought $694,150 \u2014 0.01% of the company",
    "reasons": [
-    "0.61% of the whole company",
-    "grew their own stake 252%"
+    "2 insiders bought within days",
+    "grew their own stake 33%"
    ],
    "insiders": [
-    "DONNELLY WILLIAM P"
+    "Gendell David B.",
+    "Simmes Matthew J"
    ],
-   "totalValue": 542500.0,
-   "ticker": "QTRX",
+   "totalValue": 694150.2,
+   "ticker": "IESC",
+   "side": "buy"
+  },
+  {
+   "key": "TMC:buy",
+   "headline": "TMC: 2 insiders bought $838,400 \u2014 0.10% of the company",
+   "reasons": [
+    "2 insiders bought within days",
+    "now owns 9.5% of the company",
+    "now owns 13.9% of the company"
+   ],
+   "insiders": [
+    "Barron Gerard",
+    "Karkar Andrei"
+   ],
+   "totalValue": 838400.0,
+   "ticker": "TMC",
    "side": "buy"
   }
  ]
